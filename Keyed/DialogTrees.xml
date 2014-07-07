@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>The {0} representative hurls some epithets into the monitor and disconnects.</FactionGreetingHostile>
+  <FactionGreetingWary>The {0} representative greets {1} warily and asks HIS business.</FactionGreetingWary>
+  <FactionGreetingWarm>The {0} representative greets {1} warmly and asks how the colony fares.</FactionGreetingWarm>
+
+
+    <FactionGreetingHostile>Den {0} repræsentant kaster nogle skældsord mod skærmen og lukker forbindelsen.</FactionGreetingHostile>
+    <FactionGreetingWary>Den {0} repræsentant giver {1} en varm hilsen og sprøger hvad HAN vil.</FactionGreetingWary>
+    <FactionGreetingWarm>Den {0} repræsentant giver {1} en varm hilsen og spørger hvordan det går med kolonien.</FactionGreetingWarm>
+
+
+
+    <Disconnect>Afbryd forbindelsen</Disconnect>
+
+  <OfferGift>Tilbyd gave</OfferGift>
+  <NeedSilverLaunchable>need {0} silver launchable</NeedSilverLaunchable>
+  <NotEnoughSilver>Ikke nok sølv.</NotEnoughSilver>
+  <SilverForGoodwill>{0} sølv for {1} goodwill</SilverForGoodwill>
+  <SilverGiftSent>Den {0} repræsentant takker dig.\n\n(Goodwill forbedret med {1}).</SilverGiftSent>
+
+
+  <RequestMilitaryAid>Forespørg øjeblikkelig militærk assistance ({0} goodwill)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjælpe dig med at kæmpe mod andre fraktioner, der ikke er deres fjender. Det inkluderer nogle af dem der truer dig på nuværende tidspunkt, {1}. Vil du stadig ringe efter assistance?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Ja, ring til dem alligevel.</CallConfirm>
+  <CallCancel>Nej, glem det.</CallCancel>
+  <MilitaryAidSent>Den {0} repræsentant har indvilliget i at sende folk til at hjælpe dig.</MilitaryAidSent>
+
+</LanguageData>

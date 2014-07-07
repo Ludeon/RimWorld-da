@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Prohis>hans</Prohis>
+  <Proher>hendes</Proher>
+  <ProhisCap>Hans</ProhisCap>
+  <ProherCap>Hendes</ProherCap>
+
+  <ProhimObj>ham</ProhimObj>
+  <ProherObj>hende</ProherObj>
+  <ProhimObjCap>Ham</ProhimObjCap>
+  <ProherObjCap>Hende</ProherObjCap>
+
+  <Prohe>han</Prohe>
+  <Proshe>hun</Proshe>
+  <ProheCap>Han</ProheCap>
+  <ProsheCap>Hun</ProsheCap>
+  
+
+
+</LanguageData>

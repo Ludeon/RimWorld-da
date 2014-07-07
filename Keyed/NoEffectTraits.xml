@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NoEffectTraitsList>
+    <![CDATA[
+//-------Talents and skills
+Tankelæser
+Matematik geni
+Sprogekspert
+Fægte talent
+Radiation tolerance
+Fantasifuld
+Sans for forretning
+Karisma
+Pistolbygger
+Efterligner
+Seksuelt erfaren
+Seksuelt uerfaren
+Artistisk
+Musiker
+Hækler
+Væver
+Forudsiger vejret
+Leader
+Modebevidst
+Mekaniker
+Kulturelt tilpasselig
+Detaljeret hukommelse
+Fotografisk hukommelse
+Empati
+Gadgeteer
+
+
+
+//-------General-----positive------------
+Berejst
+Flersproget
+Hypermobil
+Høj smertetærskel
+Velgørende
+Kammeratlig
+Ærlig
+Sandfærdig
+Opmærksom
+Åbensindet
+Forsigtig
+Rar
+
+//-------General-----neutral---------
+Reagensglasbarn
+Veteran
+Hunde-elsker
+Katte-elsker
+Fugle-elsker
+Pels
+Næse operation
+Kosmetisk kirugi
+Kosmetisk genmanipuleret
+Yuppie
+Dyre elsker
+Kendis fan
+Helsefanatiker
+Orakel
+Religiøs
+Ydmyg
+
+
+//-------General-----negative---------
+Pyroman
+Ond
+Sardistisk
+Nymfoman
+Tænder på dyr
+Seksuel afviger
+Prutter
+Nynner uden melodi
+Spytter på gulvet
+Kilden
+Samler
+Tendens til vrede
+Historik med mord
+Terrifying appearance
+Distræt
+Hukommelsestab
+Lugter dårligt
+Går beserk
+Opdraget af dyr
+Lyster efter blod
+Bølle
+Afstumpet
+Kronisk deprimeret
+Kronisk smerte
+Naiv
+Farveblind
+Doven
+Skrøbelig
+Grådig
+Naiv
+Klodset
+Ingen kreativitet
+Impulsiv
+Neurotisk
+Ikke nysgerrig
+Ubeslutsom
+Talblind
+Søvnløs
+Intolerant
+Jalous
+Humørdræber
+Kleptoman
+Kladsmajor
+Lam
+Enspænder
+Liderlig
+Lav smertetærskel
+Dårlig selvtillid
+Storhedsvanvid
+Nærig
+Mareridt
+Ingen sans for humor
+Natteravn
+Larmende
+Følelsesløs
+Overmodig
+Paranoid
+Bange for blod
+Bange for høje lyde
+Hader teknologi
+Agorofobi
+Klaustrofobi
+Hader udlændinge
+Hemmelig identitet
+Selvisk
+Uselvisk
+Ingen koncentrationsevne
+Genert
+Spedalsk
+Forvirret
+Kujon
+Nysgerrig
+Uheldig
+Hører stemmer
+Ordblind
+Personligheds spaltning
+Pivet
+Stædig
+Stammer
+Svag
+Arbejds narkoman
+Chauvinistisk
+Ikke selvbevidst
+Distraheres let
+Dagdrømmer
+Kedelig
+Næsvis
+Skiftende personlighed
+Stolt
+Alkohol intolerant
+
+
+//-------Compulsions
+Spontan fester
+Spontan spillehaj
+Spontant generøs
+Spontan løgner
+Spontan tyv
+Spontan bander
+
+
+//------Societal position
+Forbindelser til Frimurerne
+Udstødt af sin familie
+Kriminelt omdømme
+Udstødt
+Berømt
+Ingen identitet
+
+
+//-------Medical and body
+Tatoveret
+Epileptisk
+Døv
+Kunstige lunger
+Kunstigt hjerte
+Kunstige hænder
+Kunstige arme
+Kunstige ben
+Digital hjerne
+Kunstige øjne
+Vansiret
+Mangler et øje
+Mangler en finger
+Ar i ansigtet
+Ar på kroppen
+Ar efter forbrændinger
+Dårlig ryg
+Dårligt syn
+Pukkelrygget
+Bløder
+Forfærdelige tømrermænd
+Dårlig mave
+Neurologiskt problem
+Natteblind
+Dødeligt syg
+Gravid
+Heterokromi
+Tidligere misbruger
+Hjulbenet
+Platfodet
+
+
+
+//-------Aug abilities
+Teleskopiskt syb
+Universal fordøjelse
+Rensende lunger
+
+
+
+
+//---- INACTIVE-------------
+
+//Claim to hospitality from X faction
+//Social status among X group
+//Military rank in X faction
+//In debt to X faction
+//Hunted by X faction
+//Nobility in X culture
+//Heir/heiress
+//Member of
+//-	Military
+//-	Church
+//-	Company
+//-	University
+//-	Ordo Historia
+//-	Criminal organization
+//-	Tribe
+//-	Guild/union
+//-	Police department
+
+
+
+
+//Has enemies who will come
+//Infected with X long-term pathogen
+//Vowed to do X
+//Dislikes X
+//Incompetent at X skill
+//Likes X
+//Obsessed with X
+//Culinary skills in X culture/style
+]]></NoEffectTraitsList>
+  
+  
+</LanguageData>

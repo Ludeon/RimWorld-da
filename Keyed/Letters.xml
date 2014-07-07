@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Klik for at hoppe til problemet</JumpToLocation>
+
+  <RelationsBrokenDown>Relationen til {0} er gået stykker. De er nu fjendtligt indstillet imod dig.</RelationsBrokenDown>
+  <RelationsWarmed>Relationen med {0} er blevet bedre. De er ikke længere fjendtligt indstillede imod dig.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Fordi du fangede {0}, er {1} nu din fjende.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Koloni goodwill</ColonyGoodwill>
+  <Neutral>Neutral</Neutral>
+
+  <ShortCircuitRain>En {0} er kortsluttet i regnen og har startet en ildebrand.</ShortCircuitRain>
+  <AreaRevealed>Et nyt område er blevet tilgængeligt.</AreaRevealed>
+
+  <RoofCollapsed>Det tag er styrtet sammen, fordi det var for langt fra understøttelse.</RoofCollapsed>
+  <TheseThingsCrushed>Følgende ting blev knust:</TheseThingsCrushed>
+  <NothingCrushed>Intet blev knust.</NothingCrushed>
+  
+  <MentalBreakRampage>{0} har fået et mentalt sammenbrud og er går beserk.</MentalBreakRampage>
+  <MentalBreakDaze>{0} har givet op og forlader kolonien.</MentalBreakDaze>
+  <MentalBreakLeave>{0} har givet op og vandrer rundt disillusioneret.</MentalBreakLeave>
+
+  <RecruitSuccess>Det lykkedes {0} at rekruttere {1} ({2} chance).</RecruitSuccess>
+  <RecruitFail>Det lykkedes ikke {0} at rekruttere {1} ({2} chance).</RecruitFail>
+  
+  
+</LanguageData>

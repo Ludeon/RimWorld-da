@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Mørkt</Dark>
+  <Lit>Oplyst</Lit>
+  <LitBrightly>Klart oplyst</LitBrightly>
+  
+  <!-- food quality -->
+  <NoneQuality>Ingen</NoneQuality>
+  <PlantQuality>Plant</PlantQuality>
+  <RawQuality>Rå</RawQuality>
+  <MealAwfulQuality>Forfærdelig</MealAwfulQuality>
+  <MealSimpleQuality>Simpelt</MealSimpleQuality>
+  <MealFineQuality>Fint</MealFineQuality>
+  <MealLavishLavish>Overdådigt</MealLavishLavish>
+  
+  <!-- diet type -->
+  <NeverEats>Spiser aldrig</NeverEats>
+  <Omnivorous>Altædende</Omnivorous>
+  <Herbivorous>Planteædende</Herbivorous>
+  <Carnivorous>Kødædende</Carnivorous>
+  
+  <!-- history upload pref -->
+  <Unspecified>Ikke besluttet</Unspecified>
+  <Always>Tillade</Always>
+  <Never>Tillade ikke</Never>
+  
+</LanguageData>

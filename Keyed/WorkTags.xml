@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Ingen</WorkTagNone>
+  <WorkTagIntellectual>Intellektuel</WorkTagIntellectual>
+  <WorkTagManualDumb>Dum arbejder</WorkTagManualDumb>
+  <WorkTagManualSkilled>Faglært arbejder</WorkTagManualSkilled>
+  <WorkTagViolent>Voldelig</WorkTagViolent>
+  <WorkTagCaring>Omsorgsfuld</WorkTagCaring>
+  <WorkTagSocial>Social</WorkTagSocial>
+  <WorkTagScary>Skræmmende</WorkTagScary>
+  <WorkTagArtistic>Artistisk</WorkTagArtistic>
+  <WorkTagCrafting>Håndværk</WorkTagCrafting>
+  <WorkTagCooking>Madlavning</WorkTagCooking>
+  <WorkTagFirefighting>Ildslukning</WorkTagFirefighting>
+  <WorkTagCleaning>Rengøring</WorkTagCleaning>
+  <WorkTagHauling>Transport</WorkTagHauling>
+  <WorkTagPlantWork>Botanist</WorkTagPlantWork>
+  <WorkTagMining>Minearbejder</WorkTagMining>
+
+</LanguageData>

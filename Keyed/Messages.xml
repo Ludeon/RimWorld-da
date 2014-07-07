@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ 
+  <MessageSiegersAssaulting>De {0} belejrende fra {1} angriber kolonien.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} fra {1} begynder deres angreb.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} fra {1} har set dig og begynder deres angreb tidligt.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} fra {1} har besluttet at kidnappe hvem kan og forlade stedet.</MessageRaidersKidnapping>
+
+  <MessageRaidersLeaving>{0} fra {1} forlader stedet.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} fra {1} har givet op og forlader stedet.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} fra {1} er tilfredes med den skade de har forvoldt og forlader stedet.</MessageRaidersSatisfiedLeaving>
+
+  
+  <MessageFightersFleeing>{0} fra {1} flygter.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Venligsindede {0} fra {1} forlader stedet.</MessageFriendlyFightersLeaving>
+
+
+
+  <MessageShipHasLeftCommsRange>{0} har er uden for kommunikations rækkevidde.</MessageShipHasLeftCommsRange>
+	
+	<MessageNeedBeaconToTradeWithShip>Du skal bruge et orbital trade beacon for at kunne handle med et skib.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Bestilling færdig: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} er helt rask.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Fangen {0} er ved at undslippe.</MessagePrisonerIsEscaping>
+
+  <MessageRecruitSuccess>Det lykkedes {0} at rekruttere {1} ({2} chance).</MessageRecruitSuccess>
+	<MessageRecruitFail>Det lykkedes ikke {0} at rekruttere {1} ({2} chance).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>Det lykkedes ikke {0} at rekruttere {1} (fangen er under loyalitets grænsen).</MessageRecruitFailBecauseLoyalty>
+	
+  <MessageTraderCannotAfford>Handelsskibet har ikke råd til denne handel.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Kolonien har ikke råd til denne handel.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Du har ikke nok sølv klart til at handle.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Handelsskibet har ikke nok sølv.</MessageTraderNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritisk alarm: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestableFood>Skal udpege mad-givende og nok opvoksede planter.</MessageMustDesignateHarvestableFood>
+  <MessageMustDesignateHarvestableWood>Skal udpege træ-givende og nok opvoksede træer.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Skal udpege planter.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Skal udpege transportbare ting.</MessageMustDesignateHaulable>
+  
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <GameStartDialog>I tre vågner op i jeres cryosøvns The three of you awake in your cryptosleep enhed til lyden af sirener og flænsende metal. I når knapt nok til redningskapslerne, før skibet bliver revet i stykker.\n\nNoget tid senere, lander i på denne ukendte verden.\n\nMens stykker af flænset rumskib falder ned om jer, begynder i at planlægge hvordan i overlever.</GameStartDialog>
+
+  <Colony>Koloni</Colony>
+  
+  <ChangeLanguageFromMainMenu>Du kan kun ændre sprog fra indstilllings menuen på hovedmenuen.</ChangeLanguageFromMainMenu>
+
+  <AndLower>og</AndLower>
+  <DisabledLower>slået fra</DisabledLower>
+
+  <CloseButton>Luk</CloseButton>
+
+
+  <VersionIndicator>Version {0}</VersionIndicator>
+  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <CompiledOn>Compiled {0}</CompiledOn>
+
+	<MeatLabel>{0} kød</MeatLabel>
+  <MeatDesc>Råt kød fra {0}.</MeatDesc>
+
+	<CorpseLabel>{0} lig</CorpseLabel>
+	<CorpseDesc>Lig af {0}.</CorpseDesc>
+
+
+	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
+  <FrameLabelExtra> (building)</FrameLabelExtra>
+  
+  
+  <!-- History events -->
+  <ColonistDied>Kolonist døde</ColonistDied>
+  
+  
+  
+</LanguageData>
