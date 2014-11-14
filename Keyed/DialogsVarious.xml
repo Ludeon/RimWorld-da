@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+  <Confirm>Bekræft</Confirm>
+  <GoBack>Gå Tilbage</GoBack>
+  <OK>OK</OK>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Gem</SaveGameButton>
+  <OverwriteButton>Overskriv</OverwriteButton>
+  <LoadGameButton>Indlæs</LoadGameButton>
+  <ConfirmDelete>Vil du virkelig slette {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Slet dette spil.</DeleteThisSavegame>
+  <SavedAs>Gemt som {0}.</SavedAs>
+  <NeedAName>Vælg venligst et navn.</NeedAName>
+  <LoadingLongEvent>Indlæser...</LoadingLongEvent>
+  
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Alle ved jo godt at du ikke har lyst til at blive på denne sten for evigt. Men {0} foreslår alligevel at du giver kolonien et navn.\n\nHvad skal kolonien hedde?</NameColonyMessage>
+  <ColonyGainsName>Fra nu af er kolonien kendt under navnet {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Det navn kan din koloni ikke anvende.</ColonyNameIsInvalid>
+
+  <!-- Zone naming -->
+  <ZoneGainsName>Zonen kaldes nu{0}.</ZoneGainsName>
+  <ZoneNameIsInvalid>Indtast et navn til zonen.</ZoneNameIsInvalid>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Kolonisten er nu kendt under navnet {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <SaveGameIncompatibleWarningText>Version mismatch: Kortet var gemt med spil version {0}, du spiller nu på version {1}.\n\n Indlæsning af dette spil vil formodentlig medføre bugs og crashes.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>Inkompatibilitet med gemt spil</SaveGameIncompatibleWarningTitle>
+  
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Du har ændret din skærmopløsning. Virker den nye okay? \n\nReturnere automatisk om {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Behold</ResolutionKeep>
+  <ResolutionRevert>Returner</ResolutionRevert>
+
+  <!-- Overview -->
+  <OverviewOf>Oversigt over {0}</OverviewOf>
+
+  <!-- Research -->
+  <Research>Forskning</Research>
+  <Researched>Udforsket</Researched>
+  <Unresearched>Uudforsket</Unresearched>
+  <Finished>Færdiggjort</Finished>
+  <InProgress>Igangværende</InProgress>
+  <ResearchMenuWithoutBench>Indtil du bygger din FORSKNINGSTATION vil dine kolonister ikke kunne udføre forskning.\n\nDu kan dog stadig kigge og vælge fremtidige forskningsprojekter nu.</ResearchMenuWithoutBench>
+  
+  
+  <!-- Advanced game start options -->
+  <MapSizePerformanceWarning>ADVARSEL: Spillets ydeevne kan være nedsat ved større kort, medmindre din computer er ganske stærk.\n\nHvis du har en svag maskine, vælg Lille.\n\nLudeonikrisk størrelse er ikke testet og vil sikker ikke spille godt.</MapSizePerformanceWarning>
+  <MapSize>Størrelse på kort</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} felter)</MapSizeDesc>
+  <MapSizeSmall>Lille</MapSizeSmall>
+  <MapSizeMedium>Medium</MapSizeMedium>
+  <MapSizeLarge>Stort</MapSizeLarge>
+  <MapSizeExtreme>Ludeonikrisk</MapSizeExtreme>
+
+
+
+  <!-- Bill config -->
+  <Suspended>Pauset</Suspended>
+  <NotSuspended>Ikke pauset</NotSuspended>
+  <SuspendedAllCaps>PAUSET</SuspendedAllCaps>
+  <RepeatCount>Gentag: {0}</RepeatCount>
+  <Forever>Forevigt</Forever>
+  <IngredientSearchRadius>Søgeradius for ingredienser</IngredientSearchRadius>
+  <TargetCount>Fortsæt til du har: {0}</TargetCount>
+  <Infinite>Uendeligt</Infinite>
+  <RecipeCannotHaveTargetCount>(Denne opskrift kan ikke have målsat mængde, da den har flere eller uforudsigelige produkt.)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>Tilladte ingredienser</PermittedIngredients>
+  <MinimumSkills>Minimum færdigheder:</MinimumSkills>
+  <BillRequires>Kræver {0} {1}</BillRequires>
+  <UsableIngredients>Brugbare ingredienser</UsableIngredients>
+  <DoXTimes>Lav X gange</DoXTimes>
+  <DoUntilYouHaveX>Lav indtil du har X</DoUntilYouHaveX>
+  <DoForever>Lav forevigt</DoForever>
+  <BillRepeatTargetCountShort>Til {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Læg på jorden</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Tag til bedste lager</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Tag til nærmeste lager</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Def Card -->
+  <Type>Type</Type>
+  <GunType>Skydevåben</GunType>
+  <PlantType>Plante</PlantType>
+  <FoodType>Mad</FoodType>
+  <HumanType>Menneske</HumanType>
+  <AnimalType>Dyr</AnimalType>
+  <MechanoidType>Mechanoid</MechanoidType>
+  <Damage>Skade</Damage>
+  <Accuracy>Præcision</Accuracy>
+  <BurstShotCount>Antal skud per skudsalve</BurstShotCount>
+  <WarmupTime>Opvarming</WarmupTime>
+  <CooldownTime>Nedkøling</CooldownTime>
+  <BurstShotFireRate>Skud rate</BurstShotFireRate>
+  <Range>Afstand</Range>
+  <GrowsWild>Vokser vildt</GrowsWild>
+  <Harvestable>Høstbar</Harvestable>
+  <LimitedLifespan>Begrænset livslængde</LimitedLifespan>
+  <GrowingTime>Vækstperiode</GrowingTime>
+  <Days>Dage</Days>
+  <FertilityRequirement>Fertilitets krav</FertilityRequirement>
+  <LightRequirement>Lys krav</LightRequirement>
+  <Attributes>Attributter</Attributes>
+  <LifeSpan>Livslængde</LifeSpan>
+  <Nutrition>Næring</Nutrition>
+  <FoodQuality>Madkvalitet</FoodQuality>
+  <WalkSpeedProperty>Gang fart</WalkSpeedProperty>
+  <MeleeDamage>Nærkamps skade</MeleeDamage>
+  <MeatAmount>Kød mængde</MeatAmount>
+  <MinFoodQuality>Min. fødevare kvalitet</MinFoodQuality>
+  <Diet>Kost</Diet>
+  <RecruitDifficulty>Rekrutterings sværhedsgrad</RecruitDifficulty>
+  <baseMarketValue>Grund pris</baseMarketValue>
+  <Covers>Dække</Covers>
+  <NaturalArmorCovers>Naturlige forsvars værker</NaturalArmorCovers>
+  <BodyPartEfficiency>Kropsdelens effektivitet</BodyPartEfficiency>
+  
+  <!-- Trade -->
+  <DragToTrade>Træk for at handle</DragToTrade>
+  <BuyPriceDesc>Prisen du betaler for at købe.</BuyPriceDesc>
+  <SellPriceDesc>Prisen du modtager for at sælge.</SellPriceDesc>
+  <PriceTypeDesc>Prisen for denne vare er {0}.</PriceTypeDesc>
+  <ColonyCount>Hvor mange af denne vare som din koloni har at handle med.\n\nDu kan kun sælge til forhandlere hvis varerne er udendørs og tæt på et handelssignal.</ColonyCount>
+  <TraderCount>Hvor mange af denne vare som forhandleren har at handle med.</TraderCount>
+  <AcceptButton>Accepter</AcceptButton>
+  <ResetButton>Begynd forfra</ResetButton>
+  <CancelButton>Fortryd</CancelButton>
+  <YourTradeableSilver>Sølv i din lomme: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip> Du kan kun handle med sølv der er tæt på et handelssignal og ikke er under et tag.</YourTradeableSilverTip>
+  <TraderHasNoMore>Forhandleren har ikke mere.</TraderHasNoMore>
+  <ColonyHasNoMore>Ikke mere at sælge.</ColonyHasNoMore>
+  <TraderWillNotTrade>Forhandleren er ikke villig til at sælge denne vare.</TraderWillNotTrade>
+  
+  <!-- Comms -->
+  <SocialSkillIs>Sociale færdigheder: {0}</SocialSkillIs>
+
+  <!-- Stats report -->
+  <StatsReport_BaseValue>Grund værdi</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Relevant karaktertræk</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Relevant udstyr</StatsReport_RelevantGear>
+  <StatsReport_Material>Materiale</StatsReport_Material>
+  <StatsReport_CharacterQuality>Karakterens kvalitet</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Færdigheds faktorer</StatsReport_Skills>
+  <StatsReport_OtherStats>Andre faktorer</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Helbreds faktorer</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} vigtighed</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Efterbehandlet kurve</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Slutværdi</StatsReport_FinalValue>
+  
+  
+  <!--Research-->
+  <ResearchFinished>Forskning fuldendt: {0}</ResearchFinished>
+  <ResearchScreen>Forskningsskærm</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Vil du uploade dit spildata til RimWorlds server for at hjælpe udviklerne med at balancere spillet? Hvis du godkender, vil dine data blive uploadet hver {0} dag (og i andre situationer som ved fuldendt spil). Privatlivs præferencer kan ændres i menuen indstillinger.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Selvom din historik er sendt anonymt, kan du vedhæfte dit navn.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Tillad uploading af spildata</HistoryUploadYes>
+  <HistoryUploadNo>Tillad ikke uploading af spildata</HistoryUploadNo>
+  <HistoryUploadYesOnce>Upload kun denne gang</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Upload ikke denne gang, spørg mig igen senere</HistoryUploadNoOnce>
+	
+</LanguageData>
