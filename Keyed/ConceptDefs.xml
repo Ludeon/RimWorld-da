@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ConceptText_MoveCamera>Flyt kameraet ved at klikke og trække den MIDERSTE MUSEKNAP eller med WASD.</ConceptText_MoveCamera>
+
+  <ConceptText_RescueColonist>For at hjælpe en såret kolonist, vælg da en rask kolonist og højreklik på den sårede.</ConceptText_RescueColonist>
+
+  <ConceptText_Capture1>Fjenden er blevet ukampdygtig. Du kan tilfangetage dem!</ConceptText_Capture1>
+  <ConceptText_Capture2>For at tilfangetage, vælg en kolonist, højre-klik på den ukampdygtige fjende, og vælg Arrester.\n\nDu får brug for en ekstra seng, øremærket til fanger.</ConceptText_Capture2>
+
+  <ConceptText_Draft1>For at styre dine kolonister i kampeøjemed, Hverv dem ved at vælge dem og trykke på Hverv knappen.</ConceptText_Draft1>
+  <ConceptText_Draft2>En hvervet kolonist vil kun gøre hvad du befaler dem, og kan kun udføre kamphandlinger. Kolonister med våben vil bruge dem om muligt.\n\nLad ikke dine kolonister være Hvervet forevigt - de vil sulte og blive desperate.</ConceptText_Draft2>
+
+  <ConceptText_Forbid>Kolonister til ikke interagere med ting der har markeringen FORBIDDEN.\n\nMarker mad og metal nær dit landingsområde og tryk F for at UNFORBID det.</ConceptText_Forbid>
+
+  <ConceptText_BillsTab>For at få dine kolonister til at arbejde ved stationer, vælg da stationen og åbn fanen Program. Her, kan du se hvilke måltider du kan producere, hvilke ting du kan fremstille, hvilke dyr der skal slagtes.</ConceptText_BillsTab>
+
+  <ConceptText_GrowingFood>For at gro mad, placer da GROWING ZONES ved hjælp af menuen Arkitekt.\n\nZonerne kan kun placeres på frugtbar jord.</ConceptText_GrowingFood>
+
+  <ConceptText_BuildOrbitalTradeBeacon>Forslag:\n\nFor at sende genstande eller sølv til rumkredsløbsforhandlere, skal du have bygget et ORBITAL TRADE BEACON udendørs og have placeret et lagerområde med genstande i dets område.</ConceptText_BuildOrbitalTradeBeacon>
+
+  <ConceptText_ReadingAlerts>Hvis du på noget tidspunkt er usikker på hvad du skal gøre, så check ALARMER i skærmens højre side.</ConceptText_ReadingAlerts>
+
+  <ConceptText_CameraZoom>Zoom ind og ud med MOUSEWHEEL eller tasterne T og G.</ConceptText_CameraZoom>
+
+  <ConceptText_TimeControls>Du kan ændre på tiden og sætte den op, ned eller stoppe den fuldstændig, ved at bruge knapperne i bunden til højre.</ConceptText_TimeControls>
+
+  <ConceptText_PrisonerTab>Kig i en fanges 'Fange' etiket for at se hvordan de kan blive behandlet.\n\nDu har brug for en kolonist der arbejder som Fangevogter til at tage sig af fangerne.</ConceptText_PrisonerTab>
+
+  <ConceptText_Mining>Du kan vælge hvor der skal mines ved at bruge ARCHITECT MENU.\n\nMining af MINERALER giver METAL.\n\nMining af STEN giver ingenting.</ConceptText_Mining>
+
+  <ConceptText_WorkOverview1>Du kan sætte hver kolonists arbejdsopgaver i OVERVIEW i nederste højre hjørne af skærmen.\n\nKolonister vil altid vælge den højest prioriterede opgave defName som de kan påtage sig.</ConceptText_WorkOverview1>
+  <ConceptText_WorkOverview2>Kolonister vil ikke udføre arbejdsopgaver de ikke er tildelt.\n\nHvis ingen i kolonien har en specifik arbejdsopgave tildelt, vil det aldrig blive gjort.</ConceptText_WorkOverview2>
+
+  <ConceptText_EquippingWeapons>For at få din kolonist til at bevæbne sig, vælg da kolonisten og højreklik på våbnet.\n\nDer er våben på jorden nær din startlokation.</ConceptText_EquippingWeapons>
+
+  <ConceptText_HomeRegion>BASE OMRÅDE fortæller dine kolonister hvilke områder de skal rengøre og hvor de skal slukke ildebrande.\n\nDefiner et BASE OMRÅDE med Zone kategorien under Arkitekt menuen.</ConceptText_HomeRegion>
+
+  <ConceptText_StorageTabCategories>I beholdningslisten, kan du udvide kategorier for at tillade eller blokere for specfikke ting. Klik da på trekanterne til venstre for kategori navne.</ConceptText_StorageTabCategories>
+
+  <ConceptText_StorageTab>Du kan konfiguere varelagre og bygninger ved at vælge dem og åbne VARER LISTEN over det venstre-nederste styringspanel.</ConceptText_StorageTab>
+
+  <ConceptText_SetGrowingZonePlant>Du kan bestemme hvad du vil plante i en dyrke zone. Du kan endda dyrke træer! \n\nBare vælg dyrk zone, åbn DYRK listen, og klik på 'plant' knappen.</ConceptText_SetGrowingZonePlant>
+  
+  <ConceptText_SpacePause>Tryk SPACE for at pause eller genoptage spillet.\n\nDu kan give ordre mens spillet er pauset..\n\nHusk dette - hvis tingene spidser til, så er den en god ide at trykke SPACE!</ConceptText_SpacePause>
+
+  <ConceptText_RightClickClearLetter>Du kan hurtigt fjerne indkomne breve ved at højreklikke på dem.</ConceptText_RightClickClearLetter>
+
+  <ConceptText_OpeningComms>For at kommunikere, vælg da en kolonist og højre-klik på kommunikations konsollen.</ConceptText_OpeningComms>
+
+  <ConceptText_StoragePriority>Du kan ændre på PRIORITETEN af et lager. Kolonister vil fylde lagre med højste prioritet.</ConceptText_StoragePriority>
+
+  <ConceptText_Wiki>Du kan finde information i WIKI'en.\n\nBrug linket i nederste højre hjørne.</ConceptText_Wiki>
+
+  <ConceptText_TradeGoodsMustBeNearBeacon>For at sende varer eller sølv til rumkredsløbsforhandlere, bliver du nødt til at bygge et RUMHANDELS SIGNAL udenfor og placere et lager til varer nær det.</ConceptText_TradeGoodsMustBeNearBeacon>
+
+  <ConceptText_ArrestingCreatesEnemies>Hvis du arresterer nogen, så vil hele deres koloni blive din fjende.\n\nLad være med at arrester nogen, hvis du ønsker at være venner med deres koloni!</ConceptText_ArrestingCreatesEnemies>
+
+  <ConceptText_MedicalOperations>For at påbegynde en operation, som høstning af organer eller installation af proteser, åbn kolonistens HELBRED's liste, og vælg OPERATIONER.</ConceptText_MedicalOperations>
+
+</LanguageData>
