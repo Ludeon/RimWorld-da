@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Arbejdstid tilbage</WorkLeft>
+  <Contents>Indhold</Contents>
+  <ContainedResources>Indeholdte ressourcer</ContainedResources>
+  <ForPrisonerUse>Til fanger</ForPrisonerUse>
+  <ForColonistUse>Til kolonister</ForColonistUse>
+  <MedicalBed>Hospitalsseng</MedicalBed>
+  <Owner>Ejer</Owner>
+  <Nobody>Ingen</Nobody>
+  <Unowned>Ingen ejer</Unowned>
+  <DeadTime>Død {0}</DeadTime>
+  <WalkSpeed>Gå hastighed {0}</WalkSpeed>
+  <DyingLower>dør</DyingLower>
+  <FilthOnFeet>Skidt på fødderne:</FilthOnFeet>
+  <NotEnoughStoredLower>ikke nok på lager</NotEnoughStoredLower>
+  <NothingLower>ingenting</NothingLower>
+  <Adapted>Tilpasset</Adapted>
+  <Headshot>Hovedskud</Headshot>
+  <FreshMissingBodyPart>frisk</FreshMissingBodyPart>
+  <UntreatedLower>ubehandlet</UntreatedLower>
+  <DevelopedImmunityLower>udviklet immunitet</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>kræver behandling for helbredelse</InjuryRequiresTreatment>
+  <NextTreatmentAfter>næste behandling efter {0} dage</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>nej {0}</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>fremgang for udvikling af immunitet</ImmunityDevelopmentProgress>
+
+  <!-- Turrets -->
+  <GunInstalled>Installeret</GunInstalled>
+  <MinimumRange>Minimum rækkevidde</MinimumRange>
+  <CanFireIn>Kan skyde om</CanFireIn>
+  
+  
+  <!-- Job reports -->
+	<ReportHaulingTo>Slæber {0} til {1}.</ReportHaulingTo>
+	<ReportHauling>Slæber {0}.</ReportHauling>
+  <ReportSleeping>Sover.</ReportSleeping>
+  <ReportResting>Hviler.</ReportResting>
+  
+	<!-- Shooting report -->
+  <WeaponMissRadius>Våben tabt rækkevidde</WeaponMissRadius>
+	<ShootReportShooterAbility>Skyder</ShootReportShooterAbility>
+	<ShootReportWeapon>Våben</ShootReportWeapon>
+	<Darkness>Mørke</Darkness>
+	<TargetProne>Tilbøjeligt mål</TargetProne>
+	<TargetSize>Måls størrelse</TargetSize>
+	<Weather>Vejr</Weather>
+	<ShootingCover>Dækning</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} stopper {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>ingen dækning</NoCoverLower>
+	
+	
+	<!-- Status levels -->
+  <Mood>Humør</Mood>
+  <MoodTip>Humøret vedligeholdelse ved at dække fysiske og psykiske behov.\n\nHvis nogens humørs niveau er for lavt, kan du risikerer et mentalt sammenbrud.</MoodTip>
+  <Food>Mad</Food>
+  <FoodTip>Mad er den mængde føde, som et dyr har indtaget fornylig. Hvis føden er på nul, så vil dyret blive sultet ihjel over tid.</FoodTip>
+  <Rest>Hvile</Rest>
+  <RestTip>Hvile er kvaliteten af den søvn og afslapning en person får.\n\nHvilen stiger til maksimum når personen sover igennem i en seng. Ude af sengen, falder niveauet over tid.</RestTip>
+  <Environment>Miljø</Environment>
+  <EnvironmentTip>Miljø reflekterer, hvor behageligt en person finder sine omgivelser.\n\nMiljøet er højt når personer er i rummelige omgivelser med smukke dekorationer. Det bliver dårligt når omgivelserne er grimme og beskidte.</EnvironmentTip>
+  <Openness>Åbenhed</Openness>
+
+  
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>Udløber om: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Begynder at udløbe om: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Når udløbstidspunkt om: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Tærskel for mentalt sammenbrud</MentalBreakThreshold>
+
+
+  <!-- Pawn info readout -->
+  <Health>Helbred</Health>
+  <PawnMainDescWithFactionGendered>{0} {1} af {2}</PawnMainDescWithFactionGendered>
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescWithFactionGenderless>{0} af{1}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <Faction>Base</Faction>
+  <Equipped>Udstyret</Equipped>
+  <EquippedNothing>Ingenting</EquippedNothing>
+  <Incapacitated>Uarbejdsdygtig</Incapacitated>
+  <InRestraints>I lænker (sløvet)</InRestraints>
+  <Carrying>Bærer</Carrying>
+  <SanityDazedWander>Sammenbrud: Vandrer forvildet omkring</SanityDazedWander>
+  <SanityGiveUpExit>Sammenbrud: Giver op og forlader kolonien</SanityGiveUpExit>
+  <SanityPanicFlee>Sammenbrud: Flygter i panik</SanityPanicFlee>
+  <SanityPsychotic>Sammenbrud: Psykotisk anfald</SanityPsychotic>
+  
+  <!-- Body and activities condition -->
+  <None>Ingen</None>
+  <VeryPoor>Meget dårligt</VeryPoor>
+  <Poor>Dårligt</Poor>
+  <Weakened>Svækket</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Forbedret</Enhanced>
+  <SeriouslyImpaired>Seriøst svækket</SeriouslyImpaired>
+  <Impaired>Svækket</Impaired>
+  <SlightlyImpaired>En smule svækket</SlightlyImpaired>
+  <NoPain>Ingen</NoPain>
+  <LittlePain>En smule</LittlePain>
+  <MediumPain>Medium</MediumPain>
+  <SeverePain>Alvorlig</SeverePain>
+  <ExtremePain>Ekstrem</ExtremePain>
+
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Vælg næste ting i samme område.\n\nGenvejstast: {0}\n\nDu kan også gøre dette ved langsomt at trykke på det samme område igen.</SelectNextInSquareTip>
+  <DefInfoTip>Se information omkring valgte.</DefInfoTip>
+  
+  
+  <!-- ITab titles -->
+  <TabBills>Ordrer</TabBills>
+  <TabGrowing>Gro</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabPrisoner>Fange</TabPrisoner>
+  <TabGear>Udstyr</TabGear>
+  <TabThoughts>Tanker</TabThoughts>
+  <TabStorage>Lager</TabStorage>
+  <TabHealth>Helbred</TabHealth>
+  <TabRace>Race</TabRace>
+  <TabBasics>Grundlæggende</TabBasics>
+  <TabStats>Statistikker</TabStats>
+
+
+  <!-- ITabs -->
+	<AddBill>Tilføj Ordrer</AddBill>
+	<RecipeRequiresSkills>Opskriften {0} kræver færdighedsniveau herunder. Ingen af dine kolonister har den påkrævede færdighed, så ingen kan endnu udføre ordren.</RecipeRequiresSkills>
+	<BillConfig>Konfigurer</BillConfig>
+	<SuspendedCaps>SAT PÅ HOLD</SuspendedCaps>
+	<PlantVerb>Plant</PlantVerb>
+	<RecruitmentDifficulty>Sværhedsgrad af rekruttering</RecruitmentDifficulty>
+	<PrisonerGetsFood>Får mad</PrisonerGetsFood>
+	<DoctorsCare>Får doktorbesøg</DoctorsCare>
+	<PrisonerGetsMedicine>Får medicin</PrisonerGetsMedicine>
+	<ShouldTryToRecruit>Prøv at rekrutter</ShouldTryToRecruit>
+	<PrisonerNoInteraction>Ingen kontakt</PrisonerNoInteraction>
+	<PrisonerFriendlyChat>Venlig sniksnak</PrisonerFriendlyChat>
+	<PrisonerMildBeating>Blide tæsk </PrisonerMildBeating>
+	<PrisonerViciousBeating>Hårde tæsk</PrisonerViciousBeating>
+	<PrisonerExecution>Henrettelse</PrisonerExecution>
+	<Equipment>Udstyr</Equipment>
+	<Apparel>Beklædning</Apparel>
+	<Inventory>Inventar</Inventory>
+	<ThingInfo>Information</ThingInfo>
+	<DropThing>Smid</DropThing>
+	<TotalModifiers>Samlede modifikatorer</TotalModifiers>
+	<DamageAbsorption>Skade absorbering</DamageAbsorption>
+	<DamageDeflection>Skade afbøjning</DamageDeflection>
+	<MoveSpeed>Bevægelses hastighed</MoveSpeed>
+	<Efficiency>Effeektivitet</Efficiency>
+	<MissingBodyPart>Væk</MissingBodyPart>
+	<DestroyedBodyPart>Ødelagt</DestroyedBodyPart>
+	<ShatteredBodyPart>Smadret</ShatteredBodyPart>
+  <RemovedBodyPart>Fjernet</RemovedBodyPart>
+	<Healthy>Sund</Healthy>
+	<InPain>Har smerter</InPain>
+	<PainLevel>Smerte</PainLevel>
+	<Dead>Død</Dead>
+	<Unconscious>Bevidstløs</Unconscious>
+	<PainShock>I chok</PainShock>
+	<Injured>Tilskadekommet</Injured>
+	<NoInjuries>(ingen skader)</NoInjuries>
+	<WholeBody>Hele kroppen</WholeBody>
+	<RenameColonist>Omdøb kolonist</RenameColonist>
+	<DataProcessing>Data processing</DataProcessing>
+	<Communication>Kommunikation</Communication>
+	<AffectsLower>påvirker</AffectsLower>
+	<BleedingRate>Hastighed af blodtab</BleedingRate>
+	<HealthOverview>Overblik</HealthOverview>
+	<MedicalOperationsShort>Operationer ({0})</MedicalOperationsShort>
+	<MedicalOperationsMechanoidsShort>Modifikationer ({0})</MedicalOperationsMechanoidsShort>
+	<MedicalOperations>Medicinske operationer</MedicalOperations>
+	<Amputate>Amputer</Amputate>
+	<Harvest>Høst</Harvest>
+
+	<!-- like 'Blood of John' -->
+	<OfLower>fra</OfLower>
+
+	<!-- Power readout -->
+	<PowerNotConnected>Ikke tilsluttet til strøm.</PowerNotConnected>
+  <PowerConnectedRateStored>Tilslutningsrate/beholdning: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Strømbehov</PowerNeeded>
+  <PowerOutput>Strømudvinding</PowerOutput>
+  <PowerBatteryStored>Beholdning</PowerBatteryStored>
+  <PowerBatteryEfficiency>Effektivitet</PowerBatteryEfficiency>
+
+  
+	<!--Rotting-->
+	<RotStateFresh>Frisk</RotStateFresh>
+	<RotStateRotting>Rådner</RotStateRotting>
+	<RotStateDessicated>Udtørret</RotStateDessicated>
+	
+  <!-- Shooting tooltip -->
+  <ShotBy>Skudt af {0}</ShotBy>
+  <CannotHit>Kan ikke ramme mål.</CannotHit>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Tillad ikke</StoragePriorityUnstored>
+  <StoragePriorityLow>Lav</StoragePriorityLow>
+  <StoragePriorityNormal>Normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>Anbefalet</StoragePriorityPreferred>
+  <StoragePriorityImportant>Vigtigt</StoragePriorityImportant>
+  <StoragePriorityCritical>Kritisk</StoragePriorityCritical>
+
+  <!-- Meal -->
+  <TimeToSpoil>Rådner om {0}</TimeToSpoil>
+  <Ingredients>Ingredienser</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>{0}% vækst</PercentGrowth>
+  <Growing>Vokser</Growing>
+  <NotGrowingNow>Vokser ikke nu (har behov for {0}).</NotGrowingNow>
+  <NotGrowingNowNight>Vokser ikke nu (det er nat).</NotGrowingNowNight>
+  <FullyGrownIn>Fuldt udvokset om {0}.</FullyGrownIn>
+  <ReadyToHarvest>Klar til at høste.</ReadyToHarvest>
+  <Mature>Moden.</Mature>
+  <SeedLabel>{0} frø</SeedLabel>
+  
+  <!-- Zones -->
+  <Zone>Zone</Zone>
+  <GrowingZone>Beplantningsplads</GrowingZone>
+  <Stockpile>Lagerplads</Stockpile>
+  <DumpingStockpile>Losseplads</DumpingStockpile>
+  <Priority>Prioritet</Priority>
+
+  <!-- General time stuff -->
+  <DaysLower>dage</DaysLower>
+  <SecondsLower>sekunder</SecondsLower>
+  
+  <!-- Mouseover indicator -->
+  <Undiscovered>Ikke Udforsket</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Ændre synligheden af zoner.</ZoneVisibilityToggleButton>
+  <AutoHomeRegionToggleButton>Ændre automatiseringen af tilføjelse af baseområder omkring nye konstruktioner.</AutoHomeRegionToggleButton>
+  <CategorizedResourceReadoutToggleButton> Ændre visning af ressourcer.</CategorizedResourceReadoutToggleButton>
+
+  <!-- Fire -->
+  <Fire>Ildebrand</Fire>
+  <FireOn>Ildebrand ved {0}</FireOn>
+  <Burning>Brænder</Burning>
+  <FireSizeLower>Ildebrandens størrelse {0}</FireSizeLower>
+  
+
+  <!-- Map conditions (eclipse, solar flare, etc )-->
+  <MapConditionsTip>Specielle vilkår der påvirker området netop nu.</MapConditionsTip>
+
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>Du har ingen anvendelige materialer på lager til at bygge dette.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Kan ikke placeres under et tag.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam> Skal placeres med sammenhæng til rumskibets primære struktur.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Skal placeres ved siden af noget der har anvender en beholder.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Skal placeres direkte ovenpå en dampproducerende geyser.</MustPlaceOnSteamGeyser>
+
+
+
+  <!-- Cryptosleep pod -->
+  <PodContains>Indeholder</PodContains>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Kan ikke affyres.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Klar til affyring.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Mangler kritisk komponent</ShipReportMissingPart>
+  <ShipReportNoFullPods>Ingen bemandede kryptosøvn-kapsler</ShipReportNoFullPods>
+
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>Brug neurotræner til at lære {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} brugte {1} neurotræner til at gå fra level {2} til level {3}.</NeurotrainerUsed>
+  
+  
+  <!-- Game over -->
+  <GameOverEveryoneDead>Alle er døde eller flygtet. Denne historie er forbi.\n\nMåske vil en anden person finde ruinerne fra din koloni i en fjern fremtid og bruge dem til at starte forfra.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Du har affyret dit rumskib med succes! Disse kolonister klarede skærene og flyver afsted mod en fjern galakse:\n\n{0}\nDisse kolonister blev efterladt på RimWorld:\n\n{1}\nDin AI vil nu forsøge at lede rumskibet til en sikker destination. Måske vil de ende på en bedre planet i dette solsystem. Måske vil de ende ud på en rejse, der strækker sig over århundreder, til en sol langt borte. Det kan endda tænkes at rumskibet vil gemme sig under isen på en asteroide i et par tusind år, til der nås et bedre tidspunkt i historien.\n\nKolonisterne der fløj afsted vil finde ud af det, når de vågner op. Hvad der sker herfra er op til dig.</GameOverShipLaunched>
+  <GameOverKeepPlaying>Fortsæt spillet</GameOverKeepPlaying>
+  <GameOverMainMenu>Hovedmenu</GameOverMainMenu>
+  
+  
+</LanguageData>
