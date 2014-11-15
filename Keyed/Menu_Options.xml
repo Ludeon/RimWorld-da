@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Lydvisualisering</Audiovisuals>
+  <GameVolume>Spil volume</GameVolume>
+  <MusicVolume>Musik volume</MusicVolume>
+  <GraphicsQuality>Grafikkvalitet</GraphicsQuality>
+  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
+  <GraphicsQualityGreat>Bedst</GraphicsQualityGreat>
+
+  
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Muserul ved skærmens kant </EdgeScreenScroll>
+  <CustomCursor>Anden musecursor</CustomCursor>
+  <ChooseLanguage>Vælg sprog</ChooseLanguage>
+  <AdaptiveTutor>Adaptiv hjælper</AdaptiveTutor>
+  <ResetAdaptiveTutor>Genstart adaptiv hjælper</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Adaptiv hjælper er genstartet. Han vil nu oplære dig fra begyndelsen.</AdaptiveTutorIsReset>
+  <RunInBackground>Kør i baggrunden</RunInBackground>
+  <DevelopmentMode>Udviklings-mode</DevelopmentMode>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder>Åbn folder for gemte spil</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Efternavne eller navne i spillets historie, som du gerne vil møde:</NamesYouWantToSee>
+  <ChangeStoryteller>Vælg historiefortæller</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>Opløsning</Resolution>
+  <Fullscreen>Fuldskærm</Fullscreen>
+  <CurrentRes>Nuværende {0}</CurrentRes>
+  <ChooseResolution>Vælg opløsning</ChooseResolution>
+
+  
+  <!-- Privacy-->
+  <Privacy>Privatliv</Privacy>
+  <UserName>Brugernavn</UserName>
+  <ChooseHistoryUploadPref>Spildata upload preference.</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>Nuværende {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Brugeres spildata kan hjælpe udviklerne med at balancere spillet. Hvis du godkender, vil dine informationer blive sendt hver {0} spildage (og i andre sjældne tilfælde som ved gennemførsel af spillet) til RimWorld serveren blive analyseret. Uploaded spildata indeholder kun statistikker og historikere, der er relateret til spillet - ingen personlig information sendes, ud over brugernavn, hvilket betyder at det er helt anonymt.</AboutHistoryUpload>
+  
+</LanguageData>
