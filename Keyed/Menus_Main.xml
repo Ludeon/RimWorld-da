@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <CreateWorld>Skab Verden</CreateWorld>
+  <NewColony>Ny Koloni</NewColony>
+  <BackToGame>Tilbage til Spillet</BackToGame>
+  <Save>Gem</Save>
+  <Load>Indlæs Koloni</Load>
+  <Options>Indstillinger</Options>
+  <Mods>Mods</Mods>
+  <Credits>Credits</Credits>
+  <QuitToMainMenu>Forlad til Hovedmenuen</QuitToMainMenu>
+  <QuitToOS>Forlad til Skrivebord</QuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Forums</Forums>
+  <OfficialWiki>Officiel wiki</OfficialWiki>
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <TynansDesignBook>Tynan's design bog</TynansDesignBook>
+  <HelpTranslate>Hjælp med oversættelse af RimWorld</HelpTranslate>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Kig på verden</ReviewWorld>
+  <WorldGenerate>Skab Verden</WorldGenerate>
+  <WorldSaveAndFinish>Gem og afslut</WorldSaveAndFinish>
+  <Reset>Genstart</Reset>
+  <WorldSize>Størrelse</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Tilfældiggør seed</RandomizeSeed>
+
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Vælg verden</SelectWorld>
+  <WorldChooseButton>Vælg</WorldChooseButton>
+  <NoWorldsFilesFound>Ingen verdener fundet. Skab en ny verden først.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Build {0} er nu tilgængelig. Tjek ludeon.com for mere information.</BuildNowAvailable>
+	<BuildUpToDate>Build er opdateret.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Fejl vedrørende version info: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Indlæser version info...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Skaber Verden</GenerateWorld>
+
+  <!--=========== Mods screen ==========-->
+  <GetMods>Få mods</GetMods>
+  <OpenModsDataFolder>Åbn mods data folder</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Er du sikker på, at du ønsker at deaktivere kerne mod? Spillet vil slet ikke virke, medmindre du har et andet mod der kan erstatte al kernens funktionalitet.\n\nHusk, andre mods kan overskrive 'defs' in kerne moddet ved at bruge det samme 'defName'.</ConfirmDisableCoreMod>
+  <Author>Forfatter</Author>
+
+
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Vælg AI Historiefortæller</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Historiefortælleren skaber hændelser som f.eks. piratbander der angriber, ressourcer der falder ned fra atmosfæren, eller dyr som angriber dine kolonister. Historiefortælleren vil have indflydelse på, hvordin din kolonis historie udvikler sig.</HowStorytellersWork>
+  <MustChooseChallengeScale>Vælg din sværhedsgrad.</MustChooseChallengeScale>
+  <ChallengeScale>Sværhedsgrad</ChallengeScale>
+  <ChallengeScaleTip>Når historiefortælleren sender farer efter dig, vil de være {0} så store som i tilstanden Udfordrende.</ChallengeScaleTip>
+  <ChallengeScale_BuilderMode>Bygge tilstand</ChallengeScale_BuilderMode>
+  <ChallengeScale_Casual>Afslappet</ChallengeScale_Casual>
+  <ChallengeScale_Rough>Hård</ChallengeScale_Rough>
+  <ChallengeScale_Challenge>Udfordrende</ChallengeScale_Challenge>
+  <ChallengeScale_SeriousChallegne>Seriøs Udfordring</ChallengeScale_SeriousChallegne>
+  <ChallengeScale_ExtremeChallenge>Ekstrem Udfordring</ChallengeScale_ExtremeChallenge>
+
+
+
+
+
+
+
+
+
+
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Vælg landingssted</SelectLandingSite>
+  <SelectSite>Vælg sted</SelectSite>
+  <MustSelectLandingSite>Vælg venligst et landingssted.</MustSelectLandingSite>
+  <CannotLandBiome>Du kan ikke lande på denne biome: {0}</CannotLandBiome>
+  <WorldRenderMode>Tilstand</WorldRenderMode>
+  <WorldRenderModeFull>Fuld</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Temperatur</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Højde</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Fertilitet</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Regnfald</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biomer</WorldRenderModeBiomes>
+  <BiomeNotImplemented>biome ikke implementeret</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} har allerede en base der.</BaseAlreadyThere>
+  <Biome>Biome</Biome>
+  <Terrain>Terræn</Terrain>
+  <Elevation>Højde</Elevation>
+  <Fertility>Fertilitet</Fertility>
+  <AvgTemp>Gennemsnitlig temperatur</AvgTemp>
+  <Rainfall>Regnfald</Rainfall>
+  <HasCoast0>Nordlig kyst</HasCoast0>
+  <HasCoast1>Østlig kyst</HasCoast1>
+  <HasCoast2>Sydlig kyst</HasCoast2>
+  <HasCoast3>Vestlig kyst</HasCoast3>
+  <FactionBase>Fremmed base</FactionBase>
+
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Lav karakterer</CreateCharacters>
+  <FirstNameDesc>Karakterens fornavn.\n\nDette vil kun blive vist i visse menuer.</FirstNameDesc>
+  <ShortIdentifierDesc>Karakterens øgenavn.\n\nDet bliver vist på alle tidspunkter. Det kan være fornavn eller efternavn, eller et helt andet øgenavn.</ShortIdentifierDesc>
+  <LastNameDesc>Karakterens efternavn.\n\nDette vil kun blive vist i visse menuer.</LastNameDesc>
+  <Randomize>Tilfældiggør</Randomize>
+  <AgeIndicator>alder {0}</AgeIndicator>
+  <Backstory>Baggrundshistorie</Backstory>
+  <IncapableOf>Ude af stand til</IncapableOf>
+  <Traits>Karaktertræk</Traits>
+  <TraitsDoNothing>Karaktertræk er sjove bidder af historie om dine kolonister; de fleste træk har ingen direkte effekt. Dette vil ændre sig i fremtidige versioner.</TraitsDoNothing>
+  <PermanentMoodEffect>Permanent humør effekt</PermanentMoodEffect>
+  <Skills>Færdigheder</Skills>
+  <NoneLower>ingen</NoneLower>
+  <Adulthood>Voksenliv</Adulthood>
+  <Childhood>Barndom</Childhood>
+  <Male>Mand</Male>
+  <Female>Kvinde</Female>
+  <Pain>Smerte</Pain>
+  
+  
+  <!--=========== Misc ==========-->
+  <Start>Start</Start>
+  <Advanced>Advanceret</Advanced>
+  <Next>Næste</Next>
+  <Back>Tilbage</Back>
+  
+  <Gameplay>Gameplay</Gameplay>
+
+  <ConfirmQuit>Vil du virkelig slutte? Du vil miste alt der ikke er gemt.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Alle personer har brug for et brugbart navn.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Skaber verden...</GeneratingWorld>
+  <GeneratingMap>Skaber kort...</GeneratingMap>
+
+</LanguageData>
