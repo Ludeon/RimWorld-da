@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Fortryd</DesignatorCancel>
+  <DesignatorCancelDesc>Fortryd processer for valgt bygning, mining, slæbning, høstning, og alle andre benævnelser.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Ryd planter</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Marker planter der skal ryddes og fjernes. Planten vil blive fuldstændig fjernet, og eventuel mad høstet.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Nedbryd</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Nedbryd bygninger og få en andel af ressourcerne igen.</DesignatorDeconstructDesc>
+
+  <DesignatorHarvest>Høst</DesignatorHarvest>
+  <DesignatorHarvestDesc>Marker planter der skal høstes for mad eller andre formål.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Hug træ</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Marker træer der skal hugges ned for træ.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Slæb varer</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Marker stenklumper og andre varer til at blive slæbt til lager- eller losseplads zoner. Ikke nødvendigt for varer som mad eller lig, som altid kan slæbes.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Ingenting at slæbe her.</NothingToHaulHere>
+  <MustHaulHaulables>Kan kun vælge varer, der kan slæbes (som stenklumper).</MustHaulHaulables>
+
+  <DesignatorHunt>Jagt</DesignatorHunt>
+  <DesignatorHuntDesc>Marker dyr som kan jages af dine jagere.</DesignatorHuntDesc>
+
+  <DesignatorMine>Minedrift</DesignatorMine>
+  <DesignatorMineDesc>Marker områder i klipper, som skal mines for mineraler.</DesignatorMineDesc>
+
+  <DesignatorPlan>Planlæg</DesignatorPlan>
+  <DesignatorPlanDesc>Placer fremtidig perspektivplan. Værktøjet gør intet andet end at hjælpe dig med at planlægge koloniens fremtidige udseende.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Fjern planer</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Fjern planlagt perspektivplan.</DesignatorPlanRemoveDesc>
+
+  <DesignatorHomeRegionAdd>Tilføj Baseområde</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Kolonister vil reparere bygninger, gøre rent og slukke ildebrand indenfor basens område.</DesignatorHomeRegionAddDesc>
+
+  <DesignatorHomeRegionRemove>Fjern Baseområde</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Fjerner base område. Kolonister vil ikke længere gøre rent, reparere eller slukke ildebrand i dette område.</DesignatorHomeRegionRemoveDesc>
+
+  <DesignatorRegionNoRoofAdd>Område Uden Tag</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Skaber et område hvor tage ikke vil blive skabt. Kolonister vil også fjerne eventuelt eksisterende tag.</DesignatorRegionNoRoofAddDesc>
+
+  <DesignatorRegionNoRoofRemove>Fjern Område Uden Tag</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Fjerner et område uden tag. Tage er tilladt her, og eventuelle tag vil ikke blive fjernet.</DesignatorRegionNoRoofRemoveDesc>
+
+  <DesignatorGrowingZoneDesc>Lav et område, hvor dine kolonister vil forsøge at gro en type plante.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Skab en lagerplads hvor dine kolonister vil lægge indsamlede ressourcer.\nDette værktøj kan også udvide eksisterende lagerpladser.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Skab en lagerplads hvor dine kolonister vil lægge skrammel.\nDette værktøj kan også udvide eksisterende lagerpladser.</DesignatorZoneCreateStorageDumpingDesc>
+
+
+  <DesignatorZoneDelete>Fjern zoner</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Fjern zoner, som lagerpladser eller landbrugszoner.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Gør Krav På</DesignatorClaim>
+  <DesignatorClaimDesc>Gør krav på neutrale strukturer for kolonien, inklusiv gamle ruiner og forladte baser. Strukturer der er gjort krav på, vil blive repareret og vedligeholdt af dine kolonister.</DesignatorClaimDesc>
+  
+  
+  <!-- placement of blueprints -->
+  <UnchosenStuff>Ikkevalgt materiale</UnchosenStuff>
+  <TooCloseToMapEdge>For tæt på kortets kant.</TooCloseToMapEdge>
+  <OutOfBounds>Udenfor område.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Kan ikke placere i ikke-opdaget område.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Handlingsområdet er blokeret af {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Handlingsområdet er udenfor området.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Handlingsområdet vil blive blokeret af {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} ville blokere {1}'s handlingsområde.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Terrænet her er allerede {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Identisk ting foreligger allerede.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Identisk plan forligger allerede.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Terrænet kan ikke understøtte dette.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Pladsen er allerede i brug.</SpaceAlreadyOccupied>
+
+  
+  
+  <!-- placement of zones -->
+  <ExpandOrCreateZone>Udvid {0} eller\nSkab ny {1}</ExpandOrCreateZone>
+  <CreateNewZone>Skab ny {0}</CreateNewZone>
+  
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Transmitterer strøm</TransmitsPower>
+
+
+</LanguageData>
