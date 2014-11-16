@@ -9,8 +9,8 @@
   <Load>Indlæs Koloni</Load>
   <Options>Indstillinger</Options>
   <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Forlad til Hovedmenuen</QuitToMainMenu>
+  <Credits>Rulletekster</Credits>
+  <QuitToMainMenu>Forlad til Hovedmenu</QuitToMainMenu>
   <QuitToOS>Forlad til Skrivebord</QuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
@@ -18,7 +18,7 @@
   <OfficialWiki>Officiel wiki</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
   <TynansDesignBook>Tynan's design bog</TynansDesignBook>
-  <HelpTranslate>Hjælp med oversættelse af RimWorld</HelpTranslate>
+  <HelpTranslate>Hjælp med oversættelsen af RimWorld</HelpTranslate>
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Kig på verden</ReviewWorld>
