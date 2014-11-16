@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AnimalInsanitySingle>Et {0} i området er blevet psykotisk! Den vil angribe alle den ser på sin vej.</AnimalInsanitySingle>
+  <AnimalInsanityMultiple>En bølge af psykisk pres har lagt sig tungt over landskabet. Dine kolonister er okay, men...\n\nDet virker som om mange af {0}erne i område er blevet psykotiske.</AnimalInsanityMultiple>
+
+  <CropBlight>En mysterisk plantepest har ødelagt dine afgrøder.</CropBlight>
+
+  <EclipseIncident>En af planetens måner har i sit kredsløb lagt sig foran solen. En solformørkelse er begyndt.</EclipseIncident>
+
+  <MiracleHeal>{0} har netop oplevet en mirakuløs helbredelse!</MiracleHeal>
+
+  
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>En gruppe af {0} fra {1} er ankommet i nærheden.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>En gruppe af {0} fra {1} er ankommet i nedfaldne rumkapsler i nærheden.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>En gruppe af {0} fra {1} er ankommet lige udenfor din base!</EnemyRaidCenterDrop>
+  <EnemyRaidStageThenAttack>De vil forberede sig et stykke tid, så angribe.\n\nForbered dit forsvar eller angrib dem på forhånd.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>De angriber med det samme.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Det ser ud til, at de vil belejre din koloni.</EnemyRaidBesiege>
+
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>En venligsindet gruppe af {0} fra {1} er ankommet i nærheden.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>En venligsindet gruppe af  {0} fra {1} er ankommet i nedfaldne rumkapsler i nærheden.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>En venligsindet gruppe af {0} fra {1} er ankommet lige udenfor din base!</FriendlyRaidCenterDrop>
+  <FriendlyRaidStageThenAttack>De vil forberede sig et stykke tid, så rykke ind for at hjælpe dig.</FriendlyRaidStageThenAttack>
+  <FriendlyRaidImmediateAttack>De rykker ind for at hjælpe dig omgående.</FriendlyRaidImmediateAttack>
+  <FriendlyRaidBesiege>Det ser ud til, at de vil bruge belejringstaktikker for at hjælpe dig.</FriendlyRaidBesiege>
+
+  <RefugeePodCrash>Du har opdaget en flugt-kapsel, der er styrtet ned i nærheden.\n\Hvis der er overlevende efter nedslaget, så har de sikkert hårde kvæstelser.</RefugeePodCrash>
+
+  <CargoPodCrash>Du har opdaget en klynge af gods-kapsler, der er styrtet ned i nærheden.\n\nMåske vil du finde noget brugbart ved nedstyrtningsstedet.</CargoPodCrash>
+
+  <AnElectricalConduit>et electrisk rørledning</AnElectricalConduit>
+  <AWallsPowerConduit>en vægs elektriske rørledning</AWallsPowerConduit>
+  <ShortCircuit>En fejl i {0} har forårsaget en kortslutning.\n\nAlle {1} Wd af energi der er opsamlet i de tilsluttede batterier, er blevet afladt i en elektrisk eksplosion.</ShortCircuit>
+  <ShortCircuitWasLarge>Denne store mængde energi har forårsaget en eksplosion af anseelig størrelse.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Det er godt nok en enorm eksplosion. Hold da helt op!</ShortCircuitWasHuge>
+
+  <LetterSolarFlare>Et soludbrud er begyndt.\n\nDen intense stråling vil slukke alle elektriske enheder.\n\nDet bør være overstået efter omkring en dag.</LetterSolarFlare>
+
+  <TraderArrival>Et handelsrumskib flyver forbi.\n\nDe er kendt som {0}. De er en {1}.</TraderArrival>
+
+  <SingleTravelerPassing>En {0} fra {1} flyver forbi. HECAP har navnet {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>En gruppe rejsende fra {0} flyver forbi.</GroupTravelersPassing>
+
+  <SingleVisitorArrives>En {0} fra {1} er på besøg i kolonien.\n\nHECAP har navnet {2}.</SingleVisitorArrives>
+  <GroupVisitorsArrive>En gruppe rejsende fra {0} er kommet på besøg i kolonien.</GroupVisitorsArrive>
+  <VisitorsLeaving>Besøgende fra {0} er på vej hjem.</VisitorsLeaving>
+
+  <WandererJoin>En {0} med navnet NAME er ankommet og vil gerne være en del af din koloni. HECAP er en {1}.</WandererJoin>
+  
+  
+  <!-- Crashed ship part-->
+  <SpaceshipPartCrash>Et stort vragstykke af et ældgammelt rumskib, er faldet ned i nærheden.\n\nDine kolonister mærker noget bagerst i deres sind, der hvisker om unævnelige formaninger og handlinger. Vraget må indeholde en AI ombord, der har evnen til at sende psykiske projektioner ud til kolonisterne. Denne AI er ikke venligtsindet.\n\nØdelæg den så hurtigt som muligt.</SpaceshipPartCrash>
+  <MessageAnimalInsanityPulse>Den ældgamle vragdel har udsendt en psykisk puls, som driver dyrene i nærheden gale.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Det nedfaldne rumskib har udsendt en fokuseret psykisk puls, som har drevet kolonisten {0} gal.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Vågnede for {0} dage siden</AwokeDaysAgo>
+  <PsychicDroneLevel>Niveauet af psykisk puls: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Lav</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Medium</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Høj</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Ekstrem</PsychicDroneLevelExtreme>
+  <LetterPsychicDroneLevelIncreased>Det nedfaldne rumskib udstråler nu, en mere kraftfuld type af psykisk plus. Hver eneste menneske i området føler sig forstyrret, forfærdet og paranoid.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterAgentRevealed>{0} er blevet afsløret som en agent, sendt af din fjende {1}.\n\nDe forsøger nu at flygte - stands dem.</LetterAgentRevealed>
+  
+  <!-- Distant psychic drone -->
+  <LetterIncidentPsychicDrone>Alle kolonister af kønnet {0} skærer tænder i smerte!\n\nEn fjern hadsskabende maskine udsender projektioner af en psykisk puls. Pulsen kan mærkes over hele dette område, og den psykiske frekvens påvirker  kun kolonister af {0} køn. De næste par dage vil visse personers humør, være en hel del værre end normalt.</LetterIncidentPsychicDrone>
+  
+</LanguageData>
