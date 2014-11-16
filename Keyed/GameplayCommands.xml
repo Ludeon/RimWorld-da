@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Forbudt - kolonister kan ikke interagere med denne.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Tilladt - kolonister kan interagere med denne.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Skift kobling af strøm</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Skift mellem kobling af strøm.</CommandTogglePowerDesc>
+
+  <CommandTryReconnectLabel>Tilslut strøm</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Prøv at tilslut et andet strøm-net indenfor rækkevidden. Dette er brugbart hvis jeg er tilsluttet et ikke-tilkoblet net men der er et tilkoblet strømnet i nærheden.</CommandTryReconnectDesc>
+
+
+  <CommandGatherSpotToggleLabel>Samlingssted</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktiv - kolonister vil samles rundt om dette sted.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inaktiv - kolonister vil ikke samles rundt om dette sted.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Hverv</CommandDraftLabel>
+  <CommandUndraftLabel>Ikke hvervet</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Vælg militærhvervning.\n\n Hvervede kolonister vil tage imod ordrer og kæmpe. De vil ikke arbejde, spise eller sove.</CommandToggleDraftDesc>
+  <IsIncapped>{0} er uarbejdsdygtig.</IsIncapped>
+
+  
+  <CommandCancelConstructionLabel>Fortryd</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Fortryd denne konstruktion.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Stå ud af sengen</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Stå ud af denne seng.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Sæt ejerskab</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Sæt ejerskab for denne seng til kolonist.</CommandBedSetOwnerDesc>
+  <BedAssign>Sæt ejerskab</BedAssign>
+  <CommandBedSetForPrisonersLabel>Sæt til fange seng</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Sæt senge i dette rum til brug af fanger.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Kan ikke vælge udendørs senge til fanger.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForColonistsLabel>Sæt til kolonist seng</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsDesc>Sæt senge i dette rum til brug af kolonister.</CommandBedSetForColonistsDesc>
+  <CommandBedSetAsMedicalLabel>Til sæt hospital seng</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc> Sæt til brug som hospitalsseng.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsNonMedicalLabel>Sæt brug af seng</CommandBedSetAsNonMedicalLabel>
+  <CommandBedSetAsNonMedicalDesc> Sæt brug af denne seng.</CommandBedSetAsNonMedicalDesc>
+  <TurningOnPrisonerBedWarning>Sæt til fanger har effekt for hele rummet (siden kolonister og fanger ikke kan sove i samme rum).\n\nDisse personer vil miste ejerskab af deres senge:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Fjernelse af fangetilstand har effekt for hele rummet (siden kolonister og fanger ikke kan sove i samme rum).\n\nDisse personer vil miste ejerskab af deres senge:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Er du sikker?</AreYouSure>
+
+  
+  
+  <CommandDetonateDesc>Start nedtælling for detonation.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonation</CommandDetonateLabel>
+
+  <CommandRenameZoneDesc>Omdøb zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Omdøb</CommandRenameZoneLabel>
+
+  <CommandHideZoneDesc>Skjul/Vis zone.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Skjul</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Vis</CommandUnhideZoneLabel>
+
+  <CommandDeleteZoneDesc>Slet zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Slet</CommandDeleteZoneLabel>
+  
+  
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Sæt fastsat mål</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Sæt fastsat mål som kanontårn skal angribe kontinuerligt så længe det kan.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Stop fastsat mål</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Stopper fastsat mål og tillader kanontårnet at skyde som det vil.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Ikke sat til fastsat mål.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Målet er udenfor rækkevidde.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Målet er for tæt indenfor rækkevidde.</MessageTargetBelowMinimumRange>
+  
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Affyr rumskib</CommandShipLaunch>
+  <CommandShipLaunchDesc>Start rumskibets affyringssekvens med den nuværende konfiguration.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Vis affyringsrapport</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Vis nuværende affyringsrapport om rumskibets parathed.</CommandShipLaunchReportDesc>
+
+
+  <!-- Pod -->
+  <CommandPodEject>Åbn for kapslen</CommandPodEject>
+  <CommandPodEjectDesc>Væk kolonist fra kryptosøvn og åbn kapsel.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Indeholder ingenting.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorLock>Skift dørlås</CommandToggleDoorLock>
+  <CommandToggleDoorLockDesc>Lås eller åbn dør. Låste døre vil ikke åbne for nogen.</CommandToggleDoorLockDesc>
+
+
+</LanguageData>
