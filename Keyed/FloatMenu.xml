@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+	<CallOnRadio>Ring til {0}</CallOnRadio>
+	<CannotUseSolarFlare>Kan ikke bruge (soludbrug)</CannotUseSolarFlare>
+	<CannotUseNoPower>Kan ikke bruge (ingen strøm)</CannotUseNoPower>
+	<CannotUseNoPath>Kan ikke bruge (ingen vej)</CannotUseNoPath>
+  <CannotUseReserved>Kan ikke bruge(reserveret)</CannotUseReserved>
+  <CannotUseFull>Kan ikke bruge(fuld)</CannotUseFull>
+  
+  <FireAt>Skyd på{0}</FireAt>
+
+  <OutOfRange>Udenfor rækkevidde</OutOfRange>
+  <CannotHitTarget>Kan ikke ramme målet</CannotHitTarget>
+  <CannotFight>{0} Kan ikke kæmpe</CannotFight>
+
+  <OrderManThing>Bemand {0}</OrderManThing>
+  
+  <MeleeAttack>Nærkamps angreb {0}</MeleeAttack>
+  <MeleeAttackToDeath>Nærkamps angreb {0} til døden</MeleeAttackToDeath>
+  <NoPath>ingen vej</NoPath>
+
+	<ForbiddenLower>forbudt</ForbiddenLower>
+	<SociallyImproperLower>socialt upassende</SociallyImproperLower>
+  <PrisonerRoomLower>fængselscelle</PrisonerRoomLower>
+	<BurningLower>brænder</BurningLower>
+	<NoEmptyPlaceLower>intet lager er konfigereret til at opbevare det</NoEmptyPlaceLower>
+	<AlreadyFilledLower>allerede fyldt</AlreadyFilledLower>
+	<MissingMaterials>materialebehov</MissingMaterials>
+	
+	
+  <CannotGoNoPath>Kan ikke gå hertil(ingen vej)</CannotGoNoPath>
+  <GoHere>Gå hertil</GoHere>
+  
+  <Arrest>Arrester {0}</Arrest>
+  <CannotArrest>Kan ikke arrestere</CannotArrest>
+
+  <Capture>Tilfangetag {0}</Capture>
+  <CannotCapture>Kan ikke tilfangetage</CannotCapture>
+
+  <Rescue>Red {0}</Rescue>
+  <CannotRescue>Kan ikke redde</CannotRescue>
+
+  <NoPrisonerBed>Ingen fængselscelle og seng, markeret til fange, til rådighed.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ingen tilgængelig seng til kolonister.</NoNonPrisonerBed>
+  <Reserved>Reserveret af en anden.</Reserved>
+  <ReservedBy>Reserveret af {0}.</ReservedBy>
+  <IsReservedBy>{0} er reservet af {1}.</IsReservedBy>
+
+  <NoManipulationSkill>Ude af stand</NoManipulationSkill>
+
+  <Equip>Udrust {0}</Equip>
+  <EquipWarningBrawler>(slagsbror vil blive vred)</EquipWarningBrawler>
+  <CannotEquip>Kan ikke udruste {0}</CannotEquip>
+  
+  <Wear>Bær {0}</Wear>
+  <CannotWear>Kan ikke bære {0}</CannotWear>
+  
+  <Strip>Fjern tøj {0}</Strip>
+  <CannotStrip>Kan ikke fjerne tøj {0}</CannotStrip>
+
+  <Deposit>Opbevar {0} i {1}</Deposit>
+  <CannotDeposit>Kan ikke opbevare {0} i {1}</CannotDeposit>
+
+  <Drop>Læg {0}</Drop>
+  
+  <UseMedicalBed>Sov indtil helbredt</UseMedicalBed>
+  <NotInjured>Ikke såret</NotInjured>
+  <SomeoneElseSleeping>Optaget</SomeoneElseSleeping>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepPod>Læg i kryptosøvn-kapsel </EnterCryptosleepPod>
+  
+  
+  
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Kan ikke {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotGenericAlreadyAm>Allerede {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeIsNotA>Kan ikke prioritere ({0} er ikke en {1})</CannotPrioritizeIsNotA>
+
+  <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langsigtet opgave)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Prioriter {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>
