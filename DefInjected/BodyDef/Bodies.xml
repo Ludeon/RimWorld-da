@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Human.label>menneske</Human.label>
+    
+    <QuadrupedAnimalWithPaws.label>firbenet dyr</QuadrupedAnimalWithPaws.label>
+    
+    <QuadrupedAnimalWithPawsAndTail.label>firbenet dyr</QuadrupedAnimalWithPawsAndTail.label>
+    
+    <QuadrupedAnimalWithHooves.label>firbenet dyr</QuadrupedAnimalWithHooves.label>
+    
+    <QuadrupedAnimalWithHoovesAndHump.label>firbenet dyr</QuadrupedAnimalWithHoovesAndHump.label>
+    
+    <QuadrupedAnimalWithHoovesAndTusks.label>firbenet dyr</QuadrupedAnimalWithHoovesAndTusks.label>
+    
+    <QuadrupedAnimalWithHoovesAndHorn.label>firbenet dyr</QuadrupedAnimalWithHoovesAndHorn.label>
+    
+    <QuadrupedAnimalWithClawsTailAndJowl.label>firbenet dyr</QuadrupedAnimalWithClawsTailAndJowl.label>
+    
+    <BeetleLike.label>bille-agtig</BeetleLike.label>
+    
+    <TurtleLike.label>skildpadde-agtig</TurtleLike.label>
+    
+    <MechanicalCentipede.label>mechanisk skolopender</MechanicalCentipede.label>
+    
+    <Mechanoid.label>mechanoid</Mechanoid.label>
+    
+    <Snake.label>slange</Snake.label>
+    
+    <Monkey.label>abe</Monkey.label>
+    
+</LanguageData>

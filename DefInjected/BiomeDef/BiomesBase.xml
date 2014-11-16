@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ======== Unlandable biomes ==========-->
+    
+    <Ocean.label>Hav</Ocean.label>
+    <Ocean.description>Åbent hav. Fantastisk for fisk - ikke så godt for dig.</Ocean.description>
+    
+    <IceSheet.label>Iskappe</IceSheet.label>
+    <IceSheet.description>Overfladen er dækket af en iskappe, der kan være flere kilometer tyk. Der er ingen adgang til jord eller sten, så der er ingen planter. De eneste dyr der ses her migrerer andre steder hen - eller er kommet på afveje.</IceSheet.description>
+    
+    <!-- ======== Buildable biomes ==========-->
+    
+    <AridShrubland.label>Goldt busklandskab</AridShrubland.label>
+    <AridShrubland.description>En tør region, men ikke tør nok til at blive en ørken. Åbne områder med græs, buske og pletvist træer. Planter er hårdføre og der er en moderat mængde af dyr.</AridShrubland.description>
+    
+    <TemperateForest.label>Tempereret skov</TemperateForest.label>
+    <TemperateForest.description>En venlig biome domineret af skov og træer, med områder af frugtbar jord. Mange forskellige dyr rykker ind og ud imellem træerne og græsset.</TemperateForest.description>
+    
+    <Desert.label>Ørken</Desert.label>
+    <Desert.description>Et meget tørt, varmt område som ikke har gode vilkår for liv.</Desert.description>
+    
+    <TropicalRainforest.label>Tropisk regnskov</TropicalRainforest.label>
+    <TropicalRainforest.description>En tyk, fugtig jungle. Flydt med planteliv og aggressivt dyreliv gør konstruktion og overlevelse besværligt.</TropicalRainforest.description>
+    
+    <!-- ======== Landable biomes (not implemented) ==========-->
+    
+    <Tundra.label>Tundra</Tundra.label>
+    <Tundra.description>Dette område, der primært er frossen jord, har ikke mange træer og vegetation. Der er meget få dyr og store flokke af migrerende græssere og kødæderne der følger efter dem.</Tundra.description>
+    
+    <BorealForest.label>Nordlig skov</BorealForest.label>
+    <BorealForest.description>Nordlige skove af høje træer. På trods af barske vintre, kan skovene her understøtte en bred mængde af dyr i forskellige størrelser.</BorealForest.description>
+    
+</LanguageData>
