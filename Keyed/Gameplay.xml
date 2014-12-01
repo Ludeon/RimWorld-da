@@ -133,7 +133,7 @@
 	<PrisonerGetsFood>Får mad</PrisonerGetsFood>
 	<DoctorsCare>Får doktorbesøg</DoctorsCare>
 	<PrisonerGetsMedicine>Får medicin</PrisonerGetsMedicine>
-	<ShouldTryToRecruit>Prøv at rekrutter</ShouldTryToRecruit>
+	<ShouldTryToRecruit>Prøv at rekruttere</ShouldTryToRecruit>
 	<PrisonerNoInteraction>Ingen kontakt</PrisonerNoInteraction>
 	<PrisonerFriendlyChat>Venlig sniksnak</PrisonerFriendlyChat>
 	<PrisonerMildBeating>Blide tæsk </PrisonerMildBeating>
@@ -148,7 +148,7 @@
 	<DamageAbsorption>Skade absorbering</DamageAbsorption>
 	<DamageDeflection>Skade afbøjning</DamageDeflection>
 	<MoveSpeed>Bevægelses hastighed</MoveSpeed>
-	<Efficiency>Effeektivitet</Efficiency>
+	<Efficiency>Effektivitet</Efficiency>
 	<MissingBodyPart>Væk</MissingBodyPart>
 	<DestroyedBodyPart>Ødelagt</DestroyedBodyPart>
 	<ShatteredBodyPart>Smadret</ShatteredBodyPart>
@@ -232,8 +232,8 @@
   <Undiscovered>Ikke Udforsket</Undiscovered>
   
   <!-- Buttons -->
-  <ZoneVisibilityToggleButton>Ændre synligheden af zoner.</ZoneVisibilityToggleButton>
-  <AutoHomeRegionToggleButton>Ændre automatiseringen af tilføjelse af baseområder omkring nye konstruktioner.</AutoHomeRegionToggleButton>
+  <ZoneVisibilityToggleButton>Ændre synlighed af zoner.</ZoneVisibilityToggleButton>
+  <AutoHomeRegionToggleButton>Ændre automatisering af tilføjelse af baseområder omkring nye konstruktioner.</AutoHomeRegionToggleButton>
   <CategorizedResourceReadoutToggleButton> Ændre visning af ressourcer.</CategorizedResourceReadoutToggleButton>
 
   <!-- Fire -->
@@ -252,7 +252,7 @@
   <!-- Building placement restricters -->
   <MustPlaceUnroofed>Kan ikke placeres under et tag.</MustPlaceUnroofed>
   <MustPlaceHeadOnShipBeam> Skal placeres med sammenhæng til rumskibets primære struktur.</MustPlaceHeadOnShipBeam>
-  <MustPlaceNextToHopperAccepter>Skal placeres ved siden af noget der har anvender en beholder.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Skal placeres ved siden af noget der anvender en beholder.</MustPlaceNextToHopperAccepter>
   <MustPlaceOnSteamGeyser>Skal placeres direkte ovenpå en dampproducerende geyser.</MustPlaceOnSteamGeyser>
 
 
