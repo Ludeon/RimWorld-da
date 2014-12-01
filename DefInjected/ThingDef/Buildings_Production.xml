@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <NutrientPasteDispenser.label>næringspaté automat</NutrientPasteDispenser.label>
+    <NutrientPasteDispenser.description>Syntesiserer næringspaté fra organisk materiale.</NutrientPasteDispenser.description>
+    
+    <Hopper.label>beholder</Hopper.label>
+    
+    <!-- ========================= Work tables ==========================-->
+    
+    <TableButcher.label>slagter bord</TableButcher.label>
+    <TableButcher.description>Tungt bord til slagtning af døde kreaturer til stykker af råt kød.</TableButcher.description>
+    
+    <TableTailor.label>skrædder bord</TableTailor.label>
+    <TableTailor.description>Et værkstedsbord til at producere tøj og forbedre det.</TableTailor.description>
+    
+    <TableMachining.label>maskinelt bord</TableMachining.label>
+    <TableMachining.description>Et bord med værktøjer til at bygge og skille maskinelle komponenter ad.</TableMachining.description>
+    
+    <CookStove.label>køkken bord</CookStove.label>
+    <CookStove.description>Udstyret med et simpelt komfur og bordplads til at forbedre måltider fra simple ingredienser.</CookStove.description>
+    
+    <TableStonecutter.label>stenskærer bord</TableStonecutter.label>
+    <TableStonecutter.description>Et arbejdsbord til at skære rå sten om til brugbare stenblokke.</TableStonecutter.description>
+    
+    <ElectricSmelter.label>elektrisk smelteværk</ElectricSmelter.label>
+    <ElectricSmelter.description>Udvinder brugbart metal fra vragdele og andre forskellige metalting. Bruger meget strøm.</ElectricSmelter.description>
+    
+    <Crematorium.label>krematorie</Crematorium.label>
+    <Crematorium.description>Kremerer lig.</Crematorium.description>
+    
+    <!-- ========== Hydroponics ==============-->
+    
+    <HydroponicsBasin.label>hydrofonisk bassin</HydroponicsBasin.label>
+    <HydroponicsBasin.description>Til at gro mad. Hydrofoniske bassiner gror få planter, men hurtigt.</HydroponicsBasin.description>
+    
+</LanguageData>

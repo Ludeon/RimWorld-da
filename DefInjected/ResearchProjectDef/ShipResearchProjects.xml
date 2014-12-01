@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <ShipBasics.label>basal rumskibsteknologi</ShipBasics.label>
+    <ShipBasics.description>Tillader dig at starte forskning af mere advancerede rumskibsteknologier og med tiden bygge et skib til at flygte fra planeten.</ShipBasics.description>
+    
+    <ShipCryptosleep.label>rumskibets kryptosøvn-kapsler</ShipCryptosleep.label>
+    <ShipCryptosleep.description>Tillader dig at bygge kryptosøvn-kapsler til rumskibet, til at transportere kolonister i kryptosøvn imellem stjernerne.</ShipCryptosleep.description>
+    
+    <ShipReactor.label>rumskibets antistof reaktor</ShipReactor.label>
+    <ShipReactor.description>Tillader dig at bruge et antistof indeslutningssystem til at bygge en funktionel antistof reaktor, der kan give rumskibet strøm.</ShipReactor.description>
+    
+    <ShipEngine.label>rumskibets antistof fremdrivningssystem</ShipEngine.label>
+    <ShipEngine.description>Tillader dig at bruge et indeslutningssystem, med en kerne af antistof, som fremdrivningskraft til rumskib.</ShipEngine.description>
+    
+    <ShipComputerCore.label>rumskibets kernecomputer </ShipComputerCore.label>
+    <ShipComputerCore.description>Tillader anvendelsen af en eksisterende AI persona til kernecomputer, i et rumskibs navigationssystem.</ShipComputerCore.description>
+    
+</LanguageData>

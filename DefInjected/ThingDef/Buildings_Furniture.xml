@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--============================== Beds ==============================-->
+    
+    <SleepingSpot.label>sovested</SleepingSpot.label>
+    <SleepingSpot.description>Sætter et område på jorden hvor folk skal sove. Ikke komfortabelt. Søvn effektivitet: 7/10</SleepingSpot.description>
+    
+    <Bed.label>seng</Bed.label>
+    <Bed.description>En behagelig madras med lagen på en sengeramme til at sove på. Søvn effektivitet: 10/10</Bed.description>
+    
+    <RoyalBed.label>royal seng</RoyalBed.label>
+    <RoyalBed.description>En luksusseng, som er en royal værdi.</RoyalBed.description>
+    
+    <HospitalBed.label>hospital seng</HospitalBed.label>
+    <HospitalBed.description>En seng specielt designet til tilskadekomne mennesker. Forbedrer chance for successfuldt medicinsk arbejde.</HospitalBed.description>
+    
+    <!--======================= Basic domestic furniture ==============================-->
+    
+    <Stool.label>stol</Stool.label>
+    <Stool.description>Folk sidder her.</Stool.description>
+    
+    <TableShort.label>bord (kort)</TableShort.label>
+    <TableShort.description>Folk spiser ved bordene, når der er stole placeret ved dem.</TableShort.description>
+    
+    <TableLong.label>bord (langt)</TableLong.label>
+    <TableLong.description>Folk spiser ved bordene, når der er stole placeret ved dem.</TableLong.description>
+    
+    <!-- ======================== Lighting ======================= -->
+    
+    <StandingLamp.label>standerlampe</StandingLamp.label>
+    <StandingLamp.description>Standerlampe der oplyser et område.</StandingLamp.description>
+    
+    <StandingLamp_Red.label>standerlampe (rød)</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Standerlampe der oplyser et område in red.</StandingLamp_Red.description>
+    
+    <StandingLamp_Green.label>standerlampe (grøn)</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Standerlampe der oplyser et område in green.</StandingLamp_Green.description>
+    
+    <StandingLamp_Blue.label>standerlampe (blå)</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Standerlampe der oplyser et område in blue.</StandingLamp_Blue.description>
+    
+    <!--============================== Storage ==============================-->
+    
+    <EquipmentRack.label>redskabsholder</EquipmentRack.label>
+    <EquipmentRack.description>Slæbere bærer våben og redskaber herhen til opbevaring.</EquipmentRack.description>
+    
+</LanguageData>

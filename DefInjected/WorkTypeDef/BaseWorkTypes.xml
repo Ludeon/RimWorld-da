@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Research.pawnLabel>Forsker</Research.pawnLabel>
+    <Research.gerundLabel>Forsker</Research.gerundLabel>
+    <Research.verb>Forsker ved</Research.verb>
+    <Research.tooltipDesc>Forskere udfører forskningsarbejde.</Research.tooltipDesc>
+	
+    <Cleaning.pawnLabel>Rengører</Cleaning.pawnLabel>
+    <Cleaning.gerundLabel>Rengøring</Cleaning.gerundLabel>
+    <Cleaning.verb>Rengør</Cleaning.verb>
+    <Cleaning.tooltipDesc>Rengøringsfolk gør rent i baseområdet, hvilket gør at kolonien bliver meget hyggeligere at bo i.</Cleaning.tooltipDesc>
+	
+    <Hauling.pawnLabel>Slæbe</Hauling.pawnLabel>
+    <Hauling.gerundLabel>Slæber</Hauling.gerundLabel>
+    <Hauling.verb>Slæb</Hauling.verb>
+    <Hauling.tooltipDesc>Slæber sager væk til lagerpladser eller lossepladser.</Hauling.tooltipDesc>
+	
+    <Art.pawnLabel>Kunstner</Art.pawnLabel>
+    <Art.gerundLabel>Kunst</Art.gerundLabel>
+    <Art.verb>Udfør kunst ved</Art.verb>
+    <Art.tooltipDesc>Kunstnerer skaber smukke kunstværker.</Art.tooltipDesc>
+	
+    <Crafting.pawnLabel>Håndværker</Crafting.pawnLabel>
+    <Crafting.gerundLabel>Bygger</Crafting.gerundLabel>
+    <Crafting.verb>Byg ved</Crafting.verb>
+    <Crafting.tooltipDesc>Håndværkere bygger ting fra rå materialer.</Crafting.tooltipDesc>
+	
+    <PlantCutting.pawnLabel>Plantebeskærer</PlantCutting.pawnLabel>
+    <PlantCutting.gerundLabel>Gartner</PlantCutting.gerundLabel>
+    <PlantCutting.verb>beskærer</PlantCutting.verb>
+    <PlantCutting.tooltipDesc>Gartneren beskærer planter, der vokser vildt, når du har valgt et område med beskær.</PlantCutting.tooltipDesc>
+	
+    <Mining.pawnLabel>Miner</Mining.pawnLabel>
+    <Mining.gerundLabel>Minedrift</Mining.gerundLabel>
+    <Mining.verb>Min</Mining.verb>
+	<Mining.tooltipDesc>Minearbejdere graver grotter ud fra klipper, som du har valgt til minedrift. Hvis det miner klipper med råstoffer, så kommer disse materialer til at være tilgængelige til konstruktion.</Mining.tooltipDesc>
+    
+    <Growing.pawnLabel>Gror</Growing.pawnLabel>
+    <Growing.gerundLabel>Landmand</Growing.gerundLabel>
+    <Growing.verb>Gro</Growing.verb>
+    <Growing.tooltipDesc>Landmænd gror planter fra jorden og sørger for plantens opvækst til afgrøde.</Growing.tooltipDesc>
+	
+    <Repair.pawnLabel>Reparatør</Repair.pawnLabel>
+    <Repair.gerundLabel>Reparation</Repair.gerundLabel>
+    <Repair.verb>Reparere</Repair.verb>
+    <Repair.tooltipDesc>Reparerer bygninger og vedligeholder kolonien.</Repair.tooltipDesc>
+	
+    <Construction.pawnLabel>Konstruktør</Construction.pawnLabel>
+    <Construction.gerundLabel>Konstruktion</Construction.gerundLabel>
+    <Construction.verb>Konstruer</Construction.verb>
+    <Construction.tooltipDesc>Konstruktører bygger ting som du har valgt skal konstrueres.</Construction.tooltipDesc>
+	
+    <Hunting.pawnLabel>Jæger</Hunting.pawnLabel>
+    <Hunting.gerundLabel>Jagt</Hunting.gerundLabel>
+    <Hunting.verb>Jage</Hunting.verb>
+    <Hunting.tooltipDesc>Jægere jager dyr som du har valgt skal nedlægges.</Hunting.tooltipDesc>
+	
+    <Cooking.pawnLabel>Kok</Cooking.pawnLabel>
+    <Cooking.gerundLabel>Madlavning</Cooking.gerundLabel>
+    <Cooking.verb>Madlavning</Cooking.verb>
+    <Cooking.tooltipDesc>Kokke fylder næringspaté på automaten og forbereder måltider.</Cooking.tooltipDesc>
+	
+	
+    <Warden.pawnLabel>Vagt</Warden.pawnLabel>
+    <Warden.gerundLabel>Vagt</Warden.gerundLabel>
+    <Warden.verb>Vagt</Warden.verb>
+    <Warden.tooltipDesc>Vagter besøger fanger for at forsøge at rekruttere dem, snakke, mishandle dem, eller straffe dem - ud fra hvad du har bestemt. Vagter giver også fangerne mad - husk det.</Warden.tooltipDesc>
+	
+    <Patient.pawnLabel>Patient</Patient.pawnLabel>
+    <Patient.gerundLabel>Patient</Patient.gerundLabel>
+    <Patient.verb>Bliv patient</Patient.verb>
+    
+    <Doctor.pawnLabel>Læge</Doctor.pawnLabel>
+    <Doctor.gerundLabel>Læge</Doctor.gerundLabel>
+    <Doctor.verb>Tag sig af</Doctor.verb>
+    <Doctor.tooltipDesc>Læger bringer mad til dem, som ligger handikappede i senge efter kampe eller lignende. De tager hånd om både kolonister og fanger.</Doctor.tooltipDesc>
+	
+    <Firefighter.pawnLabel>Brandmand</Firefighter.pawnLabel>
+    <Firefighter.gerundLabel>Brandbekæmpelse</Firefighter.gerundLabel>
+    <Firefighter.verb>Sluk</Firefighter.verb>
+    <Firefighter.tooltipDesc>Brandmænd slukker brænde i kolonien.</Firefighter.tooltipDesc>
+	
+</LanguageData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- natural -->
+    
+    <Heart.label>hjerte</Heart.label>
+    <Heart.description>Pumper blod og oxygen rundt i alle kroppens del. Klar til at finde en ny ejer.</Heart.description>
+    
+    <Lung.label>lunge</Lung.label>
+    <Lung.description>Essentiel del af luftvejssystemet.</Lung.description>
+    
+    <Kidney.label>nyre</Kidney.label>
+    <Kidney.description>Filtrere og fjerner affaldsprodukter fra blodet.</Kidney.description>
+    
+    <Liver.label>lever</Liver.label>
+    <Liver.description>Spiller en vigtig rolle i stofskifte.</Liver.description>
+    
+    <!-- artificial - simple prosthetics -->
+    
+    <SimpleProstheticLeg.label>enkel benprotese</SimpleProstheticLeg.label>
+    <SimpleProstheticLeg.description>En enkel benprotese til at erstatte et manglende ben. Ikke komfortabelt, men effektivt.</SimpleProstheticLeg.description>
+    
+    <SimpleProstheticArm.label>enkel armprotese</SimpleProstheticArm.label>
+    <SimpleProstheticArm.description>En enkel armprotese men solid protese.</SimpleProstheticArm.description>
+    
+    <!-- artificial - bionics -->
+    
+    <BionicEye.label>bionisk øje</BionicEye.label>
+    <BionicEye.description>Avdanceret stykke teknologi som ikke kun erstatte naturligt øje, men også giver supernaturligt syn.</BionicEye.description>
+    
+    <BionicArm.label>bionisk arm</BionicArm.label>
+    <BionicArm.description>En sofistikeret erstatning for en arm. Giver ekstrem styrke til brugeren.</BionicArm.description>
+    
+    <BionicLeg.label>bionisk ben</BionicLeg.label>
+    <BionicLeg.description>Et bionisk ben er med den nyste teknologi medvirkende til at give ejeren ekstrem gå-komfort og styrke.</BionicLeg.description>
+    
+    <PowerClaw.label>kraft klo</PowerClaw.label>
+    <PowerClaw.description>Stærk hånd erstatning som giver brugeren tre dødelige klør.</PowerClaw.description>
+    
+    <ScytherKnifeProtrusion.label>scyther knivfremspring</ScytherKnifeProtrusion.label>
+    <ScytherKnifeProtrusion.description>Stærk hånd erstatning som giver brugeren mulighed for at skyde knive ud mellem håndens knogler. Særlig effektivt som nærkampsvåben.</ScytherKnifeProtrusion.description>
+    
+</LanguageData>

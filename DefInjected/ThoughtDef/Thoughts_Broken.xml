@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <CurrentlyBrokenPsychotic.label>psykotiske tanker</CurrentlyBrokenPsychotic.label>
+    <CurrentlyBrokenPsychotic.description>Må... slå ihjel!</CurrentlyBrokenPsychotic.description>
+    
+    <CurrentlyBrokenSad.label>nedbrudte tanker</CurrentlyBrokenSad.label>
+    <CurrentlyBrokenSad.description>Det er for meget at bære.</CurrentlyBrokenSad.description>
+    
+    <CurrentlyBrokenPanicFlee.label>panik</CurrentlyBrokenPanicFlee.label>
+    <CurrentlyBrokenPanicFlee.description>Jeg bliver nødt til at komme væk herfra!</CurrentlyBrokenPanicFlee.description>
+    
+</LanguageData>

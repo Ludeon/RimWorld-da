@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <SunLamp.label>sollampe</SunLamp.label>
+    <SunLamp.description>Oplyser et område, så man kan gro planter i nærheden.</SunLamp.description>
+    
+    <OrbitalTradeBeacon.label>kredsløbs handelsfyrtårn</OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>Nødvendig til kredsløbshandel. Du kan kun sælge varer som er tæt på kredsløbsRequired for orbital trading. You can only sell goods that are near an orbital trade beacon and not under a roof. Orbital traders will also drop goods near this.</OrbitalTradeBeacon.description>
+    
+    <ResearchBench.label>forskningsstation</ResearchBench.label>
+    <ResearchBench.description>Forskere arbejder her for at opdage nye ting.</ResearchBench.description>
+    
+    <CommsConsole.label>kommunikationskonsol</CommsConsole.label>
+    <CommsConsole.description>Kommuniker med rumskibe i kredsløb med planeten for handel af varer.</CommsConsole.description>
+    
+    <Grave.label>gravsted</Grave.label>
+    <Grave.description>Placer de døde i gravsteder, for at give dem et værdigt sidste hvilested.</Grave.description>
+    
+    <FertilizerPump.label>gødningspumpe</FertilizerPump.label>
+    <FertilizerPump.description>Udvider langsomt et jordområde til landbrug.</FertilizerPump.description>
+    
+</LanguageData>

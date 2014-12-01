@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Sandbags.label>sandsække</Sandbags.label>
+    
+    <!--=============== Improvised turret ===============-->
+    
+    <TurretGun.label>improviseret kanontårn</TurretGun.label>
+    
+    <!--=============== Mortar turret ===============-->
+    
+    <Turret_MortarIncendiary.label>brandbombe morter</Turret_MortarIncendiary.label>
+    
+    <!--=============== Mortar turret ===============-->
+    
+    <Turret_MortarBomb.label>morter</Turret_MortarBomb.label>
+    
+    <!--=============== Mortar turret ===============-->
+    
+    <Turret_MortarEMP.label>EMP morter</Turret_MortarEMP.label>
+    
+</LanguageData>

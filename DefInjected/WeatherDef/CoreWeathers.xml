@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Clear.label>skyfrit</Clear.label>
+    <Clear.description>En skyfri dag. Ingen minusser eller modifikationer.</Clear.description>
+    
+      <!-- Colors are Clear -->
+    
+    <Fog.label>tåget</Fog.label>
+    <Fog.description>Tåge nedsætter nøjagtigen og rækkevidden på skydende våben.</Fog.description>
+    
+      <!-- Colors are Overcast -->
+    
+    <Rain.label>regn</Rain.label>
+    <Rain.description>Regnvejr nedsætter nøjagtigen på skydende våben, slukker ildebrande og nedsætter farten for kolonister.</Rain.description>
+    
+      <!-- Colors are Overcast -->
+    
+    <DryThunderstorm.label>tørt tordenvejr</DryThunderstorm.label>
+    <DryThunderstorm.description>Tørt tordenvejr er farligt, fordi lyn kan starte ildebrand og der ikke er nogen regn til at slukke den igen.</DryThunderstorm.description>
+    
+      <!-- Colors are Overcast -->
+    
+    <RainyThunderstorm.label>regnfuldt tordenvejr</RainyThunderstorm.label>
+    <RainyThunderstorm.description>Lyn kan starte ildebrande, men regnen vil slukke dem igen. Regnen nedsætter kolonisternes bevægelseshastighed og nøjagtighed af skud.</RainyThunderstorm.description>
+    
+      <!-- Colors are Overcast -->
+    
+    <FoggyRain.label>tåget regnvejr</FoggyRain.label>
+    <FoggyRain.description>Nedsætter kolonisternes bevægelseshastighed og nøjagtighed af skud.</FoggyRain.description>
+    
+         <!-- Colors are Overcast -->
+    
+    <SnowHard.label>hårdt snevejr</SnowHard.label>
+    <SnowHard.description>Sne nedsætter kolonisternes bevægelseshastighed og nøjagtighed af skud, men slukker også brande.</SnowHard.description>
+    
+      <!-- Colors are Overcast -->
+    
+    <SnowGentle.label>mildt snevejr</SnowGentle.label>
+    <SnowGentle.description>Sne nedsætter nøjagtighed af skud, slukker ildebrande og nedsætter bevægelseshastighed.</SnowGentle.description>
+    
+      <!-- Colors are Overcast -->
+    
+</LanguageData>

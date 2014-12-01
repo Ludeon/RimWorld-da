@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <SolarFlare.label>soludbrud</SolarFlare.label>
+    <SolarFlare.description>Et soludbrud har ramt planeten. Det skaber ekstrem elektrisk forstyrrlese og afholder elektriske apparater fra at virke.</SolarFlare.description>
+    
+    <Eclipse.label>solformørkelse</Eclipse.label>
+    <Eclipse.description>En solformørkelse overskygger din verden. Det vil være mørkt, også om dagen..</Eclipse.description>
+    
+    <PsychicDrone.label>psykisk drone</PsychicDrone.label>
+    <PsychicDrone.description>En fjern, kraftfuld AI udsender bølger af psykisk kraft, der driver folk imod galskab.</PsychicDrone.description>
+    
+</LanguageData>

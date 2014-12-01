@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- ============================ Human ========================== -->
+    
+    <Human.label>menneske</Human.label>
+    <Human.description>Et generisk menneske, der for det meste ikke er gen-modiceret og står uforandret fra evolutionære pres, fra andre planeter end Jorden.</Human.description>
+    
+</LanguageData>

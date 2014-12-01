@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>SpeedOffset.degreeDatas[0].label</path>
+		<trans>sløv</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[0].description</path>
+		<trans>NAME falder altid bagud i gruppen, når HE går nogen steder hen.</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[1].label</path>
+		<trans>hurtig</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[1].description</path>
+		<trans>NAME kan lide at komme dertil hvor HE's skal hen. HECAP går hurtigere end de fleste.</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[2].label</path>
+		<trans>jogger</trans>
+	</rep>
+	<rep>
+		<path>SpeedOffset.degreeDatas[2].description</path>
+		<trans>NAME bevæger sig altid som om, der ingen tid er at spilde - så meget, at andre ofte falder bagud.</trans>
+	</rep>
+
+
+	<rep>
+		<path>NaturalMood.degreeDatas[0].label</path>
+		<trans>sangvinsk</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[0].description</path>
+		<trans>NAME er bare naturligt oppe og køre over HIS situation, rimelig meget hele tiden, ligegyldigt hvad der sker.</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[1].label</path>
+		<trans>optimist</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[1].description</path>
+		<trans>NAME er naturligt optimistisk omkring livet. Det er svært at få HIM ned med nakken.</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[2].label</path>
+		<trans>pessimist</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[2].description</path>
+		<trans>NAME har det med at se mest, på livets mørke sider.</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[3].label</path>
+		<trans>depressiv</trans>
+	</rep>
+	<rep>
+		<path>NaturalMood.degreeDatas[3].description</path>
+		<trans>NAME er evigt trist. HECAP har problemer med at vedligeholde et godt humør, selv når alting er okay.</trans>
+	</rep>
+
+
+	<rep>
+		<path>Nerves.degreeDatas[0].label</path>
+		<trans>jern-vilje</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[0].description</path>
+		<trans>NAME's vilje er som et jern skjold. HECAP fortsætter altid igennem tykt og tynd, når andre bryder sammen længe inden.</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[1].label</path>
+		<trans>standhaftig</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[1].description</path>
+		<trans>NAME er mentalt sej og vil ikke bryde sammen under stress, der vil nedbryde de fleste mennesker.</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[2].label</path>
+		<trans>nervøs</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[2].description</path>
+		<trans>NAME har det med at bryde sammen under pres.</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[3].label</path>
+		<trans>sårbar</trans>
+	</rep>
+	<rep>
+		<path>Nerves.degreeDatas[3].description</path>
+		<trans>NAME er på et knivsæg hele tiden. HECAP er den første der bryder sammen i en hård situation.</trans>
+	</rep>
+
+
+	<rep>
+		<path>Neurotic.degreeDatas[0].label</path>
+		<trans>neurotisk</trans>
+	</rep>
+	<rep>
+		<path>Neurotic.degreeDatas[0].description</path>
+		<trans>NAME kan godt lide at have ting på sin måde. HECAP vil arbjede hårdere end de fleste, for at bibeholde tingene på sin måde, men HIS nerver kan ramme HIM hårdt.</trans>
+	</rep>
+	<rep>
+		<path>Neurotic.degreeDatas[1].label</path>
+		<trans>meget neurotisk</trans>
+	</rep>
+	<rep>
+		<path>Neurotic.degreeDatas[1].description</path>
+		<trans>NAME føler sig konstant nervøs omkring alt det der skal ordnes. HECAP vil arbejde ekstremt hårdt for at bibeholde tingenes tilstand, men HIS nerver kan ramme HIM hårdt.</trans>
+	</rep>
+
+
+	<rep>
+		<path>Industriousness.degreeDatas[0].label</path>
+		<trans>industriøs</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[0].description</path>
+		<trans>NAME har det nemt ved at blive ved en opgave og fokusere, derfor bliver tingene gjort hurtigere end en normal person.</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[1].label</path>
+		<trans>hårdt arbejdende</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[1].description</path>
+		<trans>NAME er en naturligt hårdtarbejdende person og vil færdiggøre opgaver hurtigere end de fleste.</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[2].label</path>
+		<trans>slapsvans</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[2].description</path>
+		<trans>NAME er lidt af en slapsvans.</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[3].label</path>
+		<trans>coven</trans>
+	</rep>
+	<rep>
+		<path>Industriousness.degreeDatas[3].description</path>
+		<trans>NAME elsker at lave ingenting og hader alt produktivt. HECAP  bevæger sig langsomt og bliver sjældent ved en opgave i længere tid af gangen.</trans>
+	</rep>
+	
+
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[0].label</path>
+		<trans>psykisk hypersensitiv</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[0].description</path>
+		<trans>NAME's sind er som en si. HECAP er ekstremt sensitiv til fænomener der kan påvirke psyken.</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[1].label</path>
+		<trans>psykisk sensitiv</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[1].description</path>
+		<trans>NAME's sind er usædvanligt sensitivt overfor fænomener der påvirker psyken.</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[2].label</path>
+		<trans>slap psyke</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[2].description</path>
+		<trans>NAME's sind er ikke som de fleste andres. HECAP bliver ikke så påvirker af fænomener der rammer psyken.</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[3].label</path>
+		<trans>døv psyke</trans>
+	</rep>
+	<rep>
+		<path>PsychicSensitivity.degreeDatas[3].description</path>
+		<trans>NAME's sind arbejder på en helt anden psykisk frekvens end alle andre. HECAP bliver slet ikke påvirket af psykiske fænomener.</trans>
+	</rep>
+
+</LanguageData>

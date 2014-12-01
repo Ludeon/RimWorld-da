@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--=========================== Crops ==============================-->
+    
+    <PlantPotato.label>kartoffel plante</PlantPotato.label>
+    <PlantPotato.description>En simpel plante, med høj næringsværdi. Gror godt, selv i dårlig jord.</PlantPotato.description>
+    
+    <PlantStrawberry.label>jordbær plante</PlantStrawberry.label>
+    <PlantStrawberry.description>En skrøbelig men lækker frugt. Lækker selv når den er rå.</PlantStrawberry.description>
+    
+    <PlantCotton.label>bomuld plante</PlantCotton.label>
+    <PlantCotton.description>Giver bomuld, en fin plantefiber som bruges til at lave stof.</PlantCotton.description>
+    
+    <PlantDevilstrand.label>devilstrand</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Denne sårbare svamp er genetisk udformet til at producere silke af den højeste kvalitet. Rygtes at have mystiske egenskaber. dem skylder sit navn til grådigheden som planten inspirere i folk, der producerer den.</PlantDevilstrand.description>
+    
+    <!--=========================== Decorative ==============================-->
+    
+    <PlantRose.label>rose</PlantRose.label>
+    <PlantRose.description>En smuk kultiveret blomst.</PlantRose.description>
+    
+    <PlantDaylily.label>daglilje</PlantDaylily.label>
+    <PlantDaylily.description>En smuk kultiveret blomst.</PlantDaylily.description>
+    
+</LanguageData>

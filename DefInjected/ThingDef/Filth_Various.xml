@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <FilthBlood.label>blod</FilthBlood.label>
+    
+    <FilthDirt.label>skidt</FilthDirt.label>
+    
+    <FilthSand.label>sand</FilthSand.label>
+    
+    <RockRubble.label>stenklumper</RockRubble.label>
+    
+    <SlagRubble.label>slaggerklumper</SlagRubble.label>
+
+    <SandbagRubble.label>smadrede sandsække</SandbagRubble.label>
+        
+</LanguageData>

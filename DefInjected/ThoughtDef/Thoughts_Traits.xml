@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MoodOffsetSanguine.label>letsindig</MoodOffsetSanguine.label>
+    <MoodOffsetSanguine.description>Naturlig bonus fra Letsindigt karaktertrækket.</MoodOffsetSanguine.description>
+    
+    <MoodOffsetOptimist.label>optimist</MoodOffsetOptimist.label>
+    <MoodOffsetOptimist.description>Naturlig bonus fra Optimistisk karaktertrækket.</MoodOffsetOptimist.description>
+    
+    <MoodOffsetPessimist.label>pessimist</MoodOffsetPessimist.label>
+    <MoodOffsetPessimist.description>Naturlig bonus fra Pessimistisk karaktertrækket.</MoodOffsetPessimist.description>
+    
+    <MoodOffsetDepressive.label>depressiv</MoodOffsetDepressive.label>
+    <MoodOffsetDepressive.description>Naturligt handicap fra Depressiv karaktertrækket.</MoodOffsetDepressive.description>
+    
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Wealth.label>rigdom</Wealth.label>
+	<Wealth.graphLabelY>mængde</Wealth.graphLabelY>
+    
+    <Population.label>befolkning</Population.label>
+	<Population.graphLabelY>Kolonister</Population.graphLabelY>
+    
+    <ColonistMood.label>kolonist humør</ColonistMood.label>
+	<ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
+    
+</LanguageData>

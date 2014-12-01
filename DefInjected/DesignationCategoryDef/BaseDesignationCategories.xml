@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Orders.label>ordrer</Orders.label>
+    <Orders.description>Udpeg forskellige ordrer til at interagere med forskellige ting.</Orders.description>
+    
+    <Zone.label>zone</Zone.label>
+    <Zone.description>Udpeg zoner for kolonisterne laver forskellige aktiviteter.</Zone.description>
+    
+    <Structure.label>strukturer</Structure.label>
+    <Structure.description>Strukturelle konstruktioner som vægge og strømkabler.</Structure.description>
+    
+    <Production.label>produktion</Production.label>
+    <Production.description>Strukturer der bruges til at producere varer.</Production.description>
+    
+    <Furniture.label>møbler</Furniture.label>
+    <Furniture.description>Små konstruktioner.</Furniture.description>
+    
+    <Power.label>elektricitet</Power.label>
+    <Power.description>Elektricitets produktion, spredning og styring.</Power.description>
+    
+    <Security.label>sikkerhed</Security.label>
+    <Security.description>Sikkerhed og kamp-orienterede konstruktioner.</Security.description>
+    
+    <Misc.label>diverse</Misc.label>
+    <Misc.description>Diverse konstruktioner.</Misc.description>
+    
+    <Floors.label>gulve</Floors.label>
+    <Floors.description>Gulve.</Floors.description>
+    
+    <Decoration.label>dekorationer</Decoration.label>
+    <Decoration.description>Smukke ting til at forbedre kolonisternes humør.</Decoration.description>
+    
+    <Ship.label>rumskib</Ship.label>
+    <Ship.description>Komponenter til at bygge dit rumskib.</Ship.description>
+    
+</LanguageData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Root.label>rod</Root.label>
+    
+    <Resources.label>ressourcer</Resources.label>
+    
+    <Foods.label>madvarer</Foods.label>
+    
+    <FoodMeals.label>måltider</FoodMeals.label>
+    
+    <FoodRaw.label>rå</FoodRaw.label>
+    
+    <MeatRaw.label>kød</MeatRaw.label>
+    
+    <PlantFoodRaw.label>vegetarisk</PlantFoodRaw.label>
+    
+    <Manufactured.label>produceret</Manufactured.label>
+    
+    <Fabric.label>stof</Fabric.label>
+    
+    <ResourcesRaw.label>urørt</ResourcesRaw.label>
+    
+    <Items.label>varer</Items.label>
+    
+    <Weapons.label>våben</Weapons.label>
+    
+    <Apparel.label>beklædning</Apparel.label>
+    
+    <BodyParts.label>kropdele</BodyParts.label>
+    
+    <Chunks.label>klumper</Chunks.label>
+    
+    <Corpses.label>lig</Corpses.label>
+    
+    <CorpsesHumanoid.label>menneskelig</CorpsesHumanoid.label>
+    
+    <CorpsesAnimal.label>dyrelig</CorpsesAnimal.label>
+    
+    <CorpsesMechanoid.label>mechanoidlig</CorpsesMechanoid.label>
+    
+</LanguageData>

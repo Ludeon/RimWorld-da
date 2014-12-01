@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Apparel_CowboyHat.label>cowboy hat</Apparel_CowboyHat.label>
+    <Apparel_CowboyHat.description>Stilfuld dog gammeldags, denne hat holder solen og regnen væk - den giver alle der bærer den en smule ekstra charme. Det er den vigtigste del af traditionelt westerntøj.</Apparel_CowboyHat.description>
+    
+    <Apparel_PowerArmorHelmet.label>energipanser hjelm</Apparel_PowerArmorHelmet.label>
+    <Apparel_PowerArmorHelmet.description>Del af energipanser sættet, tit brugt af tungt infantri.</Apparel_PowerArmorHelmet.description>
+    
+    <Apparel_KevlarHelmet.label>kevlar hjelm</Apparel_KevlarHelmet.label>
+    <Apparel_KevlarHelmet.description>Essentiel del af personligtarmor. Used to help absorb the explosion of a grenade.</Apparel_KevlarHelmet.description>
+    
+    <Apparel_MilitaryHelmet.label>militær hjelm</Apparel_MilitaryHelmet.label>
+    <Apparel_MilitaryHelmet.description>Old-looking and heavy, but very useful during enemy assault. Mostly used to protect against low velocity projectiles.</Apparel_MilitaryHelmet.description>
+    
+</LanguageData>

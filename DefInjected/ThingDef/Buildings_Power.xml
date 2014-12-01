@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <PowerConduit.label>strøm ledning</PowerConduit.label>
+    
+    <SolarGenerator.label>solcelle generator</SolarGenerator.label>
+    <SolarGenerator.description>Producerer elektricitet fra sollys. Virker ikke når det er mørkt.</SolarGenerator.description>
+    
+    <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
+    <GeothermalGenerator.description>Producerer elektricitet fra en geotermisk generator. Skal placeres på en gejser.</GeothermalGenerator.description>
+    
+    <Battery.label>batteri</Battery.label>
+    <Battery.description>Opmagasinerer elektricitet når der produceres overskydende strøm og aflader når der er for lidt. Advarsel - batterier kan overophede i varme, eller når de er våde.</Battery.description>
+    
+</LanguageData>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- Local injuries -->
+    
+    <Cut.label>snitsår</Cut.label>
+    
+    <Crush.label>knust</Crush.label>
+    
+    <Blunt.label>stumt</Blunt.label>
+    
+    <Stab.label>stiksår</Stab.label>
+    
+    <Bullet.label>kugle</Bullet.label>
+    
+    <Arrow.label>pil</Arrow.label>
+    
+    <Scratch.label>ridse</Scratch.label>
+    
+    <Bite.label>bid</Bite.label>
+    
+    <Bomb.label>bombe</Bomb.label>
+    
+    <Flame.label>ild</Flame.label>
+    
+    <SurgicalCut.label>kirurgisk snitsår</SurgicalCut.label>
+    
+    <!-- Stun -->
+    
+    <Stun.label>lammet</Stun.label>
+    
+    <EMP.label>EMP</EMP.label>
+    
+    <!-- Global injuries -->
+    
+    <Bleeding.label>blødning</Bleeding.label>
+    
+    <Suffocation.label>kvælning</Suffocation.label>
+    
+    <Starvation.label>sult</Starvation.label>
+    
+    <!-- Healing local injury -->
+    
+    <HealLocalInjury.label>helbreder lille skade</HealLocalInjury.label>
+    
+    <!-- Healing global injury -->
+    
+    <HealGlobalInjury.label>helbreder stor skade</HealGlobalInjury.label>
+    
+    <!-- Restoring body part -->
+    
+    <RestoringBodyPart.label>genskaber kropsdel</RestoringBodyPart.label>
+    
+    <!-- misc -->
+    
+    <Breakdown.label>sammenbrud</Breakdown.label>
+    
+    <Mining.label>miner</Mining.label>
+    
+    <Rotting.label>rådner</Rotting.label>
+    
+    <Extinguish.label>brandslukning</Extinguish.label>
+    
+</LanguageData>

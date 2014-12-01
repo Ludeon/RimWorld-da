@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <AllowCorpsesColonist.label>tillad lig af kolonister</AllowCorpsesColonist.label>
+    <AllowCorpsesColonist.description>Tillad døde kolonister.</AllowCorpsesColonist.description>
+    
+    <AllowCorpsesStranger.label>tillad stranger corpses</AllowCorpsesStranger.label>
+    <AllowCorpsesStranger.description>Tillad døde fremmede og fjender.</AllowCorpsesStranger.description>
+    
+    <AllowBuried.label>tillad begravede lig</AllowBuried.label>
+    <AllowBuried.description>Tillad lig der allerede er blevet begravet.</AllowBuried.description>
+    
+    <AllowRotten.label>tillad rådne</AllowRotten.label>
+    <AllowRotten.description>Tillad organiske ting, der allerede er begyndt at gå i forrådnelse.</AllowRotten.description>
+    
+</LanguageData>

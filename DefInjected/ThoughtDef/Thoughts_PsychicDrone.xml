@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!-- psykisk drone -->
+    
+    <PsychicDroneLow.label>psykisk drone (lav)</PsychicDroneLow.label>
+    <PsychicDroneLow.description>Det er som om noget klør i baggrunden af mit sind. En stemme, en hvisken. Jeg kan kun høre få ord, og jeg kan ikke lide dem.</PsychicDroneLow.description>
+    
+    <PsychicDroneMedium.label>psykisk drone (mellem)</PsychicDroneMedium.label>
+    <PsychicDroneMedium.description>Det føles som om nogen altid er i udkanten af mit synsfelt, der taler til mig. Stemmen ændrer sig, men beskeden er den samme. Jeg får besked på at gøre folk ondt. Få det til at gå væk!</PsychicDroneMedium.description>
+    
+    <PsychicDroneHigh.label>psykisk drone (høj)</PsychicDroneHigh.label>
+    <PsychicDroneHigh.description>Stemmen er ubærligt høj. Det er svært at koncentrere sig. Jeg oplever at jeg står og taler med stemmen, råber af den. Men stemmen bliver ved med at råbe igen!</PsychicDroneHigh.description>
+    
+    <PsychicDroneExtreme.label>psykisk drone (ekstrem)</PsychicDroneExtreme.label>
+    <PsychicDroneExtreme.description>Mit hjerte banker og jeg sveder. Alt jeg kan tænke på er smerte og ondskab, samt alle disse fjender omkring mig. De er mit mareridt, mit mareridt, mit mareridt...</PsychicDroneExtreme.description>
+    
+</LanguageData>

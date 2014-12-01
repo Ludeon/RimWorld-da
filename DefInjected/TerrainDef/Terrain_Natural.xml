@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Sand.label>sand</Sand.label>
+    
+    <Soil.label>jord</Soil.label>
+    
+    <MarshyTerrain.label>sumpet jord</MarshyTerrain.label>
+    
+    <SoilRich.label>rig jord</SoilRich.label>
+    
+    <Mud.label>mudder</Mud.label>
+    
+    <Marsh.label>mose</Marsh.label>
+    
+    <Gravel.label>grus</Gravel.label>
+    
+    <RoughStone.label>grove sten</RoughStone.label>
+    
+</LanguageData>

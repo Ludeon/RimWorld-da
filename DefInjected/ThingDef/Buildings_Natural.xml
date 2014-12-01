@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <!--============================ Simple mineables ===============================-->
+    
+    <Sandstone.label>sandsten</Sandstone.label>
+    <Sandstone.description>En sedimentær bjergart, der består af sammenkittede sandpartikler.</Sandstone.description>
+    
+    <Limestone.label>kalksten</Limestone.label>
+    <Limestone.description>En sedimentær bjergart, der består af sammenkittede skaller fra havdyr.</Limestone.description>
+    
+    <Granite.label>granit</Granite.label>
+    <Granite.description>En meget hard stenart.</Granite.description>
+    
+    <Slate.label>skifer</Slate.label>
+    <Slate.description>Skifer er en mørk finkornet sedimentær eller metamorf bjergart, som bl.a. dannes af ler og mudder.</Slate.description>
+    
+    <Marble.label>marmor</Marble.label>
+    <Marble.description>En blød metamorf kalkstensart, der er meget velegnet til forarbejdning.</Marble.description>
+    
+    <CollapsedRocks.label>sammenstyrtet sten</CollapsedRocks.label>
+    <CollapsedRocks.description>Sten, sammenstyrtet og klemt sammen, som kan holde et tag.</CollapsedRocks.description>
+    
+    <!--============================ Resource rocks ===============================-->
+    
+    <MineableMetal.label>metal malm</MineableMetal.label>
+    <MineableMetal.description>Min dette for metal.</MineableMetal.description>
+    
+    <MineableSilver.label>sølv malm</MineableSilver.label>
+    <MineableSilver.description>Min dette for sølv.</MineableSilver.description>
+    
+    <MineableGold.label>guld malm</MineableGold.label>
+    <MineableGold.description>Min dette for guld.</MineableGold.description>
+    
+    <MineablePlasteel.label>kompakt plasteel</MineablePlasteel.label>
+    <MineablePlasteel.description>Ældgammel kompakt åre af plasteel.</MineablePlasteel.description>
+
+    <SteamGeyser.label>damp gejser</SteamGeyser.label>
+    <SteamGeyser.description>En naturlig springkilde og ressource af damp.</SteamGeyser.description>
+    
+</LanguageData>

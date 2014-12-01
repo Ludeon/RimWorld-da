@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Torso.label>overkrop</Torso.label>
+    
+    <UpperHead.label>skalp</UpperHead.label>
+    
+    <FullHead.label>hoved</FullHead.label>
+    
+    <Eyes.label>øjne</Eyes.label>
+    
+    <Arms.label>arme</Arms.label>
+    
+    <Hands.label>hænder</Hands.label>
+    
+    <LeftFist.label>venstre knytnæve</LeftFist.label>
+    
+    <RightFist.label>højre knytnæve</RightFist.label>
+    
+    <Legs.label>ben</Legs.label>
+    
+    <Feet.label>fødder</Feet.label>
+    
+    <Teeth.label>tænder</Teeth.label>
+    
+    <FrontLeftPaw.label>forreste venstre pote</FrontLeftPaw.label>
+    
+    <FrontRightPaw.label>forreste højre pote</FrontRightPaw.label>
+    
+    <HeadAttackTool.label>hoved</HeadAttackTool.label>
+    
+    <FrontLeftLeg.label>forreste venstre ben</FrontLeftLeg.label>
+    
+    <FrontRightLeg.label>forreste højre ben</FrontRightLeg.label>
+    
+    <FrontLeftClaws.label>forreste venstre klo</FrontLeftClaws.label>
+    
+    <FrontRightClaws.label>forreste højre klo</FrontRightClaws.label>
+    
+    <Mouth.label>mund</Mouth.label>
+    
+    <LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
+    
+    <RightKnifeProtrusion.label>højre knivsfremspring</RightKnifeProtrusion.label>
+    
+    <CoveredByNaturalArmor.label>dækket af naturligt panser</CoveredByNaturalArmor.label>
+    
+    <TuskAttackTool.label>stødtænder</TuskAttackTool.label>
+    
+    <HornAttackTool.label>horn</HornAttackTool.label>
+    
+    <TurtleBeakAttackTool.label>næb</TurtleBeakAttackTool.label>
+    
+</LanguageData>
