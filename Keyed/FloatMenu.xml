@@ -10,7 +10,7 @@
   <CannotUseReserved>Kan ikke bruge(reserveret)</CannotUseReserved>
   <CannotUseFull>Kan ikke bruge(fuld)</CannotUseFull>
   
-  <FireAt>Skyd på{0}</FireAt>
+  <FireAt>Skyd på {0}</FireAt>
 
   <OutOfRange>Udenfor rækkevidde</OutOfRange>
   <CannotHitTarget>Kan ikke ramme målet</CannotHitTarget>
@@ -18,8 +18,8 @@
 
   <OrderManThing>Bemand {0}</OrderManThing>
   
-  <MeleeAttack>Nærkamps angreb {0}</MeleeAttack>
-  <MeleeAttackToDeath>Nærkamps angreb {0} til døden</MeleeAttackToDeath>
+  <MeleeAttack>Nærkamps angrib {0}</MeleeAttack>
+  <MeleeAttackToDeath>Nærkamps angrib {0} til døden</MeleeAttackToDeath>
   <NoPath>ingen vej</NoPath>
 
 	<ForbiddenLower>forbudt</ForbiddenLower>
@@ -31,7 +31,7 @@
 	<MissingMaterials>materialebehov</MissingMaterials>
 	
 	
-  <CannotGoNoPath>Kan ikke gå hertil(ingen vej)</CannotGoNoPath>
+  <CannotGoNoPath>Kan ikke gå hertil (ingen vej)</CannotGoNoPath>
   <GoHere>Gå hertil</GoHere>
   
   <Arrest>Arrester {0}</Arrest>
