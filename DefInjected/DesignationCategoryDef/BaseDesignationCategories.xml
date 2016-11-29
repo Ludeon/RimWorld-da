@@ -2,9 +2,9 @@
 <LanguageData>
     
     <Orders.label>ordrer</Orders.label>
-    <Orders.description>Udpeg forskellige ordrer til at interagere med forskellige ting.</Orders.description>
+    <Orders.description>Udpeg forskellige ordrer til at integrer med forskellige ting.</Orders.description>
     
-    <Zone.label>zone</Zone.label>
+    <Zone.label>zone/områder</Zone.label>
     <Zone.description>Udpeg zoner for kolonisterne laver forskellige aktiviteter.</Zone.description>
     
     <Structure.label>strukturer</Structure.label>
@@ -28,8 +28,8 @@
     <Floors.label>gulve</Floors.label>
     <Floors.description>Gulve.</Floors.description>
     
-    <Decoration.label>Glæde</Decoration.label>
-    <Decoration.description>underholdning til at forbedre kolonisternes humør.</Decoration.description>
+    <Joy.label>Glæde</Joy.label>
+    <Joy.description>Ting til at forbedre kolonisternes humør.</Joy.description>
     
     <Ship.label>rumskib</Ship.label>
     <Ship.description>Komponenter til at bygge dit rumskib.</Ship.description>
