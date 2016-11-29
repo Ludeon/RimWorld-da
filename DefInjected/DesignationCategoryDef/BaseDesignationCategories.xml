@@ -2,10 +2,10 @@
 <LanguageData>
     
     <Orders.label>ordrer</Orders.label>
-    <Orders.description>Udpeg forskellige ordrer til at integrer med forskellige ting.</Orders.description>
+    <Orders.description>Designere specifike interaktioner med specifike ting.</Orders.description>
     
-    <Zone.label>zone/områder</Zone.label>
-    <Zone.description>Udpeg zoner for kolonisterne laver forskellige aktiviteter.</Zone.description>
+    <Zone.label>zone</Zone.label>
+    <Zone.description>Udpeg zoner og områder hvor kolonisterne vil lave bestemte aktiviteter.</Zone.description>
     
     <Structure.label>strukturer</Structure.label>
     <Structure.description>Strukturelle konstruktioner som vægge og strømkabler.</Structure.description>
