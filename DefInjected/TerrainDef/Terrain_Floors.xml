@@ -8,15 +8,21 @@
     
     <!-- ================= Tile ================= -->
     
-    <MetalTile.label>metal flisegulv</MetalTile.label>
-    <MetalTile.description>Flisegulv i metal, der giver et look ala rumskib.</MetalTile.description>
+    <MetalTile.label>metal fliser</MetalTile.label>
+    <MetalTile.description>Flisegulv i metal, der giver et look ala et rumskib.</MetalTile.description>
+	
+	<SilverTile.label>sølv fliser</SilverTile.label>
+    <SilverTile.description>Dyre og langsome at bygge, men meget flot. Passer perfekt med all slags luxuriøse rum.</SilverTile.description>
+	
+	<GoldTile.label>guld fliser</GoldTile.label>
+    <GoldTile.description>De smukkeste og mest imponerende gulv. Meget dyrt og kræver meget arbejde at bygge.</GoldTile.description>
+	
+	<SterileTile.label>sterile fliser</SterileTile.label>
+    <SterileTile.description>Sterile fliser hjælper med at holde rummet rent. Meget brubart i hospitaler til at forhindre patienterne i at få forskellige infektioner. Neutral i udsende og langsomt at bygge.</SterileTile.description>
     
-    <PavedTile.label>brolagt flisegulv</PavedTile.label>
+    <PavedTile.label>brolagt fliser</PavedTile.label>
     <PavedTile.description>Nyttebestemte beton fliser. Man kan bevæge sig hurtigt på disse, men kønne er de ikke.</PavedTile.description>
-    
-    <StoneTile.label>sten flisegulv</StoneTile.label>
-    <StoneTile.description>Solide sten fliser, som giver den der slotsfølelse.</StoneTile.description>
-    
+    	    
     <!-- ================= Carpets ================= -->
     
     <CarpetRed.label>rødt gulvtæppe</CarpetRed.label>
@@ -27,10 +33,16 @@
     
     <CarpetBlue.label>blåt gulvtæppe</CarpetBlue.label>
     <CarpetBlue.description>Tå-krammende gulvtæppe i en kølig blå farve.</CarpetBlue.description>
+
+	<CarpetCream.label>fløde gulvtæppe</CarpetCream.label>
+    <CarpetCream.description>Inviterende fløde-farvet gulvtæppe.</CarpetCream.description>
+	
+	<CarpetDark.label>mørkt gulvtæppe</CarpetDark.label>
+    <CarpetDark.description>Proffesionelt udseende mørkegråt gulvtæppe.</CarpetDark.description>
     
     <!-- ================= Foundation solids ================= -->
     
-    <Concrete.label>betongulv</Concrete.label>
+    <Concrete.label>beton</Concrete.label>
     <Concrete.description>Hurtig-hældt beton. Hurtigt at gå på, men ikke særlig kønt. Du vil have behov for, at grave jorden ud, for at kunne hælde betonen i.</Concrete.description>
     
     <SmoothStone.label>glat stengulv</SmoothStone.label>
