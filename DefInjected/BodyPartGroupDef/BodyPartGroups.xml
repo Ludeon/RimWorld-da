@@ -23,19 +23,19 @@
     
     <Teeth.label>tænder</Teeth.label>
     
-    <FrontLeftPaw.label>forreste venstre pote</FrontLeftPaw.label>
+    <FrontLeftPaw.label>venstre forpote</FrontLeftPaw.label>
     
-    <FrontRightPaw.label>forreste højre pote</FrontRightPaw.label>
+    <FrontRightPaw.label>højre forpote</FrontRightPaw.label>
     
     <HeadAttackTool.label>hoved</HeadAttackTool.label>
     
-    <FrontLeftLeg.label>forreste venstre ben</FrontLeftLeg.label>
+    <FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
     
-    <FrontRightLeg.label>forreste højre ben</FrontRightLeg.label>
+    <FrontRightLeg.label>højre forben</FrontRightLeg.label>
     
-    <FrontLeftClaws.label>forreste venstre klo</FrontLeftClaws.label>
+    <FrontLeftClaws.label>venstre forklo</FrontLeftClaws.label>
     
-    <FrontRightClaws.label>forreste højre klo</FrontRightClaws.label>
+    <FrontRightClaws.label>højre forklo</FrontRightClaws.label>
     
     <Mouth.label>mund</Mouth.label>
     
