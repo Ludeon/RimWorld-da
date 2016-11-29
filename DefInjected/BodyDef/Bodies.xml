@@ -3,19 +3,17 @@
     
     <Human.label>menneske</Human.label>
     
-    <QuadrupedAnimalWithPaws.label>firbenet dyr</QuadrupedAnimalWithPaws.label>
-    
-    <QuadrupedAnimalWithPawsAndTail.label>firbenet dyr</QuadrupedAnimalWithPawsAndTail.label>
-    
-    <QuadrupedAnimalWithHooves.label>firbenet dyr</QuadrupedAnimalWithHooves.label>
+    <QuadrupedAnimalWithPaws.label>firbenet dyr med potter</QuadrupedAnimalWithPaws.label>
+     
+    <QuadrupedAnimalWithHooves.label>firbenet dyr med hove</QuadrupedAnimalWithHooves.label>
     
     <QuadrupedAnimalWithHoovesAndHump.label>firbenet dyr</QuadrupedAnimalWithHoovesAndHump.label>
     
-    <QuadrupedAnimalWithHoovesAndTusks.label>firbenet dyr</QuadrupedAnimalWithHoovesAndTusks.label>
+    <QuadrupedAnimalWithHoovesAndTusks.label>firbenet dyr med hove og stødtænder</QuadrupedAnimalWithHoovesAndTusks.label>
     
-    <QuadrupedAnimalWithHoovesAndHorn.label>firbenet dyr</QuadrupedAnimalWithHoovesAndHorn.label>
+    <QuadrupedAnimalWithHoovesAndHorn.label>firbenet dyr med hove og horn</QuadrupedAnimalWithHoovesAndHorn.label>
     
-    <QuadrupedAnimalWithClawsTailAndJowl.label>firbenet dyr</QuadrupedAnimalWithClawsTailAndJowl.label>
+    <QuadrupedAnimalWithClawsTailAndJowl.label>firbenet dyr med klør, hale og kæbeben</QuadrupedAnimalWithClawsTailAndJowl.label>
     
     <BeetleLike.label>bille-agtig</BeetleLike.label>
     
