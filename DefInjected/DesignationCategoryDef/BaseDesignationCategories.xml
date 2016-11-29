@@ -28,8 +28,8 @@
     <Floors.label>gulve</Floors.label>
     <Floors.description>Gulve.</Floors.description>
     
-    <Decoration.label>dekorationer</Decoration.label>
-    <Decoration.description>Smukke ting til at forbedre kolonisternes humør.</Decoration.description>
+    <Decoration.label>Glæde</Decoration.label>
+    <Decoration.description>underholdning til at forbedre kolonisternes humør.</Decoration.description>
     
     <Ship.label>rumskib</Ship.label>
     <Ship.description>Komponenter til at bygge dit rumskib.</Ship.description>
