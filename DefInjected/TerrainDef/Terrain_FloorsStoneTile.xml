@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- ================= Not sure how to change the description ================= -->
+  
+  <TileSandstone.label>sandstens fliser</TileSandstone.label>
+    	
+	<TileGranite.label>granit fliser</TileGranite.label>
+	
+	<TileLimestone.label>Kalkstens fliser</TileLimestone.label>
+	
+	<TileSlate.label>skifersten fliser</TileSlate.label>
+	
+	<TileMarble.label>marmor fliser</TileMarble.label>
+    
+</LanguageData>
