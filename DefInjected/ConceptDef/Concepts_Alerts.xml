@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Forbidding.label>forbudt resource</Forbidding.label>
+    <Forbidding.helpTexts.0>Kolonist vil ikke inteagere med objekter der markeret som FORBUDT.\n\nForbudte objekter har et lille rødt krydt på sig. Vælg et forbudt objekt og brug kontrolknapper i bunden til at TILLADE det.</Forbidding.helpTexts.0>
+    
+    <Stockpiles.label>placer lagerplads</Stockpiles.label>
+    <Stockpiles.helpTexts.0>dine kolonister har brug for et sted at opbevare objekter. Designere en LAGERPLADS zone som de kan gemme objekter i.\n\nDu kan finde Lagerplads i ZONE sektionen af ARKITEKT fanen nederst på skærmen.</Stockpiles.helpTexts.0>
+    
+    <GrowingFood.label>placer mark</GrowingFood.label>
+    <GrowingFood.helpTexts.0>for at dyrke mad, placer en MARK zone ved at bruge ARKITEKT menuen.\n\nDe kan kun placeres på frugtbar jord.</GrowingFood.helpTexts.0>
+    
+    <EquippingWeapons.label>saml våben op</EquippingWeapons.label>
+    <EquippingWeapons.helpTexts.0>dine kolonister ankommer med nogle våben. Udstyr dem. Saml dem op!\n\nVælg hver kolonist og højreklik på våbnet du gerne vil have de samler op.</EquippingWeapons.helpTexts.0>
+    
+    <CameraZoom.label>Lær kammera zooming</CameraZoom.label>
+    <CameraZoom.helpTexts.0>zoom ind og ud med MUSEHJULET eller 'T' og 'G' knapperne.</CameraZoom.helpTexts.0>
+    
+    <WorkTab.label>Konfigurere arbejds instillinger</WorkTab.label>
+    <WorkTab.helpTexts.0>Du kan sætte hver kolonist's arbejds instillinger under ARBEJD's fanen nederst på skærmen.\n\nDe vil altid gøre det højst prioriterede arbejde de kan finde.\n\nHvis ingen har fået tildelt bestemte jobtyper, eller hvis de er optaget med højst prioriterede opgaver, vil det aldrig blive gjort.</WorkTab.helpTexts.0>
+    
+    <TimeControls.label>lær om tids kontrol</TimeControls.label>
+    <TimeControls.helpTexts.0>du kan sætte farten op eller ned, eller stoppe den helt ved at bruge knapperne nederst i højre hjørne.</TimeControls.helpTexts.0>
+    
+    <InfoCard.label>åben info kort</InfoCard.label>
+    <InfoCard.helpTexts.0>info kortene viser dig detaljerede statistiker om et hvilken som helst objekt, person, eller konstruktion.\n\nVælg en person eller et objekt og åben deres info kort med 'I' knappen på inspicer panellet.</InfoCard.helpTexts.0>
+    
+    <SpacePause.label>Lær space pause</SpacePause.label>
+    <SpacePause.helpTexts.0>tryk på SPACE for at pause eller afpause spillet.\n\nDu kan give ordrer imens spillet er paused.\n\nHusk dette - hvis tingene bliver hektisk, bare slå på SPACE!</SpacePause.helpTexts.0>
+    
+    <StorageTab.label>lær om lagerplads</StorageTab.label>
+    <StorageTab.helpTexts.0>du kan konfigurere Lagerplads og lager bygninger ved at vælge dem og åbne Lagerplads's fanen oven over det nederst-venstre inspicerings panel.</StorageTab.helpTexts.0>
+    
+    <MedicalOperations.label>lær om hospistals operationer</MedicalOperations.label>
+    <MedicalOperations.helpTexts.0>for at lave en operation, som at høste organer eller at installere proteser, åben en kolonists HELBREDs fane, skift så over til OPERATIONs underfanen.</MedicalOperations.helpTexts.0>
+    
+    <HomeArea.label>lær om hjemmeområder</HomeArea.label>
+    <HomeArea.helpTexts.0>HJEMMEOMRÅDET fortæller dine kolonister hvilke områder de skal holde ren og hvor de skal slukke ildebrand.\n\nDefiner HJEMMEOMRÅDER med Zone kategorien under ARKITEKT menuen.</HomeArea.helpTexts.0>
+    
+    <RightClickClearLetter.label>lær om at fjerne breve med Højreklik</RightClickClearLetter.label>
+    <RightClickClearLetter.helpTexts.0>du kan hurtigt fjerne inkommende beskeder ved at højreklikke på dem.</RightClickClearLetter.helpTexts.0>
+    
+    <BuildOrbitalTradeBeacon.label>Byg kredsløbs handelsfyr</BuildOrbitalTradeBeacon.label>
+    <BuildOrbitalTradeBeacon.helpTexts.0>for at sende objekter eller sølv til købmænd i kredsløb, skal du bygge et HANDELSFYR og placer en opbevarings zone med objekter i nærheden af det.</BuildOrbitalTradeBeacon.helpTexts.0>
+    
+    <SetGrowingZonePlant.label>lær om farm zone justering</SetGrowingZonePlant.label>
+    <SetGrowingZonePlant.helpTexts.0>du kan selv bestemme hvilke planter der skal vokse i en farm. Du kan enda plante træer!\n\nDu skal bare vælge farm zonen, åben Dyrk tappen, og klikke på 'plant' knappen.</SetGrowingZonePlant.helpTexts.0>
+    
+    <PrisonerTab.label>lær om fange tappen</PrisonerTab.label>
+    <PrisonerTab.helpTexts.0>kig i en fanges 'Fange' tap for at at bestemme hvordan de vil blive behandlet.\n\nDu har brug for en kolonist med Opsyndsmands arbejdet for at tage sig af fangerne.</PrisonerTab.helpTexts.0>
+    
+    <StoragePriority.label>lær at sætte Oplagrings prioritering</StoragePriority.label>
+    <StoragePriority.helpTexts.0>du kan ændre PRIORITERINGEN af en Oplaring. Kolonister vil fylde højt prioriterede Lagerplads først.</StoragePriority.helpTexts.0>
+    
+    <HistoryTab.label>lær om histore tappen</HistoryTab.label>
+    <HistoryTab.helpTexts.0>du kan se en optegnelse af din kolonis' værdier over tiden med HISTORIE tappen nederst på skærmen.</HistoryTab.helpTexts.0>
+    
+</LanguageData>
