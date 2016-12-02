@@ -9,6 +9,10 @@
     
     <Eyes.label>øjne</Eyes.label>
     
+	<Teeth.label>tænder</Teeth.label>
+	
+	<Mouth.label>mund</Mouth.label>
+	
     <Arms.label>arme</Arms.label>
     
     <Hands.label>hænder</Hands.label>
@@ -23,19 +27,19 @@
     
     <Teeth.label>tænder</Teeth.label>
     
-    <FrontLeftPaw.label>venstre forpote</FrontLeftPaw.label>
+    <FrontLeftPaw.label>forreste venstre pote</FrontLeftPaw.label>
     
-    <FrontRightPaw.label>højre forpote</FrontRightPaw.label>
+    <FrontRightPaw.label>forreste højre pote</FrontRightPaw.label>
     
     <HeadAttackTool.label>hoved</HeadAttackTool.label>
     
-    <FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
+    <FrontLeftLeg.label>forreste venstre ben</FrontLeftLeg.label>
     
-    <FrontRightLeg.label>højre forben</FrontRightLeg.label>
+    <FrontRightLeg.label>forreste højre ben</FrontRightLeg.label>
     
-    <FrontLeftClaws.label>venstre forklo</FrontLeftClaws.label>
+    <FrontLeftClaws.label>forreste venstre klo</FrontLeftClaws.label>
     
-    <FrontRightClaws.label>højre forklo</FrontRightClaws.label>
+    <FrontRightClaws.label>forreste højre klo</FrontRightClaws.label>
     
     <Mouth.label>mund</Mouth.label>
     
