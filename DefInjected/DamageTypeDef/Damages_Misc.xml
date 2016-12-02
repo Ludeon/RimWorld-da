@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Deterioration.label>forringelse</Deterioration.label>
+    
+    <Mining.label>graver</Mining.label>
+    
+    <Rotting.label>rådner</Rotting.label>
+    
+    <Extinguish.label>brandslukning</Extinguish.label>
+    
+    <Stun.label>lammet</Stun.label>
+    <Stun.deathMessage>{0} er blevet lammet.</Stun.deathMessage>
+    
+    <EMP.label>EMP</EMP.label>
+    <EMP.deathMessage>{0} er blevet EMP'et til døde.</EMP.deathMessage>
+    
+</LanguageData>
