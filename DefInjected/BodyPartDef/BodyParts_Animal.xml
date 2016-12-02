@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<InsectHead.label>hoved</InsectHead.label>
+	<SnakeBody.label>krop</SnakeBody.label>
+	<SnakeHead.label>hoved</SnakeHead.label>
+	<SnakeMouth.label>mund</SnakeMouth.label>
+	<InsectHeart.label>hjerte</InsectHeart.label>
+	<InsectNostril.label>næsebor</InsectNostril.label>
+	<InsectMouth.label>mund</InsectMouth.label>
+	<Body.label>krop</Body.label>
+	<Jowl.label>underkæbe</Jowl.label>
+	<Tail.label>hale</Tail.label>
+	<LeftAntenna.label>venstre antenne</LeftAntenna.label>
+	<RightAntenna.label>højre antenne</RightAntenna.label>
+	<Pronotum.label>pronotum</Pronotum.label>
+	<Shell.label>skal</Shell.label>
+	<LeftElytra.label>venstre elytra</LeftElytra.label>
+	<RightElytra.label>højre elytra</RightElytra.label>
+	<LeftTusk.label>venstre stødtand</LeftTusk.label>
+	<RightTusk.label>højre stødtand</RightTusk.label>
+	<Horn.label>horn</Horn.label>
+	<Hump.label>pukkel</Hump.label>
+	<TurtleShell.label>skal</TurtleShell.label>
+	<Plastron.label>plastron</Plastron.label>
+	<TurtleBeak.label>næb</TurtleBeak.label>
+	
+	<!-- animals legs -->
+	
+	<FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
+	<FrontRightLeg.label>højre forben</FrontRightLeg.label>
+	<MiddleLeftLeg.label>miderste venstre ben</MiddleLeftLeg.label>
+	<MiddleRightLeg.label>miderste højre ben</MiddleRightLeg.label>
+	<RearLeftLeg.label>bagerste venstre ben</RearLeftLeg.label>
+	<RearRightLeg.label>bagerste højre ben</RearRightLeg.label>
+	<FrontLeftInsectLeg.label>venstre forben</FrontLeftInsectLeg.label>
+	<FrontRightInsectLeg.label>højre forben</FrontRightInsectLeg.label>
+	<MiddleLeftInsectLeg.label>miderste venstre ben</MiddleLeftInsectLeg.label>
+	<MiddleRightInsectLeg.label>miderste højre ben</MiddleRightInsectLeg.label>
+	<RearLeftInsectLeg.label>bagerste venstre ben</RearLeftInsectLeg.label>
+	<RearRightInsectLeg.label>bagerste højre ben</RearRightInsectLeg.label>
+	<FrontLeftPaw.label>forben venstre pote</FrontLeftPaw.label>
+	<FrontRightPaw.label>forben højre pote</FrontRightPaw.label>
+	<RearLeftPaw.label>bagerste venstre pote</RearLeftPaw.label>
+	<RearRightPaw.label>bagerste højre pote</RearRightPaw.label>
+	<FrontLeftHoof.label>forreste venstre hov</FrontLeftHoof.label>
+	<FrontRightHoof.label>forreste højre hov</FrontRightHoof.label>
+	<RearLeftHoof.label>bagerste venstre hov</RearLeftHoof.label>
+	<RearRightHoof.label>bagerste højre hov</RearRightHoof.label>
+	<FrontLeftLegFirstClaw.label>venstre forbens første klo</FrontLeftLegFirstClaw.label>
+	<FrontLeftLegSecondClaw.label>venstre forbens anden klo</FrontLeftLegSecondClaw.label>
+	<FrontLeftLegThirdClaw.label>venstre forbens tredje klo</FrontLeftLegThirdClaw.label>
+	<FrontLeftLegFourthClaw.label>venstre forbens fjerde klo</FrontLeftLegFourthClaw.label>
+	<FrontLeftLegFifthClaw.label>venstre forbens femte klo</FrontLeftLegFifthClaw.label>
+	<FrontRightLegFirstClaw.label>højre forbens første klo</FrontRightLegFirstClaw.label>
+	<FrontRightLegSecondClaw.label>højre forbens anden klo</FrontRightLegSecondClaw.label>
+	<FrontRightLegThirdClaw.label>højre forbens tredje klo</FrontRightLegThirdClaw.label>
+	<FrontRightLegFourthClaw.label>højre forbens fjerde klo</FrontRightLegFourthClaw.label>
+	<FrontRightLegFifthClaw.label>højre forbens femte klo</FrontRightLegFifthClaw.label>
+	<RearLeftLegFirstClaw.label>venstre bagbens første klo</RearLeftLegFirstClaw.label>
+	<RearLeftLegSecondClaw.label>venstre bagbens anden klo</RearLeftLegSecondClaw.label>
+	<RearLeftLegThirdClaw.label>venstre bagbens tredje klo</RearLeftLegThirdClaw.label>
+	<RearLeftLegFourthClaw.label>venstre bagbens fjerde klo</RearLeftLegFourthClaw.label>
+	<RearLeftLegFifthClaw.label>venstre bagbens femte klo</RearLeftLegFifthClaw.label>
+	<RearRightLegFirstClaw.label>højre bagbens første klo</RearRightLegFirstClaw.label>
+	<RearRightLegSecondClaw.label>højre bagbens anden klo</RearRightLegSecondClaw.label>
+	<RearRightLegThirdClaw.label>højre bagbens tredje klo</RearRightLegThirdClaw.label>
+	<RearRightLegFourthClaw.label>højre bagbens fjerde klo</RearRightLegFourthClaw.label>
+	<RearRightLegFifthClaw.label>højre bagbens femte klo</RearRightLegFifthClaw.label>
+
+</LanguageData>
