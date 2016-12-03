@@ -3,9 +3,9 @@
 
 	<MechanicalThorax.label>brystkasse</MechanicalThorax.label>
 	
-	<LeftBlade.label>venstre blad</LeftBlade.label>
+	<LeftBlade.label>venstre klinge</LeftBlade.label>
 
-    <RightBlade.label>højre blad</RightBlade.label>
+    	<RightBlade.label>højre klinge</RightBlade.label>
 	
 	<MechanicalNeck.label>nakke</MechanicalNeck.label>
 	
