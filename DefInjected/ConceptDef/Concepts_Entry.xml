@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     
-    <WorldCameraMovement.helpTexts.0>Zoom in med MUSEHJULET eller PAGEUP/PAGEDOWN.\n\nFlyt rundt med WASD eller PILTASTERNE, eller ved at MIDTERKLIKKE og TRÆkkE.</WorldCameraMovement.helpTexts.0>
+    <WorldCameraMovement.label>Verdenskamera bevægelse</WorldCameraMovement.label>
+    
+    <WorldCameraMovement.helpText>Zoom med MUSEHJULESKNAPPEN eller {Key:MapZoomIn} og {Key:MapZoomOut} knapper.\n\nFlyt rundt med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} knapperne, eller med MIDT-KLIK og TRÆK.</WorldCameraMovement.helpText>
     
 </LanguageData>
