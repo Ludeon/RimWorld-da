@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <AridShrubland.label>Goldt busklandskab</AridShrubland.label>
+    <AridShrubland.description>En tør region, men ikke tør nok til at blive en ørken. Åbne områder med græs, buske og pletvist træer. Planter er hårdføre og der er en moderat mængde af dyr.</AridShrubland.description>
+
+    <Desert.label>Ørken</Desert.label>
+    <Desert.description>Et meget tørt, varmt område som ikke har gode vilkår for liv.</Desert.description>
+
+    <ExtremeDesert.label>extrem ørken</ExtremeDesert.label>
+    <ExtremeDesert.description>Et extremt varmt, tørt område, næsten blottet for alt levende. Enorm varme og begrænset vegetation gør det meget svært at overleve her, selv for godt tilpasset dyr.</ExtremeDesert.description>
+
+</LanguageData>

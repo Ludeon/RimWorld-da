@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Ocean.label>Hav</Ocean.label>
+    <Ocean.description>Åbent hav. Fantastisk for fisk - ikke så godt for dig.</Ocean.description>
+
+    <TemperateForest.label>tempereret skov</TemperateForest.label>
+    <TemperateForest.description>En venlig biome domineret af skov og med forskellige træer, med områder af frugtbar jord. Mange forskellige dyrearter lever imellem træerne og græssletterne.</TemperateForest.description>
+
+	<TropicalRainforest.label>tropisk regnskov</TropicalRainforest.label>
+    <TropicalRainforest.description>En tyk, fugtig jungle. Den overgroede skov og de aggressive dyr gør konstruktion og overlevelse besværligt.</TropicalRainforest.description>
+
+</LanguageData>

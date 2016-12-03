@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+    <BorealForest.label>nordlig skov</BorealForest.label>
+    <BorealForest.description>Nordlige skove af nåletræer. På trods af barske vintre kan skovene her understøtte en bred mængde af både små og store dyr.</BorealForest.description>
+
+    	<Tundra.label>tundra</Tundra.label>
+    <Tundra.description>Disse for det meste, frosne sletter har ikke mange træer og beplantning. Der er få dyr og store flokke af vandrende planteædere - samt kødæderne der følger efter dem.</Tundra.description>
+	
+	<IceSheet.label>Iskappe</IceSheet.label>
+    <IceSheet.description>Overfladen er dækket af en iskappe, der kan være flere kilometer tyk. Der er ingen adgang til jord, så der er ingen planter. De eneste dyr der ses her migrerer andre steder hen - eller er kommet på afveje.</IceSheet.description>
+
+</LanguageData>
