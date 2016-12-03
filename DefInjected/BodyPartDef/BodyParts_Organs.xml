@@ -2,11 +2,17 @@
 <LanguageData>
 
   <Heart.label>hjerte</Heart.label>
+  
   <LeftLung.label>venstre lunge</LeftLung.label>
+  
   <RightLung.label>højre lunge</RightLung.label>
+  
   <LeftKidney.label>venstre nyre</LeftKidney.label>
+  
   <RightKidney.label>højre nyre</RightKidney.label>
+  
   <Liver.label>lever</Liver.label>
+  
   <Stomach.label>mave</Stomach.label>
 
 </LanguageData>
