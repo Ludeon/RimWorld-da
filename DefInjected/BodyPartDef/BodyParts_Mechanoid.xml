@@ -2,51 +2,97 @@
 <LanguageData>
 
 	<MechanicalThorax.label>brystkasse</MechanicalThorax.label>
-	<LeftKnifeProtrusion.label>venstre knivsfremspring</LeftKnifeProtrusion.label>
-	<RightKnifeProtrusion.label>højre knivsfremspring</RightKnifeProtrusion.label>
+	
+	<LeftBlade.label>venstre blad</LeftBlade.label>
+
+    <RightBlade.label>højre blad</RightBlade.label>
+	
 	<MechanicalNeck.label>nakke</MechanicalNeck.label>
+	
 	<MechanicalHead.label>hoved</MechanicalHead.label>
+	
 	<LeftSightSensor.label>venstre synssensor</LeftSightSensor.label>
+	
 	<RightSightSensor.label>højre synssensor</RightSightSensor.label>
+	
 	<LeftHearingSensor.label>venstre høresensor</LeftHearingSensor.label>
+	
 	<RightHearingSensor.label>højre høresensor</RightHearingSensor.label>
+	
 	<SmellSensor.label>lugtesesnor</SmellSensor.label>
+	
 	<LeftMechanicalShoulder.label>venstre skulder</LeftMechanicalShoulder.label>
+	
 	<LeftMechanicalArm.label>venstre arm</LeftMechanicalArm.label>
+	
 	<LeftMechanicalHand.label>venstre hånd</LeftMechanicalHand.label>
+	
 	<LeftHandMechanicalPinky.label>venstre lillefinger</LeftHandMechanicalPinky.label>
+	
 	<LeftHandMechanicalRingFinger.label>venstre ringfinger</LeftHandMechanicalRingFinger.label>
+	
 	<LeftHandMechanicalMiddleFinger.label>venstre langefinger</LeftHandMechanicalMiddleFinger.label>
+	
 	<LeftHandMechanicalIndexFinger.label>venstre pegefinger</LeftHandMechanicalIndexFinger.label>
+	
 	<LeftHandMechanicalThumb.label>venstre tommeltot</LeftHandMechanicalThumb.label>
+	
 	<RightMechanicalShoulder.label>højre skulder</RightMechanicalShoulder.label>
+	
 	<RightMechanicalArm.label>højre arm</RightMechanicalArm.label>
+	
 	<RightMechanicalHand.label>højre hånd</RightMechanicalHand.label>
+	
 	<RightHandMechanicalPinky.label>højre lillefinger</RightHandMechanicalPinky.label>
+	
 	<RightHandMechanicalRingFinger.label>højre ringfinger finger</RightHandMechanicalRingFinger.label>
+	
 	<RightHandMechanicalMiddleFinger.label>højre langefinger</RightHandMechanicalMiddleFinger.label>
+	
 	<RightHandMechanicalIndexFinger.label>højre pegefinger</RightHandMechanicalIndexFinger.label>
+	
 	<RightHandMechanicalThumb.label>højre tommelfinger</RightHandMechanicalThumb.label>
+	
 	<LeftMechanicalLeg.label>venstre ben</LeftMechanicalLeg.label>
+	
 	<LeftMechanicalFoot.label>venstre fod</LeftMechanicalFoot.label>
+	
 	<LeftFootMechanicalLittleToe.label>venstre lilletå</LeftFootMechanicalLittleToe.label>
+	
 	<LeftFootMechanicalFourthToe.label>venstre fjerde tå</LeftFootMechanicalFourthToe.label>
+	
 	<LeftFootMechanicalMiddleToe.label>venstre miderste tå</LeftFootMechanicalMiddleToe.label>
+	
 	<LeftFootMechanicalSecondToe.label>venstre fods anden tå</LeftFootMechanicalSecondToe.label>
+	
 	<LeftFootMechanicalBigToe.label>venstre fods storetå</LeftFootMechanicalBigToe.label>
+	
 	<RightMechanicalLeg.label>højre ben</RightMechanicalLeg.label>
+	
 	<RightMechanicalFoot.label>højre fod</RightMechanicalFoot.label>
+	
 	<RightFootMechanicalLittleToe.label>højre fods lilletå</RightFootMechanicalLittleToe.label>
+	
 	<RightFootMechanicalFourthToe.label>højre fods fjerde tå</RightFootMechanicalFourthToe.label>
+	
 	<RightFootMechanicalMiddleToe.label>højre fods miderste tå</RightFootMechanicalMiddleToe.label>
+	
 	<RightFootMechanicalSecondToe.label>højre fods anden tå</RightFootMechanicalSecondToe.label>
+	
 	<RightFootMechanicalBigToe.label>højre fods storetå</RightFootMechanicalBigToe.label>
+	
 	<MechanicalCentipedeBodyFirstRing.label>første kropsring</MechanicalCentipedeBodyFirstRing.label>
+	
 	<MechanicalCentipedeBodySecondRing.label>anden kropsring</MechanicalCentipedeBodySecondRing.label>
+	
 	<MechanicalCentipedeBodyThirdRing.label>trejde kropsring</MechanicalCentipedeBodyThirdRing.label>
+	
 	<MechanicalCentipedeBodyFourthRing.label>fjerde kropsring</MechanicalCentipedeBodyFourthRing.label>
+	
 	<MechanicalCentipedeBodyFifthRing.label>femte kropsring</MechanicalCentipedeBodyFifthRing.label>
+	
 	<MechanicalCentipedeBodySixthRing.label>sjette kropsring</MechanicalCentipedeBodySixthRing.label>
+	
 	<ArtificialBrain.label>kunstig hjerne</ArtificialBrain.label>
 
 </LanguageData>
