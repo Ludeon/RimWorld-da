@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Normal humanlike factions -->
+
+  <Outlander.label>Udlænding</Outlander.label>
+  <Outlander.description>Et lille samfund af overleverer.\n\nDette folk har levet for årtier eller århundreder, og har mistet meget af den teknologi de havde med sig til denne verden. De arbejder som regel med simple, mekaniske værktøjer og forsvare sig selv med advanceret krudt våben.\n\nDe går meget op i praktiske ting ved handel, tiltro, og overlevelse.</Outlander.description>
+  <Outlander.pawnsPlural>Udlændinge</Outlander.pawnsPlural>
+  <Outlander.leaderTitle>borgmester</Outlander.leaderTitle>
+
+  <Tribe.label>Stamme</Tribe.label>
+  <Tribe.description>Dette folk har været her i rigtig lang tid. Måske har deres forfædre nødlandet her for tusinde af år siden. Måske overlevede de en eller anden kataklysme der ødelage en teknologisk civilisation. Uanset hvad, stammefolket er for det meste nomader som lever af landet ved at bruge primitive værktøjer og våben\n\nNogle stammer er mere aggressive end andre; mange er åbne over for handel og alliancer, selv med fremmede som dem selv. Tæt samarbejde eller rekrutering vil meget svært pågrund af den store forskel der er på stammens og jeres samfundsteknologi og sprogkunskaber.\n\nPå trods af deres tydelige teknologiske svaghed, kan stammefolk være farlige fjender og værdifulde venner pågrund af deres træning med simpel krigsførsel, deres antal, og deres hårdførhed.</Tribe.description>
+  <Tribe.pawnsPlural>Stammefolk</Tribe.pawnsPlural>
+  <Tribe.leaderTitle>Høvding</Tribe.leaderTitle>
+
+  <Pirate.label>Pirater</Pirate.label>
+  <Pirate.description>en bande af banditer.\n\nPirater sår ikke, de bygger ikke, og de forhandler sjælendt. De beriger sig selv for det meste ved at plyndre og stjæle fra de mere produktive grupper i området.\n\nDeres teknologi nivau afhænger for det meste af hvem de har været istand til at stjæle fra for nylig. Oftes vil de være bevæbnet med våben, dog vil de mere heldige have advancerede energi våben, og nogle kan måske enda bare lide at stikke folk ned tæt på.</Pirate.description>
+  <Pirate.pawnsPlural>Piratbande</Pirate.pawnsPlural>
+  <Pirate.leaderTitle>Bossen</Pirate.leaderTitle>
+  
+</LanguageData>

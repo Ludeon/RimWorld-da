@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Spacer.label>Rumrejsende</Spacer.label>
+  <Spacer.description>Folk fra de dybbeste dybter af rummet.</Spacer.description>
+  <Spacer.pawnsPlural>Rumrejsende</Spacer.pawnsPlural>
+  <Spacer.fixedName>Rumrejsende</Spacer.fixedName>
+
+  <SpacerHostile.label>Rumrejsende</SpacerHostile.label>
+  <SpacerHostile.description>Folk fra de dybbeste dybter af rummet.</SpacerHostile.description>
+  <SpacerHostile.pawnsPlural>Rumrejsende</SpacerHostile.pawnsPlural>
+  <SpacerHostile.fixedName>Rumrejsende</SpacerHostile.fixedName>
+
+  <!-- Special sub-humanlike factions -->
+
+  <Mechanoid.label>Maskinide</Mechanoid.label>
+  <Mechanoid.description>en sværm af urgamle selv-reparende maksiner.</Mechanoid.description>
+  <Mechanoid.pawnsPlural>Maskinider</Mechanoid.pawnsPlural>
+  <Mechanoid.fixedName>en maskinide cube</Mechanoid.fixedName>
+  
+  <Insect.label>Insekt</Insect.label>
+  <Insect.description>Som regel aggressive og indtrængende insekter.</Insect.description>
+  <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
+  <Insect.fixedName>Insekter</Insect.fixedName>
+
+</LanguageData>
