@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <RaidEnemy.label>fjendtlig angreb</RaidEnemy.label>
+
+    <Infestation.label>infestation</Infestation.label>
+    <Infestation.letterLabel>Infestation</Infestation.letterLabel>
+    <Infestation.letterText>En insektbo er dukket op!\n\nDen vil langsomt gyde insekter og producere endnu flere bo. Hvis du ikke vil have dem til at infestere hele området, få samling på dine tropper og ødelæg den. Men var advaret - insekterne vil forsvare deres bo.</Infestation.letterText>
+
+    <ManhunterPack.label>en flok menneskejægere</ManhunterPack.label>
+
+    <PsychicEmanatorShipPartCrash.label>rumskibsdel er styrtet ned (psykiske)</PsychicEmanatorShipPartCrash.label>
+    <PsychicEmanatorShipPartCrash.letterLabel>psykiske rumskib</PsychicEmanatorShipPartCrash.letterLabel>
+    <PsychicEmanatorShipPartCrash.letterText>Et stort stykke af en elgammel rumskib er styrtet ned i nærheden.\n\nDine kolonister kan mærke at den formaner ubeskrivelige handlinger i deres tanker. Den må have en AI persona med psykiske projektions evner. Og denne AI er ikke venligsindet.\n\nØdelæg den så hurtigt som muligt.</PsychicEmanatorShipPartCrash.letterText>
+
+    <PoisonShipPartCrash.label>umskibsdel er styrtet ned (giftig)</PoisonShipPartCrash.label>
+    <PoisonShipPartCrash.letterLabel>Gift rumskib</PoisonShipPartCrash.letterLabel>
+    <PoisonShipPartCrash.letterText>Et stort stykke af en elgammel rumskib er styrtet ned i nærheden.\n\nDen lækker giftaffald og vil dræbe alt planteliv i en udvidende circle omkring sig.\n\nØdelæg den så hurtigt som mulight.</PoisonShipPartCrash.letterText>
+
+    <AnimalInsanityMass.label>Masse dyregalskab</AnimalInsanityMass.label>
+
+</LanguageData>

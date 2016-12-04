@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <ShipChunkDrop.label>rumskibs klump faldt ned</ShipChunkDrop.label>
+
+    <OrbitalTraderArrival.label>kredsløbs forhandler ankomst</OrbitalTraderArrival.label>
+
+    <TraderCaravanArrival.label>handelskaravane er ankommet</TraderCaravanArrival.label>
+
+    <VisitorGroup.label>gruppe af besøgende</VisitorGroup.label>
+
+    <TravelerGroup.label>rejsegruppe</TravelerGroup.label>
+
+    <ResourcePodCrash.label>resource kapsel styrt</ResourcePodCrash.label>
+
+    <RaidFriendly.label>venskabeligt angreb</RaidFriendly.label>
+
+    <WandererJoin.label>vandrer tilslutter sig</WandererJoin.label>
+
+    <RefugeePodCrash.label>flygninge kapsel styrt</RefugeePodCrash.label>
+
+    <PsychicSoothe.label>psykiske dulmen</PsychicSoothe.label>
+
+    <SelfTame.label>selv tæmmet</SelfTame.label>
+
+    <FarmAnimalsWanderIn.label>farm dyr vandre in</FarmAnimalsWanderIn.label>
+
+</LanguageData>

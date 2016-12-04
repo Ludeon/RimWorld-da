@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Disease_Flu.label>influenza</Disease_Flu.label>
+
+    <Disease_Plague.label>pest</Disease_Plague.label>
+
+    <Disease_Malaria.label>malaria</Disease_Malaria.label>
+
+    <Disease_SleepingSickness.label>sovesyge</Disease_SleepingSickness.label>
+
+    <Disease_FibrousMechanites.label>fiberholdige mekanitter</Disease_FibrousMechanites.label>
+
+    <Disease_SensoryMechanites.label>sanse mekanitter</Disease_SensoryMechanites.label>
+
+    <Disease_GutWorms.label>maveorm</Disease_GutWorms.label>
+
+    <Disease_MuscleParasites.label>muskel parasitter</Disease_MuscleParasites.label>
+
+</LanguageData>
