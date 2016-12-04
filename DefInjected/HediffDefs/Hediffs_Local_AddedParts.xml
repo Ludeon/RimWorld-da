@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PegLeg.label>træben</PegLeg.label>
+
+    <Denture.label>protese</Denture.label>
+
+    <SimpleProstheticLeg.label>simpel proteseben</SimpleProstheticLeg.label>
+
+    <SimpleProstheticArm.label>simple protesearm</SimpleProstheticArm.label>
+
+    <BionicEye.label>bionisk øje</BionicEye.label>
+
+    <BionicArm.label>bionisk arm</BionicArm.label>
+
+    <BionicLeg.label>bionisk ben</BionicLeg.label>
+
+    <PowerClaw.label>kraft klo</PowerClaw.label>
+
+    <ScytherBlade.label>Snitter klinge</ScytherBlade.label>
+
+</LanguageData>

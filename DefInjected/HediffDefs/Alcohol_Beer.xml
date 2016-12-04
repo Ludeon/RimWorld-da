@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <AlcoholHigh.label>alkohold</AlcoholHigh.label>
+    <AlcoholHigh.stages.0.label>buzzed-hidden</AlcoholHigh.stages.0.label>
+    <AlcoholHigh.stages.1.label>varm</AlcoholHigh.stages.1.label>
+    <AlcoholHigh.stages.2.label>snalret</AlcoholHigh.stages.2.label>
+    <AlcoholHigh.stages.3.label>fuld</AlcoholHigh.stages.3.label>
+    <AlcoholHigh.stages.4.label>stangstiv</AlcoholHigh.stages.4.label>
+    <AlcoholHigh.stages.5.label>gået kold</AlcoholHigh.stages.5.label>
+
+    <Hangover.label>tømmermænd</Hangover.label>
+    <Hangover.stages.0.label>lidt</Hangover.stages.0.label>
+    <Hangover.stages.1.label>kraftig</Hangover.stages.1.label>
+    <Hangover.stages.2.label>tordende</Hangover.stages.2.label>
+
+    <AlcoholTolerance.label>alkoholds tolerance</AlcoholTolerance.label>
+
+    <AlcoholAddiction.label>alkoholds afhængighed</AlcoholAddiction.label>
+    <AlcoholAddiction.stages.1.label>abstinenser</AlcoholAddiction.stages.1.label>
+
+</LanguageData>

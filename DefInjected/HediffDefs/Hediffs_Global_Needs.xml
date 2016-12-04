@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Malnutrition.label>Underernæring</Malnutrition.label>
+    <Malnutrition.stages.0.label>triviel</Malnutrition.stages.0.label>
+    <Malnutrition.stages.1.label>lidt</Malnutrition.stages.1.label>
+    <Malnutrition.stages.2.label>moderate</Malnutrition.stages.2.label>
+    <Malnutrition.stages.3.label>alvorligt</Malnutrition.stages.3.label>
+    <Malnutrition.stages.4.label>ekstremt</Malnutrition.stages.4.label>
+
+</LanguageData>
