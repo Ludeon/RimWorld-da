@@ -21,4 +21,28 @@
 
     <Wavy.label>buet</Wavy.label>
     
+	<BraidedKnot.label>Flettet knol</BraidedKnot.label>
+	
+	<Topdog.label>topdog</Topdog.label>
+	
+	<Senorita.label>senorita</Senorita.label>
+	
+	<ScorpionTail.label>scorpion hale</ScorpionTail.label>
+	
+	<BriefPonytail.label>kort hestehale</BriefPonytail.label>
+	
+	<Troubadour.label>troubadour</Troubadour.label>
+	
+	<Messy.label>rodet</Messy.label>
+
+	<Princess.label>princesse</Princess.label>
+	
+	<Firestarter.label>ildstarter</Firestarter.label>
+	
+	<GreasySwoop.label>fedtet swoop</GreasySwoop.label>
+	
+	<Curly.label>krøllet</Curly.label>
+	
+	<Scatman.label>scatman</Scatman.label>
+	
 </LanguageData>
