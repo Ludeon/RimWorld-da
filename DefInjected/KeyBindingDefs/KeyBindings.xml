@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MapDollyUp.label>kammera op</MapDollyUp.label>
+
+    <MapDollyDown.label>kammera ned</MapDollyDown.label>
+
+    <MapDollyLeft.label>kammera til venstre</MapDollyLeft.label>
+
+    <MapDollyRight.label>kammera til højre</MapDollyRight.label>
+
+    <MapZoomIn.label>zoom ind</MapZoomIn.label>
+
+    <MapZoomOut.label>zoom ud</MapZoomOut.label>
+
+    <TakeScreenshot.label>tag skærmbillede</TakeScreenshot.label>
+
+    <ToggleScreenshotMode.label>skift imellem skærmbilleds tilstands</ToggleScreenshotMode.label>
+
+    <SelectNextInCell.label>vølg den næste celle</SelectNextInCell.label>
+
+    <TogglePause.label>pause/fortsæt spillet</TogglePause.label>
+
+    <TimeSpeedNormal.label>spilhastighed: normal</TimeSpeedNormal.label>
+
+    <TimeSpeedFast.label>spilhastighed: hurtig</TimeSpeedFast.label>
+
+    <TimeSpeedSuperfast.label>spilhastighed: super hurtigt</TimeSpeedSuperfast.label>
+
+    <TimeSpeedUltrafast.label>spilhastighed: ultra hurtigt (debug)</TimeSpeedUltrafast.label>
+
+    <PreviousColonist.label>tidligere kolonist</PreviousColonist.label>
+
+    <NextColonist.label>næste kolonist</NextColonist.label>
+
+    <Misc1.label>diverse 1</Misc1.label>
+
+    <Misc2.label>diverse 2</Misc2.label>
+
+    <Misc3.label>diverse 3</Misc3.label>
+
+    <Misc4.label>diverse 4</Misc4.label>
+
+    <Misc5.label>diverse 5</Misc5.label>
+
+    <Misc6.label>diverse 6</Misc6.label>
+
+    <Misc7.label>diverse 7</Misc7.label>
+
+    <Misc8.label>diverse 8</Misc8.label>
+
+    <Misc9.label>diverse 9</Misc9.label>
+
+    <Misc10.label>diverse 10</Misc10.label>
+
+    <Misc11.label>diverse 11</Misc11.label>
+
+    <Misc12.label>diverse 12</Misc12.label>
+
+    <CommandTogglePower.label>strøm kontakt</CommandTogglePower.label>
+
+    <CommandItemForbid.label>skift mellem forbudt</CommandItemForbid.label>
+
+    <CommandColonistDraft.label>indkald</CommandColonistDraft.label>
+
+    <DesignatorCancel.label>fortryd</DesignatorCancel.label>
+
+    <DesignatorDeconstruct.label>dekonstruere</DesignatorDeconstruct.label>
+
+    <DesignatorRotateLeft.label>roter til venstr</DesignatorRotateLeft.label>
+
+    <DesignatorRotateRight.label>roter til højre</DesignatorRotateRight.label>
+
+    <TickOnce.label>tik en gang</TickOnce.label>
+
+    <ToggleGodMode.label>skift mellem gude tilstand</ToggleGodMode.label>
+
+    <ToggleDebugLog.label>skift mellem fejlfinde dagbog</ToggleDebugLog.label>
+
+    <ToggleDebugActionsMenu.label>skift imellem fejlfinde handlingsmenuen</ToggleDebugActionsMenu.label>
+
+    <ToggleDebugLogMenu.label>skift imellem fejlfinde dagbogsmenuen</ToggleDebugLogMenu.label>
+
+    <ToggleDebugInspector.label>skift imellem fejlfinde inspektør</ToggleDebugInspector.label>
+
+    <ToggleDebugSettingsMenu.label>skift imellem fejlfinde instillingesmenuen</ToggleDebugSettingsMenu.label>
+
+</LanguageData>
