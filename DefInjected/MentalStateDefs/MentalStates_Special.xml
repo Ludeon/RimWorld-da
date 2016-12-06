@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <WanderConfused.label>forvirret vandring</WanderConfused.label>
+    <WanderConfused.beginLetterLabel>forvirring</WanderConfused.beginLetterLabel>
+    <WanderConfused.beginLetter>{0} har fået et sammenbrud og er begyndt at vandre forvirret rundt.</WanderConfused.beginLetter>
+    <WanderConfused.recoveryMessage>{0} er ikke længere forvirret.</WanderConfused.recoveryMessage>
+    <WanderConfused.baseInspectLine>Mental tilstand: forvirret vandring</WanderConfused.baseInspectLine>
+
+    <PanicFlee.label>flygter i panik</PanicFlee.label>
+    <PanicFlee.beginLetterLabel>flugt</PanicFlee.beginLetterLabel>
+    <PanicFlee.beginLetter>{0} flygter i panik.</PanicFlee.beginLetter>
+    <PanicFlee.recoveryMessage>{0} flygter ikke længere i panik.</PanicFlee.recoveryMessage>
+    <PanicFlee.baseInspectLine>Mental tilstand: flygter i panik</PanicFlee.baseInspectLine>
+
+    <Manhunter.label>menneskejæger</Manhunter.label>
+    <Manhunter.beginLetterLabel>menneskejæger</Manhunter.beginLetterLabel>
+    <Manhunter.beginLetter>{0} er blevet til menneskejæger!</Manhunter.beginLetter>
+    <Manhunter.recoveryMessage>{0}'s blodrus er stoppet.</Manhunter.recoveryMessage>
+    <Manhunter.baseInspectLine>Galskab: Menneskejæger</Manhunter.baseInspectLine>
+
+
+    <SocialFighting.label>skænderi</SocialFighting.label>
+    <SocialFighting.baseInspectLine>Mental tilstand: skænderi</SocialFighting.baseInspectLine>
+
+</LanguageData>

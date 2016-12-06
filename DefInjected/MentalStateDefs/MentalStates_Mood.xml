@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Berserk.label>berserk</Berserk.label>
+    <Berserk.beginLetterLabel>berserk</Berserk.beginLetterLabel>
+    <Berserk.beginLetter>{0} er gået berserk!</Berserk.beginLetter>
+    <Berserk.recoveryMessage>{0}'s berserker raseri er svundet hen.</Berserk.recoveryMessage>
+    <Berserk.baseInspectLine>Mental tilstand: Berserk</Berserk.baseInspectLine>
+
+    <FireStartingSpree.label>brænd starter rus</FireStartingSpree.label>
+    <FireStartingSpree.beginLetterLabel>brænd starter rus</FireStartingSpree.beginLetterLabel>
+    <FireStartingSpree.beginLetter>{0} er på en brænd starter rus.</FireStartingSpree.beginLetter>
+    <FireStartingSpree.recoveryMessage>{0} er ikke længere på en brænd starter rus.</FireStartingSpree.recoveryMessage>
+    <FireStartingSpree.baseInspectLine>Mental tilstand: brænd starter rus</FireStartingSpree.baseInspectLine>
+
+    <GiveUpExit.label>giver op og smutter</GiveUpExit.label>
+    <GiveUpExit.beginLetterLabel>gav op</GiveUpExit.beginLetterLabel>
+    <GiveUpExit.beginLetter>{0} giver op og forlader nu kolonien.</GiveUpExit.beginLetter>
+    <GiveUpExit.recoveryMessage>{0} har ændret sin mening og kommer tilbage til kolonien.</GiveUpExit.recoveryMessage>
+    <GiveUpExit.baseInspectLine>Mental tilstand: givet op og smutter</GiveUpExit.baseInspectLine>
+
+    <BingingDrugExtreme.label>rustur</BingingDrugExtreme.label>
+    <BingingDrugExtreme.baseInspectLine>Mental tilstand: slår sig løs med {0}</BingingDrugExtreme.baseInspectLine>
+
+
+    <WanderPsychotic.label>vandre rundt i en psykose</WanderPsychotic.label>
+    <WanderPsychotic.recoveryMessage>{0} vandre ikke længere rundt i en psykosisk tilstand.</WanderPsychotic.recoveryMessage>
+    <WanderPsychotic.beginLetterLabel>døs</WanderPsychotic.beginLetterLabel>
+    <WanderPsychotic.beginLetter>{0} vandre rundt i en psykose tilstand.</WanderPsychotic.beginLetter>
+    <WanderPsychotic.baseInspectLine>Mental tilstand: psykotisk vandring</WanderPsychotic.baseInspectLine>
+
+    <BingingFood.label>ædegilde</BingingFood.label>
+    <BingingFood.beginLetterLabel>ædegilde</BingingFood.beginLetterLabel>
+    <BingingFood.beginLetter>{0} æder som et svin.</BingingFood.beginLetter>
+    <BingingFood.recoveryMessage>{0} æder ikke længere som et svin.</BingingFood.recoveryMessage>
+    <BingingFood.baseInspectLine>Mental tilstand: ædedolk</BingingFood.baseInspectLine>
+
+    <WanderSad.label>sørglig vandring</WanderSad.label>
+    <WanderSad.recoveryMessage>{0} går ikke længere rundt og er sørlig.</WanderSad.recoveryMessage>
+    <WanderSad.beginLetterLabel>sørglig vandrer</WanderSad.beginLetterLabel>
+    <WanderSad.beginLetter>{0} vandre rundt og er ked af det.</WanderSad.beginLetter>
+    <WanderSad.baseInspectLine>Mental tilstand: sørglig vandrer</WanderSad.baseInspectLine>
+
+    <WanderOwnRoom.label>sidder alene</WanderOwnRoom.label>
+    <WanderOwnRoom.recoveryMessage>{0} gemmer sig ikke længere i HIS værelse.</WanderOwnRoom.recoveryMessage>
+    <WanderOwnRoom.beginLetterLabel>gemmer sig på værelset</WanderOwnRoom.beginLetterLabel>
+    <WanderOwnRoom.beginLetter>{0} gemmer sig på HIS værelse.</WanderOwnRoom.beginLetter>
+    <WanderOwnRoom.baseInspectLine>Mental tilstand: gemmer sig på værelset</WanderOwnRoom.baseInspectLine>
+
+</LanguageData>
