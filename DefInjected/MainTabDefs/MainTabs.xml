@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Inspect.label>inspicer</Inspect.label>
+
+    <Architect.label>arkitekt</Architect.label>
+    <Architect.description>Bestem hvor og hvad kolonister skal bygge, farme, opbevaring af objekter og så videre.</Architect.description>
+
+    <Work.label>arbejde</Work.label>
+    <Work.description>Vælg hvilket arbejde en kolonist laver, og hvilken prioritet de er i.</Work.description>
+
+    <Restrict.label>begrænse</Restrict.label>
+    <Restrict.description>Begrænse kolonister til bestemte aktiviteter på bestemte tidspunkter af dagen, eller hvilke specifikke områder.</Restrict.description>
+
+    <Assign.label>tildel</Assign.label>
+    <Assign.description>Instil hvad hver kolonist må have på, og hvordan de vil reagere overfor fjender.</Assign.description>
+
+    <Animals.label>dyr</Animals.label>
+    <Animals.description>Indstil hvordan koloniens tame dyr bør behandles.</Animals.description>
+
+    <Research.label>forskning</Research.label>
+    <Research.description>Undersøge og beslut hvilke forsknings projekter der skal ses på.</Research.description>
+
+    <Factions.label>faktioner</Factions.label>
+    <Factions.description>gennemgå de faktioner kolonien kender og deres forhold.</Factions.description>
+
+    <World.label>verden</World.label>
+    <World.description>se på verdens kortet.</World.description>
+
+    <History.label>historik</History.label>
+    <History.description>gennemgå optegnelser af koloniens historie.</History.description>
+
+    <Menu.label>menu</Menu.label>
+    <Menu.description>Ændre på instillinger, gem, indlæs, eller stop spillet.</Menu.description>
+
+</LanguageData>
