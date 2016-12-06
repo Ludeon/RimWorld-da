@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <HaulToCell.reportString>slæbber TargetA til celle.</HaulToCell.reportString>
+
+    <HaulToContainer.reportString>slæbber TargetA.</HaulToContainer.reportString>
+
+    <Steal.reportString>stjæler TargetA.</Steal.reportString>
+
+    <Kidnap.reportString>kidnapper TargetA.</Kidnap.reportString>
+
+    <Rescue.reportString>redder TargetA.</Rescue.reportString>
+
+    <CarryToCryptosleepCasket.reportString>bære TargetA til cryptosøvns kiste.</CarryToCryptosleepCasket.reportString>
+
+    <Capture.reportString>tager TargetA til fange.</Capture.reportString>
+
+    <Arrest.reportString>arrestere TargetA.</Arrest.reportString>
+
+    <ReleasePrisoner.reportString>slipper TargetA løs.</ReleasePrisoner.reportString>
+
+    <EscortPrisonerToBed.reportString>eskortere fangen TargetA.</EscortPrisonerToBed.reportString>
+
+    <TakeWoundedPrisonerToBed.reportString>tager den såret fange TargetA.</TakeWoundedPrisonerToBed.reportString>
+
+    <TakeToBedToOperate.reportString>tager TargetA til sin seng.</TakeToBedToOperate.reportString>
+
+    <Slaughter.reportString>slagter TargetA.</Slaughter.reportString>
+
+    <Milk.reportString>malker TargetA.</Milk.reportString>
+
+    <Shear.reportString>trimmer TargetA.</Shear.reportString>
+
+    <Tame.reportString>tæmmer TargetA.</Tame.reportString>
+
+    <Train.reportString>træner TargetA.</Train.reportString>
+
+    <PlaceNoCostFrame.reportString>bygger TargetA.</PlaceNoCostFrame.reportString>
+
+    <FinishFrame.reportString>bygger TargetA.</FinishFrame.reportString>
+
+    <Deconstruct.reportString>dekonstruere TargetA.</Deconstruct.reportString>
+
+    <Uninstall.reportString>afinstallere TargetA.</Uninstall.reportString>
+
+    <Repair.reportString>reparer TargetA.</Repair.reportString>
+
+    <FixBrokenDownBuilding.reportString>udskifter ødelagt komponenter i	TargetA.</FixBrokenDownBuilding.reportString>
+
+    <BuildRoof.reportString>bygger tag.</BuildRoof.reportString>
+
+    <RemoveRoof.reportString>fjerner tag.</RemoveRoof.reportString>
+
+    <FeedPatient.reportString>fodre TargetA med TargetB.</FeedPatient.reportString>
+
+    <TendPatient.reportString>tager sig af TargetA.</TendPatient.reportString>
+
+    <DeliverFood.reportString>fodre TargetA med TargetB.</DeliverFood.reportString>
+
+    <DoBill.reportString>laver ordrer ved TargetA.</DoBill.reportString>
+
+    <OperateDeepDrill.reportString>bore ved TargetA.</OperateDeepDrill.reportString>
+
+    <Clean.reportString>rengører TargetA.</Clean.reportString>
+
+    <Research.reportString>forsker.</Research.reportString>
+
+    <Hunt.reportString>jager TargetA.</Hunt.reportString>
+
+    <UseCommsConsole.reportString>bruger komm konsollen.</UseCommsConsole.reportString>
+
+    <Mine.reportString>graver ved TargetA.</Mine.reportString>
+
+    <SmoothFloor.reportString>jævner gulvet.</SmoothFloor.reportString>
+
+    <RemoveFloor.reportString>fjerner gulvet.</RemoveFloor.reportString>
+
+    <Sow.reportString>sår TargetA.</Sow.reportString>
+
+    <Harvest.reportString>høster TargetA.</Harvest.reportString>
+
+    <CutPlant.reportString>fælder TargetA.</CutPlant.reportString>
+
+    <PrisonerFriendlyChat.reportString>snakker med fangen TargetA.</PrisonerFriendlyChat.reportString>
+
+    <PrisonerAttemptRecruit.reportString>forsøger at rekruttere TargetA.</PrisonerAttemptRecruit.reportString>
+
+    <PrisonerExecution.reportString>henretter TargetA.</PrisonerExecution.reportString>
+
+    <BuryCorpse.reportString>begraver TargetA.</BuryCorpse.reportString>
+
+</LanguageData>
