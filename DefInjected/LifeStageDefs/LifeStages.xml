@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MechanoidFullyFormed.label>fuldtud formet</MechanoidFullyFormed.label>
+
+    <HumanlikeBaby.label>baby</HumanlikeBaby.label>
+
+    <HumanlikeToddler.label>Tumling</HumanlikeToddler.label>
+
+    <HumanlikeChild.label>barn</HumanlikeChild.label>
+
+    <HumanlikeTeenager.label>teenager</HumanlikeTeenager.label>
+
+    <HumanlikeAdult.label>voksen</HumanlikeAdult.label>
+
+    <EusocialInsectLarva.label>larve</EusocialInsectLarva.label>
+
+    <EusocialInsectJuvenile.label>umoden</EusocialInsectJuvenile.label>
+
+    <EusocialInsectAdult.label>voksen</EusocialInsectAdult.label>
+
+    <AnimalBaby.label>baby</AnimalBaby.label>
+
+    <AnimalJuvenile.label>ung</AnimalJuvenile.label>
+
+    <AnimalAdult.label>voksen</AnimalAdult.label>
+
+</LanguageData>
