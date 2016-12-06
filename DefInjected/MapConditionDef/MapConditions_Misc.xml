@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <SolarFlare.label>soludbrud</SolarFlare.label>
+    <SolarFlare.description>A solar flare is hitting the planet. This creates extreme electrical interference and prevents most electrical devices from working.</SolarFlare.description>
+    <SolarFlare.endMessage>Soludbrudet er stoppet.</SolarFlare.endMessage>
+
+    <Eclipse.label>solformørkelse</Eclipse.label>
+    <Eclipse.description>En solformørkelse overskygger overfladen. Det vil være mørkt, også om dagen.</Eclipse.description>
+    <Eclipse.endMessage>Solformørkelsen er stoppet.</Eclipse.endMessage>
+
+    <PsychicDrone.label>psykiske brummen</PsychicDrone.label>
+    <PsychicDrone.description>En fjern, kraftfuld AI udsender bølger af psykisk kraft, der driver folk imod galskab.</PsychicDrone.description>
+    <PsychicDrone.endMessage>Den psykiske brummen er stoppet.</PsychicDrone.endMessage>
+
+    <PsychicSoothe.label>psykiske lindren</PsychicSoothe.label>
+    <PsychicSoothe.description>En fjern, kraftfuld AI udsender bølger af psykisk kraft, udsender bølger af psykiske kraft der beroliger folk og stabilisere deres tanker.</PsychicSoothe.description>
+    <PsychicSoothe.endMessage>Den psykiske lindren er stoppet.</PsychicSoothe.endMessage>
+
+    <ToxicFallout.label>giftigt nedfald</ToxicFallout.label>
+    <ToxicFallout.description>En sky af giftigt støv fra en kilde langtborte fra, er langsomt ved at dække hele denne del af planeten. Alle som ikke er undet et tag vil langsomt blive forgiftet.</ToxicFallout.description>
+    <ToxicFallout.endMessage>Det værste af det giftige nedfald er overstået.</ToxicFallout.endMessage>
+
+    <VolcanicWinter.label>vulkansk vinter</VolcanicWinter.label>
+    <VolcanicWinter.description>Atmosfæren er druknet i vulkanisk partikler som reducer betydeligt hvor meget sollys der når overfladen. Temperaturen vil være køligere og planter vil gro langsommere.</VolcanicWinter.description>
+    <VolcanicWinter.endMessage>Det meste af den vulkanske aske har lagt sig.</VolcanicWinter.endMessage>
+
+    <HeatWave.label>hedebølge</HeatWave.label>
+    <HeatWave.description>En ekstrem bølge af varme bager området.</HeatWave.description>
+    <HeatWave.endMessage>Hedebølgen er overstået.</HeatWave.endMessage>
+
+    <ColdSnap.label>lynfrost</ColdSnap.label>
+    <ColdSnap.description>En usædvanlig lynfrost har ramt denne region.</ColdSnap.description>
+    <ColdSnap.endMessage>Lynfrosten er holdt op.</ColdSnap.endMessage>
+
+    <Flashstorm.label>lynstorm</Flashstorm.label>
+    <Flashstorm.description>Ekstreme mængder af lyn slåer ned i et lille område.</Flashstorm.description>
+    <Flashstorm.endMessage>Lynstormen er ovre.</Flashstorm.endMessage>
+
+    <ClimateCycle.label>klima cyklus</ClimateCycle.label>
+    <ClimateCycle.description>En multi-års klima cyklus på grund af en elliptisk bane.</ClimateCycle.description>
+
+    <Planetkiller.label>planetdræber</Planetkiller.label>
+    <Planetkiller.description>Et interstellar planetdræber våben nærmer sig denne planet. Når den rammer, vil den destruer alt liv.</Planetkiller.description>
+
+</LanguageData>
