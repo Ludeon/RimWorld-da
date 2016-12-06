@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <GameMapCamera.label>kammera</GameMapCamera.label>
+    <GameMapCamera.description>styring til kammera.</GameMapCamera.description>
+
+    <Game.label>inde i spillet-globalt</Game.label>
+    <Game.description>Koloni styring som kan brugers i de fleste situationer.</Game.description>
+
+    <SelectionMisc.label>diverse</SelectionMisc.label>
+    <SelectionMisc.description>Generisk styring der genbruges af mange ting og sager igennem hele spillet.</SelectionMisc.description>
+
+    <SelectionSpecial.label>speciel</SelectionSpecial.label>
+    <SelectionSpecial.description>Speciel styring er reserveret til specifike funktioner på specifikke objekter.</SelectionSpecial.description>
+
+    <Architect.label>arkitekt</Architect.label>
+    <Architect.description>Generel brugs styring for arkitekt menuen.</Architect.description>
+
+    <MainTabs.label>hoved faner</MainTabs.label>
+    <MainTabs.description>styring til hoved fanerne.</MainTabs.description>
+
+    <Development.label>udvikleings værktøjer</Development.label>
+    <Development.description>styring til udviklerer og moddere. Kun aktiv i udviklings tilstand.</Development.description>
+
+</LanguageData>
