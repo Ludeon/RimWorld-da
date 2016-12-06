@@ -13,10 +13,10 @@
 
   <!-- Special sub-humanlike factions -->
 
-  <Mechanoid.label>Maskinide</Mechanoid.label>
+  <Mechanoid.label>Maskinit</Mechanoid.label>
   <Mechanoid.description>en sværm af urgamle selv-reparende maksiner.</Mechanoid.description>
-  <Mechanoid.pawnsPlural>Maskinider</Mechanoid.pawnsPlural>
-  <Mechanoid.fixedName>en maskinide cube</Mechanoid.fixedName>
+  <Mechanoid.pawnsPlural>Maskiniter</Mechanoid.pawnsPlural>
+  <Mechanoid.fixedName>en maskinit cube</Mechanoid.fixedName>
   
   <Insect.label>Insekt</Insect.label>
   <Insect.description>Som regel aggressive og indtrængende insekter.</Insect.description>
