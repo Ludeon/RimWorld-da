@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <InstallJoywire.label>installer glædestråd</InstallJoywire.label>
+    <InstallJoywire.description>installere en glædestråd.</InstallJoywire.description>
+    <InstallJoywire.jobString>Installer glædestråd.</InstallJoywire.jobString>
+
+    <InstallPainstopper.label>installer smertestopper</InstallPainstopper.label>
+    <InstallPainstopper.description>Installerer en smertestopper.</InstallPainstopper.description>
+    <InstallPainstopper.jobString>Installerer smertestopper.</InstallPainstopper.jobString>
+
+</LanguageData>

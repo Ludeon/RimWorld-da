@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MakeStoneBlocks.label>lav stenblokke</MakeStoneBlocks.label>
+    <MakeStoneBlocks.description>Hug stenklumper ud til brugbare stenblokke.</MakeStoneBlocks.description>
+    <MakeStoneBlocks.jobString>Stenhugning.</MakeStoneBlocks.jobString>
+
+    <ExtractMetalFromSlag.label>smelt metal fra skrot</ExtractMetalFromSlag.label>
+    <ExtractMetalFromSlag.description>Ved at hjælp af varme og stærk elektromagnetisme kan brugbart metal udvindes fra klumper af skrot.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.jobString>Smelter metal fra skrot.</ExtractMetalFromSlag.jobString>
+
+    <SmeltWeapon.label>smetl metal fra våben</SmeltWeapon.label>
+    <SmeltWeapon.description>Ved at hjælp af varme og stærk elektromagnetisme kan brugbart metal udvindes fra våben.</SmeltWeapon.description>
+    <SmeltWeapon.jobString>Smelter metal fra våben.</SmeltWeapon.jobString>
+
+    <MakeArtilleryShell.label>lav artelleri make artillery kugle</MakeArtilleryShell.label>
+    <MakeArtilleryShell.description>Byg en artelleri kugle.</MakeArtilleryShell.description>
+    <MakeArtilleryShell.jobString>Laver artelleri kugle.</MakeArtilleryShell.jobString>
+
+    <MakeComponent.label>lav komponent</MakeComponent.label>
+    <MakeComponent.description>Lav en komponent.</MakeComponent.description>
+    <MakeComponent.jobString>Laver en komponent.</MakeComponent.jobString>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <CookMealSimple.label>tilbered simpelt måltid</CookMealSimple.label>
+    <CookMealSimple.description>Et lige til måltid tilberedt fra en enkelt ingrediens.</CookMealSimple.description>
+    <CookMealSimple.jobString>tilbereder simpelt måltid.</CookMealSimple.jobString>
+
+
+    <CookMealFine.label>tilbered fint måltid</CookMealFine.label>
+    <CookMealFine.description>Tilbered et nogenlunde komplekst måltid fra en kombination af råt kød og rå planter.</CookMealFine.description>
+    <CookMealFine.jobString>Tilbereder fint måltid.</CookMealFine.jobString>
+
+    <CookMealLavish.label>tilbered overdådigt måltid</CookMealLavish.label>
+    <CookMealLavish.description>Tilbereder et meget kompleks måltid fra en kombination af råt kød og planter. Mange flere ingredienser går til spilde.</CookMealLavish.description>
+    <CookMealLavish.jobString>tilbereder overdådigt måltid.</CookMealLavish.jobString>
+
+</LanguageData>

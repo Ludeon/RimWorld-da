@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MakeWort.label>lav malt</MakeWort.label>
+    <MakeWort.description>Lav malt ud af humble.</MakeWort.description>
+    <MakeWort.jobString>laver malt.</MakeWort.jobString>
+
+    <BurnDrugs.label>brænd stoffer</BurnDrugs.label>
+    <BurnDrugs.description>Brænd stoffer for at ødelægge dem helt.</BurnDrugs.description>
+    <BurnDrugs.jobString>Brænder stoffer.</BurnDrugs.jobString>
+
+</LanguageData>

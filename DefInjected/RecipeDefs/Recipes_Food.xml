@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MakeKibble.label>laver tørfoder</MakeKibble.label>
+    <MakeKibble.description>Lav dyretørfoder ved at kombinere råt kød og planter.</MakeKibble.description>
+    <MakeKibble.jobString>Laver tørfoder.</MakeKibble.jobString>
+
+    <MakePemmican.label>lav pemmican</MakePemmican.label>
+    <MakePemmican.description>lav pemmican, en preserveret kombination af kød og planteføde. Det smager ikke fantastisk, men holder sig et helt år uden at være på køl.</MakePemmican.description>
+    <MakePemmican.jobString>Laver pemmican.</MakePemmican.jobString>
+
+
+</LanguageData>
