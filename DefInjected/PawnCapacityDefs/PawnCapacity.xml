@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Consciousness.label>bevidsthed</Consciousness.label>
+    <Consciousness.labelMechanoids>Data Data bearbejdning</Consciousness.labelMechanoids>
+
+    <Sight.label>syn</Sight.label>
+
+    <Hearing.label>hørelse</Hearing.label>
+
+    <Moving.label>bevægelse</Moving.label>
+
+    <Manipulation.label>håndtering</Manipulation.label>
+
+    <Talking.label>snakker</Talking.label>
+    <Talking.labelMechanoids>Kommunikation</Talking.labelMechanoids>
+
+    <Eating.label>spiser</Eating.label>
+
+    <Breathing.label>trækker vejret</Breathing.label>
+
+    <BloodFiltration.label>blod filtrering</BloodFiltration.label>
+
+    <BloodPumping.label>blod pumpning</BloodPumping.label>
+
+    <Metabolism.label>stofskifte</Metabolism.label>
+
+</LanguageData>
