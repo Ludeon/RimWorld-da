@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Muffalo.label>muffalo</Muffalo.label>
+    <Muffalo.lifeStages.0.label>muffalokalv</Muffalo.lifeStages.0.label>
+
+
+    <Gazelle.label>gazelle</Gazelle.label>
+
+    <Iguana.label>leguan</Iguana.label>
+
+    <Rhinoceros.label>næsehorn</Rhinoceros.label>
+
+    <Dromedary.label>dromedar</Dromedary.label>
+    <Dromedary.lifeStages.0.label>dromedarkalv</Dromedary.lifeStages.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Cougar.label>puma</Cougar.label>
+	<Cougar.lifeStages.0.label>pumakilling</Cougar.lifeStages.0.label>
+	
+    <Panther.label>panter</Panther.label>
+	<Panther.lifeStages.0.label>panterkilling</Panther.lifeStages.0.label>
+	
+    <Lynx.label>los</Lynx.label>
+    <Lynx.lifeStages.0.label>loskilling</Lynx.lifeStages.0.label>
+
+</LanguageData>

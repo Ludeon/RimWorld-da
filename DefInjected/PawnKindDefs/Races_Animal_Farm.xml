@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Chicken.label>kylling</Chicken.label>
+    <Chicken.labelMale>hane</Chicken.labelMale>
+    <Chicken.labelFemale>høne</Chicken.labelFemale>
+    <Chicken.lifeStages.0.label>hønekylling</Chicken.lifeStages.0.label>
+    <Chicken.lifeStages.1.labelMale>hanekylling</Chicken.lifeStages.1.labelMale>
+
+    <Pig.label>gris</Pig.label>
+    <Pig.labelFemale>so</Pig.labelFemale>
+	<Pig.labelMale>orne</Pig.labelMale>
+    <Pig.lifeStages.0.label>grisling</Pig.lifeStages.0.label>
+
+    <Cow.label>ko</Cow.label>
+    <Cow.labelMale>tyr</Cow.labelMale>
+    <Cow.labelFemale>ko</Cow.labelFemale>
+    <Cow.lifeStages.0.label>kalv</Cow.lifeStages.0.label>
+
+    <Alpaca.label>alpaka</Alpaca.label>
+
+</LanguageData>

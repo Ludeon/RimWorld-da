@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
+    <YorkshireTerrier.lifeStages.0.label>yorkshire terrierhvalp</YorkshireTerrier.lifeStages.0.label>
+
+    <Husky.label>husky</Husky.label>
+    <Husky.lifeStages.0.label>huskyhvalp</Husky.lifeStages.0.label>
+
+    <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
+    <LabradorRetriever.lifeStages.0.label>labradorhvalp</LabradorRetriever.lifeStages.0.label>
+
+    <Cat.label>kat</Cat.label>
+    <Cat.lifeStages.0.label>kattekilling</Cat.lifeStages.0.label>
+
+</LanguageData>

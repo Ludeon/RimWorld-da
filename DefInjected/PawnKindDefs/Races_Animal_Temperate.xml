@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Deer.label>dådyr</Deer.label>
+    <Deer.labelMale>buk</Deer.labelMale>
+    <Deer.labelFemale>rå</Deer.labelFemale>
+
+    <Ibex.label>alpestenbuk</Ibex.label>
+    <Ibex.labelMale>alpestenbuk buk</Ibex.labelMale>
+    <Ibex.labelFemale>alpestenbuk rå</Ibex.labelFemale>
+	<Ibex.lifeStages.0.label>alpestenbuksunge</Ibex.lifeStages.0.label>
+	
+    <Elk.label>elg</Elk.label>
+    <Elk.lifeStages.0.label>elgekalv</Elk.lifeStages.0.label>
+	
+    <Caribou.label>rensdyr</Caribou.label>
+    <Caribou.lifeStages.0.label>rensdyrkalv</Caribou.lifeStages.0.label>
+
+    <WildBoar.label>vildsvin</WildBoar.label>
+
+    <Tortoise.label>skildpade</Tortoise.label>
+
+</LanguageData>

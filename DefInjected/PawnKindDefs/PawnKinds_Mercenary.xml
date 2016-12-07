@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MercenaryGunner.label>lejesoldat skytte</MercenaryGunner.label>
+
+    <MercenarySniper.label>lejesoldats snigeskytte</MercenarySniper.label>
+
+    <GrenadierDestructive.label>grenader</GrenadierDestructive.label>
+
+    <GrenadierEMP.label>EMP grenader</GrenadierEMP.label>
+
+    <MercenarySlasher.label>lejesoldats slagter</MercenarySlasher.label>
+
+    <MercenaryHeavy.label>artillerists lejesoldat</MercenaryHeavy.label>
+
+    <PirateBoss.label>bos</PirateBoss.label>
+
+    <MercenaryElite.label>elite lejesoldat</MercenaryElite.label>
+
+</LanguageData>

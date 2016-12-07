@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Warg.label>warg</Warg.label>
+    <Warg.lifeStages.0.label>warg hvalp</Warg.lifeStages.0.label>
+
+    <WolfTimber.label>grå ulv</WolfTimber.label>
+    <WolfTimber.lifeStages.0.label>grå ulveunger</WolfTimber.lifeStages.0.label>
+
+    <WolfArctic.label>arktisk ulv</WolfArctic.label>
+    <WolfArctic.lifeStages.0.label>arktisk uvleunger</WolfArctic.lifeStages.0.label>
+
+    <FoxFennec.label>fennek</FoxFennec.label>
+    <FoxFennec.lifeStages.0.label>fennekeunge</FoxFennec.lifeStages.0.label>
+
+    <FoxRed.label>rødræv</FoxRed.label>
+    <FoxRed.lifeStages.0.label>rødræveunge</FoxRed.lifeStages.0.label>
+
+    <FoxArctic.label>arktisk ræv</FoxArctic.label>
+    <FoxArctic.lifeStages.0.label>arktiskræveunge</FoxArctic.lifeStages.0.label>
+
+</LanguageData>
