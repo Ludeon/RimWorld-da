@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Spouse.label>ægtemand</Spouse.label>
+    <Spouse.labelFemale>hustru</Spouse.labelFemale>
+
+    <Fiance.label>forlovede</Fiance.label>
+    <Fiance.labelFemale>forlovede</Fiance.labelFemale>
+
+    <Lover.label>kæreste</Lover.label>
+
+    <Stepparent.label>stedfar</Stepparent.label>
+    <Stepparent.labelFemale>stedmor</Stepparent.labelFemale>
+
+    <Stepchild.label>stedsøn</Stepchild.label>
+    <Stepchild.labelFemale>steddatter</Stepchild.labelFemale>
+
+    <ParentInLaw.label>svigerfar</ParentInLaw.label>
+    <ParentInLaw.labelFemale>svigermor</ParentInLaw.labelFemale>
+
+    <ChildInLaw.label>svigersønw</ChildInLaw.label>
+    <ChildInLaw.labelFemale>svigerdatter</ChildInLaw.labelFemale>
+
+    <ExSpouse.label>eksmand</ExSpouse.label>
+    <ExSpouse.labelFemale>ekskone</ExSpouse.labelFemale>
+
+    <ExLover.label>ex-lover</ExLover.label>
+
+</LanguageData>

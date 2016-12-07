@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Parent.label>far</Parent.label>
+    <Parent.labelFemale>mor</Parent.labelFemale>
+
+    <Child.label>søn</Child.label>
+    <Child.labelFemale>datter</Child.labelFemale>
+
+    <Sibling.label>bror</Sibling.label>
+    <Sibling.labelFemale>søster</Sibling.labelFemale>
+
+    <HalfSibling.label>halvbror</HalfSibling.label>
+    <HalfSibling.labelFemale>halvsøster</HalfSibling.labelFemale>
+
+    <Grandparent.label>bedstefar</Grandparent.label>
+    <Grandparent.labelFemale>bedstemor</Grandparent.labelFemale>
+
+    <Grandchild.label>barnebarn</Grandchild.label>
+    <Grandchild.labelFemale>barnebarn</Grandchild.labelFemale>
+
+    <NephewOrNiece.label>nevø</NephewOrNiece.label>
+    <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+
+    <UncleOrAunt.label>onkel</UncleOrAunt.label>
+    <UncleOrAunt.labelFemale>tante</UncleOrAunt.labelFemale>
+
+    <Cousin.label>kusine</Cousin.label>
+
+    <GreatGrandparent.label>oldefar</GreatGrandparent.label>
+    <GreatGrandparent.labelFemale>oldemor</GreatGrandparent.labelFemale>
+
+    <GreatGrandchild.label>oldebarn</GreatGrandchild.label>
+    <GreatGrandchild.labelFemale>oldebarn</GreatGrandchild.labelFemale>
+
+    <GranduncleOrGrandaunt.label>grandonkel</GranduncleOrGrandaunt.label>
+    <GranduncleOrGrandaunt.labelFemale>grandtante</GranduncleOrGrandaunt.labelFemale>
+
+    <GrandnephewOrGrandniece.label>grandnevø</GrandnephewOrGrandniece.label>
+    <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
+
+    <CousinOnceRemoved.label>grand-kusine/fætter</CousinOnceRemoved.label>
+
+    <SecondCousin.label>grandgrand-kusine/fætter</SecondCousin.label>
+
+    <Kin.label>pårørende</Kin.label>
+
+</LanguageData>
