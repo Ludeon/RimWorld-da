@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <TimeAsColonist.label>Tid some kolonist</TimeAsColonist.label>
+    <TimeAsColonist.description>Total tid brugt som kolonist.</TimeAsColonist.description>
+
+    <TimeAsPrisoner.label>tid som fange</TimeAsPrisoner.label>
+    <TimeAsPrisoner.description>Total tid brugt som en fange.</TimeAsPrisoner.description>
+
+    <TimeInBed.label>tid i seng</TimeInBed.label>
+    <TimeInBed.description>Total tid brugt i en seng.</TimeInBed.description>
+
+    <TimeInBedForMedicalReasons.label>tid i seng pågrund af helbred</TimeInBedForMedicalReasons.label>
+    <TimeInBedForMedicalReasons.description>Total tid brugt i en seng opgrund af helbred: venter behandling, Total time spent in a bed for medical reasons: awaiting treatment, komme sig fra sår eller en operation.</TimeInBedForMedicalReasons.description>
+
+    <TimeDowned.label>nedskudt</TimeDowned.label>
+    <TimeDowned.description>Antallet af gange jeg er blevet nedskudt.</TimeDowned.description>
+
+    <TimeGettingFood.label>tid brugt på at finde mad og spisning</TimeGettingFood.label>
+    <TimeGettingFood.description>Total tid brugt på at finde mad og spise det.</TimeGettingFood.description>
+
+    <TimeGettingJoy.label>tid brugt på underholdning</TimeGettingJoy.label>
+    <TimeGettingJoy.description>Total tiden brugt på underholdning.</TimeGettingJoy.description>
+
+    <TimeUnderRoof.label>tid under et tag</TimeUnderRoof.label>
+    <TimeUnderRoof.description>Total tiden brugt under et tag.</TimeUnderRoof.description>
+
+    <TimeDrafted.label>tid indkaldt</TimeDrafted.label>
+    <TimeDrafted.description>Total tid brugt indkaldt.</TimeDrafted.description>
+
+    <TimeOnFire.label>tid sat ild til</TimeOnFire.label>
+    <TimeOnFire.description>Total tid sat ild til.</TimeOnFire.description>
+
+    <TimeInMentalState.label>tid mentalt sammenbrudt</TimeInMentalState.label>
+    <TimeInMentalState.description>Total tid brugt på mentalt sammenbrud.</TimeInMentalState.description>
+
+    <TimeHauling.label>tid på slæbning</TimeHauling.label>
+    <TimeHauling.description>Total tid brugt på at slæbe ting rundt.</TimeHauling.description>
+
+    <TimeHandlingAnimals.label>tid på at håndtere dyr</TimeHandlingAnimals.label>
+    <TimeHandlingAnimals.description>Total tid brugt på at håndtere dyr.</TimeHandlingAnimals.description>
+
+    <TimeFirefighting.label>tid på brandslukning</TimeFirefighting.label>
+    <TimeFirefighting.description>Total tid brugt på at bekæmpe ildebrand.</TimeFirefighting.description>
+
+    <TimeWardening.label>tid tilsyneset</TimeWardening.label>
+    <TimeWardening.description>Total tid brugt på at tilse folk.</TimeWardening.description>
+
+    <TimeHunting.label>tid på jagt</TimeHunting.label>
+    <TimeHunting.description>Total tid brugt på jagt.</TimeHunting.description>
+
+    <TimeConstructing.label>tid på konstruktion</TimeConstructing.label>
+    <TimeConstructing.description>Total tid brugt på at konstruer og dekonstruer.</TimeConstructing.description>
+
+    <TimeTreatingAndFeeding.label>tid på at behandle og fodre</TimeTreatingAndFeeding.label>
+    <TimeTreatingAndFeeding.description>Total tid brugt på at behandle og fodre patienter.</TimeTreatingAndFeeding.description>
+
+    <TimeResearching.label>tid på forskning</TimeResearching.label>
+    <TimeResearching.description>Total tid brugt på forskning.</TimeResearching.description>
+
+    <TimeCleaning.label>tid på rengøring</TimeCleaning.label>
+    <TimeCleaning.description>Total tid brugt på rengøring.</TimeCleaning.description>
+
+    <TimeRepairing.label>tid på reparering</TimeRepairing.label>
+    <TimeRepairing.description>Total tid brugt på at reparer.</TimeRepairing.description>
+
+    <TimeMining.label>tid på minedrift</TimeMining.label>
+    <TimeMining.description>Total tid brugt på minedrift.</TimeMining.description>
+
+    <TimeSowingAndHarvesting.label>tid på såning og høstning</TimeSowingAndHarvesting.label>
+    <TimeSowingAndHarvesting.description>Total tid brugt på at så, høste og fældning af planter.</TimeSowingAndHarvesting.description>
+
+</LanguageData>
