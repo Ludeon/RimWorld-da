@@ -1,52 +1,182 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
-
-    <Kills.label>kills</Kills.label>
-    <Kills.description>The number of creatures I have killed.</Kills.description>
-
-    <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
-    <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
-
-    <KillsAnimals.label>kills (animals)</KillsAnimals.label>
-    <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
-
-    <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
-    <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
-
-    <PawnsDowned.label>enemies downed</PawnsDowned.label>
-    <PawnsDowned.description>The number of creatures downed.</PawnsDowned.description>
-
-    <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
-    <PawnsDownedHumanlikes.description>The number of humanlike creatures downed.</PawnsDownedHumanlikes.description>
-
-    <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
-    <PawnsDownedAnimals.description>The number of animals downed.</PawnsDownedAnimals.description>
-
-    <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
-    <PawnsDownedMechanoids.description>The number of mechanoids downed.</PawnsDownedMechanoids.description>
-
-    <ShotsFired.label>shots fired</ShotsFired.label>
-    <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
-
-    <Headshots.label>headshots</Headshots.label>
-    <Headshots.description>The number of headshots I have made.</Headshots.description>
-
-    <DamageDealt.label>damage dealt</DamageDealt.label>
-    <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
-
-    <DamageTaken.label>damage taken</DamageTaken.label>
-    <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
-
-    <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
-    <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
-
-    <TimesOnFire.label>times on fire</TimesOnFire.label>
-    <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
-
-    <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
-    <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
-
-    <OperationsReceived.label>operations received</OperationsReceived.label>
-    <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<Kills.label>drab</Kills.label>
+	
+	<Kills.description>Antalet af væsner jeg har dræbt.</Kills.description>
+	
+	<KillsHumanlikes.label>drab (menneskeligende)</KillsHumanlikes.label>
+	
+	<KillsHumanlikes.description>Antalet af menneskeligende karakterer jeg har dræbt.</KillsHumanlikes.description>
+	
+	<KillsAnimals.label>drab (dyr)</KillsAnimals.label>
+	
+	<KillsAnimals.description>antallet af dyr jeg slået ihjel.</KillsAnimals.description>
+	
+	<KillsMechanoids.label>drab (mekanitter)</KillsMechanoids.label>
+	
+	<KillsMechanoids.description>Antallet af mekanitter jeg har dræbt.</KillsMechanoids.description>
+	
+	<PawnsDowned.label>fjender nedskudt downed</PawnsDowned.label>
+	
+	<PawnsDowned.description>Antalet af væsner jeg har nedskudt.</PawnsDowned.description>
+	
+	<PawnsDownedHumanlikes.label>fjender skudt ned (menneskeligende)</PawnsDownedHumanlikes.label>
+	
+	<PawnsDownedHumanlikes.description>Antallet af nedskudt menneskeligende væsner .</PawnsDownedHumanlikes.description>
+	
+	<PawnsDownedAnimals.label>fjender nedskudt (dyr)</PawnsDownedAnimals.label>
+	
+	<PawnsDownedAnimals.description>Antallet af nedskudte dyr .</PawnsDownedAnimals.description>
+	
+	<PawnsDownedMechanoids.label>fjender nedskudt (mekanitter)</PawnsDownedMechanoids.label>
+	
+	<PawnsDownedMechanoids.description>Antallet af nedskudte mekanitter .</PawnsDownedMechanoids.description>
+	
+	<ShotsFired.label>skud affyret</ShotsFired.label>
+	
+	<ShotsFired.description>Antallet af skud jeg har affyret.</ShotsFired.description>
+	
+	<Headshots.label>hovedskud</Headshots.label>
+	
+	<Headshots.description>Antallet af skud i hovdet jeg har lavet.</Headshots.description>
+	
+	<DamageDealt.label>skade givet</DamageDealt.label>
+	
+	<DamageDealt.description>Mængden af skade jeg har givet.</DamageDealt.description>
+	
+	<DamageTaken.label>Skade modtaget</DamageTaken.label>
+	
+	<DamageTaken.description>Mængden af skade jeg har modtaget.</DamageTaken.description>
+	
+	<TimesInMentalState.label>antal mentale sammenbrud</TimesInMentalState.label>
+	
+	<TimesInMentalState.description>Hvor mange gange jeg har haft et mentalt sammenbrud.</TimesInMentalState.description>
+	
+	<TimesOnFire.label>antal gange sat ild til</TimesOnFire.label>
+	
+	<TimesOnFire.description>Hvor mange gange der har været ild i mig.</TimesOnFire.description>
+	
+	<FiresExtinguished.label>brande slukket</FiresExtinguished.label>
+	
+	<FiresExtinguished.description>Antallet af brande jeg har slukket.</FiresExtinguished.description>
+	
+	<OperationsReceived.label>operationer modtaget</OperationsReceived.label>
+	
+	<OperationsReceived.description>antallet af medicinske operationer jeg har fået.</OperationsReceived.description>
+	
+	<OperationsPerformed.label>operationer udført</OperationsPerformed.label>
+	
+	<OperationsPerformed.description>Hvor mange medicinske operationer jeg har udført.</OperationsPerformed.description>
+	
+	<TimesTendedTo.label>behandlinger modtaget</TimesTendedTo.label>
+	
+	<TimesTendedTo.description>Hvor mange gange jeg har modtaget medicinsk behandling.</TimesTendedTo.description>
+	
+	<TimesTendedOther.label>behandlinger udført</TimesTendedOther.label>
+	
+	<TimesTendedOther.description>Hvor mange gange jeg har givet medicinsk behandlinger.</TimesTendedOther.description>
+	
+	<PeopleCaptured.label>folk fanget</PeopleCaptured.label>
+	
+	<PeopleCaptured.description>antallet af folk jeg har fanget.</PeopleCaptured.description>
+	
+	<PrisonersRecruited.label>fanger rekruteret</PrisonersRecruited.label>
+	
+	<PrisonersRecruited.description>Antallet af fanger jeg har rekruteret.</PrisonersRecruited.description>
+	
+	<PrisonersChatted.label>snakket med fanger</PrisonersChatted.label>
+	
+	<PrisonersChatted.description>Hvor mange gange jeg har snakket med en fange.</PrisonersChatted.description>
+	
+	<AnimalsTamed.label>dyr tæmmet</AnimalsTamed.label>
+	
+	<AnimalsTamed.description>Antallet af dyr jeg har tæmmet.</AnimalsTamed.description>
+	
+	<AnimalsSlaughtered.label>dur slagtet</AnimalsSlaughtered.label>
+	
+	<AnimalsSlaughtered.description>Antallet af dyr jeg har slagtet.</AnimalsSlaughtered.description>
+	
+	<MealsCooked.label>Måltider tilberedt</MealsCooked.label>
+	
+	<MealsCooked.description>Antallet af måltider jeg har tilberedt.</MealsCooked.description>
+	
+	<ThingsConstructed.label>ting konstrueret</ThingsConstructed.label>
+	
+	<ThingsConstructed.description>Antallet af ting jeg har konstrueret.</ThingsConstructed.description>
+	
+	<ThingsInstalled.label>ting installeret</ThingsInstalled.label>
+	
+	<ThingsInstalled.description>Antallet af ting jeg har installeret.</ThingsInstalled.description>
+	
+	<ThingsRepaired.label>ting repareret</ThingsRepaired.label>
+	
+	<ThingsRepaired.description>Antallet af ting jeg har repareret.</ThingsRepaired.description>
+	
+	<ThingsCrafted.label>ting fabrikeret</ThingsCrafted.label>
+	
+	<ThingsCrafted.description>antallet af ting jeg har fabrikeret.</ThingsCrafted.description>
+	
+	<ThingsHauled.label>ting slæbt hauled</ThingsHauled.label>
+	
+	<ThingsHauled.description>Antallet af ting jeg har slæbt.</ThingsHauled.description>
+	
+	<PlantsSown.label>planter sået</PlantsSown.label>
+	
+	<PlantsSown.description>Antallet af planter jeg har sået.</PlantsSown.description>
+	
+	<PlantsHarvested.label>planter høstet</PlantsHarvested.label>
+	
+	<PlantsHarvested.description>Antallet af planter jeg har høstet.</PlantsHarvested.description>
+	
+	<CellsMined.label>celler minet</CellsMined.label>
+	
+	<CellsMined.description>Antallet af celler jeg har gravet ud.</CellsMined.description>
+	
+	<MessesCleaned.label>rengjort svineri</MessesCleaned.label>
+	
+	<MessesCleaned.description>Antallet af svineri jeg har gjort rent.</MessesCleaned.description>
+	
+	<ResearchPointsResearched.label>forsknings points forsket</ResearchPointsResearched.label>
+	
+	<ResearchPointsResearched.description>Antallet af forsknings points jeg har forsket.</ResearchPointsResearched.description>
+	
+	<CorpsesBuried.label>lig begravet</CorpsesBuried.label>
+	
+	<CorpsesBuried.description>Antallet af lig jeg har begravet.</CorpsesBuried.description>
+	
+	<NutritionEaten.label>ernæring spist</NutritionEaten.label>
+	
+	<NutritionEaten.description>Antallet af ernæring jeg har spist.</NutritionEaten.description>
+	
+	<TrapsRearmed.label>fælder renarmeret</TrapsRearmed.label>
+	
+	<TrapsRearmed.description>Antallet af fælder jeg har renarmeret.</TrapsRearmed.description>
+	
+	<BodiesStripped.label>kroppe afklædt</BodiesStripped.label>
+	
+	<BodiesStripped.description>Antallet af kroppe jeg har afklædt.</BodiesStripped.description>
+	
+	<ThingsUninstalled.label>ting afinstalleret</ThingsUninstalled.label>
+	
+	<ThingsUninstalled.description>Antallet af ting jeg har afinstalleret.</ThingsUninstalled.description>
+	
+	<ThingsDeconstructed.label>ting dekonstrueret</ThingsDeconstructed.label>
+	
+	<ThingsDeconstructed.description>Antallet af ting jeg har dekonstrueret.</ThingsDeconstructed.description>
+	
+	<ArtifactsActivated.label>artifakter aktiveret</ArtifactsActivated.label>
+	
+	<ArtifactsActivated.description>Antallet af artifakter jeg har aktiveret.</ArtifactsActivated.description>
+	
+	<ContainersOpened.label>kontainere åbnet</ContainersOpened.label>
+	
+	<ContainersOpened.description>antallet af kontainere jeg har åbnet.</ContainersOpened.description>
+	
+	<SwitchesFlicked.label>knapper trykket på</SwitchesFlicked.label>
+	
+	<SwitchesFlicked.description>Antallet af knapper jeg har trykket på.</SwitchesFlicked.description>
+	
+</LanguageData>
 
     <OperationsPerformed.label>operations performed</OperationsPerformed.label>
     <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
