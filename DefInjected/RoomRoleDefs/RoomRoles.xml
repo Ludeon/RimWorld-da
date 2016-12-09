@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <None.label>ingen</None.label>
+
+    <Room.label>rum</Room.label>
+
+    <Bedroom.label>soveværelse</Bedroom.label>
+
+    <PrisonCell.label>fængelscelle</PrisonCell.label>
+
+    <DiningRoom.label>spisestue</DiningRoom.label>
+
+    <RecRoom.label>hobbyrummet</RecRoom.label>
+
+    <Hospital.label>hospital</Hospital.label>
+
+    <Laboratory.label>laboratorium</Laboratory.label>
+
+    <Workshop.label>værksted</Workshop.label>
+
+    <Barracks.label>kaserne</Barracks.label>
+
+    <PrisonBarracks.label>fængselskaserne</PrisonBarracks.label>
+
+    <Kitchen.label>køkken</Kitchen.label>
+
+    <Tomb.label>grav</Tomb.label>
+
+    <Barn.label>lade</Barn.label>
+
+</LanguageData>
