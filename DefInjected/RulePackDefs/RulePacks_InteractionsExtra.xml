@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent-&gt;Dette gjore [recipient_nameShortDef] rasende og [recipient_pronoun] started en slåskamp!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+
+    <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent-&gt;[recipient_nameShortDef] er enig og er nu [initiator_nameShortDef]'s elsker.</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
+
+    <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent-&gt;[recipient_nameShortDef] afvidste erklæringen.</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
+
+    <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent-&gt;[recipient_nameShortDef] er enig og de er nu forlovede.</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
+
+    <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent-&gt;[recipient_nameShortDef] afvidste frieriet.</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
+
+    <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent-&gt;det var for meget til at forholdet kunne fortsætte, og de har nu slået op.</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
+
+    <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent-&gt;[recipient_nameShortDef] har accepteret og har slået sig til [initiator_nameShortDef]'s samfund.</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
+
+    <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent-&gt;[recipient_nameShortDef] afslog tilbudet.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+
+</LanguageData>
