@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Shooting.description>Brug alle former for distance våben.</Shooting.description>
+    <Shooting.skillLabel>Skydning</Shooting.skillLabel>
+    <Shooting.pawnLabel>Skyder</Shooting.pawnLabel>
+
+    <Melee.description>Brug alle former for nærkamps våben såvel som ubevæbnet kamp.</Melee.description>
+    <Melee.skillLabel>Nærkamp</Melee.skillLabel>
+    <Melee.pawnLabel>Slagsbror</Melee.pawnLabel>
+
+    <Social.description>Forhandel, overbevisning, manipulation, leder, og opmundre andre.</Social.description>
+    <Social.skillLabel>Social</Social.skillLabel>
+    <Social.pawnLabel>Socialite</Social.pawnLabel>
+
+    <Animals.description>Tæmning, træning, styring, og styr på dyr.</Animals.description>
+    <Animals.skillLabel>Dyr</Animals.skillLabel>
+    <Animals.pawnLabel>Fører</Animals.pawnLabel>
+
+    <Medicine.description>behandling af sår og sygdomme samt at udføre kirurgi.</Medicine.description>
+    <Medicine.skillLabel>Medicine</Medicine.skillLabel>
+    <Medicine.pawnLabel>Læge</Medicine.pawnLabel>
+
+    <Cooking.description>Lav måltider fra rå ingredienser.</Cooking.description>
+    <Cooking.skillLabel>Madlavning</Cooking.skillLabel>
+    <Cooking.pawnLabel>Kok</Cooking.pawnLabel>
+
+    <Construction.description>Bedre konstruktører bygger strukture og møbler hurtigere og i højere kvalitet.</Construction.description>
+    <Construction.skillLabel>Konstruktion</Construction.skillLabel>
+    <Construction.pawnLabel>konstruktør</Construction.pawnLabel>
+
+    <Growing.description>Såning, pasning, og høstning af afgrøder.</Growing.description>
+    <Growing.skillLabel>Dyrkning</Growing.skillLabel>
+    <Growing.pawnLabel>Dyrker</Growing.pawnLabel>
+
+    <Mining.description>Grave tunler og udvinding af mineraler og begravede resourcer.</Mining.description>
+    <Mining.skillLabel>Minedrift</Mining.skillLabel>
+    <Mining.pawnLabel>Minearbejder</Mining.pawnLabel>
+
+    <Artistic.description>Skab kunst.</Artistic.description>
+    <Artistic.skillLabel>Kunstnerisk</Artistic.skillLabel>
+    <Artistic.pawnLabel>kunstner</Artistic.pawnLabel>
+
+    <Crafting.description>Skab generelle objekter såsom våben og værktøjer.</Crafting.description>
+    <Crafting.skillLabel>Håndværk</Crafting.skillLabel>
+    <Crafting.pawnLabel>Håndværker</Crafting.pawnLabel>
+
+    <Research.description>Undersøgelse af beviser, lav eksperimenter, og indlæring.</Research.description>
+    <Research.skillLabel>Forskning</Research.skillLabel>
+    <Research.pawnLabel>Forsker</Research.pawnLabel>
+
+</LanguageData>
