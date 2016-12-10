@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <AllowCorpsesColonist.label>tillad kolonist lig</AllowCorpsesColonist.label>
+    <AllowCorpsesColonist.description>Tillader døde tidligere kolonister.</AllowCorpsesColonist.description>
+
+    <AllowCorpsesStranger.label>tillad fremmeds lig</AllowCorpsesStranger.label>
+    <AllowCorpsesStranger.description>Tillader døde fremmed og fjender.</AllowCorpsesStranger.description>
+
+    <AllowRotten.label>tillad rådent</AllowRotten.label>
+    <AllowRotten.description>Tillad organiske ting som er begyndt at rådne.</AllowRotten.description>
+
+    <AllowNonSmeltableWeapons.label>tillad ikke-smeltbare</AllowNonSmeltableWeapons.label>
+    <AllowNonSmeltableWeapons.description>Alle våben som ikke kan smeltes om.</AllowNonSmeltableWeapons.description>
+
+    <AllowPlantFood.label>tillad planteføde</AllowPlantFood.label>
+    <AllowPlantFood.description>Tillader mad der er kvalitets mæssigt lig med uhøstede planter, såsom hø.</AllowPlantFood.description>
+
+</LanguageData>
