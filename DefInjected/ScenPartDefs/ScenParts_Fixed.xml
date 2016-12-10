@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PlayerFaction.label>Spillerens faktion</PlayerFaction.label>
+
+    <ConfigPage_ConfigureStartingPawns.label>starter folket</ConfigPage_ConfigureStartingPawns.label>
+
+    <PlayerPawnsArriveMethod.label>ankomst metode</PlayerPawnsArriveMethod.label>
+
+</LanguageData>

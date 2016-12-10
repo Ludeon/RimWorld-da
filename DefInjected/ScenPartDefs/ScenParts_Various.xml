@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <GameStartDialog.label>spillets start dialog</GameStartDialog.label>
+
+    <PawnFilter_Age.label>tillad aldersgruppe</PawnFilter_Age.label>
+
+    <OnPawnDeathExplode.label>karaktere ekplodere når de dør</OnPawnDeathExplode.label>
+
+    <ForcedTrait.label>påtvunget egenskab</ForcedTrait.label>
+
+    <ForcedHediff.label>påtvunget helbreds tilstand</ForcedHediff.label>
+
+    <SetNeedLevel.label>sæt behovs niveau</SetNeedLevel.label>
+
+    <StartingResearch.label>start med forskning</StartingResearch.label>
+
+    <MapCondition_Planetkiller.label>indkommende planetdræber våben</MapCondition_Planetkiller.label>
+
+    <Rule_DisallowDesignator_ZoneAdd_Growing.label>kan ikke så</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+    <Rule_DisallowDesignator_ZoneAdd_Growing.description>kan ikke så planter i jorden.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+
+    <Rule_DisallowDesignator_Mine.label>kan ikke mine</Rule_DisallowDesignator_Mine.label>
+    <Rule_DisallowDesignator_Mine.description>kan ikke lave minedrift.</Rule_DisallowDesignator_Mine.description>
+
+    <Rule_DisallowDesignator_Hunt.label>kan ikke jage</Rule_DisallowDesignator_Hunt.label>
+    <Rule_DisallowDesignator_Hunt.description>kan ikke jage.</Rule_DisallowDesignator_Hunt.description>
+
+    <Rule_DisallowDesignator_Tame.label>kan ikke tæmme</Rule_DisallowDesignator_Tame.label>
+    <Rule_DisallowDesignator_Tame.description>kan ikke tæmme dyr.</Rule_DisallowDesignator_Tame.description>
+
+    <StatFactor.label>stat multiplikator</StatFactor.label>
+
+    <DisableIncident.label>deaktivere hændelse</DisableIncident.label>
+
+    <CreateIncident.label>skab hændelse</CreateIncident.label>
+
+    <Rule_DisallowBuilding.label>forbyd bygning</Rule_DisallowBuilding.label>
+
+    <PermanentMapCondition.label>permanent kort tilstand</PermanentMapCondition.label>
+
+    <StartingAnimal.label>start med dyr</StartingAnimal.label>
+
+    <StartingThing_Defined.label>start med</StartingThing_Defined.label>
+
+    <ScatterThingsNearPlayerStart.label>start tæt på</ScatterThingsNearPlayerStart.label>
+
+    <ScatterThingsAnywhere.label>fordelt tilfældigt</ScatterThingsAnywhere.label>
+
+</LanguageData>
