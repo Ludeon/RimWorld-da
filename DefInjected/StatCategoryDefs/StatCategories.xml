@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Basics.label>Grundlæggende</Basics.label>
+
+    <BasicsPawn.label>Grundlæggende</BasicsPawn.label>
+
+    <BasicsNonPawn.label>Grundlæggende</BasicsNonPawn.label>
+
+    <Apparel.label>Beklædning</Apparel.label>
+
+    <Weapon.label>Våben</Weapon.label>
+
+    <Building.label>Bygning</Building.label>
+
+    <EquippedStatOffsets.label>kompensere når udstyret</EquippedStatOffsets.label>
+
+    <StuffStatFactors.label>Multiplikatorer når lavet af dette</StuffStatFactors.label>
+
+    <StuffStatOffsets.label>kompensere når lavet af dette</StuffStatOffsets.label>
+
+    <StuffOfEquipmentStatFactors.label>Multiplicere når udstyret er lavet af dette</StuffOfEquipmentStatFactors.label>
+
+    <PawnCombat.label>Kamp</PawnCombat.label>
+
+    <PawnSocial.label>Social</PawnSocial.label>
+
+    <PawnMisc.label>Diverse</PawnMisc.label>
+
+    <PawnWork.label>Arbejde</PawnWork.label>
+
+</LanguageData>
