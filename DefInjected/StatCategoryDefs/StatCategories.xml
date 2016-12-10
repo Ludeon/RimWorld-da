@@ -12,11 +12,11 @@
 
     <Building.label>Bygning</Building.label>
 
-    <EquippedStatOffsets.label>kompensere når udstyret</EquippedStatOffsets.label>
+    <EquippedStatOffsets.label>Opvejer når udstyret</EquippedStatOffsets.label>
 
     <StuffStatFactors.label>Multiplikatorer når lavet af dette</StuffStatFactors.label>
 
-    <StuffStatOffsets.label>kompensere når lavet af dette</StuffStatOffsets.label>
+    <StuffStatOffsets.label>Opvejer når lavet af dette</StuffStatOffsets.label>
 
     <StuffOfEquipmentStatFactors.label>Multiplicere når udstyret er lavet af dette</StuffOfEquipmentStatFactors.label>
 
