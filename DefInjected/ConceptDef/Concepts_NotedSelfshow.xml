@@ -16,7 +16,7 @@
     <Stockpiles.helpText>Dine kolonister har brug for et sted at opbevare deres ting. Designere en LAGERPLADS til at opbevare deres ting.\n\nDu kan finde lagerplads i ZONE sektionen under ARKITET menuen nederst til venstre.</Stockpiles.helpText>
 
     <Forbidding.label>Forbyd og tillad</Forbidding.label>
-    <Forbidding.helpText>Kolonister vil ikke bruge objekter som er markeret som FORBUDT.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it.</Forbidding.helpText>
+    <Forbidding.helpText>Kolonister vil ikke bruge objekter som er markeret som FORBUDT.\n\nForbudte objekter har et lille rødt X på sig. Vælg et forbudt objet og brug kontrolerne ved bunden til at TILLAD det.</Forbidding.helpText>
 
     <GrowingFood.label>Mark zoner</GrowingFood.label>
     <GrowingFood.helpText>For at plante mad skal du lave en MARK ZONE ved at bruge Arkitet menuen.\n\nDe kan kun placeres på frugtbar jord.</GrowingFood.helpText>
