@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MaxHitPoints.label>max helbredspoints </MaxHitPoints.label>
+    <MaxHitPoints.description>Maximum antal af helbredspoints af et objekt. Dette representere hvor meget skade det kan tage inden det er ødelagt.</MaxHitPoints.description>
+
+    <MarketValue.label>markedsværdi</MarketValue.label>
+    <MarketValue.description>Markedsværdien af et objekt. Den aktuelle handelspris vil blive påvirket af forholdsstatus og forhandlings evner.</MarketValue.description>
+
+    <SellPriceFactor.label>salgspris  price multiplikator</SellPriceFactor.label>
+    <SellPriceFactor.description>En multiplikator på den pris, som du kan sælge varer.</SellPriceFactor.description>
+
+    <Flammability.label>brændbarhed</Flammability.label>
+    <Flammability.description>Hvor nemt der går ild i objekter og hvor stærkt det brænder.</Flammability.description>
+
+    <WorkToMake.label>arbejds mængde</WorkToMake.label>
+    <WorkToMake.description>Base mængden af arbejde det tager at lave dette når alle materialer og værktøjer er indsamlet.</WorkToMake.description>
+
+    <DeteriorationRate.label>forringelse rate</DeteriorationRate.label>
+    <DeteriorationRate.description>Hastigheden et objekt forringes når det er efterladt udenfor, specielt i regn.</DeteriorationRate.description>
+
+    <Beauty.label>skønhed</Beauty.label>
+    <Beauty.description>Hvor How behagligt objektet er at beskue.</Beauty.description>
+
+    <Cleanliness.label>renlighed</Cleanliness.label>
+    <Cleanliness.description>Hvor rent objektet er.</Cleanliness.description>
+
+    <Comfort.label>Komfort</Comfort.label>
+    <Comfort.description>Hvor behageligt objektet er at side eller ligge på.</Comfort.description>
+
+</LanguageData>

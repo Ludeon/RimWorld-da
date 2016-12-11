@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <DoorOpenSpeed.label>dør åbnings hastighed</DoorOpenSpeed.label>
+    <DoorOpenSpeed.description>Hastigheden en dør vil åbnes.</DoorOpenSpeed.description>
+
+    <BedRestEffectiveness.label>søvn effektivitet</BedRestEffectiveness.label>
+    <BedRestEffectiveness.description>Hvor hurtigt folk der sover på denne genvinder hvile.</BedRestEffectiveness.description>
+
+    <TrapMeleeDamage.label>fælde skade</TrapMeleeDamage.label>
+    <TrapMeleeDamage.description>Hvor meget denne fælde typisk giver i skade. Den aktuelle skade kan variere en smule.</TrapMeleeDamage.description> 
+
+    <TrapSpringChance.label>fælde aktiverings chance</TrapSpringChance.label>
+    <TrapSpringChance.description>Sandsynligheden at en fælde vil aktivere når et uvidende væsen passere over det.</TrapSpringChance.description>
+
+    <ResearchSpeedFactor.label>forsknings hastigheds faktor</ResearchSpeedFactor.label>
+    <ResearchSpeedFactor.description>Hvor hurtigt folk vil lave forskning er ganget af denne værdig.</ResearchSpeedFactor.description>
+    <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
+
+    <MedicalTreatmentQualityFactor.label>medicinsk behandlings kvalitet faktor</MedicalTreatmentQualityFactor.label>
+    <MedicalTreatmentQualityFactor.description>Medicinsk behandlings kvalitet er ganget med denne værdig.</MedicalTreatmentQualityFactor.description>
+
+    <ImmunityGainSpeedFactor.label>hastigheden immunitet opnås faktor</ImmunityGainSpeedFactor.label>
+    <ImmunityGainSpeedFactor.description>Hastigheden imminitet opnåes er ganget med denne værdig.</ImmunityGainSpeedFactor.description>
+
+    <WorkTableWorkSpeedFactor.label>arbejdshastigheds faktor</WorkTableWorkSpeedFactor.label>
+    <WorkTableWorkSpeedFactor.description>Arbejdshastigheden er ganget med denne værdig.</WorkTableWorkSpeedFactor.description>
+
+    <EntertainmentStrengthFactor.label>underholdnings styrke faktor</EntertainmentStrengthFactor.label>
+    <EntertainmentStrengthFactor.description>Hvor effektivt dette objekt underholder folk og giver dem glæde.</EntertainmentStrengthFactor.description>
+
+</LanguageData>

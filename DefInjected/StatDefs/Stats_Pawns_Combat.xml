@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MeleeDPS.label>nærkamps SPS</MeleeDPS.label>
+    <MeleeDPS.description>Gennemsnits skaden per sekundt i nærkamp.</MeleeDPS.description>
+
+    <ShootingAccuracy.label>træfsikkerhed</ShootingAccuracy.label>
+    <ShootingAccuracy.description>Grund chancen for ikke at ramme ved siden af per felt per distance.</ShootingAccuracy.description>
+
+    <AimingDelayFactor.label>sigte tid</AimingDelayFactor.label>
+    <AimingDelayFactor.description>Hvor lang tid det tager at ramme efter at have sigtet.</AimingDelayFactor.description>
+
+    <MeleeHitChance.label>nærkamps træfsikkerhed</MeleeHitChance.label>
+    <MeleeHitChance.description>Grund chancen for at ramme i nærkamp.</MeleeHitChance.description>
+
+</LanguageData>

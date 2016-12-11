@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <ArmorRating_Blunt.label>Beskyttelse - Stumpt</ArmorRating_Blunt.label>
+    <ArmorRating_Blunt.description>Beskyttelse mod stump skade såsom køle angreb, stenskred og eksplosioner.</ArmorRating_Blunt.description>
+
+    <ArmorRating_Sharp.label>Beskyttelse - Skarp</ArmorRating_Sharp.label>
+    <ArmorRating_Sharp.description>Beskyttelse mod skarp skade såsom kugler, knivstik og dyre tænder.</ArmorRating_Sharp.description>
+
+    <ArmorRating_Heat.label>Beskyttelse - Varme</ArmorRating_Heat.label>
+    <ArmorRating_Heat.description>Beskyttelse mod temperatur relatede skade såsom ild.</ArmorRating_Heat.description>
+
+    <ArmorRating_Electric.label>Beskyttelse - Electrisk </ArmorRating_Electric.label>
+    <ArmorRating_Electric.description>Beskyttelse mod electrisk skade såsom EMP pulser.</ArmorRating_Electric.description>
+
+    <Insulation_Cold.label>Isolering - Kulde</Insulation_Cold.label>
+    <Insulation_Cold.description>Hvor meget dette tøj opvejer en bærerens minimum behagelig temperatur, når det bæres.</Insulation_Cold.description>
+
+    <Insulation_Heat.label>Isolering - Varme</Insulation_Heat.label>
+    <Insulation_Heat.description>Hvor meget dette tøj opvejer en bærerens maximum behagelig temperatur, når det bæres.</Insulation_Heat.description>
+
+    <PersonalShieldEnergyMax.label>barrier max energi</PersonalShieldEnergyMax.label>
+    <PersonalShieldEnergyMax.description>Maximums energien et personlig barriere kan indeholde på engang. Mere energi kan absorbere mere skade.</PersonalShieldEnergyMax.description>
+
+    <PersonalShieldRechargeRate.label>barriers genoplades sats</PersonalShieldRechargeRate.label>
+    <PersonalShieldRechargeRate.description>Hastigheden som barrieren genoplader energi så længe den ikke er gået i stykker.</PersonalShieldRechargeRate.description>
+
+</LanguageData>

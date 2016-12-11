@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MedicalOperationSpeed.label>medicinsk operations hastighed</MedicalOperationSpeed.label>
+    <MedicalOperationSpeed.description>Hastigheden denne karakter udfører medicinske operationer.</MedicalOperationSpeed.description>
+
+    <SurgerySuccessChance.label>kirugi succes chance</SurgerySuccessChance.label>
+    <SurgerySuccessChance.description>Sandsynligheden for at karakteren vil have succes med at udføre et kirugisk ingreb. Fiasko kan resultere i spild af tid og medicin, og en katastrofe vil skade patienten.</SurgerySuccessChance.description>
+
+    <BaseHealingQuality.label>grund helbredelses kvalitet</BaseHealingQuality.label>
+    <BaseHealingQuality.description>Grund kvaliteten af behandlingen givet til patienter når denne karakter er en læge.</BaseHealingQuality.description>
+
+    <HealingSpeed.label>helbredelses hastighed</HealingSpeed.label>
+    <HealingSpeed.description>Hastigheden at denne karakter vil helbrede sår som en læge.</HealingSpeed.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <AccuracyTouch.label>Træfsikkerhed (berøring)</AccuracyTouch.label>
+    <AccuracyTouch.description>Træfsikkerheds multiplikator ved berørings afstand.</AccuracyTouch.description>
+
+    <AccuracyShort.label>Træfsikkerhed (kort)</AccuracyShort.label>
+    <AccuracyShort.description>Træfsikkerheds multiplikator ved kort afstand.</AccuracyShort.description>
+
+    <AccuracyMedium.label>Træfsikkerhed (medium)</AccuracyMedium.label>
+    <AccuracyMedium.description>Træfsikkerheds multiplikator ved medium afstand.</AccuracyMedium.description>
+
+    <AccuracyLong.label>Træfsikkerhed (lang)</AccuracyLong.label>
+    <AccuracyLong.description>Træfsikkerheds multiplikator ved lang afstand.</AccuracyLong.description>
+
+    <RangedWeapon_Cooldown.label>langdistance cooldown</RangedWeapon_Cooldown.label>
+    <RangedWeapon_Cooldown.description>Hvor lang tid det tager at komme sig sig efter at have skudt sit våben.</RangedWeapon_Cooldown.description>
+
+</LanguageData>

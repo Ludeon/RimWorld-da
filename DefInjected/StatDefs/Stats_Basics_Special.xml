@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MedicalPotency.label>medicinsk styrke</MedicalPotency.label>
+    <MedicalPotency.description>Hvor effektivt dette er når det bliver brugt til at helbrede sår eller sygdomme, eller når der skal laves et kirurgisk indgreb. Højere medicinsk styrke forbedre chancen for at en læge kan behandle sår ordenlig, og nedsætter chancen for at et kirurgisk indgreb fejler.</MedicalPotency.description>
+
+</LanguageData>

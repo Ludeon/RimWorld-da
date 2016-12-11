@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <WorkSpeedGlobal.label>global arbejdshastighed</WorkSpeedGlobal.label>
+    <WorkSpeedGlobal.description>En multiplikator på hastigheden denne person laver et stykke arbejde.</WorkSpeedGlobal.description>
+
+    <MiningSpeed.label>minedrifts hastighed</MiningSpeed.label>
+    <MiningSpeed.description>En multiplikator på hvor hurtigt denne person vil mine sten.</MiningSpeed.description>
+
+    <SmoothingSpeed.label>udjævnings hastighed</SmoothingSpeed.label>
+    <SmoothingSpeed.description>En multiplikator på hastigheden denne person udjævner gulve.</SmoothingSpeed.description>
+
+    <ResearchSpeed.label>forsknings hastighed</ResearchSpeed.label>
+    <ResearchSpeed.description>Denne person laver forskning ved denne hastighed.</ResearchSpeed.description>
+
+    <ConstructionSpeed.label>konstruktions hastighed</ConstructionSpeed.label>
+    <ConstructionSpeed.description>Hastigheden denne person konstruere og reparer bygninger.</ConstructionSpeed.description>
+
+    <PlantWorkSpeed.label>plantearbejde hastighed</PlantWorkSpeed.label>
+    <PlantWorkSpeed.description>Hastigheden denne person såer og høster planter.</PlantWorkSpeed.description>
+
+    <HarvestFailChance.label>fejl høstnings chance</HarvestFailChance.label>
+    <HarvestFailChance.description>Chancen for at denne person kommer til at ødelægge forsøget på at høste.</HarvestFailChance.description>
+
+    <ConstructFailChance.label>fejl konstruktions chance</ConstructFailChance.label>
+    <ConstructFailChance.description>Chancen for at denne person vil fejle i at konstruer noget og spilde tid og resourcer.</ConstructFailChance.description>
+
+    <FixBrokenDownBuildingFailChance.label>fejl reparer chance</FixBrokenDownBuildingFailChance.label>
+    <FixBrokenDownBuildingFailChance.description>Chancen for at denne person vil fejle i at prøve at reparere nogen.</FixBrokenDownBuildingFailChance.description>
+
+</LanguageData>

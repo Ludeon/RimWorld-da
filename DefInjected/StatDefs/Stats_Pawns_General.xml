@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MoveSpeed.label>gå hastighed</MoveSpeed.label>
+    <MoveSpeed.description>Hastigheden man bevæger sig gennem verdenen i celler per sekundt.</MoveSpeed.description>
+
+    <MentalBreakThreshold.label>mentalt sammenbruds grænse</MentalBreakThreshold.label>
+    <MentalBreakThreshold.description>Så længe at ens humør er under dette niveau er de i fare for at have et mentalt sammenbrud.</MentalBreakThreshold.description>
+
+    <PsychicSensitivity.label>psykiske følsomhed sensitivity</PsychicSensitivity.label>
+    <PsychicSensitivity.description>Multiplikator om virkningen af psykiske fænomener der berører denne person.</PsychicSensitivity.description>
+
+    <ToxicSensitivity.label>giftig følsomhed</ToxicSensitivity.label>
+    <ToxicSensitivity.description>Multiplikator om virkningen af giftige opbygningen på denne karakter.</ToxicSensitivity.description>
+
+    <GlobalLearningFactor.label>global indlærings faktor</GlobalLearningFactor.label>
+    <GlobalLearningFactor.description>Global lærings effektivitet for all learning efficiency for all færdigheder.</GlobalLearningFactor.description>
+
+    <EatingSpeed.label>spise hastighed</EatingSpeed.label>
+    <EatingSpeed.description>Multiplikator på spise hastighed.</EatingSpeed.description>
+
+    <ComfyTemperatureMin.label>Minimums komfortabel temperatur</ComfyTemperatureMin.label>
+    <ComfyTemperatureMin.description>Under denne temperatur vil karakterene blive ulykkelig. Hvis det er meget under denne temperatur, vil de udvikle hypotermi og forfrysningerog, og vil til sidst dø.</ComfyTemperatureMin.description>
+
+    <ComfyTemperatureMax.label>Maximum komfortabel temperatur</ComfyTemperatureMax.label>
+    <ComfyTemperatureMax.description>Over denne temperatur vil karakterende blive ulykkelig. Hvis det meget over denne temperatur, vil de udvikle hedeslag og vil til sidst dø.</ComfyTemperatureMax.description>
+
+    <ImmunityGainSpeed.label>immunitets udviklings hastighed</ImmunityGainSpeed.label>
+    <ImmunityGainSpeed.description>Hastigheden karakteren udvikler immunitet over for sygdomme. Hvis denne er for langsom, vil karakteren dø af sygdommen inden immunitet er udviklet.</ImmunityGainSpeed.description>
+
+    <CarryingCapacity.label>bæreevne</CarryingCapacity.label>
+    <CarryingCapacity.description>Mængden af ting dette væsen kan bære i dens hænder, mund, eller manipulatore.</CarryingCapacity.description>
+
+    <MeatAmount.label>kød mængde</MeatAmount.label>
+    <MeatAmount.description>Mængden af kød du vil få ved at slagte dette væsen.</MeatAmount.description>
+
+    <LeatherAmount.label>læder mængde</LeatherAmount.label>
+    <LeatherAmount.description>Mængden af læder du vil få ved at slagte dette væsen.</LeatherAmount.description>
+
+    <MinimumHandlingSkill.label>minimums fører evne</MinimumHandlingSkill.label>
+    <MinimumHandlingSkill.description>Dette væsen kan ikke blive tæmmet, trænet eller kommanderet af nogen der har mindre i dyre færdigheden.</MinimumHandlingSkill.description>
+
+</LanguageData>
