@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root-&gt;[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
     <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group-&gt;[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
     <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group-&gt;[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
     <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence-&gt;Denne [depiction] refererer til [tale_noun] d. [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
-    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence-&gt;denne [depiction] er relateret til [tale_noun] d. [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+    <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence-&gt;dette [depiction] er relateret til [tale_noun] d. [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
     <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence-&gt;Denne [depiction] fortæller historien om [tale_noun] d. [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
 	
     <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root-&gt;[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
@@ -40,13 +40,91 @@
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause-&gt;værket har en [artstyle_adj] følelse og en [composition] struktur</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause-&gt;den overordnede sammensætning er [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause-&gt;stilen er [artstyle_adj] med [artstyle_adj] elementer</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
-    <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause-&gt;billedet er totalt the image is totally blottet for både [concept] og [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause-&gt;billedet er totalt blottet for både [concept] og [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause-&gt;billedet på en eller anden måde, udtrykket både [concept] og [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause-&gt;[composition]s struktur af billedet er næsten i konflikt med dens [artstyle_adj]s stil</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause-&gt;værket er nedtonet med nuancer af [color] og [color]</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause-&gt;næsten hver form i billedet virker til at være [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts-&gt;afbilder</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts-&gt;viser</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts-&gt;portrætterer</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts-&gt;ligner</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts-&gt;illustrer</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts-&gt;repræsenterer</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts-&gt;er formet som</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction-&gt;afbildning</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction-&gt;billede</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction-&gt;skildring</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction-&gt;repræsentation</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction-&gt;illustration</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction-&gt;illustration</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition-&gt;trekantede</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition-&gt;rektangulær</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition-&gt;firkant</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition-&gt;ubalanceret</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition-&gt;velafbalanceret</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition-&gt;meget dynamisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition-&gt;meget statisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj-&gt;uoriginalt</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj-&gt;simpel</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj-&gt;kompleks og realistisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj-&gt;surrealistisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj-&gt;klassisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj-&gt;moderne</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj-&gt;symbolsk</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj-&gt;amatøragtig og alligevel attraktivt</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj-&gt;detalje orienteret</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj-&gt;klodset</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj-&gt;kubistisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj-&gt;impressionistisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj-&gt;ekspressionistiske</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj-&gt;fotografisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj-&gt;barok</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj-&gt;dadaistiske</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj-&gt;fejl-kunst</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj-&gt;pixeleret</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj-&gt;fauvist</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj-&gt;folkelig</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj-&gt;figurativt </ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj-&gt;bugtende</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj-&gt;geometriske</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj-&gt;abstrakt</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj-&gt;hyper-realistisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj-&gt;pop kunst</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj-&gt;minimalistiske</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj-&gt;neoklassisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj-&gt;celle-skygget</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj-&gt;post-impressionistisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj-&gt;puristiske</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj-&gt;rokoko</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj-&gt;romansk</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj-&gt;romantisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj-&gt;graffitilignende</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj-&gt;erotisk</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj-&gt;sensuelt</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj-&gt;inderligt</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive-&gt;sidder</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive-&gt;står</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive-&gt;venter</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive-&gt;smiler</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive-&gt;ligger</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive-&gt;posere</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive-&gt;vises</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive-&gt;er vist</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive-&gt;svinder ind</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive-&gt;flyder</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position-&gt;ude til den ene side</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position-&gt;i nærheden af billedet</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position-&gt;i baggrunden</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position-&gt;i det fjerne</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position-&gt;i den nedere del af billedet</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position-&gt;i den øvre del af billedet</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position-&gt;under hovedemnet</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position-&gt;bagved fokuspunktet</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position-&gt;til venstre del af billedet</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
+    <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position-&gt;til højre af hoved scenariet</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
+
+</LanguageData>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts-&gt;portrætterer</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts-&gt;ligner</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
     <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts-&gt;illustrer</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
