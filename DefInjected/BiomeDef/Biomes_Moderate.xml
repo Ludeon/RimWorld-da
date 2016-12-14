@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+  	<!-- Unlandable biomes -->
+	
+	<Ocean.label>Hav</Ocean.label>
+	<Ocean.description>Åbent hav. Fantastisk for fisk - ikke så godt for dig.</Ocean.description>
 
-    <Ocean.label>Hav</Ocean.label>
-    <Ocean.description>Åbent hav. Fantastisk for fisk - ikke så godt for dig.</Ocean.description>
-
-    <TemperateForest.label>tempereret skov</TemperateForest.label>
-    <TemperateForest.description>En venlig biome domineret af skov og med forskellige træer, med områder af frugtbar jord. Mange forskellige dyrearter lever imellem træerne og græssletterne.</TemperateForest.description>
+	<!-- Buildable biomes -->
+	
+	<TemperateForest.label>tempereret skov</TemperateForest.label>
+	<TemperateForest.description>En Skove i løvtræer spækket med frugtbare lysninger. Mange forskellige dyrearter lever i træerne og på græssletterne. Pågrund af sne er det langsomt at rejse om vinteren.</TemperateForest.description>
 
 	<TropicalRainforest.label>tropisk regnskov</TropicalRainforest.label>
-    <TropicalRainforest.description>En tyk, fugtig jungle. Den overgroede skov og de aggressive dyr gør konstruktion og overlevelse besværligt.</TropicalRainforest.description>
+	<TropicalRainforest.description>En tyk, fugtig jungle. Den overgroede skov og de aggressive dyr gør konstruktion og overlevelse besværligt. Sygdomme er en konstant trussel her.</TropicalRainforest.description>
 
 </LanguageData>
