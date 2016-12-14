@@ -34,10 +34,24 @@
     <Flame.label>ild</Flame.label>
     <Flame.deathMessage>{0} blev brændt til døde.</Flame.deathMessage>
     
+    <!-- Burn is like Flame, but doesn't ignite anything -->
+    
+    <Burn.label>brænd</Burn.label>
+    <Burn.deathMessage>{0} blev brændt ihjel.</Burn.deathMessage>
+    
     <Frostbite.label>forfrysninger</Frostbite.label>
     <Frostbite.deathMessage>{0} har fået forfrysninger.</Frostbite.deathMessage>
     
+    <!-- Surgical cut should not harm outer layers.
+       This makes it possible to remove inner organs without harming outer body parts -->
+    
     <SurgicalCut.label>kirurgisk snittsår</SurgicalCut.label>
     <SurgicalCut.deathMessage>{0} døde under en operation.</SurgicalCut.deathMessage>
+    
+    <!-- Execution cut
+       This makes it possible to distinguish execution damage from others -->
+    
+    <ExecutionCut.label>henrettelses hug</ExecutionCut.label>
+    <ExecutionCut.deathMessage>{0} er blevet henrettet.</ExecutionCut.deathMessage>
     
 </LanguageData>
