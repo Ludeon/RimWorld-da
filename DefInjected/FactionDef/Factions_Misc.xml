@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Normal humanlike factions -->
-
-  <Outlander.label>Udlænding</Outlander.label>
+  <Outlander.label>Udlændinge Union</Outlander.label>
   <Outlander.description>Et lille samfund af overleverer.\n\nDette folk har levet for årtier eller århundreder, og har mistet meget af den teknologi de havde med sig til denne verden. De arbejder som regel med simple, mekaniske værktøjer og forsvare sig selv med advanceret krudt våben.\n\nDe går meget op i praktiske ting ved handel, tiltro, og overlevelse.</Outlander.description>
   <Outlander.pawnsPlural>Udlændinge</Outlander.pawnsPlural>
   <Outlander.leaderTitle>borgmester</Outlander.leaderTitle>
@@ -13,9 +11,9 @@
   <Tribe.pawnsPlural>Stammefolk</Tribe.pawnsPlural>
   <Tribe.leaderTitle>Høvding</Tribe.leaderTitle>
 
-  <Pirate.label>Pirater</Pirate.label>
-  <Pirate.description>en bande af banditer.\n\nPirater sår ikke, de bygger ikke, og de forhandler sjælendt. De beriger sig selv for det meste ved at plyndre og stjæle fra de mere produktive grupper i området.\n\nDeres teknologi nivau afhænger for det meste af hvem de har været istand til at stjæle fra for nylig. Oftes vil de være bevæbnet med våben, dog vil de mere heldige have advancerede energi våben, og nogle kan måske enda bare lide at stikke folk ned tæt på.</Pirate.description>
-  <Pirate.pawnsPlural>Piratbande</Pirate.pawnsPlural>
+  <Pirate.label>Piratbande</Pirate.label>
+  <Pirate.description>En bande af banditer.\n\nPirater sår ikke, de bygger ikke, og de forhandler sjælendt. De beriger sig selv for det meste ved at plyndre og stjæle fra de mere produktive grupper i området.\n\nDeres teknologi nivau afhænger for det meste af hvem de har været istand til at stjæle fra for nylig. Oftes vil de være bevæbnet med våben, dog vil de mere heldige have advancerede energi våben, og nogle kan måske enda bare lide at stikke folk ned tæt på.</Pirate.description>
+  <Pirate.pawnsPlural>Pirater</Pirate.pawnsPlural>
   <Pirate.leaderTitle>Bossen</Pirate.leaderTitle>
   
 </LanguageData>
