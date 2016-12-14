@@ -21,7 +21,7 @@
   
   <!-- Factions tab -->
   <Hostile>Fjendtlig</Hostile>
-  <HostileTo>Fjende til{0}</HostileTo>
+  <HostileTo>Fjende til {0}</HostileTo>
   <CurrentGoodwill>Nuværende forhold til denne base.</CurrentGoodwill>
 
   
