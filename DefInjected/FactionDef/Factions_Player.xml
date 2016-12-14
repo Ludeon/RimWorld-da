@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <PlayerColony.label>Koloni</PlayerColony.label>
-  <PlayerColony.description>din egen koloni.</PlayerColony.description>
+  <PlayerColony.label>Nyankomne</PlayerColony.label>
+  <PlayerColony.description>dit eget samfund.</PlayerColony.description>
   <PlayerColony.pawnsPlural>kolonister</PlayerColony.pawnsPlural>
 
-  <PlayerTribe.label>stamme</PlayerTribe.label>
+  <PlayerTribe.label>ny stamme</PlayerTribe.label>
   <PlayerTribe.description>din egen stamme.</PlayerTribe.description>
   <PlayerTribe.pawnsPlural>stammefolk</PlayerTribe.pawnsPlural>
 
