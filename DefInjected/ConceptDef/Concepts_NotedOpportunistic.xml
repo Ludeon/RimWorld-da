@@ -1,9 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
+     <!-- Concepts taught through the learning readout, when opportunities arise -->
+
+    <ReformCaravan.label>Gendan karavane</ReformCaravan.label>
+    <ReformCaravan.helpText>Efter et møde kan du nemt gendanne en karavane ved at bruge GENDAN KARAVANEkommandoen i Verdens Billedet.</ReformCaravan.helpText>
+
     <Rescuing.label>Redning</Rescuing.label>
     <Rescuing.helpText>For at redde en såret person, vælg en rask kolonist og højreklik på den sårede.\n\nHvis du redder en ikke-kolonist, er det ikke sikkert de tilslutter sig i din koloni. Det er muligt de bare går deres vej efter at være blevet helbredt. Hvis du vil sikker på at de tilslutter sig, fang dem og rekruter dem.</Rescuing.helpText>
 
-    <Capturing.label>Infanging</Capturing.label>
+    <Capturing.label>Indfanging</Capturing.label>
     <Capturing.helpText>Når en fjende er nede på jorden og ikke død, kan du FANGE dem.\n\nFor at fange dem, vælg en kolonist, højreklik på den invalideret fjende og vælf FANG.\n\nDu vil få brug for en ekstra seng markeret til fange brug.</Capturing.helpText>
 
     <PersonalShields.label>Personlig barrier</PersonalShields.label>
@@ -12,7 +17,7 @@
     <InteractingWithTraders.label>Interaktion med forhandler</InteractingWithTraders.label>
     <InteractingWithTraders.helpText>Du kan snakke med folk der har et ? over deres hoved.\n\nVælg en kolonist og højreklik på karakteren der har et ? placeret over sit hoved.</InteractingWithTraders.helpText>
 
-    <Drafting.label>hverv til kamp</Drafting.label>
+    <Drafting.label>hverve til kamp</Drafting.label>
     <Drafting.helpText>For at kontrolere kolonister direkte til kamp, hverv dem ved at vælge dem og tryk på HVERV knappen\n\nEn hvervet kolonist vil kun gøre hvad du fortæller dem, og kan kun gøre kamp handlinger. Dem med våben vil bruge dem hvis muligt.\n\nLad ikke dine kolonister være hvervet hele tiden - de vil begynde at sulte og blive ulykkelig.</Drafting.helpText>
 
     <BuildOrbitalTradeBeacon.label>Build kredsløbs handelsfyr</BuildOrbitalTradeBeacon.label>
@@ -33,7 +38,7 @@
     <DrugPolicies.label>Stof politik</DrugPolicies.label>
     <DrugPolicies.helpText>Du kan bestemme kolonisterne til at tage specifikke stoffer efter et specifikt skema. For eksempel kan du sætte dem til at tage anti-malaria stoffer regelmæssigt, eller til at drikke øl en dag for at holde sig glad.\n\nÅben TILDEL fanen og tryk på 'Håndter stof politik' knappen. Lav en ny stof politik. Derefter kan du tildele politikentil kolonisterne.\n\nKolonister kan stadig tage stoffer som ikke er i deres politik. Du kan fortælle dem hvad de skal gøre, men de vil også følge deres egne lyster!</DrugPolicies.helpText>
 
-    <TVForSickPeople.label>TV til det syge folk</TVForSickPeople.label>
+    <TVForSickPeople.label>TV til de syge</TVForSickPeople.label>
     <TVForSickPeople.helpText>Syge mennesker kan se TV imens de ligger i sengen.</TVForSickPeople.helpText>
 
     <PrisonerTab.label>Fange fanen</PrisonerTab.label>
@@ -42,7 +47,7 @@
     <SetGrowingZonePlant.label>Vælg hvilken plante der skal såes</SetGrowingZonePlant.label>
     <SetGrowingZonePlant.helpText>Du kan bestemme hvilke planter der skal såes i en mark. Du kan enda så træer!\n\nBare vælg en mark, åben 'Plant' knappen.</SetGrowingZonePlant.helpText>
 
-    <DrugBurning.label>Stof brænding</DrugBurning.label>
+    <DrugBurning.label>medicin brænding</DrugBurning.label>
     <DrugBurning.helpText>Stoffer kan være brugbare, men kan også ende med et skadeligt stofmisbrug.\n\nHvis du gerne vil ungå stoffer i din koloni, har du muligheden for at brænde dem ved et lejrbål.</DrugBurning.helpText>
 
 </LanguageData>
