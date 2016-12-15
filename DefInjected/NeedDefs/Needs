@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Mood.label>humør</Mood.label>
+    <Mood.description>Humør representere hvor glad or stresset en er. Hvis humøret bliver for lavt kan personen risikere et mentalt sammenbrud.</Mood.description>
+
+    <Food.label>mad</Food.label>
+    <Food.description>Mad er mængden af næring et væsen har indtaget for nylig. Hvis det er på nul vil væsnet begynde at tage skade over tid pågrund af sult.</Food.description>
+
+    <Rest.label>hvile</Rest.label>
+    <Rest.description>Hvile er hvor meget søvn et væsen har fået for nylig.</Rest.description>
+
+    <Joy.label>glæde</Joy.label>
+    <Joy.description>Glæde representere behovet for at gøre noget rart fra tid til anden. Læg mærke til at gøre den samme aktivitet gentagende gange i træl gør den mindre effektiv til at give glæde.</Joy.description>
+
+    <Beauty.label>skønhed</Beauty.label>
+    <Beauty.description>Skønhed reflektere hvor flot en person synes sine seneste omgivelser er.</Beauty.description>
+
+    <Comfort.label>komfort</Comfort.label>
+    <Comfort.description>Komfort fåes ved at sidde i eller sove på komfortable møbler.</Comfort.description>
+
+    <Space.label>plads</Space.label>
+    <Space.description>Plads reflektere fornemmelsen af at være fysisk fri og i stand til at bevæge sig rundt. Den tager 'skade' når man bruger længere tid i et trangt rum.</Space.description>
+
+</LanguageData>
