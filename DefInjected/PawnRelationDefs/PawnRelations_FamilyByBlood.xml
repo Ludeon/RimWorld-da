@@ -1,4 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    
+    <!-- close family -->
 
     <Parent.label>far</Parent.label>
     <Parent.labelFemale>mor</Parent.labelFemale>
@@ -24,7 +27,10 @@
     <UncleOrAunt.label>onkel</UncleOrAunt.label>
     <UncleOrAunt.labelFemale>tante</UncleOrAunt.labelFemale>
 
-    <Cousin.label>kusine</Cousin.label>
+    <Cousin.label>fætter</Cousin.label>
+    <Cousin.labelFemale>kusine</Cousin.labelFemale>
+    
+    <!-- distant family -->
 
     <GreatGrandparent.label>oldefar</GreatGrandparent.label>
     <GreatGrandparent.labelFemale>oldemor</GreatGrandparent.labelFemale>
@@ -38,10 +44,15 @@
     <GrandnephewOrGrandniece.label>grandnevø</GrandnephewOrGrandniece.label>
     <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
 
-    <CousinOnceRemoved.label>grand-kusine/fætter</CousinOnceRemoved.label>
+    <CousinOnceRemoved.label>grand-fætter</CousinOnceRemoved.label>
+    <CousinOnceRemoved.labelFemale>grand-kusine</CousinOnceRemoved.labelFemale>
 
-    <SecondCousin.label>grandgrand-kusine/fætter</SecondCousin.label>
+    <SecondCousin.label>grandgrand-fætter</SecondCousin.label>
+    <SecondCousin.labelFemale>grandgrand-kusine</SecondCousin.labelFemale>
 
+    <!-- kin -->
+    
     <Kin.label>pårørende</Kin.label>
-
+    <Kin.labelFemale>pårørende</Kin.labelFemale>
+    
 </LanguageData>
