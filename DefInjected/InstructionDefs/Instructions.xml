@@ -1,24 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
-    <CreateWorldParams.text>Velkommen til Rimworld! Denne vejledning vil lære dig hvordan du spiller spillet.\n\nDet første skridt er at lave en verden du kan komme til at spille i.\n\nDenne side bestemmer hvordan verdenen bliver skabt.\n\nInstillingerne her er gode nok - bare klik på SKAB VERDEN!</CreateWorldParams.text>
+    <CreateWorldParams.text>Velkommen til RimWorld! Denne vejledning vil lære dig hvordan du spiller spillet.\n\nDet første skridt er at lave en verden du kan komme til at spille i.\n\nDenne side bestemmer hvordan verdenen bliver skabt.\n\nInstillingerne her er gode nok - bare klik på SKAB VERDEN!</CreateWorldParams.text>
 
-    <ChooseLandingSite.text>Her vælger du hvor du vil lande.\n\nDer er mange bioms, men indtil videre, lad os starte ved en venlig en.\n\nKlik på et område med tempereret skov og fladt terræn og klik VÆLG STED</ChooseLandingSite.text>
+    <ChooseLandingSite.text>Her vælger du hvor du vil lande.\n\nDer er mange bioms, men indtil videre, lad os starte ved en venlig en.\n\nKlik på et område med tempereret skov og fladt terræn og klik NÆSTE\n\nDu kan bruge TERRÆN fanen til at se på informationen om det valgte felt.</ChooseLandingSite.text>
     <ChooseLandingSite.rejectInputMessage>Vær venlig at vælge en tempereret skov med fladt terræn.</ChooseLandingSite.rejectInputMessage>
 
     <RandomizeCharacter.text>Nu vil du skabe karaktere!\n\nPrøv at lave en tilfældig karakter ved at trykke på TILFÆLDIG knappen.</RandomizeCharacter.text>
     <RandomizeCharacter.rejectInputMessage>Prøv venligst at lave en tilfældig karakter først.</RandomizeCharacter.rejectInputMessage>
 
     <AcceptStartingPawns.text>Godt gået!\n\nTilfældigøre flere hvis du vil - men prøv ikke at få den perfekte karakter. Alle har skavanker, og det laver historien mere interessant!\n\nDu kan også omdøbe karakterende ved at klikke på deres navne.\n\nKlik på START når du er klar.</AcceptStartingPawns.text>
-
     <MapCameraDolly.text>Så er du på overfladen!\n\nPrøv at bevæg kameraet rundt.\n\nBrug {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne, eller klik og træk midtermus knappen.\n\nPrøv det nu!</MapCameraDolly.text>
-
     <MapCameraZoom.text>Glimrende!\n\nDu kan også zoome ind og ud med musehjulet eller med {Key:MapZoomIn} og {Key:MapZoomOut} tasterne. Prøv det nu!</MapCameraZoom.text>
-
     <Pause.text>Du kan pause tid.\n\nDette betyder at du aldrig behøver at skynde dig. Du kan altid bare pause spillet og tage lidt til til at give ordrer.\n\nPrøv at pause med {Key:TogglePause} tasten, eller ved at bruge tids kontrollerne nederst til højre.</Pause.text>
-
     <TimeControls.text>Du kan også sætte farten op på tiden.\n\nPrøv at ændre farten med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, og {Key:TimeSpeedSuperfast} tasterne, eller med tids kontrollerne nederst til højre.</TimeControls.text>
 
-    <MakeStockpile.text>Godt gået!\n\nNu bør du lave en lagerplads så dine kolonister ved hvor objekter skal opbevares.\n\n1. Klik ARKITEKT tappen i bunden til venstre.\n2.Klik på ZONE kategorien.\n3. Vælg LAGERPLADS værktøjet.\n4. Klik og træk en firkant som vidst på kortet.</MakeStockpile.text>
+    <MakeStockpile.text>Godt gået!\n\nNu bør du lave en lagerplads så dine kolonister ved hvor objekter skal opbevares.\n\n1. Klik ARKITEKT fanen i bunden til venstre.\n2.Klik på ZONE kategorien.\n3. Vælg LAGERPLADS værktøjet.\n4. Klik og træk en firkant som vidst på kortet.</MakeStockpile.text>
     <MakeStockpile.rejectInputMessage>Vær venlig at lave en lagerplads på det indikerede område.</MakeStockpile.rejectInputMessage>
     <MakeStockpile.onMapInstruction>Placer lagerpladsen her\n\n(træg fra hjørne-til-hjørne)</MakeStockpile.onMapInstruction>
 
