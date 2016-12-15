@@ -1,78 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
+     <!-- General -->
+     
     <Goto.reportString>Bevæger sig.</Goto.reportString>
-
     <GotoSafeTemperature.reportString>Søger efter en sikker temperatur.</GotoSafeTemperature.reportString>
-
     <GotoWander.reportString>vandrer.</GotoWander.reportString>
-
     <Wait.reportString>står.</Wait.reportString>
-
     <WaitDowned.reportString>nede.</WaitDowned.reportString>
-
     <WaitSafeTemperature.reportString>venter i en sikker temperatur.</WaitSafeTemperature.reportString>
-
-    <WaitWander.reportString>vandrer.</WaitWander.reportString>
-
+     <WaitWander.reportString>vandrer.</WaitWander.reportString>
     <WaitCombat.reportString>holder øje efter mål.</WaitCombat.reportString>
-
     <AttackStatic.reportString>angriber TargetA.</AttackStatic.reportString>
-
     <AttackMelee.reportString>nærkæmper med TargetA.</AttackMelee.reportString>
-
     <SocialFight.reportString>kæmper med TargetA.</SocialFight.reportString>
-
-
-    <Equip.reportString>Udrust TargetA.</Equip.reportString>
-
-    <TakeInventory.reportString>tag TargetA op.</TakeInventory.reportString>
-
-    <Wear.reportString>tag TargetA på.</Wear.reportString>
-
-    <RemoveApparel.reportString>tag TargetA af.</RemoveApparel.reportString>
-
+    <Equip.reportString>Udruster TargetA.</Equip.reportString>
+    <TakeInventory.reportString>tager TargetA op.</TakeInventory.reportString>
+    <Wear.reportString>tager TargetA på.</Wear.reportString>
+    <RemoveApparel.reportString>tager TargetA af.</RemoveApparel.reportString>
+    <DropEquipment.reportString>smider TargetA.</DropEquipment.reportString>
     <Strip.reportString>afklæd TargetA.</Strip.reportString>
-
-    <Open.reportString>åben TargetA.</Open.reportString>
-
+    <Open.reportString>åbener TargetA.</Open.reportString>
     <RearmTrap.reportString>rearmer TargetA.</RearmTrap.reportString>
-
     <Refuel.reportString>genopfyld TargetA.</Refuel.reportString>
-
     <FillFermentingBarrel.reportString>fylder TargetA.</FillFermentingBarrel.reportString>
-
     <TakeBeerOutOfFermentingBarrel.reportString>tager øl ud af TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
-
+    <UnloadInventory.reportString>læser TargetA.</UnloadInventory.reportString>
+    <UnloadYourInventory.reportString>aflæser inventar.</UnloadYourInventory.reportString>     
     <ManTurret.reportString>bruger geværtårn.</ManTurret.reportString>
-
-    <EnterCryptosleepCasket.reportString>påvej i cryptosøvns kiste.</EnterCryptosleepCasket.reportString>
-
+    <EnterCryptosleepCasket.reportString>påvej til cryptosøvns kiste.</EnterCryptosleepCasket.reportString>
     <UseNeurotrainer.reportString>bruger neurotræner.</UseNeurotrainer.reportString>
-
     <UseArtifact.reportString>aktivere artifakt.</UseArtifact.reportString>
-
     <TriggerFirefoamPopper.reportString>aktivere ildskums sprænger.</TriggerFirefoamPopper.reportString>
-
     <ClearSnow.reportString>rydder sne.</ClearSnow.reportString>
-
     <Vomit.reportString>kaster op.</Vomit.reportString>
-
     <Flick.reportString>trykker på knap.</Flick.reportString>
-
     <TradeWithPawn.reportString>handler med TargetA.</TradeWithPawn.reportString>
-
     <FleeAndCower.reportString>flygter.</FleeAndCower.reportString>
+    <EnterTransporter.reportString>går ind i TargetA.</EnterTransporter.reportString>
 
+     <!-- Fire -->
+     
     <Ignite.reportString>sætter ild til TargetA.</Ignite.reportString>
-
     <BeatFire.reportString>slukker ildebrand.</BeatFire.reportString>
-
     <ExtinguishSelf.reportString>slukker sig selv.</ExtinguishSelf.reportString>
+     
+     <!-- Need satisfaction -->
 
-    <Ingest.reportString>spiser TargetA.</Ingest.reportString>
-
+    <Ingest.reportString>indtager TargetA.</Ingest.reportString>
     <LayDown.reportString>ligger ned.</LayDown.reportString>
 
-    <Lovin.reportString>elskov'.</Lovin.reportString>
+     <!-- Love -->
+     
+    <Lovin.reportString>elskov.</Lovin.reportString>
 
 </LanguageData>
