@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <BadBack.label>dårlig ryg</BadBack.label>
-
     <Frail.label>skrøbelig</Frail.label>
-
     <Cataract.label>grå stær</Cataract.label>
-
     <HearingLoss.label>høretab</HearingLoss.label>
-
     <Dementia.label>demens</Dementia.label>
 
     <Alzheimers.label>alzheimers</Alzheimers.label>
@@ -27,7 +23,6 @@
     <HeartArteryBlockage.stages.2.label>stort</HeartArteryBlockage.stages.2.label>
     <HeartArteryBlockage.stages.3.label>stort</HeartArteryBlockage.stages.3.label>
     <HeartArteryBlockage.stages.4.label>ekstremt</HeartArteryBlockage.stages.4.label>
-    <HeartArteryBlockage.stages.5.label>ekstremt</HeartArteryBlockage.stages.5.label>
 
     <Carcinoma.label>karcinom</Carcinoma.label>
     <Carcinoma.stages.0.label>lille</Carcinoma.stages.0.label>
