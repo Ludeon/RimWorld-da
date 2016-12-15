@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
     <Inspect.label>inspicer</Inspect.label>
 
@@ -19,15 +20,15 @@
 
     <Research.label>forskning</Research.label>
     <Research.description>Undersøge og beslut hvilke forsknings projekter der skal ses på.</Research.description>
+    
+    <World.label>verden</World.label>
+    <World.description>se på verdens kortet.</World.description>
+    
+    <History.label>historik</History.label>
+    <History.description>gennemgå optegnelser af koloniens historie.</History.description>
 
     <Factions.label>faktioner</Factions.label>
     <Factions.description>gennemgå de faktioner kolonien kender og deres forhold.</Factions.description>
-
-    <World.label>verden</World.label>
-    <World.description>se på verdens kortet.</World.description>
-
-    <History.label>historik</History.label>
-    <History.description>gennemgå optegnelser af koloniens historie.</History.description>
 
     <Menu.label>menu</Menu.label>
     <Menu.description>Ændre på instillinger, gem, indlæs, eller stop spillet.</Menu.description>
