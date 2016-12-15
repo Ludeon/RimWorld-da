@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ambush -->
+
+  <Ambush.label>baghold</Ambush.label>
+  <Ambush.letterText>Din karavane er faldt i et baghold af {0} fra {1}!</Ambush.letterText>
+  <Ambush.letterLabel>Karavane baghold</Ambush.letterLabel>
+
+  <ManhunterAmbush.label>menneskejæger baghold</ManhunterAmbush.label>
+  <ManhunterAmbush.letterText>Din karavane er faldt i et baghold af menneskejagende {0}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterLabel>Karavane baghold (menneskejægerer)</ManhunterAmbush.letterLabel>
+
+
+  <!-- Caravan meeting -->
+
+  <CaravanMeeting.label>karavane møde</CaravanMeeting.label>
+
+
+</LanguageData>
