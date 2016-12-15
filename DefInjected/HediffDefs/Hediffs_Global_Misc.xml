@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
     <BloodLoss.label>blodtab</BloodLoss.label>
     <BloodLoss.stages.0.label>trivielt</BloodLoss.stages.0.label>
@@ -7,18 +8,13 @@
     <BloodLoss.stages.3.label>alvorlig</BloodLoss.stages.3.label>
     <BloodLoss.stages.4.label>ekstremt</BloodLoss.stages.4.label>
 
-    <Anesthetic.label>bedøvelsesmiddel</Anesthetic.label>
-
-    <Concussion.label>hjernerustelse</Concussion.label>
-
+    <Anesthetic.label>bedøvelse</Anesthetic.label>
     <PsychicShock.label>psykiske chok</PsychicShock.label>
-
     <CryptosleepSickness.label>cryptosøvnssyge</CryptosleepSickness.label>
-
     <FoodPoisoning.label>madforgiftning</FoodPoisoning.label>
 
     <ToxicBuildup.label>gift akkumulering</ToxicBuildup.label>
-    <ToxicBuildup.stages.0.label>initielt-hidden</ToxicBuildup.stages.0.label>
+    <ToxicBuildup.stages.0.label>initial-hidden</ToxicBuildup.stages.0.label>
     <ToxicBuildup.stages.1.label>initielt</ToxicBuildup.stages.1.label>
     <ToxicBuildup.stages.2.label>lidt</ToxicBuildup.stages.2.label>
     <ToxicBuildup.stages.3.label>moderate</ToxicBuildup.stages.3.label>
@@ -28,7 +24,7 @@
     <Pregnant.label>gravid</Pregnant.label>
     <Pregnant.comps.0.discoverLetterLabel>{0} gravid</Pregnant.comps.0.discoverLetterLabel>
     <Pregnant.comps.0.discoverLetterText>{0} er gravid!</Pregnant.comps.0.discoverLetterText>
-    <Pregnant.stages.0.label>tidligt stadie-hidden</Pregnant.stages.0.label>
+    <Pregnant.stages.0.label>early-stage-hidden</Pregnant.stages.0.label>
     <Pregnant.stages.1.label>mellem stadiet</Pregnant.stages.1.label>
     <Pregnant.stages.2.label>sent stadiet</Pregnant.stages.2.label>
 
@@ -39,7 +35,7 @@
 
     <DrugOverdose.label>stof overdosis</DrugOverdose.label>
     <DrugOverdose.comps.1.discoverLetterLabel>Overdosis: {0}</DrugOverdose.comps.1.discoverLetterLabel>
-    <DrugOverdose.comps.1.discoverLetterText>{0} har taget en overdosis!</DrugOverdose.comps.1.discoverLetterText>
+    <DrugOverdose.comps.1.discoverLetterText>{0} har taget en overdose!</DrugOverdose.comps.1.discoverLetterText>
     <DrugOverdose.stages.0.label>hidden</DrugOverdose.stages.0.label>
     <DrugOverdose.stages.1.label>lille</DrugOverdose.stages.1.label>
     <DrugOverdose.stages.2.label>stor</DrugOverdose.stages.2.label>
