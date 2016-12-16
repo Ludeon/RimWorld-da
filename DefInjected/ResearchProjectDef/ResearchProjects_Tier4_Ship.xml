@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ 
+    <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+
+    <ShipBasics.label>basisks rumskibsbygning</ShipBasics.label>
+    <ShipBasics.description>Gør at du kan begynde at forske i mere advancerede rumskibsbygnings teknologi og eventuelt, bygge et rumskib til at slippe væk fra planeten.</ShipBasics.description>
+
+    <ShipCryptosleep.label>rumskibs cryptosøvns kiste</ShipCryptosleep.label>
+    <ShipCryptosleep.description>Gør at du kan konstruer ryptosøvns kister til at transporter af sovende kolonister i cryptosøvn mellem stjernerne.</ShipCryptosleep.description>
+
+    <ShipReactor.label>rumskibs ship antistofreaktor</ShipReactor.label>
+    <ShipReactor.description>Gør at du kan bruge en antistofkontainer kerne til at bygge en fungerende antistofreaktor til at drive et rumskib.</ShipReactor.description>
+
+    <ShipEngine.label>rumskibs antistofsmotor</ShipEngine.label>
+    <ShipEngine.description>Gør at du kan bruge en antistofkontainer kerne til at bygge en fungerende antistofsmotor til et rumskib.</ShipEngine.description>
+
+    <ShipComputerCore.label>rumskibs computerkerne</ShipComputerCore.label>
+    <ShipComputerCore.description>Gør at du kan tvinge en eksisterende AI persona til en brugbar AI computerkerne til et rumskibs navigationsystem.</ShipComputerCore.description>
+
+</LanguageData>
