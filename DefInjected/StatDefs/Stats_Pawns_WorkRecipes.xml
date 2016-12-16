@@ -1,5 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
+     <!-- Artistic recipes - speed not affected by skill. -->
+     
     <SculptingSpeed.label>billedhugnings hastighed</SculptingSpeed.label>
     <SculptingSpeed.description>Hastigheden denne karakter laver skulpture.</SculptingSpeed.description>
 
@@ -11,7 +14,15 @@
 
     <DrugProductionSpeed.label>medicin produktion hastighed</DrugProductionSpeed.label>
     <DrugProductionSpeed.description>Hvor hutgitgt denne karakter producere medicin.</DrugProductionSpeed.description>
+    
+    <StonecuttingSpeed.label>stenhugnings hastighed</StonecuttingSpeed.label>
+    <StonecuttingSpeed.description>Hastigheden denne person skære rå sten til blokke.</StonecuttingSpeed.description>
+    
+    <SmeltingSpeed.label>smeltnings hastighed</SmeltingSpeed.label>
+    <SmeltingSpeed.description>Hastigheden denne person smelter ting.</SmeltingSpeed.description>
 
+    <!-- Production recipes - speed affected by skill. -->
+    
     <CookSpeed.label>madlavnings hastighed</CookSpeed.label>
     <CookSpeed.description>Hastigheden denne person vil lave mad.</CookSpeed.description>
 
@@ -24,19 +35,14 @@
     <ButcheryFleshSpeed.label>slagte hastighed</ButcheryFleshSpeed.label>
     <ButcheryFleshSpeed.description>Hastigheden denne person skære kødet fra væsner.</ButcheryFleshSpeed.description>
 
-    <ButcheryFleshEfficiency.label>slagteri effektivitet</ButcheryFleshEfficiency.label>
-    <ButcheryFleshEfficiency.description>Ganger mængden af kød der er produceret når der slagtes dyr.</ButcheryFleshEfficiency.description>
-
     <ButcheryMechanoidSpeed.label>mekanit demonterings hastighed </ButcheryMechanoidSpeed.label>
     <ButcheryMechanoidSpeed.description>Hastigheden denne person demonterer en mekanit.</ButcheryMechanoidSpeed.description>
 
+    <ButcheryFleshEfficiency.label>slagteri effektivitet</ButcheryFleshEfficiency.label>
+    <ButcheryFleshEfficiency.description>Ganger mængden af kød der er produceret når der slagtes dyr.</ButcheryFleshEfficiency.description>
+    
     <ButcheryMechanoidEfficiency.label>mekanit demontering effektivitet</ButcheryMechanoidEfficiency.label>
     <ButcheryMechanoidEfficiency.description>Ganger mængden af materiale der fåes når denne person demonterer en død mekanit.</ButcheryMechanoidEfficiency.description>
 
-    <StonecuttingSpeed.label>stenhugnings hastighed</StonecuttingSpeed.label>
-    <StonecuttingSpeed.description>Hastigheden denne person skære rå sten til blokke.</StonecuttingSpeed.description>
-
-    <SmeltingSpeed.label>smeltnings hastighed</SmeltingSpeed.label>
-    <SmeltingSpeed.description>Hastigheden denne person smelter ting.</SmeltingSpeed.description>
-
+    
 </LanguageData>
