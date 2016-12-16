@@ -20,7 +20,7 @@
     <MedicalTreatmentQualityFactor.description>Medicinsk behandlings kvalitet er ganget med denne værdig.</MedicalTreatmentQualityFactor.description>
 
     <ImmunityGainSpeedFactor.label>hastigheden immunitet opnås faktor</ImmunityGainSpeedFactor.label>
-    <ImmunityGainSpeedFactor.description>Hastigheden imminitet opnåes er ganget med denne værdig.</ImmunityGainSpeedFactor.description>
+    <ImmunityGainSpeedFactor.description>Hastigheden immunitet opnåes er ganget med denne værdig.</ImmunityGainSpeedFactor.description>
 
     <WorkTableWorkSpeedFactor.label>arbejdshastigheds faktor</WorkTableWorkSpeedFactor.label>
     <WorkTableWorkSpeedFactor.description>Arbejdshastigheden er ganget med denne værdig.</WorkTableWorkSpeedFactor.description>
