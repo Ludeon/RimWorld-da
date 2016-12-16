@@ -35,7 +35,8 @@
 	<NamerFactionBasePirate.rulePack.rulesStrings.4>geography->[terrainfeature]</NamerFactionBasePirate.rulePack.rulesStrings.4>
 	<NamerFactionBasePirate.rulePack.rulesStrings.5>geography->[community]</NamerFactionBasePirate.rulePack.rulesStrings.5>
   
-    <!-- Outlander -->
+    	<!-- Outlander -->
+	
 	<NamerFactionOutlander.rulePack.rulesStrings.0>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.0>
 	<NamerFactionOutlander.rulePack.rulesStrings.1>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.1>
 	<NamerFactionOutlander.rulePack.rulesStrings.2>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.2>
