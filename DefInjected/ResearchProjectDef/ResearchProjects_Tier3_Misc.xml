@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 3: Hi-tech research bench -->
+
+  <Firefoam.label>branskum</Firefoam.label>
+  <Firefoam.description>Gør at du kan konstruer brandskums Allows the construction of firefoam sprængere; brandsikkerheds bygninger som spreder brandslukkende skum som reaktion på brand i nærheden.</Firefoam.description>
+
+  <MoisturePump.label>fugt pumpe</MoisturePump.label>
+  <MoisturePump.description>Gør at du kan bygge en fugt pumpe hvilket tøre våd jord.</MoisturePump.description>>
+
+  <GeothermalPower.label>geotermisk energi</GeothermalPower.label>
+  <GeothermalPower.description>Gør at du kan bygge et geotermisk krafværk over damp gejsere, for uafbrudt kraft.</GeothermalPower.description>
+
+  <HospitalBed.label>hospitalsseng</HospitalBed.label>
+  <HospitalBed.description>Dine kolonister kan bygge hospitalssene som forbedre chancen for succesfuld læge hjælp.</HospitalBed.description>
+
+  <TransportPod.label>transport kapsel</TransportPod.label>
+  <TransportPod.description>Byg affyrbar transport kapseler som du kan bruge til at sende folk og forsyninger over lange distancer over planetens overflade.</TransportPod.description>
+
+  <MedicineProduction.label>medicine produktion</MedicineProduction.label>
+  <MedicineProduction.description>Producere medicin af urtemedicin og stof.</MedicineProduction.description>
+
+   <MultiAnalyzer.label>multi-analysator</MultiAnalyzer.label>
+   <MultiAnalyzer.description>Gør at kolonisterne kan bygge en multi-analysatorsom gør forskning hurtigere, og tillader at forske højere niveau teknologi projekter, hvis den er placeret i nærheden af en forsknings bænk.</MultiAnalyzer.description>
+
+</LanguageData>
