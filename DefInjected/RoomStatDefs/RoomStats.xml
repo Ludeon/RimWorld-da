@@ -1,18 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
     <Impressiveness.label>effektfuldhed</Impressiveness.label>
     <Impressiveness.scoreStages.0.label>frygtelig</Impressiveness.scoreStages.0.label>
-    <Impressiveness.scoreStages.1.label>frastødende</Impressiveness.scoreStages.1.label>
-    <Impressiveness.scoreStages.2.label>kedelig</Impressiveness.scoreStages.2.label>
-    <Impressiveness.scoreStages.3.label>middelmådig</Impressiveness.scoreStages.3.label>
-    <Impressiveness.scoreStages.4.label>interessant</Impressiveness.scoreStages.4.label>
-    <Impressiveness.scoreStages.5.label>en smule imponerende</Impressiveness.scoreStages.5.label>
-    <Impressiveness.scoreStages.6.label>imponerende</Impressiveness.scoreStages.6.label>
-    <Impressiveness.scoreStages.7.label>meget  imponerende</Impressiveness.scoreStages.7.label>
-    <Impressiveness.scoreStages.8.label>ekstremt imponerende</Impressiveness.scoreStages.8.label>
-    <Impressiveness.scoreStages.9.label>utrolig imponerende</Impressiveness.scoreStages.9.label>
-    <Impressiveness.scoreStages.10.label>mirakuløst fantastisk</Impressiveness.scoreStages.10.label>
-    <Impressiveness.scoreStages.11.label>et verdens vidunder</Impressiveness.scoreStages.11.label>
+    <Impressiveness.scoreStages.1.label>kedelig</Impressiveness.scoreStages.1.label>
+    <Impressiveness.scoreStages.2.label>middelmådig</Impressiveness.scoreStages.2.label>
+    <Impressiveness.scoreStages.3.label>anstændig</Impressiveness.scoreStages.3.label>
+    <Impressiveness.scoreStages.4.label>en smule imponerende</Impressiveness.scoreStages.4.label>
+    <Impressiveness.scoreStages.5.label>nogenlunde imponerende</Impressiveness.scoreStages.5.label>
+    <Impressiveness.scoreStages.6.label>meget  imponerende</Impressiveness.scoreStages.6.label>
+    <Impressiveness.scoreStages.7.label>ekstremt imponerende</Impressiveness.scoreStages.7.label>
+    <Impressiveness.scoreStages.8.label>utrolig imponerende</Impressiveness.scoreStages.8.label>
+    <Impressiveness.scoreStages.9.label>mirakuløst fantastisk</Impressiveness.scoreStages.9.label>
 
     <Wealth.label>rigdom</Wealth.label>
     <Wealth.scoreStages.0.label>fattigt</Wealth.scoreStages.0.label>
@@ -25,7 +24,7 @@
     <Wealth.scoreStages.7.label>ekstremt luksuriøst</Wealth.scoreStages.7.label>
     <Wealth.scoreStages.8.label>utrolig luksuriøst</Wealth.scoreStages.8.label>
 
-    <Space.label>rumlighed</Space.label>
+    <Space.label>plads</Space.label>
     <Space.scoreStages.0.label>trangt</Space.scoreStages.0.label>
     <Space.scoreStages.1.label>ret stramt</Space.scoreStages.1.label>
     <Space.scoreStages.2.label>gennemsnits størrelse</Space.scoreStages.2.label>
@@ -52,13 +51,9 @@
     <Cleanliness.scoreStages.4.label>sterilt</Cleanliness.scoreStages.4.label>
 
     <InfectionChanceFactor.label>chance for infektions faktor</InfectionChanceFactor.label>
-
     <SurgerySuccessChanceFactor.label>chance for kirurgi success faktor</SurgerySuccessChanceFactor.label>
-
     <ResearchSpeedFactor.label>forsknings hastigheds faktor</ResearchSpeedFactor.label>
-
     <GraveVisitingJoyGainFactor.label>glæde ved besøg af grav faktor</GraveVisitingJoyGainFactor.label>
-
     <FoodPoisonChanceFactor.label>chance for madforgiftnings faktor</FoodPoisonChanceFactor.label>
 
 </LanguageData>
