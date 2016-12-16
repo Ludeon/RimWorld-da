@@ -3,20 +3,29 @@
     <MaxHitPoints.label>max helbredspoints </MaxHitPoints.label>
     <MaxHitPoints.description>Maximum antal af helbredspoints af et objekt. Dette representere hvor meget skade det kan tage inden det er ødelagt.</MaxHitPoints.description>
 
+    <Mass.label>masse</Mass.label>
+    <Mass.description>Den fysiske masse af et objekt.</Mass.description>
+    <Mass.formatString>{0} kg</Mass.formatString>
+     
     <MarketValue.label>markedsværdi</MarketValue.label>
-    <MarketValue.description>Markedsværdien af et objekt. Den aktuelle handelspris vil blive påvirket af forholdsstatus og forhandlings evner.</MarketValue.description>
+    <MarketValue.description>Markedsværdien af et objekt. Den aktuelle handelspris vil blive påvirket af forholdsstatus og forhandlings evner, og andre kontekstuelle faktorer.</MarketValue.description>
+    <MarketValue.formatString>kr.{0}</MarketValue.formatString>
 
-    <SellPriceFactor.label>salgspris  price multiplikator</SellPriceFactor.label>
+    <SellPriceFactor.label>salgspris price multiplikator</SellPriceFactor.label>
     <SellPriceFactor.description>En multiplikator på den pris, som du kan sælge varer.</SellPriceFactor.description>
 
     <Flammability.label>brændbarhed</Flammability.label>
     <Flammability.description>Hvor nemt der går ild i objekter og hvor stærkt det brænder.</Flammability.description>
 
-    <WorkToMake.label>arbejds mængde</WorkToMake.label>
-    <WorkToMake.description>Base mængden af arbejde det tager at lave dette når alle materialer og værktøjer er indsamlet.</WorkToMake.description>
+    <WorkToMake.label>arbejde til at lave</WorkToMake.label>
+    <WorkToMake.description>Grund mængden af arbejde det tager at lave dette når alle materialer og værktøjer er indsamlet.</WorkToMake.description>
+     
+    <WorkToBuild.label>arbejde til at bygge</WorkToBuild.label>
+    <WorkToBuild.description>Grund mængden af arbejde det tager at bygge en struktur når alle materialer og værktøjer er indsamlet.</WorkToBuild.description>
 
     <DeteriorationRate.label>forringelse rate</DeteriorationRate.label>
     <DeteriorationRate.description>Hastigheden et objekt forringes når det er efterladt udenfor, specielt i regn.</DeteriorationRate.description>
+    <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
 
     <Beauty.label>skønhed</Beauty.label>
     <Beauty.description>Hvor How behagligt objektet er at beskue.</Beauty.description>
