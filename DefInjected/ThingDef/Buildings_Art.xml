@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <SculptureSmall.label>Lille skulpture</SculptureSmall.label>
+  <SculptureSmall.description>Et værk på størrelse med en torso, lavet af materialer der er modelleret til en artistisk form.</SculptureSmall.description>
+
+  <SculptureLarge.label>Stor skulpture</SculptureLarge.label>
+  <SculptureLarge.description>Et værk på størrelse med et menneske, lavet af materialer der er modelleret til en artistisk form.</SculptureLarge.description>
+
+  <SculptureGrand.label>grandiøs skulpture</SculptureGrand.label>
+  <SculptureGrand.description>Et værk på størrelse med en bil, lavet af materialer der er modelleret til en artistisk form.</SculptureGrand.description>
+
+
+  <!-- Snowman -->
+
+  <Snowman.label>sneman</Snowman.label>
+  <Snowman.description>Et sæt af store snebolde der er stablet og formet til at ligne en person.</Snowman.description>
+
+
+</LanguageData>
