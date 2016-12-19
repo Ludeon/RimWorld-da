@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPECIAL: Floors from natural stones -->
+
+  <Sandstone_Rough.label>ru sandsten</Sandstone_Rough.label>
+  <Sandstone_RoughHewn.label>ru-hugget sandsten</Sandstone_RoughHewn.label>
+  <Sandstone_Smooth.label>udglattet sandsten</Sandstone_Smooth.label>
+
+  <Granite_Rough.label>ru granit</Granite_Rough.label>
+  <Granite_RoughHewn.label>ru-hugget granit</Granite_RoughHewn.label>
+  <Granite_Smooth.label>udglattet granit</Granite_Smooth.label>
+
+  <Limestone_Rough.label>ru kalksten</Limestone_Rough.label>
+  <Limestone_RoughHewn.label>ru-hugget kalksten</Limestone_RoughHewn.label>
+  <Limestone_Smooth.label>udglattet kalksten</Limestone_Smooth.label>
+
+  <Slate_Rough.label>ru skifersten</Slate_Rough.label>
+  <Slate_RoughHewn.label>ru-hugget skifersten</Slate_RoughHewn.label>
+  <Slate_Smooth.label>udglattet skifersten</Slate_Smooth.label>
+
+  <Marble_Rough.label>ru marmor</Marble_Rough.label>
+  <Marble_RoughHewn.label>ru-hugget marmor</Marble_RoughHewn.label>
+  <Marble_Smooth.label>udglattet marmor</Marble_Smooth.label>
+
+
+</LanguageData>
