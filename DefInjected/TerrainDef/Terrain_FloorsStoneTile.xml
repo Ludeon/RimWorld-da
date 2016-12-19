@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- ================= Not sure how to change the description ================= -->
-  
+
   <TileSandstone.label>sandstens fliser</TileSandstone.label>
-    	
-	<TileGranite.label>granit fliser</TileGranite.label>
-	
-	<TileLimestone.label>Kalkstens fliser</TileLimestone.label>
-	
-	<TileSlate.label>skifersten fliser</TileSlate.label>
-	
-	<TileMarble.label>marmor fliser</TileMarble.label>
-    
+  <TileSandstone.description>Solide sten fliser til en slotslig følelse. Flot at se på, men de tager lang tid at lægge.</TileSandstone.description>
+
+  <TileGranite.label>granit fliser</TileGranite.label>
+  <TileGranite.description>Solide sten fliser til en slotslig følelse. Flot at se på, men de tager lang tid at lægge.</TileGranite.description>
+
+  <TileLimestone.label>kalkstens fliser</TileLimestone.label>
+  <TileLimestone.description>Solide sten fliser til en slotslig følelse. Flot at se på, men de tager lang tid at lægge.</TileLimestone.description>
+
+  <TileSlate.label>skiferstens fliser</TileSlate.label>
+  <TileSlate.description>Solide sten fliser til en slotslig følelse. Flot at se på, men de tager lang tid at lægge.</TileSlate.description>
+
+  <TileMarble.label>marmor fliser</TileMarble.label>
+  <TileMarble.description>Solide sten fliser til en slotslig følelse. Flot at se på, men de tager lang tid at lægge.</TileMarble.description>
+
+
 </LanguageData>
