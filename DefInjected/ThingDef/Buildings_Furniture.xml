@@ -1,24 +1,46 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <!--============================== Beds ==============================-->
+    <!-- Beds -->
     
     <SleepingSpot.label>sovested</SleepingSpot.label>
-    <SleepingSpot.description>Sætter et område på jorden hvor folk skal sove. Ikke komfortabelt. Søvn effektivitet: 7/10</SleepingSpot.description>
+    <SleepingSpot.description>Sætter et område på jorden hvor folk skal sove. Ikke komfortabelt.</SleepingSpot.description>
     
     <Bed.label>seng</Bed.label>
-    <Bed.description>En behagelig madras med lagen på en sengeramme til at sove på. Søvn effektivitet: 10/10</Bed.description>
+    <Bed.description>En behagelig madras med lagen på en sengeramme til at sove på.</Bed.description>
+    
+    <DoubleBed.label>dobbeltseng</DoubleBed.label>
+    <DoubleBed.description>En simpel dobbeltbred seng der passer til to personer.</DoubleBed.description>
     
     <RoyalBed.label>royal seng</RoyalBed.label>
-    <RoyalBed.description>En luksusseng, som er en royal værdi.</RoyalBed.description>
+    <RoyalBed.description>En luksuriøs guld-indlagt seng der passer til de kongelige. Meget komfortabel og smuk. Stor nok til to.</RoyalBed.description>
     
-    <HospitalBed.label>hospital seng</HospitalBed.label>
+    <HospitalBed.label>hospitalsseng</HospitalBed.label>
     <HospitalBed.description>En seng specielt designet til tilskadekomne mennesker. Forbedrer chance for successfuldt medicinsk arbejde.</HospitalBed.description>
     
-    <!--======================= Basic domestic furniture ==============================-->
+    <!-- Animal beds -->
     
-    <Stool.label>stol</Stool.label>
-    <Stool.description>Folk sidder her.</Stool.description>
+    <AnimalSleepingSpot.label>Dyre soveplads</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Bestem en plads på jorden hvor dyr bør sove.</AnimalSleepingSpot.description>
+
+    <AnimalSleepingBox.label>Dyre sovekasse</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>En lille kasse til dyr at sove i. Passer til mindre dyr som høns, katte og små hunde.</AnimalSleepingBox.description>
+
+    <AnimalBed.label>Dyreseng</AnimalBed.label>
+    <AnimalBed.description>En blød seng til dyr at sove på. Passer til alle dyr.</AnimalBed.description>
+    
+    <!-- Basic domestic furniture -->
+    
+    <Stool.label>skammel</Stool.label>
+    <Stool.description>En simpel platform til at side på.</Stool.description>
+
+    <DiningChair.label>spisebordsstol</DiningChair.label>
+    <DiningChair.description>En komfortabel og attraktiv stol til at side på ved et bord.</DiningChair.description>
+    
+    <Armchair.label>lænestol</Armchair.label>
+    <Armchair.description>En stor, blød, behagelig stol. God til afslapning.</Armchair.description>
+    
+    <!-- Table base -->
     
     <TableShort.label>bord (kort)</TableShort.label>
     <TableShort.description>Folk spiser ved bordene, når der er stole placeret ved dem.</TableShort.description>
@@ -26,23 +48,32 @@
     <TableLong.label>bord (langt)</TableLong.label>
     <TableLong.description>Folk spiser ved bordene, når der er stole placeret ved dem.</TableLong.description>
     
-    <!-- ======================== Lighting ======================= -->
+    <PlantPot.label>urtepotte</PlantPot.label>
+    <PlantPot.description>Plant dekorative blomster her for at forbedre dem i nærhedens humør.</PlantPot.description>
+    
+    <!-- Lighting -->
+    
+    <TorchLamp.label>fakkellampe</TorchLamp.label>
+    <TorchLamp.description>En træfakkel til at oplyse et område. Kan automatisk blive genfyldt med træ. Afgiver en smule varme.</TorchLamp.description>
     
     <StandingLamp.label>standerlampe</StandingLamp.label>
     <StandingLamp.description>Standerlampe der oplyser et område.</StandingLamp.description>
     
     <StandingLamp_Red.label>standerlampe (rød)</StandingLamp_Red.label>
-    <StandingLamp_Red.description>Standerlampe der oplyser et område in red.</StandingLamp_Red.description>
+    <StandingLamp_Red.description>Standerlampe der oplyser et område med rødt.</StandingLamp_Red.description>
     
     <StandingLamp_Green.label>standerlampe (grøn)</StandingLamp_Green.label>
-    <StandingLamp_Green.description>Standerlampe der oplyser et område in green.</StandingLamp_Green.description>
+    <StandingLamp_Green.description>Standerlampe der oplyser et område med grønt.</StandingLamp_Green.description>
     
     <StandingLamp_Blue.label>standerlampe (blå)</StandingLamp_Blue.label>
-    <StandingLamp_Blue.description>Standerlampe der oplyser et område in blue.</StandingLamp_Blue.description>
+    <StandingLamp_Blue.description>Standerlampe der oplyser et område med blåt.</StandingLamp_Blue.description>
     
-    <!--============================== Storage ==============================-->
+    <SunLamp.label>sollamp</SunLamp.label>
+    <SunLamp.description>Oplyser et område nok til at dyrke afgrøder, men bruger en enorm mængde strøm.</SunLamp.description>
+    
+    <!-- Storage -->
     
     <EquipmentRack.label>redskabsholder</EquipmentRack.label>
-    <EquipmentRack.description>Slæbere bærer våben og redskaber herhen til opbevaring.</EquipmentRack.description>
+    <EquipmentRack.description>Genstande opbevaret i disse vil ikke forringes, selv udenfor.</EquipmentRack.description>
     
 </LanguageData>
