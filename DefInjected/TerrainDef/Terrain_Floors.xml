@@ -1,53 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <!-- ================= Wood floor ================= -->
-    
-    <WoodPlankFloor.label>trægulv</WoodPlankFloor.label>
-    <WoodPlankFloor.description>Plankegulv i træ. Med den varme, hjemlige følelse.</WoodPlankFloor.description>
-    
-    <!-- ================= Tile ================= -->
-    
-    <MetalTile.label>metal fliser</MetalTile.label>
-    <MetalTile.description>Flisegulv i metal, der giver et look ala et rumskib.</MetalTile.description>
-	
-	<SilverTile.label>sølv fliser</SilverTile.label>
-    <SilverTile.description>Dyre og langsome at bygge, men meget flot. Passer perfekt med all slags luxuriøse rum.</SilverTile.description>
-	
-	<GoldTile.label>guld fliser</GoldTile.label>
-    <GoldTile.description>De smukkeste og mest imponerende gulv. Meget dyrt og kræver meget arbejde at bygge.</GoldTile.description>
-	
-	<SterileTile.label>sterile fliser</SterileTile.label>
-    <SterileTile.description>Sterile fliser hjælper med at holde rummet rent. Meget brubart i hospitaler til at forhindre patienterne i at få forskellige infektioner. Neutral i udsende og langsomt at bygge.</SterileTile.description>
-    
-    <PavedTile.label>brolagt fliser</PavedTile.label>
-    <PavedTile.description>Nyttebestemte beton fliser. Man kan bevæge sig hurtigt på disse, men kønne er de ikke.</PavedTile.description>
-    	    
-    <!-- ================= Carpets ================= -->
-    
-    <CarpetRed.label>rødt gulvtæppe</CarpetRed.label>
-    <CarpetRed.description>Flot gulvtæppe i en dejlig rødlig ton.</CarpetRed.description>
-    
-    <CarpetGreen.label>grønt gulvtæppe</CarpetGreen.label>
-    <CarpetGreen.description>Naturalistisk-udseende grønt gulvtæppe.</CarpetGreen.description>
-    
-    <CarpetBlue.label>blåt gulvtæppe</CarpetBlue.label>
-    <CarpetBlue.description>Tå-krammende gulvtæppe i en kølig blå farve.</CarpetBlue.description>
 
-	<CarpetCream.label>fløde gulvtæppe</CarpetCream.label>
-    <CarpetCream.description>Inviterende fløde-farvet gulvtæppe.</CarpetCream.description>
-	
-	<CarpetDark.label>mørkt gulvtæppe</CarpetDark.label>
-    <CarpetDark.description>Proffesionelt udseende mørkegråt gulvtæppe.</CarpetDark.description>
-    
-    <!-- ================= Foundation solids ================= -->
-    
-    <Concrete.label>beton</Concrete.label>
-    <Concrete.description>Hurtig-hældt beton. Hurtigt at gå på, men ikke særlig kønt. Du vil have behov for, at grave jorden ud, for at kunne hælde betonen i.</Concrete.description>
-    
-    <SmoothStone.label>glat stengulv</SmoothStone.label>
-    <SmoothStone.description>Glat naturligt stengulv. Hurtigt at gå på og smukt at se på.</SmoothStone.description>
-    
-    <RoughHewnRock.label>tilhugget sten</RoughHewnRock.label>
-    
+  <!-- Misc -->
+
+  <MetalTile.label>metal fliser</MetalTile.label>
+  <MetalTile.description>Metal fliser, for det der rumskibsagtige udsende. Flot, men arbejdskraft og materiale-intensive.</MetalTile.description>
+
+  <SilverTile.label>sølv fliser</SilverTile.label>
+  <SilverTile.description>Dyrt og tager lang tid at bygge, men meget pænt. Passer perfekt ind i alle luksuriøse værelser.</SilverTile.description>
+
+  <GoldTile.label>guld fliser</GoldTile.label>
+  <GoldTile.description>Den smukkeste og mest imponerende slags gulv der er. Meget dyrt og kræver rigtig meget arbejde at bygge.</GoldTile.description>
+
+  <SterileTile.label>sterile fliser</SterileTile.label>
+  <SterileTile.description>sterilefliser hjælper med at holde et rum rent. Meget brugbart i hospitaler for at patienter i at få diverse infektioner. Neutral når det komemr til udsende og tager tid at bygge.</SterileTile.description>
+
+  <PavedTile.label>brolagt fliser</PavedTile.label>
+  <PavedTile.description>utilitaristisk beton fliser. Billigt og man bevæger sig hurtigt på det, men neutral når det kommer til udsende og langsomt at bygger.</PavedTile.description>
+
+  <Concrete.label>beton</Concrete.label>
+  <Concrete.description>Hurtig hældt beton. Hurtigt at gå på, billigt, og det er hurtigt hældt ud, men det er ret grimt.</Concrete.description>
+
+  <WoodPlankFloor.label>trægulv</WoodPlankFloor.label>
+  <WoodPlankFloor.description>træplanke gulv. For den der varme, hjemmelig fornemmelse.</WoodPlankFloor.description>
+
+
+  <!-- Carpets -->
+
+  <CarpetRed.label>rødt tæppe</CarpetRed.label>
+  <CarpetRed.description>Plysset tæppe i en dejlig rose nuance.</CarpetRed.description>
+
+  <CarpetGreen.label>grønt tæppe</CarpetGreen.label>
+  <CarpetGreen.description>Naturligt grønt tæppe.</CarpetGreen.description>
+
+  <CarpetBlue.label>blåt tæppe</CarpetBlue.label>
+  <CarpetBlue.description>Tå-krammende plys tæppe i en køligt blå farve.</CarpetBlue.description>
+
+  <CarpetCream.label>flødefarvet tæppe</CarpetCream.label>
+  <CarpetCream.description>Inviterende flødefarvet tæppe.</CarpetCream.description>
+
+  <CarpetDark.label>mørkt tæppe</CarpetDark.label>
+  <CarpetDark.description>Professionelt udseende mørkegråt tæppe.</CarpetDark.description>
+
+
 </LanguageData>
