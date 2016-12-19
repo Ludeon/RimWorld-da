@@ -1,22 +1,67 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <OrbitalTradeBeacon.label>kredsløbs handelsfyr</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>Nødvendig til kredsløbshandel. Du kan kun sælge varer som er tæt på kredsløbs handelsfyr. Kan placeres indendørs.</OrbitalTradeBeacon.description>
     
-    <SunLamp.label>sollampe</SunLamp.label>
-    <SunLamp.description>Oplyser et område, så man kan gro planter i nærheden.</SunLamp.description>
-    
-    <OrbitalTradeBeacon.label>kredsløbs handelsfyrtårn</OrbitalTradeBeacon.label>
-    <OrbitalTradeBeacon.description>Nødvendig til kredsløbshandel. Du kan kun sælge varer som er tæt på kredsløbsRequired for orbital trading. You can only sell goods that are near an orbital trade beacon and not under a roof. Orbital traders will also drop goods near this.</OrbitalTradeBeacon.description>
-    
-    <ResearchBench.label>forskningsstation</ResearchBench.label>
-    <ResearchBench.description>Forskere arbejder her for at opdage nye ting.</ResearchBench.description>
-    
-    <CommsConsole.label>kommunikationskonsol</CommsConsole.label>
-    <CommsConsole.description>Kommuniker med rumskibe i kredsløb med planeten for handel af varer.</CommsConsole.description>
-    
-    <Grave.label>gravsted</Grave.label>
-    <Grave.description>Placer de døde i gravsteder, for at give dem et værdigt sidste hvilested.</Grave.description>
-    
-    <FertilizerPump.label>gødningspumpe</FertilizerPump.label>
-    <FertilizerPump.description>Udvider langsomt et jordområde til landbrug.</FertilizerPump.description>
-    
+  <CommsConsole.label>komm konsol</CommsConsole.label>
+  <CommsConsole.description>Skaber radio kontakt med handelsfolk og andre faktioner til at lave handel eller diplomati.</CommsConsole.description>
+
+  <FirefoamPopper.label>ildskums popper</FirefoamPopper.label>
+  <FirefoamPopper.description>Når rørt at ild eller manuelt aktiveret, spærnger denne og sprayer en ildslukkende skum i et cirkulær felt omkring sig selv.</FirefoamPopper.description>
+  <FirefoamPopper.comps.1.useLabel>Aktiver ildskums popper</FirefoamPopper.comps.1.useLabel>
+
+  <MoisturePump.label>fugtpumpe</MoisturePump.label>
+  <MoisturePump.description>Fjerner meget langsomt fugt fra terræn i nærheden og konventere marsk og lavt vand til tør jord. Påvirker ikke dybt vand.</MoisturePump.description>
+
+  <GroundPenetratingScanner.label>jord-gennemtrængende scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>En nedadvendt, gennemtrængende radar, der kombinere sonar og magnetisk billeddannere, der lader dig opdage (men ikke identifisere) mineraler begravet dybt under overfladen. Kræver en enorm mængde strøm.</GroundPenetratingScanner.description>
+
+
+  <!-- Transport pods -->
+
+  <PodLauncher.label>kapsel affyringsrampe</PodLauncher.label>
+  <PodLauncher.description>En fyldning port til at affytre en transport kapsel. Kapsels affyringsramper kan affyres i grupper - men ramperne skal placeres vedsiden af hinanden.</PodLauncher.description>
+
+  <TransportPod.label>transport kapsel</TransportPod.label>
+  <TransportPod.description>En affyringsbar suborbitalevandrings fragtkapsel som er istand til at transportere mennesker, genstande, eller dyr. Kan blive brugt til transport, overraskelsesangreb, er til at sende forstærkninger i kamp.</TransportPod.description>
+
+
+  <!-- Facilities -->
+
+  <MultiAnalyzer.label>multi-analysator</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Gør forskningshastigheden hurtigere. Skal placeres tæt ved en højteknologisk forskningsbænk. En forskningsbænk kan kun være knyttet til en multi-analysator.</MultiAnalyzer.description>
+
+  <VitalsMonitor.label>livstegns monitor</VitalsMonitor.label>
+  <VitalsMonitor.description>Forøger patientens behandlings kvalitet. Skal placeres vedsiden af en hospitalsseng. En hospitalsseng kan kun være knyttet en livstegns monitor.</VitalsMonitor.description>
+
+  <ToolCabinet.label>værktøjsskab</ToolCabinet.label>
+  <ToolCabinet.description>Forøger arbejdshastigheden. Skal placeres tæt ved en arbejdsbænk. En arbejdsbænk kan være knyttet til optil to værktøjsskabe på samme tid..</ToolCabinet.description>
+
+
+  <!-- Graves -->
+
+  <Grave.label>grav</Grave.label>
+  <Grave.description>Put de døde i grave for at give dem et anstændigt sidste hvilested. Kolonister vil besøge grave for at få meditativ glæde.</Grave.description>
+
+  <Sarcophagus.label>sarkofag</Sarcophagus.label>
+  <Sarcophagus.description>En dekoreret begravelse beholder for de beæret døde.</Sarcophagus.description>
+
+  <!-- Cryptosleep caskets -->
+
+  <CryptosleepCasket.label>cryptosøvns kiste</CryptosleepCasket.label>
+  <CryptosleepCasket.description>En selvstændig drevet sarkofag designet til at holde en person i en tilstand af suspenderet animation i mange år.</CryptosleepCasket.description>
+
+  <AncientCryptosleepCasket.label>gammel cryptosøvns kiste</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.description>Denne cryptosøvns kiste ser ud som om den har været her i meget lang tid. Hvem ved hvad den kunne indeholde?</AncientCryptosleepCasket.description>
+
+  <!-- Spots -->
+
+  <MarriageSpot.label>vielsesplads</MarriageSpot.label>
+  <MarriageSpot.description>Vælg et sted hvor vielser finder sted. Tilskuere kan se fra begge sider.</MarriageSpot.description>
+
+  <PartySpot.label>festplads</PartySpot.label>
+  <PartySpot.description>Vælg et sted hvor fester vil have deres centrum. Fester bruger området omkring dette punkt.</PartySpot.description>
+
+
 </LanguageData>
