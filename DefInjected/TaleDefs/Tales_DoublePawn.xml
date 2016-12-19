@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Captured.label>person fanget</Captured.label>
+    <Captured.rulePack.rulesStrings.0>tale_noun-&gt;tilfangetagelsen af [prisoner_nameShortDef]</Captured.rulePack.rulesStrings.0>
+    <Captured.rulePack.rulesStrings.1>image-&gt;[capturer_nameFull] tilfangetager [prisoner_nameFull] [circumstance_group]</Captured.rulePack.rulesStrings.1>
+    <Captured.rulePack.rulesStrings.2>image-&gt;[capturer_nameFull] binder [prisoner_nameFull]'s hands [circumstance_group]</Captured.rulePack.rulesStrings.2>
+    <Captured.rulePack.rulesStrings.3>image-&gt;[capturer_nameFull] slåer [prisoner_nameFull] imens han fanger [prisoner_objective] [circumstance_group]</Captured.rulePack.rulesStrings.3>
+    <Captured.rulePack.rulesStrings.4>circumstance_phrase-&gt;as [prisoner_pronoun] vrider sig på jorden</Captured.rulePack.rulesStrings.4>
+    <Captured.rulePack.rulesStrings.5>circumstance_phrase-&gt;as [prisoner_pronoun] drejer sig i smerte</Captured.rulePack.rulesStrings.5>
+    <Captured.rulePack.rulesStrings.6>circumstance_phrase-&gt;med proffesionel effektivitet</Captured.rulePack.rulesStrings.6>
+    <Captured.rulePack.rulesStrings.7>circumstance_phrase-&gt;groft og amatøragtigt</Captured.rulePack.rulesStrings.7>
+    <Captured.rulePack.rulesStrings.8>circumstance_phrase-&gt;med åbenlys overdreven kraft</Captured.rulePack.rulesStrings.8>
+    <Captured.rulePack.rulesStrings.9>circumstance_phrase-&gt;med åbenlys fornøjelse</Captured.rulePack.rulesStrings.9>
+    <Captured.rulePack.rulesStrings.10>circumstance_phrase-&gt;med et smil af dominance</Captured.rulePack.rulesStrings.10>
+    <Captured.rulePack.rulesStrings.11>desc_sentence-&gt;[capturer_nameShortDef] kigger ind i [prisoner_nameShortDef]'s øjne med en følelse af dominance.</Captured.rulePack.rulesStrings.11>
+    <Captured.rulePack.rulesStrings.12>desc_sentence-&gt;[prisoner_nameShortDef] er såret og virker til at være i smerte.</Captured.rulePack.rulesStrings.12>
+    <Captured.rulePack.rulesStrings.13>desc_sentence-&gt;[prisoner_nameShortDef] ser resigneret på [prisoner_possessive]'s skæbne.</Captured.rulePack.rulesStrings.13>
+    <Captured.rulePack.rulesStrings.14>desc_sentence-&gt;[prisoner_nameShortDef] snerrer af raseri pågrund af hans nederlag.</Captured.rulePack.rulesStrings.14>
+    <Captured.rulePack.rulesStrings.15>desc_sentence-&gt;[capturer_nameShortDef] slåer [prisoner_nameShortDef] for at kue [prisoner_objective].</Captured.rulePack.rulesStrings.15>
+    <Captured.rulePack.rulesStrings.16>desc_sentence-&gt;[capturer_nameShortDef] vrider [prisoner_nameShortDef]'s øre.</Captured.rulePack.rulesStrings.16>
+    <Captured.rulePack.rulesStrings.17>desc_sentence-&gt;[capturer_nameShortDef] holder [prisoner_nameShortDef] i en ledlås.</Captured.rulePack.rulesStrings.17>
+    <Captured.rulePack.rulesStrings.18>desc_sentence-&gt;[capturer_nameShortDef] spytter [prisoner_nameShortDef] i ansigtet.</Captured.rulePack.rulesStrings.18>
+    <Captured.rulePack.rulesStrings.19>desc_sentence-&gt;[capturer_nameShortDef] ler imens tåre vælde op i [prisoner_nameShortDef]'s øjne.</Captured.rulePack.rulesStrings.19>
+    <Captured.rulePack.rulesStrings.20>desc_sentence-&gt;[capturer_nameShortDef] sparker [prisoner_nameShortDef] for ingen grund.</Captured.rulePack.rulesStrings.20>
+
+    <Recruited.label>person rekruteret</Recruited.label>
+    <Recruited.rulePack.rulesStrings.0>tale_noun-&gt;rekruttering af [joiner_nameShortDef]</Recruited.rulePack.rulesStrings.0>
+    <Recruited.rulePack.rulesStrings.1>image-&gt;[recruiter_nameFull] rekrutter [joiner_nameFull] [circumstance_group]</Recruited.rulePack.rulesStrings.1>
+    <Recruited.rulePack.rulesStrings.2>image-&gt;[recruiter_nameFull] velkommer [joiner_nameFull] da [joiner_pronoun] bliver en kolonist [circumstance_group]</Recruited.rulePack.rulesStrings.2>
+    <Recruited.rulePack.rulesStrings.3>image-&gt;[recruiter_nameFull] taler overbevisende til [joiner_nameFull] [circumstance_group]</Recruited.rulePack.rulesStrings.3>
+    <Recruited.rulePack.rulesStrings.4>circumstance_phrase-&gt;med åbenlys godvilje</Recruited.rulePack.rulesStrings.4>
+    <Recruited.rulePack.rulesStrings.5>circumstance_phrase-&gt;med et varmt håndtryk</Recruited.rulePack.rulesStrings.5>
+    <Recruited.rulePack.rulesStrings.6>circumstance_phrase-&gt;med et stort smil</Recruited.rulePack.rulesStrings.6>
+    <Recruited.rulePack.rulesStrings.7>circumstance_phrase-&gt;foran hele kolonien</Recruited.rulePack.rulesStrings.7>
+    <Recruited.rulePack.rulesStrings.8>circumstance_phrase-&gt;i en fængelscelle</Recruited.rulePack.rulesStrings.8>
+    <Recruited.rulePack.rulesStrings.9>desc_sentence-&gt;[joiner_nameShortDef] nikker forstående.</Recruited.rulePack.rulesStrings.9>
+    <Recruited.rulePack.rulesStrings.10>desc_sentence-&gt;[joiner_nameShortDef] smiler og laver øjenkontakt.</Recruited.rulePack.rulesStrings.10>
+    <Recruited.rulePack.rulesStrings.11>desc_sentence-&gt;[joiner_nameShortDef] ser lettet ud.</Recruited.rulePack.rulesStrings.11>
+    <Recruited.rulePack.rulesStrings.12>desc_sentence-&gt;[joiner_nameShortDef] ser forhåbningsful ud.</Recruited.rulePack.rulesStrings.12>
+
+    <Hunted.label>dyrjagt</Hunted.label>
+    <Hunted.rulePack.rulesStrings.0>tale_noun-&gt;[hunter_nameShortDef]'s succefuld jagt</Hunted.rulePack.rulesStrings.0>
+    <Hunted.rulePack.rulesStrings.1>image-&gt;[prey_nameFull] bliver jaget af [hunter_nameFull] [circumstance_group]</Hunted.rulePack.rulesStrings.1>
+    <Hunted.rulePack.rulesStrings.2>image-&gt;[hunter_nameFull] forfølger [prey_nameFull] langvejs fra [circumstance_group]</Hunted.rulePack.rulesStrings.2>
+    <Hunted.rulePack.rulesStrings.3>image-&gt;[hunter_nameFull] jager [prey_nameFull] [circumstance_group]</Hunted.rulePack.rulesStrings.3>
+    <Hunted.rulePack.rulesStrings.4>circumstance_phrase-&gt;lige som [prey_nameShortDef]en slapper af</Hunted.rulePack.rulesStrings.4>
+    <Hunted.rulePack.rulesStrings.5>circumstance_phrase-&gt;når [prey_nameShortDef] rejser</Hunted.rulePack.rulesStrings.5>
+    <Hunted.rulePack.rulesStrings.6>circumstance_phrase-&gt;imens den [prey_nameShortDef] spiser</Hunted.rulePack.rulesStrings.6>
+    <Hunted.rulePack.rulesStrings.7>desc_sentence-&gt;[prey_nameShortDef] virker totalt uvidende.</Hunted.rulePack.rulesStrings.7>
+    <Hunted.rulePack.rulesStrings.8>desc_sentence-&gt;[hunter_nameShortDef] holder sin [hunter_possessive] tæt til sig.</Hunted.rulePack.rulesStrings.8>
+    <Hunted.rulePack.rulesStrings.9>desc_sentence-&gt;[prey_nameShortDef] kigger sig om som om [prey_pronoun] der er noget galt.</Hunted.rulePack.rulesStrings.9>
+
+    <DidSurgery.label>kirugisk indgreb udført</DidSurgery.label>
+    <DidSurgery.rulePack.rulesStrings.0>tale_noun-&gt;[patient_nameShortDef]'s operation</DidSurgery.rulePack.rulesStrings.0>
+    <DidSurgery.rulePack.rulesStrings.1>image-&gt;[surgeon_nameFull] får [patient_nameFull] til at sove med bedøvelse [circumstance_group]</DidSurgery.rulePack.rulesStrings.1>
+    <DidSurgery.rulePack.rulesStrings.2>image-&gt;[surgeon_nameFull] albue-dybt i [patient_nameFull] under det kirugiske indgreb [circumstance_group]</DidSurgery.rulePack.rulesStrings.2>
+    <DidSurgery.rulePack.rulesStrings.3>image-&gt;[surgeon_nameFull] skære i [patient_nameFull] under et kirugisk indgreb [circumstance_group]</DidSurgery.rulePack.rulesStrings.3>
+    <DidSurgery.rulePack.rulesStrings.4>circumstance_phrase-&gt;imens [patient_pronoun] skælver i frygt</DidSurgery.rulePack.rulesStrings.4>
+    <DidSurgery.rulePack.rulesStrings.5>circumstance_phrase-&gt;imens blod samler sig ved [surgeon_nameShortDef]'s fødder</DidSurgery.rulePack.rulesStrings.5>
+    <DidSurgery.rulePack.rulesStrings.6>circumstance_phrase-&gt;er omgivet af uhyggeligt udsende kirugiske værktøjer</DidSurgery.rulePack.rulesStrings.6>
+    <DidSurgery.rulePack.rulesStrings.7>circumstance_phrase-&gt;med improviserede men effektive værktøker</DidSurgery.rulePack.rulesStrings.7>
+    <DidSurgery.rulePack.rulesStrings.8>desc_sentence-&gt;[surgeon_nameShortDef] sveder voldsomt.</DidSurgery.rulePack.rulesStrings.8>
+    <DidSurgery.rulePack.rulesStrings.9>desc_sentence-&gt;[surgeon_nameShortDef] ser utrolig fokuseret ud på denne opgave.</DidSurgery.rulePack.rulesStrings.9>
+    <DidSurgery.rulePack.rulesStrings.10>desc_sentence-&gt;[surgeon_nameShortDef] har blod smurt ud på [surgeon_possessive] ansigt.</DidSurgery.rulePack.rulesStrings.10>
+    <DidSurgery.rulePack.rulesStrings.11>desc_sentence-&gt;[patient_nameShortDef] ryster og vrider sig.</DidSurgery.rulePack.rulesStrings.11>
+
+    <ExecutedPrisoner.label>fange henrettet</ExecutedPrisoner.label>
+    <ExecutedPrisoner.rulePack.rulesStrings.0>tale_noun-&gt;henrettelsen af [prisoner_nameShortDef]</ExecutedPrisoner.rulePack.rulesStrings.0>
+    <ExecutedPrisoner.rulePack.rulesStrings.1>image-&gt;[warden_nameFull] henretter [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.1>
+    <ExecutedPrisoner.rulePack.rulesStrings.2>image-&gt;[warden_nameFull] dømmer [prisoner_nameFull] til døden [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.2>
+    <ExecutedPrisoner.rulePack.rulesStrings.3>image-&gt;[warden_nameFull] forbereder sig til at henrette [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.3>
+    <ExecutedPrisoner.rulePack.rulesStrings.4>image-&gt;[warden_nameFull] kommer in i en fængselscelle, skal til at henrette [prisoner_nameFull] [circumstance_group]</ExecutedPrisoner.rulePack.rulesStrings.4>
+    <ExecutedPrisoner.rulePack.rulesStrings.5>circumstance_phrase-&gt;as [prisoner_pronoun] vrider sig på jorden</ExecutedPrisoner.rulePack.rulesStrings.5>
+    <ExecutedPrisoner.rulePack.rulesStrings.6>circumstance_phrase-&gt;as [prisoner_pronoun] drejer sig i smerte</ExecutedPrisoner.rulePack.rulesStrings.6>
+    <ExecutedPrisoner.rulePack.rulesStrings.7>circumstance_phrase-&gt;as [prisoner_pronoun] skriger i rædsel</ExecutedPrisoner.rulePack.rulesStrings.7>
+    <ExecutedPrisoner.rulePack.rulesStrings.8>circumstance_phrase-&gt;med proffesionel effektivitet</ExecutedPrisoner.rulePack.rulesStrings.8>
+    <ExecutedPrisoner.rulePack.rulesStrings.9>circumstance_phrase-&gt;groft og amatøragtigt</ExecutedPrisoner.rulePack.rulesStrings.9>
+    <ExecutedPrisoner.rulePack.rulesStrings.10>circumstance_phrase-&gt;med åbenlys overdreven kraft</ExecutedPrisoner.rulePack.rulesStrings.10>
+    <ExecutedPrisoner.rulePack.rulesStrings.11>circumstance_phrase-&gt;med tidelig glæde</ExecutedPrisoner.rulePack.rulesStrings.11>
+    <ExecutedPrisoner.rulePack.rulesStrings.12>circumstance_phrase-&gt;med et smil af dominance</ExecutedPrisoner.rulePack.rulesStrings.12>
+    <ExecutedPrisoner.rulePack.rulesStrings.13>circumstance_phrase-&gt;med tåre i [warden_possessive]s øjne</ExecutedPrisoner.rulePack.rulesStrings.13>
+    <ExecutedPrisoner.rulePack.rulesStrings.14>circumstance_phrase-&gt;med et udtryk af fuldstændig ligegyldighed</ExecutedPrisoner.rulePack.rulesStrings.14>
+    <ExecutedPrisoner.rulePack.rulesStrings.15>circumstance_phrase-&gt;imens der påføres unødvendig smerte</ExecutedPrisoner.rulePack.rulesStrings.15>
+    <ExecutedPrisoner.rulePack.rulesStrings.16>circumstance_phrase-&gt;imens der tænkes på noget andet</ExecutedPrisoner.rulePack.rulesStrings.16>
+    <ExecutedPrisoner.rulePack.rulesStrings.17>circumstance_phrase-&gt;til gavn og glæde</ExecutedPrisoner.rulePack.rulesStrings.17>
+    <ExecutedPrisoner.rulePack.rulesStrings.18>desc_sentence-&gt;[warden_nameShortDef] sveder voldsomt.</ExecutedPrisoner.rulePack.rulesStrings.18>
+    <ExecutedPrisoner.rulePack.rulesStrings.19>desc_sentence-&gt;[warden_nameShortDef] savler en smule.</ExecutedPrisoner.rulePack.rulesStrings.19>
+    <ExecutedPrisoner.rulePack.rulesStrings.20>desc_sentence-&gt;[warden_nameShortDef] har smurt på [warden_possessive] ansigt.</ExecutedPrisoner.rulePack.rulesStrings.20>
+    <ExecutedPrisoner.rulePack.rulesStrings.21>desc_sentence-&gt;[prisoner_nameShortDef] ryster og vrider sig.</ExecutedPrisoner.rulePack.rulesStrings.21>
+    <ExecutedPrisoner.rulePack.rulesStrings.22>desc_sentence-&gt;[prisoner_nameShortDef] virker til at have givet helt op.</ExecutedPrisoner.rulePack.rulesStrings.22>
+    <ExecutedPrisoner.rulePack.rulesStrings.23>desc_sentence-&gt;[prisoner_nameShortDef] har lukket [prisoner_possessive]s øjne og virker til at bede til en højere magt.</ExecutedPrisoner.rulePack.rulesStrings.23>
+    <ExecutedPrisoner.rulePack.rulesStrings.24>desc_sentence-&gt;[prisoner_nameShortDef] ser trodsig ud.</ExecutedPrisoner.rulePack.rulesStrings.24>
+
+    <KidnappedColonist.label>kolonist kidnappet</KidnappedColonist.label>
+    <KidnappedColonist.rulePack.rulesStrings.0>tale_noun-&gt;kidnapningen af [victim_nameShortDef]</KidnappedColonist.rulePack.rulesStrings.0>
+    <KidnappedColonist.rulePack.rulesStrings.1>image-&gt;[kidnapper_nameFull] bære [victim_nameFull] væk til [kidnapper_factionName] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.1>
+    <KidnappedColonist.rulePack.rulesStrings.2>image-&gt;[kidnapper_nameFull] af [kidnapper_factionName] kidnapper [victim_nameFull] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.2>
+    <KidnappedColonist.rulePack.rulesStrings.3>image-&gt;[kidnapper_nameFull] kidnapper [victim_nameFull] [circumstance_group]</KidnappedColonist.rulePack.rulesStrings.3>
+    <KidnappedColonist.rulePack.rulesStrings.4>circumstance_phrase-&gt;as [victim_pronoun] vrider sig i smerte</KidnappedColonist.rulePack.rulesStrings.4>
+    <KidnappedColonist.rulePack.rulesStrings.5>circumstance_phrase-&gt;med proffesionel effektivitet</KidnappedColonist.rulePack.rulesStrings.5>
+    <KidnappedColonist.rulePack.rulesStrings.6>circumstance_phrase-&gt;groft og amatøragtigt</KidnappedColonist.rulePack.rulesStrings.6>
+    <KidnappedColonist.rulePack.rulesStrings.7>circumstance_phrase-&gt;med åbenlys overdreven kraft</KidnappedColonist.rulePack.rulesStrings.7>
+    <KidnappedColonist.rulePack.rulesStrings.8>circumstance_phrase-&gt;med tidelig glæde</KidnappedColonist.rulePack.rulesStrings.8>
+    <KidnappedColonist.rulePack.rulesStrings.9>circumstance_phrase-&gt;med et smil af dominance</KidnappedColonist.rulePack.rulesStrings.9>
+    <KidnappedColonist.rulePack.rulesStrings.10>circumstance_phrase-&gt;dækket i blod og snavs</KidnappedColonist.rulePack.rulesStrings.10>
+    <KidnappedColonist.rulePack.rulesStrings.11>desc_sentence-&gt;[victim_nameShortDef] virker til at have givet helt op.</KidnappedColonist.rulePack.rulesStrings.11>
+    <KidnappedColonist.rulePack.rulesStrings.12>desc_sentence-&gt;[victim_nameShortDef] har lukket [victim_possessive]s øjne og virker til at bede til en højere magt.</KidnappedColonist.rulePack.rulesStrings.12>
+    <KidnappedColonist.rulePack.rulesStrings.13>desc_sentence-&gt;[victim_nameShortDef] ser trodsig ud.</KidnappedColonist.rulePack.rulesStrings.13>
+    <KidnappedColonist.rulePack.rulesStrings.14>desc_sentence-&gt;[victim_nameShortDef] skriger i vrede og rædsel.</KidnappedColonist.rulePack.rulesStrings.14>
+    <KidnappedColonist.rulePack.rulesStrings.15>desc_sentence-&gt;[victim_nameShortDef] ser brudt og udtømt ud.</KidnappedColonist.rulePack.rulesStrings.15>
+    <KidnappedColonist.rulePack.rulesStrings.16>desc_sentence-&gt;[victim_nameShortDef] ser ud til at være hårdt såret.</KidnappedColonist.rulePack.rulesStrings.16>
+
+    <TamedAnimal.label>dyr tæmmet</TamedAnimal.label>
+    <TamedAnimal.rulePack.rulesStrings.0>tale_noun-&gt;[human_nameShortDef]'s tæmning af [animal_nameShortDef]</TamedAnimal.rulePack.rulesStrings.0>
+    <TamedAnimal.rulePack.rulesStrings.1>image-&gt;[human_nameFull] tæmmer [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.1>
+    <TamedAnimal.rulePack.rulesStrings.2>image-&gt;[human_nameFull] tilbyder en godbid til [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.2>
+    <TamedAnimal.rulePack.rulesStrings.3>image-&gt;[human_nameFull] hvisker til en nervøs [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.3>
+    <TamedAnimal.rulePack.rulesStrings.4>image-&gt;[human_nameFull] beroligender en vild [animal_nameFull] [circumstance_group]</TamedAnimal.rulePack.rulesStrings.4>
+    <TamedAnimal.rulePack.rulesStrings.5>circumstance_phrase-&gt;med stor omsorg og forsigtighed</TamedAnimal.rulePack.rulesStrings.5>
+    <TamedAnimal.rulePack.rulesStrings.6>circumstance_phrase-&gt;med et smil</TamedAnimal.rulePack.rulesStrings.6>
+    <TamedAnimal.rulePack.rulesStrings.7>circumstance_phrase-&gt;er udmattet men glad</TamedAnimal.rulePack.rulesStrings.7>
+    <TamedAnimal.rulePack.rulesStrings.8>desc_sentence-&gt;[animal_nameShortDef] snerrer aggressivt.</TamedAnimal.rulePack.rulesStrings.8>
+    <TamedAnimal.rulePack.rulesStrings.9>desc_sentence-&gt;[animal_nameShortDef] ser søvning ud og fuld af kærlighed.</TamedAnimal.rulePack.rulesStrings.9>
+    <TamedAnimal.rulePack.rulesStrings.10>desc_sentence-&gt;[animal_nameShortDef] virker til at være i en slags hypnotisk trance.</TamedAnimal.rulePack.rulesStrings.10>
+    <TamedAnimal.rulePack.rulesStrings.11>desc_sentence-&gt;[animal_nameShortDef] virker bange men interesseret.</TamedAnimal.rulePack.rulesStrings.11>
+    <TamedAnimal.rulePack.rulesStrings.12>desc_sentence-&gt;[animal_nameShortDef] ser facineret ud.</TamedAnimal.rulePack.rulesStrings.12>
+    <TamedAnimal.rulePack.rulesStrings.13>desc_sentence-&gt;[human_nameShortDef] projektere en stærk fornemmelse af kærlighed til [animal_nameShortDef].</TamedAnimal.rulePack.rulesStrings.13>
+
+    <KilledBy.label>død</KilledBy.label>
+    <KilledBy.rulePack.rulesStrings.0>tale_noun-&gt;[victim_nameShortDef]blev dræbt af [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.0>
+    <KilledBy.rulePack.rulesStrings.1>tale_noun-&gt;drabet på [victim_nameShortDef] begået af [killer_nameShortDef]</KilledBy.rulePack.rulesStrings.1>
+    <KilledBy.rulePack.rulesStrings.2>tale_noun-&gt;drabet på[victim_nameShortDef]</KilledBy.rulePack.rulesStrings.2>
+    <KilledBy.rulePack.rulesStrings.3>image-&gt;[victim_nameFull] blev dræbt af [killer_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.3>
+    <KilledBy.rulePack.rulesStrings.4>image-&gt;[killer_nameFull] dræber [victim_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.4>
+    <KilledBy.rulePack.rulesStrings.5>image-&gt;[killer_nameFull] afsluttede [victim_nameFull]'s liv [circumstance_group]</KilledBy.rulePack.rulesStrings.5>
+    <KilledBy.rulePack.rulesStrings.6>image-&gt;[killer_nameFull] myrdede brutalt [victim_nameFull] [circumstance_group]</KilledBy.rulePack.rulesStrings.6>
+    <KilledBy.rulePack.rulesStrings.7>image-&gt;[victim_nameFull] blevet dræbt [circumstance_group]</KilledBy.rulePack.rulesStrings.7>
+    <KilledBy.rulePack.rulesStrings.8>circumstance_phrase-&gt;tilsyneladende uden anger</KilledBy.rulePack.rulesStrings.8>
+    <KilledBy.rulePack.rulesStrings.9>circumstance_phrase-&gt;med kold effektivitet</KilledBy.rulePack.rulesStrings.9>
+    <KilledBy.rulePack.rulesStrings.10>circumstance_phrase-&gt;med lidenskabeligt raseri</KilledBy.rulePack.rulesStrings.10>
+    <KilledBy.rulePack.rulesStrings.11>circumstance_phrase-&gt;med hurtige, effektive bevægelser</KilledBy.rulePack.rulesStrings.11>
+    <KilledBy.rulePack.rulesStrings.12>circumstance_phrase-&gt;uden følelser eller udtryk</KilledBy.rulePack.rulesStrings.12>
+    <KilledBy.rulePack.rulesStrings.13>circumstance_phrase-&gt;ud af dyster nødvendighed</KilledBy.rulePack.rulesStrings.13>
+    <KilledBy.rulePack.rulesStrings.14>circumstance_phrase-&gt;på en kujonisk, halvhjerted måde</KilledBy.rulePack.rulesStrings.14>
+    <KilledBy.rulePack.rulesStrings.15>desc_sentence-&gt;Solen går ned bag dem i et symbolisk eko af hændelsen.</KilledBy.rulePack.rulesStrings.15>
+    <KilledBy.rulePack.rulesStrings.16>desc_sentence-&gt;[quantity_adjphrase] [animal]er ser på.</KilledBy.rulePack.rulesStrings.16>
+    <KilledBy.rulePack.rulesStrings.17>desc_sentence-&gt;En [outlander] overvære stille [side_position].</KilledBy.rulePack.rulesStrings.17>
+    <KilledBy.rulePack.rulesStrings.18>desc_sentence-&gt;Blod samler sig om [victim_nameShortDef]'s krop.</KilledBy.rulePack.rulesStrings.18>
+    <KilledBy.rulePack.rulesStrings.19>desc_sentence-&gt;[victim_nameShortDef]'s øjne er gengivet på en realistisk, livløs måde.</KilledBy.rulePack.rulesStrings.19>
+    <KilledBy.rulePack.rulesStrings.20>desc_sentence-&gt;[killer_nameShortDef] blotter [killer_possessive] tænder.</KilledBy.rulePack.rulesStrings.20>
+    <KilledBy.rulePack.rulesStrings.21>desc_sentence-&gt;[killer_nameShortDef] virker tilfreds.</KilledBy.rulePack.rulesStrings.21>
+    <KilledBy.rulePack.rulesStrings.22>desc_sentence-&gt;[killer_nameShortDef] ser bedrøvede ud over hvad [killer_pronoun] er i gang med.</KilledBy.rulePack.rulesStrings.22>
+    <KilledBy.rulePack.rulesStrings.23>desc_sentence-&gt;[killer_nameShortDef] ser tilfreds ud med situationen.</KilledBy.rulePack.rulesStrings.23>
+    <KilledBy.rulePack.rulesStrings.24>desc_sentence-&gt;[killer_nameShortDef] ser triumferende ud looks triumphant.</KilledBy.rulePack.rulesStrings.24>
+
+    <SoldPrisoner.label>fange solgt</SoldPrisoner.label>
+    <SoldPrisoner.rulePack.rulesStrings.0>tale_noun-&gt;salget af [prisoner_nameShortDef] til en forhandler</SoldPrisoner.rulePack.rulesStrings.0>
+    <SoldPrisoner.rulePack.rulesStrings.1>image-&gt;[trader_nameFull] køber [prisoner_nameFull] af [seller_nameFull] [circumstance_group]</SoldPrisoner.rulePack.rulesStrings.1>
+    <SoldPrisoner.rulePack.rulesStrings.2>image-&gt;[seller_nameFull] sælger [prisoner_nameFull] til [trader_nameFull] [circumstance_group]</SoldPrisoner.rulePack.rulesStrings.2>
+    <SoldPrisoner.rulePack.rulesStrings.3>circumstance_phrase-&gt;imens de andre kolonister kigger på i misbilligelse</SoldPrisoner.rulePack.rulesStrings.3>
+    <SoldPrisoner.rulePack.rulesStrings.4>circumstance_phrase-&gt;imens [seller_nameShortDef] tæler [trader_possessive] penge</SoldPrisoner.rulePack.rulesStrings.4>
+    <SoldPrisoner.rulePack.rulesStrings.5>circumstance_phrase-&gt;imens [prisoner_nameShortDef] stønner i smerte</SoldPrisoner.rulePack.rulesStrings.5>
+    <SoldPrisoner.rulePack.rulesStrings.6>circumstance_phrase-&gt;til [prisoner_nameShortDef]'s ærgrelse</SoldPrisoner.rulePack.rulesStrings.6>
+    <SoldPrisoner.rulePack.rulesStrings.7>desc_sentence-&gt;[trader_nameShortDef] har et djævelsk smil.</SoldPrisoner.rulePack.rulesStrings.7>
+    <SoldPrisoner.rulePack.rulesStrings.8>desc_sentence-&gt;[seller_nameShortDef] griner manisk.</SoldPrisoner.rulePack.rulesStrings.8>
+    <SoldPrisoner.rulePack.rulesStrings.9>desc_sentence-&gt;[seller_nameShortDef] giver modvilligt [prisoner_nameShortDef] til forhandleren.</SoldPrisoner.rulePack.rulesStrings.9>
+    <SoldPrisoner.rulePack.rulesStrings.10>desc_sentence-&gt;[prisoner_nameShortDef] stire trodsigt på [prisoner_possessive] nye herrer.</SoldPrisoner.rulePack.rulesStrings.10>
+    <SoldPrisoner.rulePack.rulesStrings.11>desc_sentence-&gt;[trader_nameShortDef] slæber [prisoner_nameShortDef] væk ved [prisoner_possessive] lænker.</SoldPrisoner.rulePack.rulesStrings.11>
+    <SoldPrisoner.rulePack.rulesStrings.12>desc_sentence-&gt;[prisoner_nameShortDef] stire på at [seller_nameShortDef], plotter [prisoner_possessive] hævn.</SoldPrisoner.rulePack.rulesStrings.12>
+    <SoldPrisoner.rulePack.rulesStrings.13>desc_sentence-&gt;[prisoner_nameShortDef] græder.</SoldPrisoner.rulePack.rulesStrings.13>
+    <SoldPrisoner.rulePack.rulesStrings.14>desc_sentence-&gt;[prisoner_nameShortDef] spytter i [seller_nameShortDef]'s ansigt.</SoldPrisoner.rulePack.rulesStrings.14>
+    <SoldPrisoner.rulePack.rulesStrings.15>desc_sentence-&gt;[Prisoner_nameShortDef] synker til jorden.</SoldPrisoner.rulePack.rulesStrings.15>
+    <SoldPrisoner.rulePack.rulesStrings.16>desc_sentence-&gt;[Seller_nameShortDef] ligger lænkerne til [prisoner_nameShortDef] i [trader_nameShortDef]'s hænder.</SoldPrisoner.rulePack.rulesStrings.16>
+    <SoldPrisoner.rulePack.rulesStrings.17>desc_sentence-&gt;An air of hopelessness pervades the situation.</SoldPrisoner.rulePack.rulesStrings.17>
+
+    <TrainedAnimal.label>dyretræning</TrainedAnimal.label>
+    <TrainedAnimal.rulePack.rulesStrings.0>tale_noun-&gt;træningen af [animal_nameShortDef]</TrainedAnimal.rulePack.rulesStrings.0>
+    <TrainedAnimal.rulePack.rulesStrings.1>image-&gt;[human_nameFull] [train_syn] [animal_nameFull] i [trainable_label] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.1>
+    <TrainedAnimal.rulePack.rulesStrings.2>image-&gt;[human_nameFull] lære [trainable_label] at [animal_nameFull] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.2>
+    <TrainedAnimal.rulePack.rulesStrings.3>image-&gt;[human_nameFull] øver [trainable_label] med [animal_nameFull] [circumstance_group]</TrainedAnimal.rulePack.rulesStrings.3>
+    <TrainedAnimal.rulePack.rulesStrings.4>train_syn-&gt;træner</TrainedAnimal.rulePack.rulesStrings.4>
+    <TrainedAnimal.rulePack.rulesStrings.5>train_syn-&gt;gennemgår</TrainedAnimal.rulePack.rulesStrings.5>
+    <TrainedAnimal.rulePack.rulesStrings.6>train_syn-&gt;coacher</TrainedAnimal.rulePack.rulesStrings.6>
+    <TrainedAnimal.rulePack.rulesStrings.7>train_syn-&gt;indoktrinere</TrainedAnimal.rulePack.rulesStrings.7>
+    <TrainedAnimal.rulePack.rulesStrings.8>train_syn-&gt;uddanner</TrainedAnimal.rulePack.rulesStrings.8>
+    <TrainedAnimal.rulePack.rulesStrings.9>circumstance_phrase-&gt;imens andre kigger på</TrainedAnimal.rulePack.rulesStrings.9>
+    <TrainedAnimal.rulePack.rulesStrings.10>circumstance_phrase-&gt;imens vilde [animal]s kigger på i afsky</TrainedAnimal.rulePack.rulesStrings.10>
+    <TrainedAnimal.rulePack.rulesStrings.11>circumstance_phrase-&gt;imens [animal_nameShortDef] tænker på de simplere tider da [animal_pronoun] var et vild bæst</TrainedAnimal.rulePack.rulesStrings.11>
+    <TrainedAnimal.rulePack.rulesStrings.12>circumstance_phrase-&gt;imens [human_nameShortDef] tænker på hvad er til frokost</TrainedAnimal.rulePack.rulesStrings.12>
+    <TrainedAnimal.rulePack.rulesStrings.13>circumstance_phrase-&gt;imens de andre kolonister faktisk arbejder</TrainedAnimal.rulePack.rulesStrings.13>
+    <TrainedAnimal.rulePack.rulesStrings.14>desc_sentence-&gt;[human_nameShortDef] hviser glæde.</TrainedAnimal.rulePack.rulesStrings.14>
+    <TrainedAnimal.rulePack.rulesStrings.15>desc_sentence-&gt;[human_nameShortDef] smiler.</TrainedAnimal.rulePack.rulesStrings.15>
+    <TrainedAnimal.rulePack.rulesStrings.16>desc_sentence-&gt;[human_nameShortDef] ser ud til at kede sig.</TrainedAnimal.rulePack.rulesStrings.16>
+    <TrainedAnimal.rulePack.rulesStrings.17>desc_sentence-&gt;[human_nameShortDef] svinger truende [human_possessive] næve.</TrainedAnimal.rulePack.rulesStrings.17>
+    <TrainedAnimal.rulePack.rulesStrings.18>desc_sentence-&gt;[human_nameShortDef] is wrinkling [human_possessive] brow in concentration.</TrainedAnimal.rulePack.rulesStrings.18>
+    <TrainedAnimal.rulePack.rulesStrings.19>desc_sentence-&gt;[animal_nameShortDef] ser undrende ud.</TrainedAnimal.rulePack.rulesStrings.19>
+    <TrainedAnimal.rulePack.rulesStrings.20>desc_sentence-&gt;[animal_nameShortDef] har et våben i [animal_possessive] mund.</TrainedAnimal.rulePack.rulesStrings.20>
+    <TrainedAnimal.rulePack.rulesStrings.21>desc_sentence-&gt;[animal_nameShortDef] afgiver anstrengede grynt.</TrainedAnimal.rulePack.rulesStrings.21>
+    <TrainedAnimal.rulePack.rulesStrings.22>desc_sentence-&gt;[human_nameShortDef] ryster [human_possessive] hovedet i frustration.</TrainedAnimal.rulePack.rulesStrings.22>
+    <TrainedAnimal.rulePack.rulesStrings.23>desc_sentence-&gt;[animal_nameShortDef] ryster af frygt.</TrainedAnimal.rulePack.rulesStrings.23>
+    <TrainedAnimal.rulePack.rulesStrings.24>desc_sentence-&gt;[animal_nameShortDef] ser ud til at skifte om til en [vegetable].</TrainedAnimal.rulePack.rulesStrings.24>
+    <TrainedAnimal.rulePack.rulesStrings.25>desc_sentence-&gt;[animal_nameShortDef] er representeret som en bunke mekaniker værktøj.</TrainedAnimal.rulePack.rulesStrings.25>
+    <TrainedAnimal.rulePack.rulesStrings.26>desc_sentence-&gt;[animal_nameShortDef] er halv [color] og halv [color].</TrainedAnimal.rulePack.rulesStrings.26>
+    <TrainedAnimal.rulePack.rulesStrings.27>desc_sentence-&gt;[animal_nameShortDef] er dække af skæld.</TrainedAnimal.rulePack.rulesStrings.27>
+    <TrainedAnimal.rulePack.rulesStrings.28>desc_sentence-&gt;[human_nameShortDef] er afbilledet med [quantity] arme.</TrainedAnimal.rulePack.rulesStrings.28>
+    <TrainedAnimal.rulePack.rulesStrings.29>desc_sentence-&gt;[human_nameShortDef] er ved at skifte om til en [animal_ShortDefinite].</TrainedAnimal.rulePack.rulesStrings.29>
+
+    <KilledColonist.label>kolonist dræbt</KilledColonist.label>
+
+    <KilledColonyAnimal.label>kolonist dyr dræbt</KilledColonyAnimal.label>
+
+    <KilledMajorColonyEnemy.label>betydelig koloni fjende dræbt</KilledMajorColonyEnemy.label>
+
+    <TradedWith.label>handlede</TradedWith.label>
+    <TradedWith.rulePack.rulesStrings.0>tale_noun-&gt;en handel mellem [seller_fullName] og [buyer_fullName]</TradedWith.rulePack.rulesStrings.0>
+    <TradedWith.rulePack.rulesStrings.1>image-&gt;[buyer_nameFull] køber vare fra [seller_nameFull] [circumstance_group]</TradedWith.rulePack.rulesStrings.1>
+    <TradedWith.rulePack.rulesStrings.2>image-&gt;[seller_nameFull] sælger vare til [buyer_nameFull] [circumstance_group]</TradedWith.rulePack.rulesStrings.2>
+    <TradedWith.rulePack.rulesStrings.3>circumstance_phrase-&gt;med grådig hensigt</TradedWith.rulePack.rulesStrings.3>
+    <TradedWith.rulePack.rulesStrings.4>circumstance_phrase-&gt;imens [seller_nameShortDef] har et tilfreds smil pågrund af [buyer_shortNameDef]</TradedWith.rulePack.rulesStrings.4>
+    <TradedWith.rulePack.rulesStrings.5>desc_sentence-&gt;[buyer_nameShortDef] undersøger [seller_nameShortDef]'s vare.</TradedWith.rulePack.rulesStrings.5>
+    <TradedWith.rulePack.rulesStrings.6>desc_sentence-&gt;[seller_nameShortDef] overvejer at købe en vare.</TradedWith.rulePack.rulesStrings.6>
+    <TradedWith.rulePack.rulesStrings.7>desc_sentence-&gt;[seller_nameShortDef] begynder at tinge.</TradedWith.rulePack.rulesStrings.7>
+    <TradedWith.rulePack.rulesStrings.8>desc_sentence-&gt;[buyer_nameShortDef] diskutere med [seller_nameShortDef].</TradedWith.rulePack.rulesStrings.8>
+    <TradedWith.rulePack.rulesStrings.9>desc_sentence-&gt;[seller_nameShortDef] og [buyer_nameShortDef] er enigh om en pris.</TradedWith.rulePack.rulesStrings.9>
+    <TradedWith.rulePack.rulesStrings.10>desc_sentence-&gt;[buyer_nameShortDef] betaler for varen.</TradedWith.rulePack.rulesStrings.10>
+    <TradedWith.rulePack.rulesStrings.11>desc_sentence-&gt;[seller_nameShortDef] tæller [seller_possessive] money.</TradedWith.rulePack.rulesStrings.11>
+    <TradedWith.rulePack.rulesStrings.12>desc_sentence-&gt;[buyer_nameShortDef] tager [buyer_possessive] vare.</TradedWith.rulePack.rulesStrings.12>
+
+</LanguageData>

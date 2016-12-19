@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <LandedInPod.label>landede i kapsel</LandedInPod.label>
+    <LandedInPod.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]'s landing i en drop kapsel</LandedInPod.rulePack.rulesStrings.0>
+    <LandedInPod.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] landing i en drop kapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
+    <LandedInPod.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] lander i en drop kapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
+    <LandedInPod.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] slår ned i jorden i en drop kapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
+    <LandedInPod.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] rider i en drop kapsel [circumstance_group]</LandedInPod.rulePack.rulesStrings.4>
+    <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase-&gt;foran et [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
+    <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase-&gt;med utrolig kraft</LandedInPod.rulePack.rulesStrings.6>
+    <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase-&gt;i en sky af støv og sten</LandedInPod.rulePack.rulesStrings.7>
+    <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase-&gt;med retro-raketter der går dramatisk af</LandedInPod.rulePack.rulesStrings.8>
+    <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase-&gt;i en præcis landing</LandedInPod.rulePack.rulesStrings.9>
+    <LandedInPod.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] koncentrere sig hårdt på styringen.</LandedInPod.rulePack.rulesStrings.10>
+    <LandedInPod.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] har sine [pawn_possessive] øjne lykket og ser bange ud.</LandedInPod.rulePack.rulesStrings.11>
+    <LandedInPod.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun] er bevidstløs, med [pawn_possessive] tunge ruller ud og savl dryppe ud.</LandedInPod.rulePack.rulesStrings.12>
+    <LandedInPod.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] smiler et barsk smil af glæde.</LandedInPod.rulePack.rulesStrings.13>
+    <LandedInPod.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] virker til ikke have have nogen ide om hvad [pawn_pronoun] laver.</LandedInPod.rulePack.rulesStrings.14>
+    <LandedInPod.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] er spændt fast med [pawn_possessive] øjne lukkede og total hjælpeløs.</LandedInPod.rulePack.rulesStrings.15>
+    <LandedInPod.rulePack.rulesStrings.16>desc_sentence-&gt;Der er it brændende spor der følger bagenden af kapslen.</LandedInPod.rulePack.rulesStrings.16>
+    <LandedInPod.rulePack.rulesStrings.17>desc_sentence-&gt;En [animal] i nærheden kigger forskrækket op.</LandedInPod.rulePack.rulesStrings.17>
+    <LandedInPod.rulePack.rulesStrings.18>desc_sentence-&gt;En [animal] flygter fra nedslaget i frygt.</LandedInPod.rulePack.rulesStrings.18>
+    <LandedInPod.rulePack.rulesStrings.19>desc_sentence-&gt;Der er en [terrainfeature] i baggrunden.</LandedInPod.rulePack.rulesStrings.19>
+    <LandedInPod.rulePack.rulesStrings.20>desc_sentence-&gt;En [outlander] ser stille til på afstand.</LandedInPod.rulePack.rulesStrings.20>
+
+    <Vomited.label>bræk</Vomited.label>
+    <Vomited.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] brækker sig</Vomited.rulePack.rulesStrings.0>
+    <Vomited.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] spyer bræk på gulvet [circumstance_group]</Vomited.rulePack.rulesStrings.1>
+    <Vomited.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] er dækket af indtørret bræk og har et udtryk af afsky [circumstance_group]</Vomited.rulePack.rulesStrings.2>
+    <Vomited.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] bøjer sig forover og begynder at kaste op på gulvet [circumstance_group]</Vomited.rulePack.rulesStrings.3>
+    <Vomited.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] på [pawn_possessive] knæ, og brækker sig på gulvet [circumstance_group]</Vomited.rulePack.rulesStrings.4>
+    <Vomited.rulePack.rulesStrings.5>circumstance_phrase-&gt;ser ud til at være i smerte</Vomited.rulePack.rulesStrings.5>
+    <Vomited.rulePack.rulesStrings.6>circumstance_phrase-&gt;med stor skam</Vomited.rulePack.rulesStrings.6>
+    <Vomited.rulePack.rulesStrings.7>circumstance_phrase-&gt;imens andre kigger på</Vomited.rulePack.rulesStrings.7>
+    <Vomited.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_pronoun] virker totalt uviden om hvad der sker omkring [pawn_objective].</Vomited.rulePack.rulesStrings.8>
+    <Vomited.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_possessive] ansigt virker til at hæve.</Vomited.rulePack.rulesStrings.9>
+    <Vomited.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] er næsten bevidstløs, [pawn_possessive] tunge ruller ud, savl drypper.</Vomited.rulePack.rulesStrings.10>
+    <Vomited.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] har voldsomme krampetrækninger.</Vomited.rulePack.rulesStrings.11>
+    <Vomited.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun] ser skamfuld ud.</Vomited.rulePack.rulesStrings.12>
+    <Vomited.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] virker til at prøve at grine på trods af situationen.</Vomited.rulePack.rulesStrings.13>
+    <Vomited.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] virker næsten flad, nærmest total tømt af den intense opkastning.</Vomited.rulePack.rulesStrings.14>
+    <Vomited.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] er omringet af en kunstnerisk gengivet glorie af affald.</Vomited.rulePack.rulesStrings.15>
+    <Vomited.rulePack.rulesStrings.16>desc_sentence-&gt;En [animal] spiser fra sporet af bræk i baggrunden.</Vomited.rulePack.rulesStrings.16>
+
+    <Drunk.label>fuld</Drunk.label>
+    <Drunk.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]'s ekstreme fuldskab</Drunk.rulePack.rulesStrings.0>
+    <Drunk.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] svimler omkring fuld [circumstance_group]</Drunk.rulePack.rulesStrings.1>
+    <Drunk.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] vipper [pawn_possessive] hoved tilbage og bælder spiritus [circumstance_group]</Drunk.rulePack.rulesStrings.2>
+    <Drunk.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] samler grådigt flasker af spiritus [circumstance_group]</Drunk.rulePack.rulesStrings.3>
+    <Drunk.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] drikker meget [circumstance_group]</Drunk.rulePack.rulesStrings.4>
+    <Drunk.rulePack.rulesStrings.5>circumstance_phrase-&gt;oblivious til [pawn_possessive] omgivelser</Drunk.rulePack.rulesStrings.5>
+    <Drunk.rulePack.rulesStrings.6>circumstance_phrase-&gt;i en rugende døs</Drunk.rulePack.rulesStrings.6>
+    <Drunk.rulePack.rulesStrings.7>circumstance_phrase-&gt;imens forhører [pawn_possessive] om sin egen eksistence</Drunk.rulePack.rulesStrings.7>
+    <Drunk.rulePack.rulesStrings.8>circumstance_phrase-&gt;med tåre i [pawn_possessive] øjne</Drunk.rulePack.rulesStrings.8>
+    <Drunk.rulePack.rulesStrings.9>circumstance_phrase-&gt;imens der klukkes vanvittigt</Drunk.rulePack.rulesStrings.9>
+    <Drunk.rulePack.rulesStrings.10>circumstance_phrase-&gt;imens der grædes</Drunk.rulePack.rulesStrings.10>
+    <Drunk.rulePack.rulesStrings.11>circumstance_phrase-&gt;ser ynkelig ud</Drunk.rulePack.rulesStrings.11>
+    <Drunk.rulePack.rulesStrings.12>circumstance_phrase-&gt;imens der stires ondt af folk omkring [pawn_objective]</Drunk.rulePack.rulesStrings.12>
+    <Drunk.rulePack.rulesStrings.13>circumstance_phrase-&gt;kigger sjoffelt på nogen i nærheden</Drunk.rulePack.rulesStrings.13>
+    <Drunk.rulePack.rulesStrings.14>circumstance_phrase-&gt;prøver at afklæde sig</Drunk.rulePack.rulesStrings.14>
+    <Drunk.rulePack.rulesStrings.15>circumstance_phrase-&gt;med en finger i [pawn_possessive] mund</Drunk.rulePack.rulesStrings.15>
+    <Drunk.rulePack.rulesStrings.16>circumstance_phrase-&gt;prøver at holde brækket tilbage holding back vomit</Drunk.rulePack.rulesStrings.16>
+    <Drunk.rulePack.rulesStrings.17>circumstance_phrase-&gt;er ligeglad med alt</Drunk.rulePack.rulesStrings.17>
+    <Drunk.rulePack.rulesStrings.18>circumstance_phrase-&gt;med et lystigt glimt i [pawn_possessive] øjne</Drunk.rulePack.rulesStrings.18>
+    <Drunk.rulePack.rulesStrings.19>circumstance_phrase-&gt;oplever genfærd fra [pawn_possessive] fortid</Drunk.rulePack.rulesStrings.19>
+    <Drunk.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_pronoun] virker totalt uvidende om hvad der forgår omkring [pawn_objective].</Drunk.rulePack.rulesStrings.20>
+    <Drunk.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_possessive] face itself seems to be swelling.</Drunk.rulePack.rulesStrings.21>
+    <Drunk.rulePack.rulesStrings.22>desc_sentence-&gt;[pawn_pronoun] er næsten bevidstløs, [pawn_possessive] tunge ruller ud, lidt savl drypper.</Drunk.rulePack.rulesStrings.22>
+    <Drunk.rulePack.rulesStrings.23>desc_sentence-&gt;[pawn_pronoun] ser glad ud og sørlig på samme tid.</Drunk.rulePack.rulesStrings.23>
+    <Drunk.rulePack.rulesStrings.24>desc_sentence-&gt;[pawn_pronoun] har pletter på [pawn_possessive] krop.</Drunk.rulePack.rulesStrings.24>
+    <Drunk.rulePack.rulesStrings.25>desc_sentence-&gt;Der er et spor af henkastede drikke beholdere bagved [pawn_objective].</Drunk.rulePack.rulesStrings.25>
+    <Drunk.rulePack.rulesStrings.26>desc_sentence-&gt;Der er en hvid substance på [pawn_possessive] bukser.</Drunk.rulePack.rulesStrings.26>
+    <Drunk.rulePack.rulesStrings.27>desc_sentence-&gt;[pawn_pronoun] ser ud til at have midstet en sko.</Drunk.rulePack.rulesStrings.27>
+    <Drunk.rulePack.rulesStrings.28>desc_sentence-&gt;[pawn_possessive] hår er totalt ullet.</Drunk.rulePack.rulesStrings.28>
+
+    <WasOnFire.label>i brand</WasOnFire.label>
+    <WasOnFire.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] bryder i brand</WasOnFire.rulePack.rulesStrings.0>
+    <WasOnFire.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] slukker febrilsk en ildebrand på [pawn_possessive] krop [circumstance_group]</WasOnFire.rulePack.rulesStrings.1>
+    <WasOnFire.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] omsluttet i flammer [circumstance_group]</WasOnFire.rulePack.rulesStrings.2>
+    <WasOnFire.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] er på knæ, hænder over hovdet og prøver at slukke ilden på [pawn_possessive] krop [circumstance_group]</WasOnFire.rulePack.rulesStrings.3>
+    <WasOnFire.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] ruller rundt på gulvet og brænder [circumstance_group]</WasOnFire.rulePack.rulesStrings.4>
+    <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase-&gt;imens andre kigger på</WasOnFire.rulePack.rulesStrings.5>
+    <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase-&gt;næsten nøgen</WasOnFire.rulePack.rulesStrings.6>
+    <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase-&gt;med fokuseret hensigt</WasOnFire.rulePack.rulesStrings.7>
+    <WasOnFire.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_possessive] kød er synligt forkuldet.</WasOnFire.rulePack.rulesStrings.8>
+    <WasOnFire.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_possessive] er store af panik.</WasOnFire.rulePack.rulesStrings.9>
+    <WasOnFire.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] virker til knap at være ved bevidsthed; [pawn_possessive] øjne er livsløse.</WasOnFire.rulePack.rulesStrings.10>
+    <WasOnFire.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_possessive] er åben imens [pawn_pronoun] skriger efter hjælp.</WasOnFire.rulePack.rulesStrings.11>
+    <WasOnFire.rulePack.rulesStrings.12>desc_sentence-&gt;Flammerne skal til at opsluge hans hoved.</WasOnFire.rulePack.rulesStrings.12>
+    <WasOnFire.rulePack.rulesStrings.13>desc_sentence-&gt;En symbolsk glorie af ild omringer hans hoved.</WasOnFire.rulePack.rulesStrings.13>
+    <WasOnFire.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] griner manisk.</WasOnFire.rulePack.rulesStrings.14>
+    <WasOnFire.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] virker til at midste [pawn_objective]selv.</WasOnFire.rulePack.rulesStrings.15>
+    <WasOnFire.rulePack.rulesStrings.16>desc_sentence-&gt;En sky af røg rejser sig fra [pawn_objective].</WasOnFire.rulePack.rulesStrings.16>
+    <WasOnFire.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_pronoun] er afbilledet kunstnerisk på en lig-agtig måde.</WasOnFire.rulePack.rulesStrings.17>
+
+    <MentalStateBerserk.label>bersærk raseri</MentalStateBerserk.label>
+    <MentalStateBerserk.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] er gået going bersærk</MentalStateBerserk.rulePack.rulesStrings.0>
+    <MentalStateBerserk.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] flyvet ind i et bersærker raseri [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.1>
+    <MentalStateBerserk.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] er ved at blive afsindig, voldeligt sindsyg [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.2>
+    <MentalStateBerserk.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] snubler fremad med et psykotisk udtryk på [pawn_possessive] ansigt [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.3>
+    <MentalStateBerserk.rulePack.rulesStrings.4>circumstance_phrase-&gt;forsøger at afklæde</MentalStateBerserk.rulePack.rulesStrings.4>
+    <MentalStateBerserk.rulePack.rulesStrings.5>circumstance_phrase-&gt;tilsyneladende uden grund</MentalStateBerserk.rulePack.rulesStrings.5>
+    <MentalStateBerserk.rulePack.rulesStrings.6>circumstance_phrase-&gt;imens andre gemmer sig af frygt</MentalStateBerserk.rulePack.rulesStrings.6>
+    <MentalStateBerserk.rulePack.rulesStrings.7>circumstance_phrase-&gt;as a friend flees</MentalStateBerserk.rulePack.rulesStrings.7>
+    <MentalStateBerserk.rulePack.rulesStrings.8>circumstance_phrase-&gt;because of the stress</MentalStateBerserk.rulePack.rulesStrings.8>
+    <MentalStateBerserk.rulePack.rulesStrings.9>circumstance_phrase-&gt;as a last step</MentalStateBerserk.rulePack.rulesStrings.9>
+    <MentalStateBerserk.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] ryster pågrund af et uregerligt raseri.</MentalStateBerserk.rulePack.rulesStrings.10>
+    <MentalStateBerserk.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_possessive] tænder er blottet og snerre dødeligt.</MentalStateBerserk.rulePack.rulesStrings.11>
+    <MentalStateBerserk.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_possessive] øjne er døde bassiner af galskab.</MentalStateBerserk.rulePack.rulesStrings.12>
+    <MentalStateBerserk.rulePack.rulesStrings.13>desc_sentence-&gt;Spyt flyver fra [pawn_possessive] mund imens [pawn_possessive] skriger i et sindsygt raseri.</MentalStateBerserk.rulePack.rulesStrings.13>
+    <MentalStateBerserk.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] har midstet en del af [pawn_possessive] tøj.</MentalStateBerserk.rulePack.rulesStrings.14>
+    <MentalStateBerserk.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] laver en grimasse af elendighed.</MentalStateBerserk.rulePack.rulesStrings.15>
+    <MentalStateBerserk.rulePack.rulesStrings.16>desc_sentence-&gt;[pawn_pronoun] ser ud til at smile manisk.</MentalStateBerserk.rulePack.rulesStrings.16>
+    <MentalStateBerserk.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_pronoun] er afbilledet med det snerrende ansigt af en [animal].</MentalStateBerserk.rulePack.rulesStrings.17>
+    <MentalStateBerserk.rulePack.rulesStrings.18>desc_sentence-&gt;[animal]s omringer symbolsk [pawn_possessive] hoved.</MentalStateBerserk.rulePack.rulesStrings.18>
+    <MentalStateBerserk.rulePack.rulesStrings.19>desc_sentence-&gt;[pawn_pronoun] har et morderisk glimt i [pawn_possessive] øje.</MentalStateBerserk.rulePack.rulesStrings.19>
+    <MentalStateBerserk.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_possessive] hele kroppen synes at ryste med had.</MentalStateBerserk.rulePack.rulesStrings.20>
+    <MentalStateBerserk.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_possessive] ansigt ligger i et udseende af snoet sindsro.</MentalStateBerserk.rulePack.rulesStrings.21>
+    <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence-&gt;En enkelt tåre triller ned [pawn_possessive] ansigt.</MentalStateBerserk.rulePack.rulesStrings.22>
+
+    <MentalStateGaveUp.label>Giver op</MentalStateGaveUp.label>
+    <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] give op i fortvivlelse</MentalStateGaveUp.rulePack.rulesStrings.0>
+    <MentalStateGaveUp.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] giver endelig op pågrund af stress [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.1>
+    <MentalStateGaveUp.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] græder ukontrolleret [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.2>
+    <MentalStateGaveUp.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] snubler rundt med et helt brudt udtryk på [pawn_possessive] ansigt [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.3>
+    <MentalStateGaveUp.rulePack.rulesStrings.4>circumstance_phrase-&gt;imens forsøger at afklæde</MentalStateGaveUp.rulePack.rulesStrings.4>
+    <MentalStateGaveUp.rulePack.rulesStrings.5>circumstance_phrase-&gt;tilsyneladende uden grund</MentalStateGaveUp.rulePack.rulesStrings.5>
+    <MentalStateGaveUp.rulePack.rulesStrings.6>circumstance_phrase-&gt;imens de andre tilbyder sympati</MentalStateGaveUp.rulePack.rulesStrings.6>
+    <MentalStateGaveUp.rulePack.rulesStrings.7>circumstance_phrase-&gt;imens en ven græder</MentalStateGaveUp.rulePack.rulesStrings.7>
+    <MentalStateGaveUp.rulePack.rulesStrings.8>circumstance_phrase-&gt;pågrund af stressen</MentalStateGaveUp.rulePack.rulesStrings.8>
+    <MentalStateGaveUp.rulePack.rulesStrings.9>circumstance_phrase-&gt;som et sidste skridt</MentalStateGaveUp.rulePack.rulesStrings.9>
+    <MentalStateGaveUp.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] har tåre der løber ned af [pawn_possessive] ansigt.</MentalStateGaveUp.rulePack.rulesStrings.10>
+    <MentalStateGaveUp.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] griner i dybet af [pawn_possessive] depression.</MentalStateGaveUp.rulePack.rulesStrings.11>
+    <MentalStateGaveUp.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_nameShortDef] kigger op, som for at spørger efter hjælp fra oven.</MentalStateGaveUp.rulePack.rulesStrings.12>
+    <MentalStateGaveUp.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] river løs på [pawn_possessive] eget tøj.</MentalStateGaveUp.rulePack.rulesStrings.13>
+    <MentalStateGaveUp.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] virker helt uvidende om, hvad der er omkring [pawn_objective].</MentalStateGaveUp.rulePack.rulesStrings.14>
+    <MentalStateGaveUp.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] virker glad og trist på samme tid.</MentalStateGaveUp.rulePack.rulesStrings.15>
+    <MentalStateGaveUp.rulePack.rulesStrings.16>desc_sentence-&gt;[pawn_pronoun] har pletter ned af [pawn_possessive] front.</MentalStateGaveUp.rulePack.rulesStrings.16>
+    <MentalStateGaveUp.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_pronoun] ser ud til at have midstet en sko.</MentalStateGaveUp.rulePack.rulesStrings.17>
+    <MentalStateGaveUp.rulePack.rulesStrings.18>desc_sentence-&gt;[pawn_possessive] hår er helt ullet.</MentalStateGaveUp.rulePack.rulesStrings.18>
+
+    <WalkedNaked.label>Går nøgen</WalkedNaked.label>
+    <WalkedNaked.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] går nøgen rundt</WalkedNaked.rulePack.rulesStrings.0>
+    <WalkedNaked.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] [nude_action] i en tilstand af naturen [circumstance_group]</WalkedNaked.rulePack.rulesStrings.1>
+    <WalkedNaked.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] [nude_action] helt nøgen [circumstance_group]</WalkedNaked.rulePack.rulesStrings.2>
+    <WalkedNaked.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] [nude_action], nøgen, [circumstance_group]</WalkedNaked.rulePack.rulesStrings.3>
+    <WalkedNaked.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] [nude_action] uden noget tøj på [circumstance_group]</WalkedNaked.rulePack.rulesStrings.4>
+    <WalkedNaked.rulePack.rulesStrings.5>nude_action-&gt;stejlende</WalkedNaked.rulePack.rulesStrings.5>
+    <WalkedNaked.rulePack.rulesStrings.6>nude_action-&gt;boltrede sig</WalkedNaked.rulePack.rulesStrings.6>
+    <WalkedNaked.rulePack.rulesStrings.7>nude_action-&gt;hopper</WalkedNaked.rulePack.rulesStrings.7>
+    <WalkedNaked.rulePack.rulesStrings.8>nude_action-&gt;går</WalkedNaked.rulePack.rulesStrings.8>
+    <WalkedNaked.rulePack.rulesStrings.9>nude_action-&gt;spankulerende [pawn_possessive] ting</WalkedNaked.rulePack.rulesStrings.9>
+    <WalkedNaked.rulePack.rulesStrings.10>nude_action-&gt;selvsikker</WalkedNaked.rulePack.rulesStrings.10>
+    <WalkedNaked.rulePack.rulesStrings.11>nude_action-&gt;tåspidserne</WalkedNaked.rulePack.rulesStrings.11>
+    <WalkedNaked.rulePack.rulesStrings.12>nude_action-&gt;promenading</WalkedNaked.rulePack.rulesStrings.12>
+    <WalkedNaked.rulePack.rulesStrings.13>nude_action-&gt;aflæser området</WalkedNaked.rulePack.rulesStrings.13>
+    <WalkedNaked.rulePack.rulesStrings.14>circumstance_phrase-&gt;med en følelse af formål</WalkedNaked.rulePack.rulesStrings.14>
+    <WalkedNaked.rulePack.rulesStrings.15>circumstance_phrase-&gt;uden antydning af skam</WalkedNaked.rulePack.rulesStrings.15>
+    <WalkedNaked.rulePack.rulesStrings.16>circumstance_phrase-&gt;imens andre ser på</WalkedNaked.rulePack.rulesStrings.16>
+    <WalkedNaked.rulePack.rulesStrings.17>circumstance_phrase-&gt;tilsyneladende uden grund</WalkedNaked.rulePack.rulesStrings.17>
+    <WalkedNaked.rulePack.rulesStrings.18>circumstance_phrase-&gt;imens forvirrede dyr se på</WalkedNaked.rulePack.rulesStrings.18>
+    <WalkedNaked.rulePack.rulesStrings.19>desc_sentence-&gt;[pawn_nameShortDef] er synligt ophidset.</WalkedNaked.rulePack.rulesStrings.19>
+    <WalkedNaked.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_nameShortDef] er dækket i uforklarlige fugt.</WalkedNaked.rulePack.rulesStrings.20>
+    <WalkedNaked.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_nameShortDef] trækker vejret tungt for ingen åbenlys grund.</WalkedNaked.rulePack.rulesStrings.21>
+    <WalkedNaked.rulePack.rulesStrings.22>desc_sentence-&gt;[pawn_nameShortDef] kæler en busk.</WalkedNaked.rulePack.rulesStrings.22>
+
+    <AteRawHumanlikeMeat.label>rå menneskelignende kød spidst</AteRawHumanlikeMeat.label>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef]'s spisning af menneske kød</AteRawHumanlikeMeat.rulePack.rulesStrings.0>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] [eat_gerund] kødet fra et medmenneske [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.1>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] [eat_gerund] kødet fra en menneskelignende arm [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.2>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] [eat_gerund] kødet fra noget menneskelignende [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.3>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.4>eat_gerund-&gt;spiser</AteRawHumanlikeMeat.rulePack.rulesStrings.4>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.5>eat_gerund-&gt;indtager</AteRawHumanlikeMeat.rulePack.rulesStrings.5>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.6>eat_gerund-&gt;tygger</AteRawHumanlikeMeat.rulePack.rulesStrings.6>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund-&gt;gumler på</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund-&gt;konsumer</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund-&gt;synker</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund-&gt;kannibalisere</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase-&gt;med en følelse af formål</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase-&gt;uden antydning af skam</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase-&gt;med et udtryk af skam</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.14>circumstance_phrase-&gt;imens andre kigger på</AteRawHumanlikeMeat.rulePack.rulesStrings.14>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.15>circumstance_phrase-&gt;med begejstring</AteRawHumanlikeMeat.rulePack.rulesStrings.15>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.16>circumstance_phrase-&gt;febrilsk, som om [pawn_possessive] liv afhang af det</AteRawHumanlikeMeat.rulePack.rulesStrings.16>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_nameShortDef]'s ansigt er dækket med blod og væsker.</AteRawHumanlikeMeat.rulePack.rulesStrings.17>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.18>desc_sentence-&gt;[pawn_nameShortDef] slikker [pawn_possessive] fingre.</AteRawHumanlikeMeat.rulePack.rulesStrings.18>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.19>desc_sentence-&gt;[pawn_nameShortDef] har blod og indvolde over det hele [pawn_possessive] front.</AteRawHumanlikeMeat.rulePack.rulesStrings.19>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_nameShortDef] er i midten af en stor blodpøl.</AteRawHumanlikeMeat.rulePack.rulesStrings.20>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_nameShortDef] har set sig varm på en i nærheden med mørk interesse.</AteRawHumanlikeMeat.rulePack.rulesStrings.21>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.22>desc_sentence-&gt;Kødet er glinsende og ser meget saftigt ud.</AteRawHumanlikeMeat.rulePack.rulesStrings.22>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.23>desc_sentence-&gt;Kødet glider ned af [pawn_nameShortDef]'s krop.</AteRawHumanlikeMeat.rulePack.rulesStrings.23>
+
+    <CraftedArt.label>kunst lavet</CraftedArt.label>
+    <CraftedArt.rulePack.rulesStrings.0>tale_noun-&gt;tidspunktet [pawn_nameShortDef] byggede [thing_labelIndefinite]</CraftedArt.rulePack.rulesStrings.0>
+    <CraftedArt.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] bygger [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.1>
+    <CraftedArt.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] fuldender [pawn_possessive] arbejdet på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.2>
+    <CraftedArt.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] arbejder på [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.3>
+    <CraftedArt.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] laver [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.4>
+    <CraftedArt.rulePack.rulesStrings.5>circumstance_phrase-&gt;med total koncentration</CraftedArt.rulePack.rulesStrings.5>
+    <CraftedArt.rulePack.rulesStrings.6>circumstance_phrase-&gt;med et udtryk af tilfredshed på [pawn_possessive] ansigt</CraftedArt.rulePack.rulesStrings.6>
+    <CraftedArt.rulePack.rulesStrings.7>circumstance_phrase-&gt;ved [pawn_possessive] arbejdsbord</CraftedArt.rulePack.rulesStrings.7>
+    <CraftedArt.rulePack.rulesStrings.8>circumstance_phrase-&gt;med stor intensitet</CraftedArt.rulePack.rulesStrings.8>
+    <CraftedArt.rulePack.rulesStrings.9>desc_sentence-&gt;Der er værktøj spredt ud over det hele.</CraftedArt.rulePack.rulesStrings.9>
+    <CraftedArt.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] er ridset og arret fra arbejdsskader.</CraftedArt.rulePack.rulesStrings.10>
+    <CraftedArt.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] er dækket af sved.</CraftedArt.rulePack.rulesStrings.11>
+    <CraftedArt.rulePack.rulesStrings.12>desc_sentence-&gt;Arbejdsområdet er meget organiseret, med hvert stykke værktøj i dens rette plads.</CraftedArt.rulePack.rulesStrings.12>
+    <CraftedArt.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] afbilledet på en overdreven måde for at fremstå mere kraftfuld.</CraftedArt.rulePack.rulesStrings.13>
+    <CraftedArt.rulePack.rulesStrings.14>desc_sentence-&gt;Størrelsen på [thing_labelDefinite] er overdrevet for at lave fokus på hvor vigtig den er.</CraftedArt.rulePack.rulesStrings.14>
+    <CraftedArt.rulePack.rulesStrings.15>desc_sentence-&gt;[thing_labelDefinite] har en kunstnerisk glød føjet til det. Det synes næsten engleblid.</CraftedArt.rulePack.rulesStrings.15>
+    <CraftedArt.rulePack.rulesStrings.16>desc_sentence-&gt;[pawn_nameShortDef] er falmet ind i baggrunden for at fremhæve [pawn_possessive] nye creation.</CraftedArt.rulePack.rulesStrings.16>
+    <CraftedArt.rulePack.rulesStrings.17>desc_sentence-&gt;[quantity_adjphrase] tilskuere omgiver [pawn_objective].</CraftedArt.rulePack.rulesStrings.17>
+    <CraftedArt.rulePack.rulesStrings.18>desc_sentence-&gt;Et publikum hepper i baggrunden.</CraftedArt.rulePack.rulesStrings.18>
+    <CraftedArt.rulePack.rulesStrings.19>quality_sentence-&gt;[thing_labelDefinite] ser ud til at være [thing_quality] kvalitet</CraftedArt.rulePack.rulesStrings.19>
+    <CraftedArt.rulePack.rulesStrings.20>quality_sentence-&gt;[thing_labelDefinite] er af [thing_quality] kvalitet</CraftedArt.rulePack.rulesStrings.20>
+    <CraftedArt.rulePack.rulesStrings.21>quality_sentence-&gt;[pawn_nameShortDef]'s arbejde er af [thing_quality] kvalitet</CraftedArt.rulePack.rulesStrings.21>
+    <CraftedArt.rulePack.rulesStrings.22>title_sentence-&gt;[pawn_nameShortDef]'s titel til [thing_labelDefinite] er skrevet underneden: [thing_title]</CraftedArt.rulePack.rulesStrings.22>
+    <CraftedArt.rulePack.rulesStrings.23>title_sentence-&gt;[thing_labelDefinite] er indgraveret med dets titel: [thing_title]</CraftedArt.rulePack.rulesStrings.23>
+    <CraftedArt.rulePack.rulesStrings.24>title_sentence-&gt;Titlen til [thing_labelDefinite], [thing_title], hænger i baggrunden</CraftedArt.rulePack.rulesStrings.24>
+
+    <StruckMineable.label>fandt minebart</StruckMineable.label>
+    <StruckMineable.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] fandt [thing_label]</StruckMineable.rulePack.rulesStrings.0>
+    <StruckMineable.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] der fandt [thing_label] [circumstance_group]</StruckMineable.rulePack.rulesStrings.1>
+    <StruckMineable.rulePack.rulesStrings.2>circumstance_phrase-&gt;imens der mines</StruckMineable.rulePack.rulesStrings.2>
+    <StruckMineable.rulePack.rulesStrings.3>circumstance_phrase-&gt;imens der graves</StruckMineable.rulePack.rulesStrings.3>
+    <StruckMineable.rulePack.rulesStrings.4>circumstance_phrase-&gt;imens der graves en tunnel</StruckMineable.rulePack.rulesStrings.4>
+    <StruckMineable.rulePack.rulesStrings.5>circumstance_phrase-&gt;med et udtryk with a look of surprise</StruckMineable.rulePack.rulesStrings.5>
+    <StruckMineable.rulePack.rulesStrings.6>circumstance_phrase-&gt;med et tilfreds udtryk</StruckMineable.rulePack.rulesStrings.6>
+    <StruckMineable.rulePack.rulesStrings.7>desc_sentence-&gt;[pawn_nameShortDef] tøre [pawn_possessive] bryn.</StruckMineable.rulePack.rulesStrings.7>
+    <StruckMineable.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_nameShortDef] hopper af glæde.</StruckMineable.rulePack.rulesStrings.8>
+    <StruckMineable.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_nameShortDef] giver en high-fiving til en ven.</StruckMineable.rulePack.rulesStrings.9>
+    <StruckMineable.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_nameShortDef] skriger af glæde.</StruckMineable.rulePack.rulesStrings.10>
+    <StruckMineable.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_nameShortDef] griner ukontroleret.</StruckMineable.rulePack.rulesStrings.11>
+    <StruckMineable.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_nameShortDef] sveder og er blevet beskidt af at arbejde.</StruckMineable.rulePack.rulesStrings.12>
+    <StruckMineable.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_nameShortDef] sveder og er blevet beskidt af at arbejde.</StruckMineable.rulePack.rulesStrings.13>
+
+    <FinishedResearchProject.label>forskningsprojekt færdigt</FinishedResearchProject.label>
+    <FinishedResearchProject.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] er blevet færdig med [project_label] forskningen</FinishedResearchProject.rulePack.rulesStrings.0>
+    <FinishedResearchProject.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] arbejder på [project_label] forskningsprojektet [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.1>
+    <FinishedResearchProject.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] studere hemmelighederne bag [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.2>
+    <FinishedResearchProject.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] forsker [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.3>
+    <FinishedResearchProject.rulePack.rulesStrings.4>circumstance_phrase-&gt;med stor intensitet</FinishedResearchProject.rulePack.rulesStrings.4>
+    <FinishedResearchProject.rulePack.rulesStrings.5>circumstance_phrase-&gt;alene ved [pawn_possessive] bænk</FinishedResearchProject.rulePack.rulesStrings.5>
+    <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase-&gt;og holder papire i [pawn_possessive] hånd</FinishedResearchProject.rulePack.rulesStrings.6>
+    <FinishedResearchProject.rulePack.rulesStrings.7>circumstance_phrase-&gt;med et udtryk af frydefuld fascination</FinishedResearchProject.rulePack.rulesStrings.7>
+    <FinishedResearchProject.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_nameShortDef] sveder.</FinishedResearchProject.rulePack.rulesStrings.8>
+    <FinishedResearchProject.rulePack.rulesStrings.9>desc_sentence-&gt;Arbejdet lader til være usædvanligt kompleks.</FinishedResearchProject.rulePack.rulesStrings.9>
+    <FinishedResearchProject.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_nameShortDef] er helt omgivet af en matrix af værktøjer og apparater.</FinishedResearchProject.rulePack.rulesStrings.10>
+    <FinishedResearchProject.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_nameShortDef] stirre på [pawn_possessive] opdagelse med en fornemmelse af forundring.</FinishedResearchProject.rulePack.rulesStrings.11>
+
+    <ButcheredHumanlikeCorpse.label>menneskelighende lig slagtet</ButcheredHumanlikeCorpse.label>
+
+</LanguageData>
