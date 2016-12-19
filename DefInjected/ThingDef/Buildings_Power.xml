@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <PowerConduit.label>strøm ledning</PowerConduit.label>
-    
-    <SolarGenerator.label>solcelle generator</SolarGenerator.label>
-    <SolarGenerator.description>Producerer elektricitet fra sollys. Virker ikke når det er mørkt.</SolarGenerator.description>
-    
-    <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
-    <GeothermalGenerator.description>Producerer elektricitet fra en geotermisk generator. Skal placeres på en gejser.</GeothermalGenerator.description>
-    
-    <Battery.label>batteri</Battery.label>
-    <Battery.description>Opmagasinerer elektricitet når der produceres overskydende strøm og aflader når der er for lidt. Advarsel - batterier kan overophede i varme, eller når de er våde.</Battery.description>
-    
+
+  <PowerConduit.label>power conduit</PowerConduit.label>
+  <PowerConduit.description>Et sæt af elektriske ledninger til at transportere strøm rundt. Kan placeres under vægge og andre bygninger.</PowerConduit.description>
+
+  <PowerSwitch.label>strømknap</PowerSwitch.label>
+  <PowerSwitch.description>Tænder og slukker for strøm.</PowerSwitch.description>
+
+  <FueledGenerator.label>drevne generator</FueledGenerator.label>
+  <FueledGenerator.description>Producere strøm ved at brænde træ. Skal genopfyldes manuelt.</FueledGenerator.description>
+
+  <Battery.label>batteri</Battery.label>
+  <Battery.description>Opmagasinerer elektricitet når der produceres overskydende strøm og aflader når der er for lidt. Advarsel - batterier kan overophede når de er varme eller bliver våde.</Battery.description>
+
+  <SolarGenerator.label>solcelle generator</SolarGenerator.label>
+  <SolarGenerator.description>Producere elektricitet fra sollys. Virker ikke i mørke.</SolarGenerator.description>
+
+  <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Producere elektricitet fra geotermisk dampgejsere. Skal placeres på en gejsere.</GeothermalGenerator.description>
+
 </LanguageData>
