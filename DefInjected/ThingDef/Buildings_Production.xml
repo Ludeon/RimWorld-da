@@ -1,37 +1,85 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <NutrientPasteDispenser.label>næringspaté automat</NutrientPasteDispenser.label>
-    <NutrientPasteDispenser.description>Syntesiserer næringspaté fra organisk materiale.</NutrientPasteDispenser.description>
-    
-    <Hopper.label>beholder</Hopper.label>
-    
-    <!-- ========================= Work tables ==========================-->
-    
-    <TableButcher.label>slagter bord</TableButcher.label>
-    <TableButcher.description>Tungt bord til slagtning af døde kreaturer til stykker af råt kød.</TableButcher.description>
-    
-    <TableTailor.label>skrædder bord</TableTailor.label>
-    <TableTailor.description>Et værkstedsbord til at producere tøj og forbedre det.</TableTailor.description>
-    
-    <TableMachining.label>maskinelt bord</TableMachining.label>
-    <TableMachining.description>Et bord med værktøjer til at bygge og skille maskinelle komponenter ad.</TableMachining.description>
-    
-    <CookStove.label>køkken bord</CookStove.label>
-    <CookStove.description>Udstyret med et simpelt komfur og bordplads til at forbedre måltider fra simple ingredienser.</CookStove.description>
-    
-    <TableStonecutter.label>stenskærer bord</TableStonecutter.label>
-    <TableStonecutter.description>Et arbejdsbord til at skære rå sten om til brugbare stenblokke.</TableStonecutter.description>
-    
-    <ElectricSmelter.label>elektrisk smelteværk</ElectricSmelter.label>
-    <ElectricSmelter.description>Udvinder brugbart metal fra vragdele og andre forskellige metalting. Bruger meget strøm.</ElectricSmelter.description>
-    
-    <Crematorium.label>krematorie</Crematorium.label>
-    <Crematorium.description>Kremerer lig.</Crematorium.description>
-    
-    <!-- ========== Hydroponics ==============-->
-    
-    <HydroponicsBasin.label>hydrofonisk bassin</HydroponicsBasin.label>
-    <HydroponicsBasin.description>Til at gro mad. Hydrofoniske bassiner gror få planter, men hurtigt.</HydroponicsBasin.description>
-    
+
+  <CraftingSpot.label>byggeplads</CraftingSpot.label>
+  <CraftingSpot.description>En plads til at bygge simple ting som knive og buer.</CraftingSpot.description>
+
+  <!-- Work tables -->
+
+  <TableSculpting.label>billedhuggerbord</TableSculpting.label>
+  <TableSculpting.description>Et arbejdsbord udstyret til kunstnerisk billedhugning.</TableSculpting.description>
+
+  <TableButcher.label>slagterbord</TableButcher.label>
+  <TableButcher.description>Tungt bord til slagtning af døde kreaturer til stykker af råt kød.</TableButcher.description>
+
+  <HandTailoringBench.label>skrædderbænk</HandTailoringBench.label>
+  <HandTailoringBench.description>Et arbejdsbord til at skræddersy tøj i hånden. Arbejder 50% så hurtigt som en elektrisk skrædderbænk.</HandTailoringBench.description>
+
+  <ElectricTailoringBench.label>elektrisk skrædderbænk</ElectricTailoringBench.label>
+  <ElectricTailoringBench.description>Et arbejdsbord til at skræddersy tøj med en sygmaskine til hurtig sygning af tøj. Kan virke uden elektricitet ved 40% af den normale hastighed.</ElectricTailoringBench.description>
+
+  <FueledSmithy.label>drevnet smedje</FueledSmithy.label>
+  <FueledSmithy.description>En træ-drevet station udstyret til at smede ikke-mekaniske våben og værktøjer.</FueledSmithy.description>
+
+  <ElectricSmithy.label>electrisk smedje</ElectricSmithy.label>
+  <ElectricSmithy.description>En elektrisk drevet station udstyret til at smede ikke-mekaniske våben og redskaber.</ElectricSmithy.description>
+
+  <TableMachining.label>maskinbord</TableMachining.label>
+  <TableMachining.description>En arbejdsstation til montering og afmontering af maskiner såsom pistoler eller mekanitlig.</TableMachining.description>
+
+  <ElectricStove.label>electrisk komfur</ElectricStove.label>
+  <ElectricStove.description>Et elektrisk drevet komfur med et vedhæftet køkkenbordet til at tilberede måltider.</ElectricStove.description>
+
+  <FueledStove.label>drevnet komfur</FueledStove.label>
+  <FueledStove.description>Et enkelt træ-drevne komfur med et vedhæftet køkkenbordet til at tilberede måltider.</FueledStove.description>
+
+  <TableStonecutter.label>stenhugger bord</TableStonecutter.label>
+  <TableStonecutter.description>Et arbejdsbord udstyret til at skære sten om til brugbare stenblokke.</TableStonecutter.description>
+
+  <Brewery.label>bryggeri</Brewery.label>
+  <Brewery.description>En arbejdsplads med alt det nødvendige udstyr til at brygge øl.</Brewery.description>
+
+  <DrugLab.label>medicin laboratorium</DrugLab.label>
+  <DrugLab.description>Et arbejdsbord udstyret med forskellige beholdere, varmeapparater og måleudstyr til fremstilling en række lægemidler.</DrugLab.description>
+
+  <ElectricSmelter.label>electrisk smelteværk</ElectricSmelter.label>
+  <ElectricSmelter.description>Uddrag brugbar metal fra smelteklumper og andre blandede metalgenstande. Bruger en masse strøm.</ElectricSmelter.description>
+
+  <Refinery.label>raffinaderi</Refinery.label>
+  <Refinery.description>Et kemisk raffineringsanlæg. Bruges til at forfine træ til kembrændstof.</Refinery.description>
+
+  <ComponentAssemblyBench.label>komponentsamlings bænk</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>Et arbejdsbord udstyret med avancerede værktøjer til fremstilling af komponenter af enklere materialer.</ComponentAssemblyBench.description>
+
+
+  <!-- Non-standard work buildings -->
+
+  <SimpleResearchBench.label>simpel forskningsbænk</SimpleResearchBench.label>
+  <SimpleResearchBench.description>En simpel bænk med skriveredskaber og lavteknologiske videnskabelige værktøjer. Forskere arbejder her for at opdage nye ting.</SimpleResearchBench.description>
+
+  <HiTechResearchBench.label>hightech forskningsbænk</HiTechResearchBench.label>
+  <HiTechResearchBench.description>En højteknologisk bænk med computere og elektronisk måleudstyr. Forsknings hastigheden er fremskyndet af de højteknologiske værktøjer. Kræver strøm.</HiTechResearchBench.description>
+
+  <ElectricCrematorium.label>electrisk krematorium</ElectricCrematorium.label>
+  <ElectricCrematorium.description>Kremere lig. Elektrisk drevet.</ElectricCrematorium.description>
+
+  <HydroponicsBasin.label>hydroponics bassin</HydroponicsBasin.label>
+  <HydroponicsBasin.description>Vokser planter hurtigt i et kunstigt næringsstofs bad. Kræver strøm for at arbejde; planter vil dø, hvis strømmen er afbrudt.</HydroponicsBasin.description>
+
+  <FermentingBarrel.label>fermenteringstønde</FermentingBarrel.label>
+  <FermentingBarrel.description>En tønde til fermentering af malt til øl.</FermentingBarrel.description>
+
+  <DeepDrill.label>dybtebor</DeepDrill.label>
+  <DeepDrill.description>En bor til at udvinde mineraler fra dybt under overfladen. Brug en jord-gennemtrængende scanner til at finde ressourcerne.</DeepDrill.description>
+
+
+  <!-- Nutrient dispenser -->
+
+  <NutrientPasteDispenser.label>næringspasta dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Syntesiserer næringspasta fra organisk materiale. Bruger mindre ingredienser og tid end nogen anden form for måltids produktion - men ingen kan lide at spise næringspasta. Kan bruge rå madvare, men ikke groft plante materialer som hø.</NutrientPasteDispenser.description>
+
+  <Hopper.label>magasin</Hopper.label>
+  <Hopper.description>Rummer ressourcer til brug for maskiner som næringspasta dispensere.</Hopper.description>
+
+
 </LanguageData>
