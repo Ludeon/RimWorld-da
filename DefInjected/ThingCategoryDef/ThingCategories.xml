@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Root.label>rødder</Root.label>
+
+
+  <!-- Foods -->
+
+  <Foods.label>madvare</Foods.label>
+  <FoodMeals.label>måltider</FoodMeals.label>
+  <FoodRaw.label>råmadvare</FoodRaw.label>
+  <MeatRaw.label>køde</MeatRaw.label>
+  <PlantFoodRaw.label>vegetar</PlantFoodRaw.label>
+  <AnimalProductRaw.label>animalske produkter</AnimalProductRaw.label>
+  <EggsUnfertilized.label>æg (ubef.)</EggsUnfertilized.label>
+  <EggsFertilized.label>æg (bef.)</EggsFertilized.label>
+
+
+  <!-- Manufactured -->
+
+  <Manufactured.label>fremstillet</Manufactured.label>
+  <Textiles.label>tekstiler</Textiles.label>
+  <Leathers.label>læder</Leathers.label>
+  <Medicine.label>medicin</Medicine.label>
+  <Drugs.label>stoffer</Drugs.label>
+
+
+  <!-- Raw resources -->
+
+  <ResourcesRaw.label>rå ressourcer</ResourcesRaw.label>
+  <PlantMatter.label>plantematerialer</PlantMatter.label>
+  <StoneBlocks.label>stenblokke</StoneBlocks.label>
+
+
+  <!-- Items -->
+
+  <Items.label>genstande</Items.label>
+  <Art.label>kunst</Art.label>
+  <Furniture.label>møbler</Furniture.label>
+  <Unfinished.label>unfinished</Unfinished.label>
+  <Artifacts.label>artefakter</Artifacts.label>
+  <BodyParts.label>kropsdele</BodyParts.label>
+  <BodyPartsNatural.label>naturalige</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>kunstige</BodyPartsArtificial.label>
+
+
+  <!-- Weapons -->
+
+  <Weapons.label>våben</Weapons.label>
+  <WeaponsMelee.label>nærkamps våben</WeaponsMelee.label>
+  <WeaponsRanged.label>afstandsvåben</WeaponsRanged.label>
+  <Grenades.label>granater</Grenades.label>
+
+
+  <!-- Apparel -->
+
+  <Apparel.label>beklædning</Apparel.label>
+  <Headgear.label>hovedbeklædning</Headgear.label>
+
+
+  <!-- Chunks -->
+
+  <Chunks.label>klumper</Chunks.label>
+  <StoneChunks.label>sten klumper</StoneChunks.label>
+
+
+  <!-- Corpses -->
+
+  <Corpses.label>lig</Corpses.label>
+  <CorpsesHumanlike.label>menneskelignende lig</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>dyre lig</CorpsesAnimal.label>
+  <CorpsesInsect.label>insekt lig</CorpsesInsect.label>
+  <CorpsesMechanoid.label>mekanit lig</CorpsesMechanoid.label>
+
+
+</LanguageData>
