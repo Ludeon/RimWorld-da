@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Campfire.label>lejrbål</Campfire.label>
+  <Campfire.description>Tilbereder måltider og producerer varme. Brænderud efter et par dage. Som med alle varmekilder, skal det placeres indendørs, så det har et lukket rum det kan varme op. Kan genfyldes.</Campfire.description>
+
+  <PassiveCooler.label>passiv køler</PassiveCooler.label>
+  <PassiveCooler.description>En traditionel strømløs køler, der virker ved vandfordampning. Vil løbe ud og selvdestruktion efter flere dage.</PassiveCooler.description>
+
+  <Heater.label>varmeapparat</Heater.label>
+  <Heater.description>En elektrisk anordning, der konverterer elektricitet til varme. Den kan automatisk slukke af sig selv til eller fra for at nå en specifikt temperatur.</Heater.description>
+
+  <Cooler.label>Køler</Cooler.label>
+  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer.En elektrisk anordning, der passer ind i en mur og skubber kold luft ind i et rum. Dens udstødningsåbning genererer en masse varme. Kan bruges til at køle værelser ned i sommermånederne, eller at skabe en walk-in fryser.</Cooler.description>
+
+  <Vent.label>udluftning</Vent.label>
+  <Vent.description>En simpel udluftning til udligning af temperaturen mellem to værelser uden at tillade folk at gå mellem dem.</Vent.description>
+
+
+</LanguageData>
