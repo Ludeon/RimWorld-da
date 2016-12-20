@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealSurvivalPack.label>pakket overlevelsesmåltid</MealSurvivalPack.label>
+  <MealSurvivalPack.description>En høj kvalitets pakket måltid, fremstillet til brug i overlevelse situationer.</MealSurvivalPack.description>
+
+  <MealNutrientPaste.label>næringspurè måltid</MealNutrientPaste.label>
+  <MealNutrientPaste.description>En syntetisk blanding af proteiner, kulhydrater og vitaminer, aminosyrer og mineraler. Alt kroppen har brug for, og smager absolut modbydeligt.</MealNutrientPaste.description>
+
+  <MealSimple.label>simpelt måltid</MealSimple.label>
+  <MealSimple.description>Et simpelt måltid der er hurtigt tilberedt fra et par ingredienser.</MealSimple.description>
+
+  <MealFine.label>fint måltid</MealFine.label>
+  <MealFine.description>En kompleks ret sammensat med omhu fra et bredt udvalg af ingredienser.</MealFine.description>
+
+  <MealLavish.label>overdådigt måltid</MealLavish.label>
+  <MealLavish.description>Et mesterværk af den kulinariske kunst, dette måltid nærer krop, sind og sjæl.</MealLavish.description>
+
+  <Kibble.label>tørfoder</Kibble.label>
+  <Kibble.description>tørfoder lavet af en blanding af kød og vegetabilske kilder. Mennesker kan spise det, men de kan virkelig, virkelig ikke lide det.</Kibble.description>
+
+  <Pemmican.label>pemmikan</Pemmican.label>
+  <Pemmican.description>En bevaret mast blanding af fedt og vegetabilske fødevarer. Smager kedelig, men ikke frastødende. Holder sig meget længe uden køling.</Pemmican.description>
+
+
+</LanguageData>
