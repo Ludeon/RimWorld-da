@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Silver.label>sølv</Silver.label>
+    <Silver.description>Dette metal er for det meste brugt som en handelsvare valuta. Den kan også anvendes til fremstilling af attraktive dekorationer.</Silver.description>
+
+    <Gold.label>guld</Gold.label>
+    <Gold.description>Det mest forførende metal af dem alle. Millioner er døde i forsøget på at fodre den endeløse menneskelige tørst efter guld. Dette bløde metal er ikke særlig brugbart på egen hånd, men er påfaldende smuk og meget sjældent.</Gold.description>
+
+    <Steel.label>stål</Steel.label>
+    <Steel.description>En jern-carbon metal legering, der anvendes til bygningskonstruktioner, værktøjer og våben.</Steel.description>
+
+    <Plasteel.label>plastål</Plasteel.label>
+    <Plasteel.description>Avanceret rum tech strukturelt materiale. Plastål er ekstremt stærk på grund af sin unikke molekylære struktur.</Plasteel.description>
+
+    <WoodLog.label>træ</WoodLog.label>
+    <WoodLog.description>Træ fra træer eller andre fiberholdige planter. Nyttigt til bygningskonstruktioner, våben og selv simple proteser. Et pind fra et træ kan bruges som et våben i en knivspids.</WoodLog.description>
+
+    <Uranium.label>uran</Uranium.label>
+    <Uranium.description>Et ekstremt hårdt, tæt metal. Selv om det er bedst kendt for sin anvendelse som kraft til atomreaktorer, gør dens fysiske egenskaber også det fremragende i nogle roller som et værktøj, våben, eller rustning.</Uranium.description>
+
+    <Jade.label>jade</Jade.label>
+    <Jade.description>En hård, grøn sten. På grund af sin skønhed og sjældenhed, er Jade ofte brugt til pynt og dekorationer. Dets hårdhed og tæthed gør det også til et godt materiale til stumpe våben.</Jade.description>
+
+    <Cloth.label>klæde</Cloth.label>
+    <Cloth.description>Klæde vævet af organiske fibre.</Cloth.description>
+
+    <Synthread.label>syntråd</Synthread.label>
+    <Synthread.description>Rum-tech syntetisk stof designet til at lave almindeligt tøj. Det er blødt, let, stærk og isolerer godt.</Synthread.description>
+
+    <DevilstrandCloth.label>djæveltråd</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Stof spundet af mikrofibre udvundet af silke-producerende Djæveltråds svampe. Meget hårdt, men isolerer ikke bedre end klæde.</DevilstrandCloth.description>
+
+    <Hyperweave.label>hypervævning</Hyperweave.label>
+    <Hyperweave.description>High-tech nano-fibre vævet ind ark. Det er lidt tungt, men er utroligt svært at bryde. Hemmeligheder produktionen er kun kendt til de mest avancerede glitterverden kulturer.</Hyperweave.description>
+
+    <MegatheriumWool.label>megadovendyruld</MegatheriumWool.label>
+    <MegatheriumWool.description>Selvom det er noget grovt, gør megadopvendyrets lange fibre uld det meget stærkt. Det er meget varmt.</MegatheriumWool.description>
+
+    <MuffaloWool.label>muffalould</MuffaloWool.label>
+    <MuffaloWool.description>Blød, let og giver meget god isolering. Uldtøj kan holde kroppen varm selv under ekstreme forhold.</MuffaloWool.description>
+
+    <CamelHair.label>Kamelhår</CamelHair.label>
+    <CamelHair.description>Kamelhår tøj er normalt båret af ørken rejsende for at beskytte dem mod varmen. Det giver fremragende isolering på grund af dets termostatiske egenskaber.</CamelHair.description>
+
+    <AlpacaWool.label>alpakauld</AlpacaWool.label>
+    <AlpacaWool.description>Det bemærkelsesværdigt bløde uld fra en alpaca. Det er meget varmt.</AlpacaWool.description>
+
+</LanguageData>
