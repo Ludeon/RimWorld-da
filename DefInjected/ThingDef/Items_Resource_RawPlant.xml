@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <RawAgave.label>kartofler</RawPotatoes.label>
+    <RawPotatoes.description>Rå kartofler.</RawPotatoes.description>
+	
+	<RawPotatoes.label>kartofler</RawPotatoes.label>
+    <RawPotatoes.description>Rå kartofler.</RawPotatoes.description>
+
+    <RawRice.label>ris</RawRice.label>
+    <RawRice.description>Rå ris.</RawRice.description>
+
+    <RawAgave.label>agave frugt</RawAgave.label>
+    <RawAgave.description>Rå agave frugt.</RawAgave.description>
+
+    <RawCorn.label>majs</RawCorn.label>
+    <RawCorn.description>Rå majs.</RawCorn.description>
+
+    <RawBerries.label>bær</RawBerries.label>
+    <RawBerries.description>Diverse bær. Dejligt at spise, selv når de er åå.</RawBerries.description>
+
+    <Hay.label>hø</Hay.label>
+    <Hay.description>Næringsrige græsser og skud, der er høstet og komprimeret til opbevaring. Hø er god som dyrefoder, men uspiselige for mennesker.</Hay.description>
+
+    <RawHops.label>humle</RawHops.label>
+    <RawHops.description>Rå humle. Et aroma- og konserveringsmiddel, der er nødvendig for fremstillingen af øl.</RawHops.description>
+
+    <PsychoidLeaves.label>psychiod blade</PsychoidLeaves.label>
+    <PsychoidLeaves.description>Rå, afskåret blade af en psychoid plante.</PsychoidLeaves.description>
+
+    <SmokeleafLeaves.label>røgblads blade</SmokeleafLeaves.label>
+    <SmokeleafLeaves.description>Rå afskåret blade af en røgblads plante. Kan be rullet til rygbare cigaretter ved en byggeplads.</SmokeleafLeaves.description>
+
+</LanguageData>
