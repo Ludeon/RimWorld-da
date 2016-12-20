@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beam -->
+
+  <Ship_Beam.label>Rumskibs strukturbjælke</Ship_Beam.label>
+  <Ship_Beam.description>En strukturel bjælke omkring hvilken et rumskib kan konstrueres.</Ship_Beam.description>
+
+
+  <!-- Cryptosleep casket -->
+
+  <Ship_CryptosleepCasket.label>Rumskibs cryptosøvns kiste</Ship_CryptosleepCasket.label>
+  <Ship_CryptosleepCasket.description>En cryptosøns kiste hærdet mod farerne i rummet. Istand til at opretholde en person i cryptosøvn i århundreder i et rummiljø og overleve atmosfærisk genindrejse.</Ship_CryptosleepCasket.description>
+
+
+  <!-- Computer core -->
+
+  <Ship_ComputerCore.label>rumskibs computer kerne</Ship_ComputerCore.label>
+  <Ship_ComputerCore.description>En computer kerne i stand til at indeholde en super menneskelignende AI, der kan styre et rumskib igennem enhver udfordring.</Ship_ComputerCore.description>
+
+
+  <!-- Reactor -->
+
+  <Ship_Reactor.label>rumskibs reaktor</Ship_Reactor.label>
+  <Ship_Reactor.description>Driver et rumskib på sin rejse gennem rummet.</Ship_Reactor.description>
+
+
+  <!-- Engine -->
+
+  <Ship_Engine.label>rumskibs motor</Ship_Engine.label>
+  <Ship_Engine.description>En motor der er i stand til at sende et rumskib i kredsløb og på interstellare baner.</Ship_Engine.description>
+
+
+</LanguageData>
