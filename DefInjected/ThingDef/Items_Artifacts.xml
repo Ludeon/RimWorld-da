@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PsychicInsanityLance.label>psykiske galskabslanse</PsychicInsanityLance.label>
+  <PsychicInsanityLance.description>Engangs-brug artefakt, der driver alle personer til at gå amok fra enhver afstand - selv gennem vægge.</PsychicInsanityLance.description>
+  <PsychicInsanityLance.comps.1.useLabel>Aktiver</PsychicInsanityLance.comps.1.useLabel>
+
+  <PsychicShockLance.label>psykiske shockslanse</PsychicShockLance.label>
+  <PsychicShockLance.description>Engangs-brug artefakt der dirigerer psykiske forstyrrelser mod en enkelt person, og sender dem i en tilstand af psykisk chok for nogen tid. Stor risiko for hjerneskader.</PsychicShockLance.description>
+  <PsychicShockLance.comps.1.useLabel>Aktiver</PsychicShockLance.comps.1.useLabel>
+
+  <PsychicAnimalPulser.label>psykiske dyr pulser</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>Engangs-brug artefakt der driver alle dyr i regionen til et menneskejagende raseri.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.comps.1.useLabel>Aktiver</PsychicAnimalPulser.comps.1.useLabel>
+
+  <PsychicSoothePulser.label>psykiske dulme pulser</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>Engangs-brug artefakt som giver et midlertidig humørløft til alle på kortet</PsychicSoothePulser.description>
+  <PsychicSoothePulser.comps.1.useLabel>Aktiver</PsychicSoothePulser.comps.1.useLabel>
+
+
+</LanguageData>
