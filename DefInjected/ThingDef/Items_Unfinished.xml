@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <UnfinishedSculpture.label>uafsluttet skulptur</UnfinishedSculpture.label>
+
+    <UnfinishedGun.label>uafsluttet pistol</UnfinishedGun.label>
+
+    <UnfinishedWeapon.label>uafsluttet våben</UnfinishedWeapon.label>
+
+    <UnfinishedTechArmor.label>uafsluttet rustning</UnfinishedTechArmor.label>
+
+    <UnfinishedApparel.label>uafsluttet tøj</UnfinishedApparel.label>
+
+    <UnfinishedComponent.label>uafsluttet komponent</UnfinishedComponent.label>
+
+    <MinifiedSculpture.label>skulptur</MinifiedSculpture.label>
+
+    <MinifiedFurniture.label>møbel</MinifiedFurniture.label>
+
+</LanguageData>
