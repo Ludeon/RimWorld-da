@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AI persona core -->
+
+  <AIPersonaCore.label>AI persona kerne</AIPersonaCore.label>
+  <AIPersonaCore.description>En hyper-avancerede computer kerne, der huser en supermenneskeligende kunstig intelligens. I sin isolerede tilstand, hviler kernen. Installeret i en ordentlig støtte struktur, kan den dog blive et sind af skræmmende kraft.</AIPersonaCore.description>
+
+
+  <!-- Neurotrainer -->
+
+  <Neurotrainer.label>neurotræner</Neurotrainer.label>
+  <Neurotrainer.description>En engangsbrug nanotek træner enhed. Neurotræneren indsættes omkring øjet og bag det, og frigiver nanomaskiner i individets hjerne, hvilket hurtigt forbedre deres færdigheder i et bestemt område.</Neurotrainer.description>
+  <Neurotrainer.comps.1.useLabel>brug neurotræner for at lære {0}</Neurotrainer.comps.1.useLabel>
+
+
+  <!-- Thrumbo horn -->
+
+  <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
+  <ThrumboHorn.description>En thrumbos horn. Det er knivskarp, meget hårdt og uvurderlige på de fleste markeder. Dette e i sandheden et trofæ.</ThrumboHorn.description>
+
+
+  <!-- Elephant tusk -->
+
+  <ElephantTusk.label>elefant stødtand</ElephantTusk.label>
+  <ElephantTusk.description>En elefants stødtand. Meget holdbare og værdifulde. Dødbringende men noget uhåndterlig som et våben.</ElephantTusk.description>
+
+
+</LanguageData>
