@@ -75,11 +75,11 @@
 
   <!-- Nutrient dispenser -->
 
-  <NutrientPasteDispenser.label>næringspasta dispenser</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>Syntesiserer næringspasta fra organisk materiale. Bruger mindre ingredienser og tid end nogen anden form for måltids produktion - men ingen kan lide at spise næringspasta. Kan bruge rå madvare, men ikke groft plante materialer som hø.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.label>næringspurè dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Syntesiserer næringspurè fra organisk materiale. Bruger mindre ingredienser og tid end nogen anden form for måltids produktion - men ingen kan lide at spise næringspurè. Kan bruge rå madvare, men ikke groft plante materialer som hø.</NutrientPasteDispenser.description>
 
   <Hopper.label>magasin</Hopper.label>
-  <Hopper.description>Rummer ressourcer til brug for maskiner som næringspasta dispensere.</Hopper.description>
+  <Hopper.description>Rummer ressourcer til brug for maskiner som næringspurè dispensere.</Hopper.description>
 
 
 </LanguageData>
