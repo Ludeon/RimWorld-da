@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PlantRaspberry.label>hindbærbusk</PlantRaspberry.label>
+    <PlantRaspberry.description>En busket plante, der giver lækre røde bær.</PlantRaspberry.description>
+
+    <PlantBush.label>busk</PlantBush.label>
+    <PlantBush.description>En kort busk. Taler typisk ikke.</PlantBush.description>
+
+    <PlantGrass.label>græs</PlantGrass.label>
+    <PlantGrass.description>Vildt græs. Vokser overalt hvor der er lidt lys og minimalt grobund.</PlantGrass.description>
+
+    <PlantDandelion.label>mælkebøtter</PlantDandelion.label>
+    <PlantDandelion.description>En almindelig little blomst. Selvom det er en ukrudt er den pæn at se på.</PlantDandelion.description>
+
+    <PlantAstragalus.label>astragalus</PlantAstragalus.label>
+    <PlantAstragalus.description>En lille staude vildblomst, der vokser i alpine klimaer.</PlantAstragalus.description>
+
+    <PlantMoss.label>mos</PlantMoss.label>
+    <PlantMoss.description>En vild mos, der vokser i klumper i områder med lav belysning og høj luftfugtighed. Meget hårdfør og frost-resistent.</PlantMoss.description>
+
+    <PlantTreeOak.label>egetræ</PlantTreeOak.label>
+    <PlantTreeOak.description>Et stærkt løvtræ. Langsomt voksende, men dens træ er meget stærk.</PlantTreeOak.description>
+
+    <PlantTreePoplar.label>poppeltræ</PlantTreePoplar.label>
+    <PlantTreePoplar.description>Et blød træsort. Vokser hurtigt, men giver lidt brugbart træ</PlantTreePoplar.description>
+
+    <PlantTreePine.label>grantræ</PlantTreePine.label>
+    <PlantTreePine.description>Et stort nåletræ.</PlantTreePine.description>
+
+    <PlantTreeBirch.label>Birketræ</PlantTreeBirch.label>
+    <PlantTreeBirch.description>Et nordisk træ, kendt for dens tynde, papiragtige bark.</PlantTreeBirch.description>
+
+</LanguageData>
