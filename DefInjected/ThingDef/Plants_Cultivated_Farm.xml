@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PlantPotato.label>kartoffelplante</PlantPotato.label>
+    <PlantPotato.description>En simpel, meget næringsrig plante. Gror godt, selv i nogenlunde dårlig jord. Høstes hurtigt. En stærk, alsidig afgrøde.</PlantPotato.description>
+
+    <PlantCorn.label>majsplante</PlantCorn.label>
+    <PlantCorn.description>En høj korn plante som producere lækre, gule frø. Er relativt lang tid om at vokse, men giver en masse mad og er lang tid om at rådne. Har brug for frugtbar jord for at vokse.</PlantCorn.description>
+
+    <PlantRice.label>risplante</PlantRice.label>
+    <PlantRice.description>En lav korn plante der trives i righ jord og giver hurtigt en masse mad, men smager ikke godt ukokt.</PlantRice.description>
+
+    <PlantStrawberry.label>jordbærplante</PlantStrawberry.label>
+    <PlantStrawberry.description>En skrøbelig men smagfuld frugt. Lækker selv når den er rå.</PlantStrawberry.description>
+
+    <PlantHaygrass.label>høgræs</PlantHaygrass.label>
+    <PlantHaygrass.description>En blanding af nærringsrigt græs sorter som giver en stor mændge af halm. Halm er spiseligt for dyr, men ikke mennesker.</PlantHaygrass.description>
+
+    <PlantCotton.label>bomuldsplante</PlantCotton.label>
+    <PlantCotton.description>Giver bomuld, en fin plantefiber som bruges til at lave stofklæder.</PlantCotton.description>
+
+    <PlantDevilstrand.label>djæveltråd</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Denne sårbare svamp er genetisk udformet til at producere silke af den højeste kvalitet. Det rygtes at have mystiske egenskaber, og den kan takke grådigheden som planten inspirere i folk for sit navn til.</PlantDevilstrand.description>
+
+    <PlantHealroot.label>healroot</PlantHealroot.label>
+    <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
+
+    <PlantHops.label>humleplante</PlantHops.label>
+    <PlantHops.description>En blomster plante der producere humle, en essentiel del i øl.</PlantHops.description>
+
+    <PlantPsychoid.label>psychoidplante</PlantPsychoid.label>
+    <PlantPsychoid.description>En mangebladet plante. Dens blade kan blive laves til forskellige pykotiske stoffer.</PlantPsychoid.description>
+
+    <PlantSmokeleaf.label>Røgbladsplante</PlantSmokeleaf.label>
+    <PlantSmokeleaf.description>En mangebladet plante der dyrkes for dens psykologiske effekter. Røgblad kan laves om til joints ved bygge pladsen.</PlantSmokeleaf.description>
+
+</LanguageData>
