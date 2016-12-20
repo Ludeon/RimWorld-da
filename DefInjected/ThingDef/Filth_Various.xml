@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <FilthBlood.label>blod</FilthBlood.label>
-    
-    <FilthDirt.label>skidt</FilthDirt.label>
-    
-    <FilthSand.label>sand</FilthSand.label>
-    
-    <RockRubble.label>stenklumper</RockRubble.label>
-    
-    <SlagRubble.label>slaggerklumper</SlagRubble.label>
 
-    <SandbagRubble.label>smadrede sandsække</SandbagRubble.label>
-        
+  <FilthDirt.label>skidt</FilthDirt.label>
+  <FilthAnimalFilth.label>dyre skidt</FilthAnimalFilth.label>
+  <FilthSand.label>sand</FilthSand.label>
+  <RockRubble.label>sten grus</RockRubble.label>
+  <BuildingRubble.label>bygnings murbrokker</BuildingRubble.label>
+  <SandbagRubble.label>spredte sandsække</SandbagRubble.label>
+
+
+  <!-- Fluids etc -->
+
+  <FilthBlood.label>blod</FilthBlood.label>
+  <FilthBloodInsect.label>insektblod</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>fostervand</FilthAmnioticFluid.label>
+  <FilthSlime.label>slim</FilthSlime.label>
+  <FilthVomit.label>bræk</FilthVomit.label>
+  <FilthFireFoam.label>ildskum</FilthFireFoam.label>
+
+  <FilthFuel.label>brændstofs pyt</FilthFuel.label>
+  <FilthFuel.description>Brænder på jorden.</FilthFuel.description>
+
+
 </LanguageData>
