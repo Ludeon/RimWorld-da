@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PlantAgave.label>agave</PlantAgave.label>
+    <PlantAgave.description>En stor-bladet ørken plante med spiselige blomster og stilke.</PlantAgave.description>
+
+    <PlantSaguaroCactus.label>kæmpekaktus</PlantSaguaroCactus.label>
+    <PlantSaguaroCactus.description>En stor kaktus hjemmehørende i tørre Jord miljøer.</PlantSaguaroCactus.description>
+
+    <PlantPincushionCactus.label>nålepude kaktus</PlantPincushionCactus.label>
+    <PlantPincushionCactus.description>En kort kaktus. Døbt pågrund af den ligner en nålepude.</PlantPincushionCactus.description>
+
+</LanguageData>
