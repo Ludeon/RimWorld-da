@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PlantRose.label>rose</PlantRose.label>
+    <PlantRose.description>En smuk kultiveret blomst, symbol på kærlighed og romantik siden oldtiden.</PlantRose.description>
+
+    <PlantDaylily.label>daglilje</PlantDaylily.label>
+    <PlantDaylily.description>En smuk kultiveret blomst - fantastisk til lyser op i en kedelig gård. Skal genplantes ofte.</PlantDaylily.description>
+
+	<PlantDandelion.label>mælkebøtte</PlantDandelion.label>
+	<PlantDandelion.description>En almindelig little blomst. Selvom det er en ukrudt er den pæn at se på.</PlantDandelion.description>
+	
+</LanguageData>
