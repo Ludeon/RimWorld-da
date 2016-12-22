@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <PlantTallGrass.label>højt græs</PlantTallGrass.label>
+    <PlantTallGrass.description>Vildt højt græs. Sinker markant folks hastighed når de bevæger sig over det.</PlantTallGrass.description>
+
+    <PlantTreeTeak.label>teaktræ</PlantTreeTeak.label>
+    <PlantTreeTeak.description>Et meget kraftigt løvtræ, der blev anvendt i oldtiden til at bygge sejlskibe.</PlantTreeTeak.description>
+
+    <PlantTreeCecropia.label>Cecropiatræ</PlantTreeCecropia.label>
+    <PlantTreeCecropia.description>En af de mest almindelige træer i regnskoven. Vokser meget hurtigt, men giver ikke meget brugbar træ.</PlantTreeCecropia.description>
+
+</LanguageData>
