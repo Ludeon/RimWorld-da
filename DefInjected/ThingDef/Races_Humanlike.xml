@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Human.label>Menneske</Human.label>
+    <Human.description>Et generisk menneske, der for det meste ikke er gen-modiceret og står uforandret fra evolutionære pres, fra andre planeter end Jorden.</Human.description>
+    <Human_Leather.label>menneskelæder</Human_Leather.label>
+    <Human_Leather.description>læder fra et menneske</Human_Leather.description>
+    <Human_Leather.stuffProps.stuffAdjective>menneskelæder</Human_Leather.stuffProps.stuffAdjective>
+    <Human_Meat.label>menneskekød</Human_Meat.label>
+    <Human_Meat.description>kød fra et menneske</Human_Meat.description>
+    <Human_Corpse.label>menneskelig</Human_Corpse.label>
+    <Human_Corpse.description>liget af et menneske</Human_Corpse.description>
+
+</LanguageData>
