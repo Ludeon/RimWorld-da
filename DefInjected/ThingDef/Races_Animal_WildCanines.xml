@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Warg.label>warg</Warg.label>
+    <Warg.description>Tungt muskuløs ulv-lignende skabninger. Forskere siger wargs er efterkommere af våbengjort militære dyr skabt til befolknings undertrykkelse. Den overtroiske ser dem dog som redskaber for en vred gud. De vil kun spise kød eller lig.</Warg.description>
+    <Warg.race.leatherLabel>warg pels</Warg.race.leatherLabel>
+
+    <WolfTimber.label>ulv</WolfTimber.label>
+    <WolfTimber.description>Et robust rovdyr længe frygtet af mange gamle kulturer fra jorden. Som flokjægere har ulve et komplekst sociale liv og er voldsomt intelligent.</WolfTimber.description>
+    <WolfTimber.race.meatLabel>ulvekød</WolfTimber.race.meatLabel>
+    <WolfTimber.race.leatherLabel>ulvepels</WolfTimber.race.leatherLabel>
+
+    <WolfArctic.label>arktisk ulv</WolfArctic.label>
+    <WolfArctic.description>En aktisk variant af den gamle ulv fra jorden. Som flokjægere har ulve et komplekst sociale liv og er voldsomt intelligent.</WolfArctic.description>
+    <WolfArctic.race.leatherLabel>arktisk ulvepels</WolfArctic.race.leatherLabel>
+
+    <FoxFennec.label>fennek ræv</FoxFennec.label>
+    <FoxFennec.description>En lille ræv der er oprindeligt fra den nordlige del af Jordens Afrikanske kontinent. De jager små skabninger og har meget store ører.</FoxFennec.description>
+    <FoxFennec.race.leatherLabel>fennek ræveskin</FoxFennec.race.leatherLabel>
+    <FoxFennec.race.meatLabel>rævekød</FoxFennec.race.meatLabel>
+
+    <FoxRed.label>rød ræv</FoxRed.label>
+    <FoxRed.description>En lille ensom hund udviklet til jage små byttedyr i tempererede klimaer.</FoxRed.description>
+    <FoxRed.race.leatherLabel>rød ræveskin</FoxRed.race.leatherLabel>
+
+    <FoxArctic.label>arktisk ræv</FoxArctic.label>
+    <FoxArctic.description>Et lille rovdyr tilpasset til det høje nord. Det jager normalt lille byttedyr som mus og mosegrise, og vil sometider grave igennem en meter sne for at nå sit bytte.</FoxArctic.description>
+    <FoxArctic.race.leatherLabel>arktisk rævepels</FoxArctic.race.leatherLabel>
+
+</LanguageData>
