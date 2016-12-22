@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <DoorKey.label>dørnøgle</DoorKey.label>
-    
-    <Puddle_Fuel.label>pøl af brændstof</Puddle_Fuel.label>
-    <Puddle_Fuel.description>Brænder op på jorden.</Puddle_Fuel.description>
-    
-    <DropPodIncoming.label>nedfalds-kapsel (ankommer)</DropPodIncoming.label>
-    
-    <DropPod.label>nedfalds-kapsel</DropPod.label>
-    
+
+    <RectTrigger.label>RectTrigger</RectTrigger.label>
+
+    <DropPodIncoming.label>falde kapsel (påvej)</DropPodIncoming.label>
+
+    <DropPod.label>falde kapsel</DropPod.label>
+
     <Fire.label>ildebrand</Fire.label>
-    
+
     <Spark.label>gnist</Spark.label>
-    
+
+    <TemporaryRegionBarrier.label>midlertidig regions barriere</TemporaryRegionBarrier.label>
+      
 </LanguageData>
