@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <SmokeleafJoint.label>røgblads smøg</SmokeleafJoint.label>
+    <SmokeleafJoint.description>Smøgblads blade udarbejdet til små ruller til rygning. Lægemidlet forbedrer humør, men øger også appetitten, reducerer fokus og forsinker bevægelse. Smøgblads brug kan producere en afhængighed. Kan produceres uden udstyr, ved en byggepladsen.</SmokeleafJoint.description>
+    <SmokeleafJoint.ingestible.ingestCommandString>Ryg {0}</SmokeleafJoint.ingestible.ingestCommandString>
+    <SmokeleafJoint.ingestible.ingestReportString>Ryger {0}.</SmokeleafJoint.ingestible.ingestReportString>
+
+</LanguageData>
