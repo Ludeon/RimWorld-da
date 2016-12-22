@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Mechanoid_Centipede.label>tusindben</Mechanoid_Centipede.label>
+    <Mechanoid_Centipede.description>Kraftig kampmekanitter, der glider på snesevis af små ben. Deres tunge rustning og ildkraft gør dem meget effektive mod statiske forsvarere der står tæt sammen. De er lidt sårbare over for mobile hit-and-run taktik.</Mechanoid_Centipede.description>
+
+    <Mechanoid_Scyther.label>scyther</Mechanoid_Scyther.label>
+    <Mechanoid_Scyther.description>Hurtig, tynde, menneskestore kamp mekaniter. De er normalt udstyret med ét primær distancevåben, og deres kroppe er udstyret med to leddelte klinger for at gøre dem dødbringende i nærkamp. De bruger ikke dækning. Håndteres bedst ved at koncentrerer overvældende ildkraft.</Mechanoid_Scyther.description>
+
+</LanguageData>
