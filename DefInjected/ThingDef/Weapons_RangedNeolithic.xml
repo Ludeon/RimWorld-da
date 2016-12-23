@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Arrow_Short.label>kortbuepil</Arrow_Short.label>
+  <Bow_Short.label>kortbue</Bow_Short.label>
+  <Bow_Short.description>En simpel kort bue, lavet med dygtighed, men kun ved hjælp af de mest primitive teknologier.</Bow_Short.description>
+
+  <Pilum_Thrown.label>pilum (kastet)</Pilum_Thrown.label>
+  <Pila.label>pila</Pila.label>
+  <Pila.description>Et bundt af Pila, ikke-genanvendelige kaste spyd.</Pila.description>
+
+  <Arrow_Great.label>buepil</Arrow_Great.label>
+  <Bow_Great.label>bue</Bow_Great.label>
+  <Bow_Great.description>En kraftfuld bue. Affyre en tung pil over lange afstande.</Bow_Great.description>
+
+
+</LanguageData>
