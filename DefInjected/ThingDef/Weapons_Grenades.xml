@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <Weapon_GrenadeFrag.label>frag granater</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>Gammedags fragmenterings granater.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.0.label>kast frag granat</Weapon_GrenadeFrag.verbs.0.label>
+
+  <Proj_GrenadeFrag.label>frag granat</Proj_GrenadeFrag.label>
+
+
+  <!-- Molotov cocktail -->
+
+  <Weapon_GrenadeMolotov.label>molotovcocktails</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>Glasflasker fyldt med brandfarlig væske, med en brændende klud i flaskehalsen. Et favorit våben blandt hooligans og desperate krigere fra udkant til udkant.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.0.label>kast molotov</Weapon_GrenadeMolotov.verbs.0.label>
+
+  <Proj_GrenadeMolotov.label>molotovcocktail</Proj_GrenadeMolotov.label>
+
+
+  <!-- EMP grenade -->
+
+  <Weapon_GrenadeEMP.label>EMP granater</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>Elektromagnetiske impuls granater der skader for elektronisk udstyr.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.0.label>kast EMP granat</Weapon_GrenadeEMP.verbs.0.label>
+
+  <Proj_GrenadeEMP.label>EMP granat</Proj_GrenadeEMP.label>
+
+
+</LanguageData>
