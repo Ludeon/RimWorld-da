@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<WakeUp.label>vågn-op</WakeUp.label>
+	
+	<WakeUp.description>En vanedannende stimulans. Fylder behovet for at sove, og giver brugerne mulighed for at arbejde i længere perioder uden at blive træt. Afhængighed forårsager nedsat mental præstation og, til tider, psykotiske nedbrud med virkeligheden.</WakeUp.description>
+	
+	<WakeUp.ingestible.ingestCommandString>Indtag {0}</WakeUp.ingestible.ingestCommandString>
+	
+	<WakeUp.ingestible.ingestReportString>Indtager {0}.</WakeUp.ingestible.ingestReportString>
+	
+</LanguageData>
