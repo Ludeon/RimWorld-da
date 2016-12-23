@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <UnfinishedSculpture.label>uafsluttet skulptur</UnfinishedSculpture.label>
 
@@ -12,8 +12,9 @@
 
     <UnfinishedComponent.label>uafsluttet komponent</UnfinishedComponent.label>
 
+	<!-- Minified things -->
+	
     <MinifiedSculpture.label>skulptur</MinifiedSculpture.label>
-
     <MinifiedFurniture.label>møbel</MinifiedFurniture.label>
 
 </LanguageData>
