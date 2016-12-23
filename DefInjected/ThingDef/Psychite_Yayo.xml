@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Yayo.label>yayo</Yayo.label>
+  <Yayo.description>Et fint hvidt pulver der snuses for at gøre en euforisk høj. Yayo reducerer brugerens behov for at sove, og undertrykker smerter. Det er dog vanedannende.</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>Snus {0}</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>Snusser {0}.</Yayo.ingestible.ingestReportString>
+
+
+</LanguageData>
