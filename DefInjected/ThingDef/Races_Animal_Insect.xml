@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Megascarab.label>megaskarabæ</Megascarab.label>
+  <Megascarab.description>En stor, genetisk-manipuleret bille. Engang var de arbejderne af en gruppe fra et kunstigt økosystem af insektoider designet til at bekæmpe mekanit invasionen, er det nu normalt at se dem uden sine dødbringende Insektoid slægtninge. Stadig, dens størrelse og hård skal gøre den farlig når den angriber. Et eusocialt væsen, den kan ikke reproducere individuelt.</Megascarab.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <Megascarab_Corpse.label>megaskarabæ lig</Megascarab_Corpse.label>
+  <Megascarab_Corpse.description>megaskarabæ lig</Megascarab_Corpse.description>
+
+  <Spelopede.label>spelopede</Spelopede.label>
+  <Spelopede.description>Et mellemstort biologisk fremstillet kryb på størrelse med et får. Spelopedendere er den midterste klasse i en kube, der tager sig af de fleste arbejdsopgaver samt kæmper med sine kløer.</Spelopede.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <Spelopede_Corpse.label>spelopede lig</Spelopede_Corpse.label>
+  <Spelopede_Corpse.description>spelopede lig</Spelopede_Corpse.description>
+
+  <Megaspider.label>megaedderkop</Megaspider.label>
+  <Megaspider.description>Megaedderkopper er faktisk ikke edderkoper, men er genetisk manipuleret kæmpe insektoider på størrelse med en bjørn. Designet til tungt arbejde og kamp, deres tykke benpanser gør dem svære at dræbe, i mens gør deres lange dødbringende rive-knive dem dødbringende.</Megaspider.description>
+  <!-- Leather Amount: 0 -->
+  <Megaspider_Meat.label>insektkød</Megaspider_Meat.label>
+  <Megaspider_Meat.description>insektkød</Megaspider_Meat.description>
+  <Megaspider_Corpse.label>megaedderkoppe lig</Megaspider_Corpse.label>
+  <Megaspider_Corpse.description>megaedderkoppe lig</Megaspider_Corpse.description>
+
+
+</LanguageData>
