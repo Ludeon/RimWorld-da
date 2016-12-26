@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Elephant.label>elefant</Elephant.label>
+  <Elephant.description>Det største umodificeret landdyr. Det kan bruge sine stødtænder som redskaber til at flytte objekter - eller som dødbringende våben.</Elephant.description>
+  <Elephant_Leather.label>elefantskin</Elephant_Leather.label>
+  <Elephant_Leather.description>elefantskin</Elephant_Leather.description>
+  <Elephant_Leather.stuffProps.stuffAdjective>elefantskin</Elephant_Leather.stuffProps.stuffAdjective>
+  <Elephant_Meat.label>elefantkød</Elephant_Meat.label>
+  <Elephant_Meat.description>elefantkød</Elephant_Meat.description>
+  <Elephant_Corpse.label>elefant lig</Elephant_Corpse.label>
+  <Elephant_Corpse.description>elefant lig</Elephant_Corpse.description>
+
+  <Megasloth.label>Megadovendyr</Megasloth.label>
+  <Megasloth.description>En type af jorddovendyr, megatheria er gigantiske, ensomme planteædere. Uddød for længe siden efter at være blevet udslettet af de indfødte i Jordens Amerika kontinent blev jorddovendyret senere bragt tilbage ved hjælp af avanceret kloning og kunstige rugmødre.</Megasloth.description>
+  <Megasloth_Leather.label>Megadovendyrslæder</Megasloth_Leather.label>
+  <Megasloth_Leather.description>Megadovendyrslæder</Megasloth_Leather.description>
+  <Megasloth_Leather.stuffProps.stuffAdjective>Megadovendyrslæder</Megasloth_Leather.stuffProps.stuffAdjective>
+  <Megasloth_Meat.label>Megadovendyrkød</Megasloth_Meat.label>
+  <Megasloth_Meat.description>Megadovendyrkød</Megasloth_Meat.description>
+  <Megasloth_Corpse.label>Megadovendyr lig</Megasloth_Corpse.label>
+  <Megasloth_Corpse.description>Megadovendyr lig</Megasloth_Corpse.description>
+
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <Thrumbo.description>Et gigantisk væsen af ukendt oprindelse. Thrumboen er blid af natur, men ekstremt farlige, når den bliver rasende. Dens lange pels er usædvanligt smukt og værdifuldt, og dens knivskarpe horn er meget værdifuldt på de fleste markeder. Legender siger, at en gammel thrumbo er den klogeste skabning i universet - den vælger simpelthen bare ikke at tale.</Thrumbo.description>
+  <Thrumbo_Leather.label>thrumbopels</Thrumbo_Leather.label>
+  <Thrumbo_Leather.description>thrumbopels</Thrumbo_Leather.description>
+  <Thrumbo_Leather.stuffProps.stuffAdjective>thrumbopels</Thrumbo_Leather.stuffProps.stuffAdjective>
+  <Thrumbo_Meat.label>thrumbokød</Thrumbo_Meat.label>
+  <Thrumbo_Meat.description>thrumbokød</Thrumbo_Meat.description>
+  <Thrumbo_Corpse.label>thrumbo lig</Thrumbo_Corpse.label>
+  <Thrumbo_Corpse.description>thrumbo lig</Thrumbo_Corpse.description>
+
+
+</LanguageData>

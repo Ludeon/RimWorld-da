@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Chicken.label>kylling</Chicken.label>
+  <Chicken.description>Den mest traditionelle gård fugl, er kyllingen der opdrættes for sine æg og sit kød.</Chicken.description>
+  <!-- Leather Amount: 0 -->
+  <Chicken_Meat.label>kyllingekød</Chicken_Meat.label>
+  <Chicken_Meat.description>kyllingekød</Chicken_Meat.description>
+  <Chicken_Corpse.label>kyllinge lig</Chicken_Corpse.label>
+  <Chicken_Corpse.description>kylling lig</Chicken_Corpse.description>
+
+  <Pig.label>gris</Pig.label>
+  <Pig.description>The pig was one of the first animals domesticated by humans. It is commonly raised for meat and leather, and is easy to feed because of its omnivorous diet.</Pig.description>
+  <Pig_Leather.label>griseskin</Pig_Leather.label>
+  <Pig_Leather.description>griseskin</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>griseskin</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Meat.label>svinekød</Pig_Meat.label>
+  <Pig_Meat.description>svinekød</Pig_Meat.description>
+  <Pig_Corpse.label>grise lig</Pig_Corpse.label>
+  <Pig_Corpse.description>grise lig</Pig_Corpse.description>
+
+  <Cow.label>ko</Cow.label>
+  <Cow.description>Et meget almindeligt gårdyr. Det kan producere store mængder af mælk, eller slagtes for lækker mad.</Cow.description>
+  <Cow_Leather.label>koskin</Cow_Leather.label>
+  <Cow_Leather.description>koskin</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>koskin</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Meat.label>bøfkød</Cow_Meat.label>
+  <Cow_Meat.description>bøfkød</Cow_Meat.description>
+  <Cow_Corpse.label>ko lig</Cow_Corpse.label>
+  <Cow_Corpse.description>ko lig</Cow_Corpse.description>
+
+  <Alpaca.label>alpaka</Alpaca.label>
+  <Alpaca.description>A medium-sized ungulate closely related to the llama, the alpaca is often farmed for its remarkably soft wool.</Alpaca.description>
+  <Alpaca_Leather.label>alpakaskin</Alpaca_Leather.label>
+  <Alpaca_Leather.description>alpakaskin</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>alpakaskin</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Meat.label>alpakakød</Alpaca_Meat.label>
+  <Alpaca_Meat.description>alpakakød</Alpaca_Meat.description>
+  <Alpaca_Corpse.label>alpaka lig</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>alpaca lig</Alpaca_Corpse.description>
+
+
+</LanguageData>
