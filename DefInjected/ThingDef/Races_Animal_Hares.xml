@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hare.label>hare</Hare.label>
+  <Hare.description>Denne lille, ensomme planteæder kan hurtigt hoppe væk fra fare.</Hare.description>
+  <Hare_Leather.label>harelæder</Hare_Leather.label>
+  <Hare_Leather.description>harelæder</Hare_Leather.description>
+  <Hare_Leather.stuffProps.stuffAdjective>harelæder</Hare_Leather.stuffProps.stuffAdjective>
+  <Hare_Meat.label>harekød</Hare_Meat.label>
+  <Hare_Meat.description>harekød</Hare_Meat.description>
+  <Hare_Corpse.label>hare lig</Hare_Corpse.label>
+  <Hare_Corpse.description>hare lig</Hare_Corpse.description>
+
+  <Snowhare.label>snehare</Snowhare.label>
+  <Snowhare.description>Dette hårdføre dyr overlever de brutale vintre i norden ved at grave igennem sne og finde bytte nedenunder, eller ved at gå i dvale de værste måneder.</Snowhare.description>
+  <Snowhare_Leather.label>sneharelæder</Snowhare_Leather.label>
+  <Snowhare_Leather.description>sneharelæder</Snowhare_Leather.description>
+  <Snowhare_Leather.stuffProps.stuffAdjective>sneharelæder</Snowhare_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Hare -->
+  <Snowhare_Corpse.label>snehare lig</Snowhare_Corpse.label>
+  <Snowhare_Corpse.description>snehare lig</Snowhare_Corpse.description>
+
+
+</LanguageData>
