@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
+  <YorkshireTerrier.description>En lille, ligevægtige hund. Oprindeligt avlet til at jage rotter, og så senere blev det et show og kammeratskab dyr.</YorkshireTerrier.description>
+  <YorkshireTerrier_Leather.label>yorkieskin</YorkshireTerrier_Leather.label>
+  <YorkshireTerrier_Leather.description>yorkieskin</YorkshireTerrier_Leather.description>
+  <YorkshireTerrier_Leather.stuffProps.stuffAdjective>yorkieskin</YorkshireTerrier_Leather.stuffProps.stuffAdjective>
+  <YorkshireTerrier_Meat.label>yorkshire terrierkød</YorkshireTerrier_Meat.label>
+  <YorkshireTerrier_Meat.description>yorkshire terrierkød</YorkshireTerrier_Meat.description>
+  <YorkshireTerrier_Corpse.label>yorkshire terrier lig</YorkshireTerrier_Corpse.label>
+  <YorkshireTerrier_Corpse.description>yorkshire terrier lig</YorkshireTerrier_Corpse.description>
+
+  <Husky.label>husky</Husky.label>
+  <Husky.description>A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments.</Husky.description>
+  <Husky_Leather.label>huskypels</Husky_Leather.label>
+  <Husky_Leather.description>huskypels</Husky_Leather.description>
+  <Husky_Leather.stuffProps.stuffAdjective>huskypels</Husky_Leather.stuffProps.stuffAdjective>
+  <Husky_Meat.label>huskykød</Husky_Meat.label>
+  <Husky_Meat.description>huskykød</Husky_Meat.description>
+  <Husky_Corpse.label>husky lig</Husky_Corpse.label>
+  <Husky_Corpse.description>husky lig</Husky_Corpse.description>
+
+  <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
+  <LabradorRetriever.description>En meget alsidig, mellemstor hund. Oprindeligt avlet til at hente fugle skudt på jagten, labradoren er også en fremragende vagthund, legekammerat, og ven af familien.</LabradorRetriever.description>
+  <LabradorRetriever_Leather.label>labradorpels</LabradorRetriever_Leather.label>
+  <LabradorRetriever_Leather.description>labradorpels</LabradorRetriever_Leather.description>
+  <LabradorRetriever_Leather.stuffProps.stuffAdjective>labradorpels</LabradorRetriever_Leather.stuffProps.stuffAdjective>
+  <LabradorRetriever_Meat.label>labrador retrieverkød</LabradorRetriever_Meat.label>
+  <LabradorRetriever_Meat.description>labrador retrieverkød</LabradorRetriever_Meat.description>
+  <LabradorRetriever_Corpse.label>labrador retriever lig</LabradorRetriever_Corpse.label>
+  <LabradorRetriever_Corpse.description>labrador retriever lig</LabradorRetriever_Corpse.description>
+
+  <Cat.label>kat</Cat.label>
+  <Cat.description>One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their calmness, independence, and fine, pettable fur.</Cat.description>
+  <Cat_Leather.label>katteskin</Cat_Leather.label>
+  <Cat_Leather.description>katteskin</Cat_Leather.description>
+  <Cat_Leather.stuffProps.stuffAdjective>katteskin</Cat_Leather.stuffProps.stuffAdjective>
+  <Cat_Meat.label>kattekød</Cat_Meat.label>
+  <Cat_Meat.description>kattekød</Cat_Meat.description>
+  <Cat_Corpse.label>katte lig</Cat_Corpse.label>
+  <Cat_Corpse.description>katte lig</Cat_Corpse.description>
+
+
+</LanguageData>
