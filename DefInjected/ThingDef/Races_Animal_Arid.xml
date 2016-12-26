@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.description>En stor hyrde planteædere der nedstammer fra bøfler og er tilpasset til nogle eksotiske omgivelser. Fredelig MEDMINDRE forstyrret.</Muffalo.description>
+  <Muffalo_Leather.label>muffalo læder</Muffalo_Leather.label>
+  <Muffalo_Leather.description>muffaloleather</Muffalo_Leather.description>
+  <Muffalo_Leather.stuffProps.stuffAdjective>muffalolæder</Muffalo_Leather.stuffProps.stuffAdjective>
+  <Muffalo_Meat.label>muffalokød</Muffalo_Meat.label>
+  <Muffalo_Meat.description>muffalokød</Muffalo_Meat.description>
+  <Muffalo_Corpse.label>muffalo lig</Muffalo_Corpse.label>
+  <Muffalo_Corpse.description>muffalo lig</Muffalo_Corpse.description>
+
+  <Gazelle.label>gazelle</Gazelle.label>
+  <Gazelle.description>En lille, ekstremt hurtig antilope kendt for sin utroligt lange spring.</Gazelle.description>
+  <Gazelle_Leather.label>gazellelæder</Gazelle_Leather.label>
+  <Gazelle_Leather.description>gazellelæder</Gazelle_Leather.description>
+  <Gazelle_Leather.stuffProps.stuffAdjective>gazellelæder</Gazelle_Leather.stuffProps.stuffAdjective>
+  <Gazelle_Meat.label>gazellekød</Gazelle_Meat.label>
+  <Gazelle_Meat.description>gazellekød</Gazelle_Meat.description>
+  <Gazelle_Corpse.label>gazelle lig</Gazelle_Corpse.label>
+  <Gazelle_Corpse.description>gazelle lig</Gazelle_Corpse.description>
+
+  <Iguana.label>leguan</Iguana.label>
+  <Iguana.description>Disse store firben lever normalt af plantemateriale. Men når de bliver vrede, gør deres hårde skin og skarpe kløer dem ganske farlig.</Iguana.description>
+  <Iguana_Leather.label>leguanskin</Iguana_Leather.label>
+  <Iguana_Leather.description>leguanskin</Iguana_Leather.description>
+  <Iguana_Leather.stuffProps.stuffAdjective>iguanaskin</Iguana_Leather.stuffProps.stuffAdjective>
+  <Iguana_Meat.label>leguankød</Iguana_Meat.label>
+  <Iguana_Meat.description>leguankød</Iguana_Meat.description>
+  <Iguana_Corpse.label>leguan lig</Iguana_Corpse.label>
+  <Iguana_Corpse.description>leguan lig</Iguana_Corpse.description>
+
+  <Rhinoceros.label>næsehorn</Rhinoceros.label>
+  <Rhinoceros.description>Dette store landpattedyr er typisk ganske fredeligt, men det vil ikke tøve med at angribe med sit horn for at afværge ubudne gæster.</Rhinoceros.description>
+  <Rhinoceros_Leather.label>næsehorn</Rhinoceros_Leather.label>
+  <Rhinoceros_Leather.description>næsehorn</Rhinoceros_Leather.description>
+  <Rhinoceros_Leather.stuffProps.stuffAdjective>næsehornsskin</Rhinoceros_Leather.stuffProps.stuffAdjective>
+  <Rhinoceros_Meat.label>næsehornskød</Rhinoceros_Meat.label>
+  <Rhinoceros_Meat.description>næsehornskød</Rhinoceros_Meat.description>
+  <Rhinoceros_Corpse.label>næsehorns lig</Rhinoceros_Corpse.label>
+  <Rhinoceros_Corpse.description>næsehorns lig</Rhinoceros_Corpse.description>
+
+  <Dromedary.label>dromedar</Dromedary.label>
+  <Dromedary.description>Tilpasset til overlevelse i tørre miljøer, kan denne fjerne slægtning af hesten klare sig uger uden vand.</Dromedary.description>
+  <Dromedary_Leather.label>dromedarlæder</Dromedary_Leather.label>
+  <Dromedary_Leather.description>dromedarlæder</Dromedary_Leather.description>
+  <Dromedary_Leather.stuffProps.stuffAdjective>dromedarlæder</Dromedary_Leather.stuffProps.stuffAdjective>
+  <Dromedary_Meat.label>dromedarlød</Dromedary_Meat.label>
+  <Dromedary_Meat.description>dromedarkød</Dromedary_Meat.description>
+  <Dromedary_Corpse.label>dromedar lig</Dromedary_Corpse.label>
+  <Dromedary_Corpse.description>dromedar lig</Dromedary_Corpse.description>
+
+
+</LanguageData>

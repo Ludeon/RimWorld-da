@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cassowary.label>Kasuarer</Cassowary.label>
+  <Cassowary.description>En stor flyveløs fugl med farvestrålende fjer. Selv om den ser smuk ud, er dens spark er ondskabfulde.</Cassowary.description>
+  <Cassowary_Leather.label>Kasuarerlæder</Cassowary_Leather.label>
+  <Cassowary_Leather.description>Kasuarerlæder</Cassowary_Leather.description>
+  <Cassowary_Leather.stuffProps.stuffAdjective>Kasuarerlæder</Cassowary_Leather.stuffProps.stuffAdjective>
+  <Cassowary_Meat.label>fuglekød</Cassowary_Meat.label>
+  <Cassowary_Meat.description>fuglekød</Cassowary_Meat.description>
+  <Cassowary_Corpse.label>Kasuarer lig</Cassowary_Corpse.label>
+  <Cassowary_Corpse.description>Kasuarer lig</Cassowary_Corpse.description>
+
+  <Emu.label>emu</Emu.label>
+  <Emu.description>En stor flyveløs fugl med små øjne sit grimme ansigt. Med sin dårlig indstilling er den naturens idiot.</Emu.description>
+  <Emu_Leather.label>emulæder</Emu_Leather.label>
+  <Emu_Leather.description>emulæder</Emu_Leather.description>
+  <Emu_Leather.stuffProps.stuffAdjective>emulæder</Emu_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <Emu_Corpse.label>emu lig</Emu_Corpse.label>
+  <Emu_Corpse.description>emu lig</Emu_Corpse.description>
+
+  <Ostrich.label>struds</Ostrich.label>
+  <Ostrich.description>De største umodificerede fugleart, strudser er kendt for deres hurtige løb, store æg, og kraftfuld spark.</Ostrich.description>
+  <Ostrich_Leather.label>strudselæder</Ostrich_Leather.label>
+  <Ostrich_Leather.description>strudselæder</Ostrich_Leather.description>
+  <Ostrich_Leather.stuffProps.stuffAdjective>strudselæder</Ostrich_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <Ostrich_Corpse.label>strudse lig</Ostrich_Corpse.label>
+  <Ostrich_Corpse.description>strudse lig</Ostrich_Corpse.description>
+
+  <Turkey.label>kalkun</Turkey.label>
+  <Turkey.description>En kort, fed, flyveløs fugl der er kendt for sin hylende sjov "gurgle" kald. Den har været tæmmet længe, men den bor også i naturen.</Turkey.description>
+  <Turkey_Leather.label>kalkunlæder</Turkey_Leather.label>
+  <Turkey_Leather.description>kalkunlæder</Turkey_Leather.description>
+  <Turkey_Leather.stuffProps.stuffAdjective>kalkunlæder</Turkey_Leather.stuffProps.stuffAdjective>
+  <Turkey_Meat.label>kalkunkød</Turkey_Meat.label>
+  <Turkey_Meat.description>kalkunkød</Turkey_Meat.description>
+  <Turkey_Corpse.label>kalkun lig</Turkey_Corpse.label>
+  <Turkey_Corpse.description>kalkun lig</Turkey_Corpse.description>
+
+
+</LanguageData>

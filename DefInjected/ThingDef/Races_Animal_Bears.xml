@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GrizzlyBear.label>gråbjørn</GrizzlyBear.label>
+  <GrizzlyBear.description>Enorme altædende pattedyr der er tilpasset til kolde klimaer. Deres tykke spæk og pels holde dem varme om vinteren.\n\nDeres kost består som regel af fisk, bær, honning, og kød fra ådsler, men gråbjørne er i stand til at bruge sin massive styrke og dødbringende kløer til at dræbe levende bytte. De er forbløffende hurtige for sådanne klodsede skabninger.</GrizzlyBear.description>
+  <GrizzlyBear_Leather.label>bjørneskin</GrizzlyBear_Leather.label>
+  <GrizzlyBear_Leather.description>bjørneskin</GrizzlyBear_Leather.description>
+  <GrizzlyBear_Leather.stuffProps.stuffAdjective>bjørneskin</GrizzlyBear_Leather.stuffProps.stuffAdjective>
+  <GrizzlyBear_Meat.label>bjørnekød</GrizzlyBear_Meat.label>
+  <GrizzlyBear_Meat.description>bjørnekød</GrizzlyBear_Meat.description>
+  <GrizzlyBear_Corpse.label>gråbjørn lig</GrizzlyBear_Corpse.label>
+  <GrizzlyBear_Corpse.description>gråbjørn lig</GrizzlyBear_Corpse.description>
+
+  <PolarBear.label>isbjørn</PolarBear.label>
+  <PolarBear.description>En stor hvid bjørn, der bor i det høje nord. Deres tykke spæk og pels holder dem varme om vinteren.\n\nDeres kost består som regel af fisk og kød fra ådsler, men isbjørnen er i stand til at bruge sin massive styrke og dødbringende kløer til at dræbe levende bytte. De er forbløffende hurtige for sådanne klodsede skabninger.</PolarBear.description>
+  <PolarBear_Leather.label>isbjørneskin</PolarBear_Leather.label>
+  <PolarBear_Leather.description>isbjørneskin</PolarBear_Leather.description>
+  <PolarBear_Leather.stuffProps.stuffAdjective>isbjørneskin</PolarBear_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: GrizzlyBear -->
+  <PolarBear_Corpse.label>isbjørne lig</PolarBear_Corpse.label>
+  <PolarBear_Corpse.description>isbjørne lig</PolarBear_Corpse.description>
+
+
+</LanguageData>

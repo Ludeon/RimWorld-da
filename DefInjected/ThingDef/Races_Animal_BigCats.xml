@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cougar.label>puma</Cougar.label>
+  <Cougar.description>En af de farligste store katte, pumaer er ensomme jægere med lange, skarpe tænder og kløer. De jager bytte fra skjulte positioner før de springer på det.\n\nMennesker ingår ikke i deres normale kost, vil de dog ikke afvise et måltid af sårbart menneskekød.</Cougar.description>
+  <Cougar_Leather.label>pumaskin</Cougar_Leather.label>
+  <Cougar_Leather.description>pumaskin</Cougar_Leather.description>
+  <Cougar_Leather.stuffProps.stuffAdjective>pumaskin</Cougar_Leather.stuffProps.stuffAdjective>
+  <Cougar_Meat.label>pumakød</Cougar_Meat.label>
+  <Cougar_Meat.description>pumakød</Cougar_Meat.description>
+  <Cougar_Corpse.label>puma lig</Cougar_Corpse.label>
+  <Cougar_Corpse.description>puma lig</Cougar_Corpse.description>
+
+  <Panther.label>panter</Panther.label>
+  <Panther.description>En adræt og kraftfuld stor kat hjemmehørende i i junglen på den gamle Jord. Som ensomme bagholds rovdyr, er pantere mestre i at dræbe både store og små byttedyr. Tilskuere har en tendens til at fokusere på deres yndefulde bevægelser, imens dem på tættere kontakt normalt ligger mærke til deres kranie-knusende styrke.</Panther.description>
+  <Panther_Leather.label>panterskin</Panther_Leather.label>
+  <Panther_Leather.description>panterskin</Panther_Leather.description>
+  <Panther_Leather.stuffProps.stuffAdjective>pantherskin</Panther_Leather.stuffProps.stuffAdjective>
+  <Panther_Meat.label>panterkød</Panther_Meat.label>
+  <Panther_Meat.description>panterkød</Panther_Meat.description>
+  <Panther_Corpse.label>panter lig</Panther_Corpse.label>
+  <Panther_Corpse.description>panter lig</Panther_Corpse.description>
+
+  <Lynx.label>Los</Lynx.label>
+  <Lynx.description>En vildkat større end en huskat, men mindre end en puma. Losser lever på en diæt af små fugle og dyr. Deres meget varm pels holder dem sikker fra de brutalt kolde temperaturer på deres nordlige territorier.</Lynx.description>
+  <Lynx_Leather.label>Losskin</Lynx_Leather.label>
+  <Lynx_Leather.description>Losskin</Lynx_Leather.description>
+  <Lynx_Leather.stuffProps.stuffAdjective>Losskin</Lynx_Leather.stuffProps.stuffAdjective>
+  <Lynx_Meat.label>Los meat</Lynx_Meat.label>
+  <Lynx_Meat.description>Los meat</Lynx_Meat.description>
+  <Lynx_Corpse.label>Los corpse</Lynx_Corpse.label>
+  <Lynx_Corpse.description>Los corpse</Lynx_Corpse.description>
+
+
+</LanguageData>
