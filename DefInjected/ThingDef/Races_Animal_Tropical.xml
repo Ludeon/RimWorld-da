@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cobra.label>kobra</Cobra.label>
+  <Cobra.description>En stor slange. Kobraer kan være meget aggressiv, hvis provokeret - det er bedre at holde sig væk fra disse skabninger.</Cobra.description>
+  <Cobra_Leather.label>kobraskin</Cobra_Leather.label>
+  <Cobra_Leather.description>kobraskin</Cobra_Leather.description>
+  <Cobra_Leather.stuffProps.stuffAdjective>kobraskin</Cobra_Leather.stuffProps.stuffAdjective>
+  <Cobra_Meat.label>kobrakød</Cobra_Meat.label>
+  <Cobra_Meat.description>kobrakød</Cobra_Meat.description>
+  <Cobra_Corpse.label>kobra lig</Cobra_Corpse.label>
+  <Cobra_Corpse.description>kobra lig</Cobra_Corpse.description>
+
+  <Monkey.label>abe</Monkey.label>
+  <Monkey.description>Denne abe kan bruge sin krøllede hale til at gribe fat på grene,  hvilket frigiver hænderne til at gøre andre ting.</Monkey.description>
+  <Monkey_Leather.label>abeskin</Monkey_Leather.label>
+  <Monkey_Leather.description>abeskin</Monkey_Leather.description>
+  <Monkey_Leather.stuffProps.stuffAdjective>abeskin</Monkey_Leather.stuffProps.stuffAdjective>
+  <Monkey_Meat.label>abekød</Monkey_Meat.label>
+  <Monkey_Meat.description>abekød</Monkey_Meat.description>
+  <Monkey_Corpse.label>abe lig</Monkey_Corpse.label>
+  <Monkey_Corpse.description>abe lig</Monkey_Corpse.description>
+
+  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.description>Udviklet til kemikalie produktion, boomalope groer en stor sæk af flygtige kemikalier på ryggen. Selv om den er svag og skrøbelig for sin størrelse, har andre dyr lært at undgå den på grund af den enorme eksplosion den producerer når den dør.</Boomalope.description>
+  <Boomalope_Leather.label>boomalopelæder</Boomalope_Leather.label>
+  <Boomalope_Leather.description>boomalopelæder</Boomalope_Leather.description>
+  <Boomalope_Leather.stuffProps.stuffAdjective>boomalopelæder</Boomalope_Leather.stuffProps.stuffAdjective>
+  <Boomalope_Meat.label>boomalopekød</Boomalope_Meat.label>
+  <Boomalope_Meat.description>boomalopekød</Boomalope_Meat.description>
+  <Boomalope_Corpse.label>boomalope lig</Boomalope_Corpse.label>
+  <Boomalope_Corpse.description>boomalope lig</Boomalope_Corpse.description>
+
+
+</LanguageData>
