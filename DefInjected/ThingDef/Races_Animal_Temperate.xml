@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Deer.label>hjort</Deer.label>
+  <Deer.description>En mellemstor hyrde planteæder. Generelt fredelige medmindre forstyrret.</Deer.description>
+  <Deer_Leather.label>hjorteskin</Deer_Leather.label>
+  <Deer_Leather.description>hjorteskin</Deer_Leather.description>
+  <Deer_Leather.stuffProps.stuffAdjective>hjorteskin</Deer_Leather.stuffProps.stuffAdjective>
+  <Deer_Meat.label>vildt kød</Deer_Meat.label>
+  <Deer_Meat.description>vildt kød</Deer_Meat.description>
+  <Deer_Corpse.label>hjorte lig</Deer_Corpse.label>
+  <Deer_Corpse.description>hjorte lig</Deer_Corpse.description>
+
+  <Ibex.label>stenbuk</Ibex.label>
+  <Ibex.description>Den hårdføre vilde forfader af den domesticerede ged. stenbukke lever på et marginalt område, som de fleste antiloper ikke ville kunne overleve, spise lav og sparsomme bjerg planter. De er berømt for behændigt at hoppe tværs over nøgne klippevægge - og for deres voldelige stangeangreb.</Ibex.description>
+  <Ibex_Leather.label>gedeskin</Ibex_Leather.label>
+  <Ibex_Leather.description>gedeskin</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>gedeskin</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Meat.label>stenbukkekød</Ibex_Meat.label>
+  <Ibex_Meat.description>stenbukkekød</Ibex_Meat.description>
+  <Ibex_Corpse.label>stenbukke lig</Ibex_Corpse.label>
+  <Ibex_Corpse.description>stenbukke lig</Ibex_Corpse.description>
+
+  <Elk.label>elg</Elk.label>
+  <Elk.description>Et stort medlem af rådyr familien, godt tilpasset til livet i et koldt klima.</Elk.description>
+  <Elk_Leather.label>elgeskin</Elk_Leather.label>
+  <Elk_Leather.description>elgeskin</Elk_Leather.description>
+  <Elk_Leather.stuffProps.stuffAdjective>elgeskin</Elk_Leather.stuffProps.stuffAdjective>
+  <Elk_Meat.label>elgekød</Elk_Meat.label>
+  <Elk_Meat.description>elgekød</Elk_Meat.description>
+  <Elk_Corpse.label>elge lig</Elk_Corpse.label>
+  <Elk_Corpse.description>elge lig</Elk_Corpse.description>
+
+  <Caribou.label>rensdyr</Caribou.label>
+  <Caribou.description>Et stort medlem af rådyr familien, godt tilpasset til livet i et koldt klima.</Caribou.description>
+  <Caribou_Leather.label>rensdyrlæder</Caribou_Leather.label>
+  <Caribou_Leather.description>rensdyrlæder</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>rensdyrlæder</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Meat.label>rensdyrkød</Caribou_Meat.label>
+  <Caribou_Meat.description>rensdyrkød</Caribou_Meat.description>
+  <Caribou_Corpse.label>rensdyr lig</Caribou_Corpse.label>
+  <Caribou_Corpse.description>rensdyr lig</Caribou_Corpse.description>
+
+  <WildBoar.label>vildsvin</WildBoar.label>
+  <WildBoar.description>Selvom de betragtes som uren i nogle kulturer, er denne behårede forfader til den domesticerede gris værdsat for den vildtagtig smag af dens kød.</WildBoar.description>
+  <!-- Use Leather From: Pig -->
+  <!-- Use Meat From: Pig -->
+  <WildBoar_Corpse.label>vildsvine lig</WildBoar_Corpse.label>
+  <WildBoar_Corpse.description>vildsvine lig</WildBoar_Corpse.description>
+
+  <Tortoise.label>Skildpade</Tortoise.label>
+  <Tortoise.description>Denne stærkt pansrede jord-levende krybdyr er kendt for sin langsomme hastighed og overraskende ondt bid.</Tortoise.description>
+  <Tortoise_Leather.label>Skildpadelæder</Tortoise_Leather.label>
+  <Tortoise_Leather.description>Skildpadelæder</Tortoise_Leather.description>
+  <Tortoise_Leather.stuffProps.stuffAdjective>Skildpadelæder</Tortoise_Leather.stuffProps.stuffAdjective>
+  <Tortoise_Meat.label>Skildpadekød</Tortoise_Meat.label>
+  <Tortoise_Meat.description>Skildpadekød</Tortoise_Meat.description>
+  <Tortoise_Corpse.label>tortoise lig</Tortoise_Corpse.label>
+  <Tortoise_Corpse.description>tortoise lig</Tortoise_Corpse.description>
+
+
+</LanguageData>
