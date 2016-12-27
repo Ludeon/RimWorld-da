@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AteWithoutTable.stages.0.label>spiste uden bord</AteWithoutTable.stages.0.label>
+  <AteWithoutTable.stages.0.description>Jeg var nødt til at spise et måltid fra jorden. Kan vi ikke anskaffe et bord her?</AteWithoutTable.stages.0.description>
+
+  <SleepDisturbed.stages.0.label>forstyrret søvn</SleepDisturbed.stages.0.label>
+  <SleepDisturbed.stages.0.description>Jeg blev forstyrret imens jeg sov, af folk der bevægede sig rundt i nærheden. Et privat værelse ville løse dette.</SleepDisturbed.stages.0.description>
+
+  <NewColonyOptimism.stages.0.label>ny koloni optimisme</NewColonyOptimism.stages.0.label>
+  <NewColonyOptimism.stages.0.description>Vi er lige landet her. Det er en hård situation, men jeg er spændt over at være stifteren af en ny koloni.</NewColonyOptimism.stages.0.description>
+
+  <NewColonyHope.stages.0.label>ny koloni håb</NewColonyHope.stages.0.label>
+  <NewColonyHope.stages.0.description>Jeg er ved at vænne mig til dette, men det er stadig en spændende ny situation. Jeg håber, at dette virker ...</NewColonyHope.stages.0.description>
+
+  <SleptOutside.stages.0.label>sov udenfor</SleptOutside.stages.0.label>
+  <SleptOutside.stages.0.description>Jeg var nødt til at sove udendørs uden beskyttelse mod elementerne.</SleptOutside.stages.0.description>
+
+  <SleptOnGround.stages.0.label>sov på jorden</SleptOnGround.stages.0.label>
+  <SleptOnGround.stages.0.description>Jeg var nødt til at sove på jorden som et dyr.</SleptOnGround.stages.0.description>
+
+  <SleptInCold.stages.0.label>sov i kulden</SleptInCold.stages.0.label>
+  <SleptInCold.stages.0.description>Jeg var nødt til at sove i kulden. Vi har virkelig brug for nogle varmeapparater.</SleptInCold.stages.0.description>
+
+  <SleptInHeat.stages.0.label>sov i varmen</SleptInHeat.stages.0.label>
+  <SleptInHeat.stages.0.description>Jeg var nødt til at sove i uudholdelig varme. Kan vi ikke få aircondition?</SleptInHeat.stages.0.description>
+
+  <KnowPrisonerSold.stages.0.label>en fange blev solgt</KnowPrisonerSold.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>Denne koloni solgte en fange til slaveri. Det er en bekymrende tanke.</KnowPrisonerSold.stages.0.description>
+
+  <KnowGuestOrganHarvested.stages.0.label>nogens organ blevs høstet</KnowGuestOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>Kolonien tog kropsdele fra en gæst eller fange. Det er forfærdeligt, at bryde nogen ned for dele, når de ikke har noget valg.</KnowGuestOrganHarvested.stages.0.description>
+
+  <KnowColonistOrganHarvested.stages.0.label>kolonists organ høstet</KnowColonistOrganHarvested.stages.0.label>
+  <KnowColonistOrganHarvested.stages.0.description>Nogen tog kropsdele fra en kolonist. Det er forfærdeligt, at bryde nogen ned for dele, når de ikke har noget valg.</KnowColonistOrganHarvested.stages.0.description>
+
+  <MyOrganHarvested.stages.0.label>mit organ høstet</MyOrganHarvested.stages.0.label>
+  <MyOrganHarvested.stages.0.description>Kolonien høstet kropsdele fra mig! De bryder mig ned som en gammel motor!</MyOrganHarvested.stages.0.description>
+
+  <WasImprisoned.stages.0.label>blev fængslet</WasImprisoned.stages.0.label>
+  <WasImprisoned.stages.0.description>Kolonien havde mig i fængsel for et stykke tid, ligesom et dyr i bur.</WasImprisoned.stages.0.description>
+
+  <GreenThumbHappy.stages.0.label>såede en plante</GreenThumbHappy.stages.0.label>
+  <GreenThumbHappy.stages.0.description>Hvad verden har brug for, er flere planter!</GreenThumbHappy.stages.0.description>
+
+  <Catharsis.stages.0.label>katarsis</Catharsis.stages.0.label>
+  <Catharsis.stages.0.description>Det føltes godt at endelig give udtryk for mine følelser.</Catharsis.stages.0.description>
+
+  <Nuzzled.stages.0.label>nusset</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>Et sødt dyr nussede mig.</Nuzzled.stages.0.description>
+
+  <KnowBuriedInSarcophagus.stages.0.label>begravet i sarkofag</KnowBuriedInSarcophagus.stages.0.label>
+  <KnowBuriedInSarcophagus.stages.0.description>Denne koloni begravede nogen i en dekoreret sarkofag. Må deres sjæl hvile i fred.</KnowBuriedInSarcophagus.stages.0.description>
+
+
+  <!-- Human corpse butchering -->
+
+  <ButcheredHumanlikeCorpse.stages.0.label>Jeg slagtet menneskelignende</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>Jeg slagtede en person som et dyr.</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <KnowButcheredHumanlikeCorpse.stages.0.label>Vi slagtede menneskelignende</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>Vi slagtede en person som et dyr.</KnowButcheredHumanlikeCorpse.stages.0.description>
+
+
+  <!-- Combat -->
+
+  <ObservedLayingCorpse.stages.0.label>Så et lig</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingCorpse.stages.0.description>Jeg så et lig ligge på jorden. Det var foruroligende.</ObservedLayingCorpse.stages.0.description>
+
+  <ObservedLayingRottingCorpse.stages.0.label>Så rådnende lig</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>Jeg så et rådnende lig ligge på jorden. Det var ulækkert.</ObservedLayingRottingCorpse.stages.0.description>
+
+  <WitnessedDeathAlly.stages.0.label>bevidnede allierets død</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>Jeg så en af mine folk dø. De var i live et øjeblik, og døde den næste.</WitnessedDeathAlly.stages.0.description>
+
+  <WitnessedDeathNonAlly.stages.0.label>Bevidnede fremmeds død</WitnessedDeathNonAlly.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>Jeg så en person dør. De var i live et øjeblik, og døde den næste.</WitnessedDeathNonAlly.stages.0.description>
+
+  <WitnessedDeathFamily.stages.0.label>bevidnet familiemedlems død</WitnessedDeathFamily.stages.0.label>
+  <WitnessedDeathFamily.stages.0.description>Jeg så et medlem af min familie dø. Mit eget kød og blod ...</WitnessedDeathFamily.stages.0.description>
+
+  <WitnessedDeathBloodlust.stages.0.label>bevidnede død med blodtørst</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>Jeg så en person dø! Det var intens!</WitnessedDeathBloodlust.stages.0.description>
+
+  <KilledHumanlikeBloodlust.stages.0.label>dræbte nogen</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>Jeg dræbte en person! Sikke et sus!</KilledHumanlikeBloodlust.stages.0.description>
+
+  <DefeatedHostileFactionLeader.stages.0.label>besejret fjendtlig leder {0}</DefeatedHostileFactionLeader.stages.0.label>
+  <DefeatedHostileFactionLeader.stages.0.description>De bestræbede sig på at ødelægge os, og jeg tog dem ned!</DefeatedHostileFactionLeader.stages.0.description>
+
+  <DefeatedMajorEnemy.stages.0.label>besejret {0}</DefeatedMajorEnemy.stages.0.label>
+  <DefeatedMajorEnemy.stages.0.description>Jeg tog en stor trussel ned! Jeg er en helt!</DefeatedMajorEnemy.stages.0.description>
+
+
+  <!-- Abandoning pawns -->
+
+  <ColonistAbandoned.stages.0.label>kolonist forladt</ColonistAbandoned.stages.0.label>
+  <ColonistAbandoned.stages.0.description>Vi efterlod nogen. Jeg håber at de vil klare sig, men jeg er bekymret.</ColonistAbandoned.stages.0.description>
+
+  <ColonistAbandonedToDie.stages.0.label>kolonist forladt til at dø</ColonistAbandonedToDie.stages.0.label>
+  <ColonistAbandonedToDie.stages.0.description>Vi efterlod nogen en sådan måde, at der er næsten ingen måde de vil overleve.</ColonistAbandonedToDie.stages.0.description>
+
+  <PrisonerAbandonedToDie.stages.0.label>fange efterladt til at dø</PrisonerAbandonedToDie.stages.0.label>
+  <PrisonerAbandonedToDie.stages.0.description>Vi eftrerlod en fange på en sådan måde, at der er næsten ingen måde de vil overleve.</PrisonerAbandonedToDie.stages.0.description>
+
+  <BondedAnimalAbandoned.stages.0.label>kæledyret {0} efterlad</BondedAnimalAbandoned.stages.0.label>
+  <BondedAnimalAbandoned.stages.0.description>Mit kæledyr blev efterladt i midten af ingenting!</BondedAnimalAbandoned.stages.0.description>
+
+
+</LanguageData>
