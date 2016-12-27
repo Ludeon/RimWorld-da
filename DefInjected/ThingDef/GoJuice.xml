@@ -2,7 +2,7 @@
 <LanguageData>
 
   <GoJuice.label>go-juice</GoJuice.label>
-  <GoJuice.description>Et syntetisk kamp narkotika udviklet til Rum Soldater i de tidlige dage af interplanetarisk krigsførelse. Go-juice blokerer smerte og øger brugerens nærkamps og skyde færdigheder. Det øger også bevægelse hastighed. \ N \ nMilitæriske kemikere, der skabte det var aldrig i stand til at fjerne stoffets afhængighed. Nogle så det som en ulempe; andre så det som en fordel.</GoJuice.description>
+  <GoJuice.description>Et syntetisk kamp narkotika udviklet til Rum Soldater i de tidlige dage af interplanetarisk krigsførelse. Go-juice blokerer smerte og øger brugerens nærkamps og skyde færdigheder. Det øger også bevægelse hastighed.\n\nMilitæriske kemikere, der skabte det var aldrig i stand til at fjerne stoffets afhængighed. Nogle så det som en ulempe; andre så det som en fordel.</GoJuice.description>
   <GoJuice.ingestible.ingestCommandString>Indsprøjt {0}</GoJuice.ingestible.ingestCommandString>
   <GoJuice.ingestible.ingestReportString>Indsprøjter {0}.</GoJuice.ingestible.ingestReportString>
 
