@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic quality thoughts -->
+
+  <AteLavishMeal.stages.0.label>spiste overdådige måltid</AteLavishMeal.stages.0.label>
+  <AteLavishMeal.stages.0.description>Det overdådige måltid var forbløffende. Det nærede min krop og min sjæl.</AteLavishMeal.stages.0.description>
+
+  <AteFineMeal.stages.0.label>spiste fint måltid</AteFineMeal.stages.0.label>
+  <AteFineMeal.stages.0.description>Jeg spiste et virkelig velsmagende fint måltid. Mums!</AteFineMeal.stages.0.description>
+
+  <AteAwfulMeal.stages.0.label>spiste et forfærdeligt måltid</AteAwfulMeal.stages.0.label>
+  <AteAwfulMeal.stages.0.description>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</AteAwfulMeal.stages.0.description>
+
+  <AteRawFood.stages.0.label>spiste rå føde</AteRawFood.stages.0.label>
+  <AteRawFood.stages.0.description>Jeg var nødt til at spise rå mad. Kan vi ikke koge det, eller i det mindste syntetisere noget næringspuré?</AteRawFood.stages.0.description>
+
+  <AteKibble.stages.0.label>spiste tørfoder</AteKibble.stages.0.label>
+  <AteKibble.stages.0.description>Jeg var nødt til at spise dyretørfoder. Det er ligesom jeg ikke får lov til at være menneske mere.</AteKibble.stages.0.description>
+
+  <AteCorpse.stages.0.label>spiste lig</AteCorpse.stages.0.label>
+  <AteCorpse.stages.0.description>Jeg var nødt til at spise et lig enda uden at slagte eller tilberede det. Det var forfærdeligt.</AteCorpse.stages.0.description>
+
+
+  <!-- Special nature thoughts -->
+
+  <AteHumanlikeMeatDirectCannibal.stages.0.label>rå kannibalisme</AteHumanlikeMeatDirectCannibal.stages.0.label>
+  <AteHumanlikeMeatDirectCannibal.stages.0.description>Jeg spiste kødet fra et andet menneske, rå, som et dyr. Det var så ... saftige.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>tilberedt kannibalisme</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Jeg spiste et måltid lavet af kød fra et andet menneske. Så behagelig. Hvis bare jeg havde nogle fava bønner og en dejlig chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+
+  <AteInsectMeatAsIngredient.stages.0.label>spiste kogt insekt kød</AteInsectMeatAsIngredient.stages.0.label>
+  <AteInsectMeatAsIngredient.stages.0.description>Jeg spiste et måltid tilberedt fra gråt, slimet insekt kød. Krydderier dækket delvist smagen, men der var kirtler og væskelommer i det jeg ikke kan identificere.</AteInsectMeatAsIngredient.stages.0.description>
+
+  <AteInsectMeatDirect.stages.0.label>spiste insekt kød</AteInsectMeatDirect.stages.0.label>
+  <AteInsectMeatDirect.stages.0.description>Jeg spiste noget gråt, slimet insekt kød. Det var muligvis den mest modbydelige ting, jeg nogensinde har smagt.</AteInsectMeatDirect.stages.0.description>
+
+  <AteHumanlikeMeatAsIngredient.stages.0.label>tilberedt kannibalisme</AteHumanlikeMeatAsIngredient.stages.0.label>
+  <AteHumanlikeMeatAsIngredient.stages.0.description>Jeg spiste et måltid lavet af kød fra et andet menneske. Det er forfærdeligt.</AteHumanlikeMeatAsIngredient.stages.0.description>
+
+  <AteHumanlikeMeatDirect.stages.0.label>rå kannibalisme</AteHumanlikeMeatDirect.stages.0.label>
+  <AteHumanlikeMeatDirect.stages.0.description>Jeg spiste kød fra et andet menneske, rå, som et dyr. Dette er et mareridt.</AteHumanlikeMeatDirect.stages.0.description>
+
+
+  <!-- Rotten state thoughts -->
+
+  <AteRottenFood.stages.0.label>spiste rådent mad</AteRottenFood.stages.0.label>
+  <AteRottenFood.stages.0.description>Jeg spiste noget modbydeligt, fordærvet mad. Det smelter i min mund - men ikke på en god måde.</AteRottenFood.stages.0.description>
+
+
+</LanguageData>
