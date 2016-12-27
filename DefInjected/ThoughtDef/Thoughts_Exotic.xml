@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Joywire.stages.0.label>Glædestråd</Joywire.stages.0.label>
+  <Joywire.stages.0.description>Det føles fantastisk.</Joywire.stages.0.description>
+
+  <ArtifactMoodBoost.stages.0.label>mærkelig fornemmelse</ArtifactMoodBoost.stages.0.label>
+  <ArtifactMoodBoost.stages.0.description>Jeg føler mig mærkelig, men også meget afslappet.</ArtifactMoodBoost.stages.0.description>
+
+  <PsychicDrone.stages.0.label>psykisk lindring (medium)</PsychicDrone.stages.0.label>
+  <PsychicDrone.stages.0.description>Det er ligesom en beroligende stemme på bagsiden af mit sind, der trøster mig, beroligere mine nerver.</PsychicDrone.stages.0.description>
+  <PsychicDrone.stages.1.label>psykisk summen (lav)</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.1.description>Det er ligesom en skraben på bagsiden af mit sind. En stemme, der hvisker. Jeg kan kun forstå et par ord, og jeg kan ikke lide dem.</PsychicDrone.stages.1.description>
+  <PsychicDrone.stages.2.label>psykisk summen (medium)</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.2.description>Jeg føler det som om at nogen er altid lige ud af syne der taler til mig. Stemmen ændrer sig, men meddelelsen gør ikke. Jeg skulle såre folk. Få det til at gå væk!</PsychicDrone.stages.2.description>
+  <PsychicDrone.stages.3.label>psykisk summen (høj)</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.3.description>Stemmen er uudholdelige højt. Det er svært at koncentrere sig. Jeg tager mig selv i at tale tilbage til den, råber af den. Men den fortsætter bare med at råbe!</PsychicDrone.stages.3.description>
+  <PsychicDrone.stages.4.label>psykisk summen (ekstrem)</PsychicDrone.stages.4.label>
+  <PsychicDrone.stages.4.description>Mit hjerte hamre løs og jeg sveder. Alt jeg kan tænke på er at såre og lidelser, og alle disse fjender omkring mig. De er mit mareridt, mit mareridt, mit mareridt ...</PsychicDrone.stages.4.description>
+
+
+</LanguageData>

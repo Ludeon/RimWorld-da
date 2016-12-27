@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <AteRawFood.label>spiste rå mad</AteRawFood.label>
+    <AteRawFood.description>Jeg blev nødt til at spise rå mad. Kan vi ikke tilberede det, eller i det mindste lave det til næringspaté?</AteRawFood.description>
+    
+    <AteNutrientPasteMeal.label>spiste næringspaté</AteNutrientPasteMeal.label>
+    <AteNutrientPasteMeal.description>Jeg blev nødt til at spise næringspaté. Det holder en i live, men man har ikke lyst til at sluge det stads.</AteNutrientPasteMeal.description>
+    
+    <AteFineMeal.label>spiste et godt måltid</AteFineMeal.label>
+    <AteFineMeal.description>Jeg spiste et rigtig godt måltid. Mums!</AteFineMeal.description>
+    
+    <AteLavishMeal.label>spiste et overdådigt måltid</AteLavishMeal.label>
+    <AteLavishMeal.description>Det måltid var fantastisk. Det er som næring for min krop og sjæl.</AteLavishMeal.description>
+    
+    <!-- =========== Cannibalism ===============-->
+    
+    <AteHumanoidMeatDirect.label>rå kannibalisme</AteHumanoidMeatDirect.label>
+    <AteHumanoidMeatDirect.description>Jeg spiste råt kød af et menneske, som et dyr. Dette er et mareridt.</AteHumanoidMeatDirect.description>
+    
+    <AteHumanoidMeatAsIngredient.label>tilberedt kannibalisme</AteHumanoidMeatAsIngredient.label>
+    <AteHumanoidMeatAsIngredient.description>Jeg spiste et måltid fra kød af et menneske. Hvor frygteligt.</AteHumanoidMeatAsIngredient.description>
+    
+    <AteHumanoidMeatDirectCannibal.label>rå kannibalisme</AteHumanoidMeatDirectCannibal.label>
+    <AteHumanoidMeatDirectCannibal.description>Jeg spiste råt kød af et menneske, som et dyr. Det var så... saftigt.</AteHumanoidMeatDirectCannibal.description>
+    
+    <AteHumanoidMeatAsIngredientCannibal.label>tilberedt kannibalisme</AteHumanoidMeatAsIngredientCannibal.label>
+    <AteHumanoidMeatAsIngredientCannibal.description>Jeg spiste et måltid fra kød af et menneske. Lækkert. Hvis jeg bare havde fava bønner og en go chianti.</AteHumanoidMeatAsIngredientCannibal.description>
+    
+    <ButcheredHumanoidCorpse.label>slagtede menneske</ButcheredHumanoidCorpse.label>
+    <ButcheredHumanoidCorpse.description>Jeg har lige slagtet et menneske, som var det et dyr.</ButcheredHumanoidCorpse.description>
+    
+    <AteWithoutTable.label>spiste fra jorden </AteWithoutTable.label>
+    <AteWithoutTable.description>Jeg måtte spise mit måltid fra jorden. Kan vi ikke få fat i et bord?</AteWithoutTable.description>
+    
+    <!-- Combat -->
+    
+    <ObservedLayingCorpse.label>så et lig</ObservedLayingCorpse.label>
+    <ObservedLayingCorpse.description>Jeg så et lig, der lå på jorden.</ObservedLayingCorpse.description>
+    
+    <ObservedLayingRottingCorpse.label>så et rådnende lig</ObservedLayingRottingCorpse.label>
+    <ObservedLayingRottingCorpse.description>Jeg så et rådnende lig, der lå på jorden. Det var ulækkert.</ObservedLayingRottingCorpse.description>
+    
+    <WitnessedDeathAlly.label>bevidnede en allieret dø</WitnessedDeathAlly.label>
+    <WitnessedDeathAlly.description>Jeg så en af mine folk dø. De var i live det ene øjeblik, døde det næste.</WitnessedDeathAlly.description>
+    
+    <WitnessedDeathStranger.label>bevidnede en fremmed død</WitnessedDeathStranger.label>
+    <WitnessedDeathStranger.description>Jeg så nogen dø! De var i live det ene øjeblik, døde det næste.</WitnessedDeathStranger.description>
+    
+    <WitnessedDeathStrangerBloodlust.label>bevidnede en fremmed død</WitnessedDeathStrangerBloodlust.label>
+    <WitnessedDeathStrangerBloodlust.description>Jeg så en dø! Det var intenst!</WitnessedDeathStrangerBloodlust.description>
+    
+    <KilledHumanoidBloodlust.label>dræbte nogen</KilledHumanoidBloodlust.label>
+    <KilledHumanoidBloodlust.description>Jeg har dræbt en person! Det føles vildt!</KilledHumanoidBloodlust.description>
+    
+    <BattleWounded.label>såret</BattleWounded.label>
+    <BattleWounded.description>Det er mit blod! Jeg er blevet såret i kamp!</BattleWounded.description>
+    
+    <NewColonyOptimism.label>optimisme over ny koloni</NewColonyOptimism.label>
+    <NewColonyOptimism.description>Vi er lige landet her. Det er et svært udgangspunkt, men jeg er spændt over at grundlægge en ny koloni.</NewColonyOptimism.description>
+    
+    <NewColonyHope.label>håbefuld for ny koloni</NewColonyHope.label>
+    <NewColonyHope.description>Jeg vænner mig til det, det er stadig en spændende udfordring. Jeg håber alt går godt...</NewColonyHope.description>
+    
+    <SleptOutside.label>sov udenfor</SleptOutside.label>
+    <SleptOutside.description>Jeg blev nødt til at sove udenfor, uden beskyttelse fra vind og vejr.</SleptOutside.description>
+    
+    <SleptOnGround.label>sov på jorden</SleptOnGround.label>
+    <SleptOnGround.description>Jeg blev nødt til at sove på jorden, som et dyr.</SleptOnGround.description>
+    
+    <KnowPrisonerBeaten.label>en fange blev slået</KnowPrisonerBeaten.label>
+    <KnowPrisonerBeaten.description>De banker en fange.</KnowPrisonerBeaten.description>
+    
+    <KnowPrisonerSold.label>en fange blev solgt</KnowPrisonerSold.label>
+    <KnowPrisonerSold.description>Kolonien har solgt en fange til slaveri. Det er en ubehagelig tanke.</KnowPrisonerSold.description>
+    
+    <KnowPrisonerExecuted.label>en fange blev henrettet</KnowPrisonerExecuted.label>
+    <KnowPrisonerExecuted.description>En fange blev henrettet i koldt blod. Kolonien virker ondere for hver dag, der går.</KnowPrisonerExecuted.description>
+    
+    <JustImprisoned.label>lige fængslet</JustImprisoned.label>
+    <JustImprisoned.description>Jeg er lige blevet smidt i fængsel. Jeg må hellere holde sammen på mig selv og håndtere situationen.</JustImprisoned.description>
+    
+    <PrisonerFriendlyChat.label>overtalt af vagt</PrisonerFriendlyChat.label>
+    <PrisonerFriendlyChat.description>Vagten og jeg havde en snak om kolonien. Det lyder som et godt sted at være...</PrisonerFriendlyChat.description>
+    
+    <PrisonerBeatenMild.label>slået af vagt</PrisonerBeatenMild.label>
+    <PrisonerBeatenMild.description>Vagten har lige slået mig. Han brækkede ingen knogler, men det gjorde godt nok ondt.</PrisonerBeatenMild.description>
+    
+    <PrisonerBeatenVicious.label>slået til plukfisk af vagt</PrisonerBeatenVicious.label>
+    <PrisonerBeatenVicious.description>Vagten har lige slået mig til plukfisk. Jeg kunne dø af det her...</PrisonerBeatenVicious.description>
+    
+    <SocialTalk.label>havde en hyggelig snak</SocialTalk.label>
+    <SocialTalk.description>Jeg har lige haft en god snak med nogen.</SocialTalk.description>
+    
+    <AbrasiveTalk.label>havde en ubehagelig samtale</AbrasiveTalk.label>
+    <AbrasiveTalk.description>Nogen var uforskammet overfor mig. Det værste er, jeg tror ikke engang personen opfattede det...</AbrasiveTalk.description>
+    
+    <GreenThumbHappy.label>sået plante</GreenThumbHappy.label>
+    <GreenThumbHappy.description>Hvad verden har brug for er flere planter!</GreenThumbHappy.description>
+    
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GoJuiceHigh.stages.0.label>høj på igang-juice</GoJuiceHigh.stages.0.label>
+  <GoJuiceHigh.stages.0.description>Føler sig pumpet men rolig. Jeg er kuglen der flyver afsted, klar til at skære igennem dig.</GoJuiceHigh.stages.0.description>
+
+
+  <!-- Go-juice addiction -->
+
+  <GoJuiceWithdrawal.stages.1.label>igang-juice abstinenser</GoJuiceWithdrawal.stages.1.label>
+  <GoJuiceWithdrawal.stages.1.description>Det krippler og jeg kan ikke tænke klart. Mine lemmer føles tunge, jeg er træt og sulten, alt gør ondt. Og hvorfor vil mine ikke øjne fokusere ordentligt?</GoJuiceWithdrawal.stages.1.description>
+
+
+</LanguageData>
