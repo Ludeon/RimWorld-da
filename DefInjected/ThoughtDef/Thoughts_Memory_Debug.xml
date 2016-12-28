@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DebugBad.stages.0.label>debug dårlig tanke</DebugBad.stages.0.label>
+  <DebugBad.stages.0.description>Test tanke til debugging.</DebugBad.stages.0.description>
+
+  <DebugGood.stages.0.label>debug god tanke</DebugGood.stages.0.label>
+  <DebugGood.stages.0.description>Test tanke til debugging.</DebugGood.stages.0.description>
+
+
+</LanguageData>
