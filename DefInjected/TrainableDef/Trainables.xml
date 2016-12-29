@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Obedience.label>lydighed</Obedience.label>
+  <Obedience.description>Dyret kan tildeles en mester, som det vil følge og forsvare.</Obedience.description>
+
+  <Release.label>frigøre</Release.label>
+  <Release.description>Dyret kan frigives til at angribe fjerne mål i stedet for bare at forsvare sin herre.</Release.description>
+
+  <Rescue.label>redning</Rescue.label>
+  <Rescue.description>Dyret vil redde sårede allierede og trække dem i sikkerhed.</Rescue.description>
+
+  <Haul.label>slæbe</Haul.label>
+  <Haul.description>Dyret vil tilfældigt slæbe genstande engang imellem (det ikke kan dog ikke sættes til at trække bestemte genstande).</Haul.description>
+
+
+</LanguageData>
