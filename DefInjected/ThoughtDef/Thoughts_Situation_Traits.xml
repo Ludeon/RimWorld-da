@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MasochistPain.stages.0.label>masochist med lidt smerte</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.description>Av ... Heh heh heh ... Jeg kunne vænne mig til dette!</MasochistPain.stages.0.description>
+  <MasochistPain.stages.1.label>masochist i moderate smerte</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.description>Ughhh ... Det gør ondt, men jeg elsker det! Bliv bare ved!</MasochistPain.stages.1.description>
+  <MasochistPain.stages.2.label>masochist i akut smerte</MasochistPain.stages.2.label>
+  <MasochistPain.stages.2.description>Av ... Jeg tror noget er brækket ... Men sikke en udsøgt følelse! .. Men sikke en udsøgt følelse!</MasochistPain.stages.2.description>
+  <MasochistPain.stages.3.label>masochist i exceptionel smerte</MasochistPain.stages.3.label>
+  <MasochistPain.stages.3.description>Ahhh ... Er jeg i himlen?</MasochistPain.stages.3.description>
+
+  <ProsthophileNoProsthetic.stages.0.label>prosthophile mangler bionisk kropsdel</ProsthophileNoProsthetic.stages.0.label>
+  <ProsthophileNoProsthetic.stages.0.description>Kød er så begrænsende. Jeg ville ønske, jeg havde en eller anden slags kunstig kropsdel.</ProsthophileNoProsthetic.stages.0.description>
+
+  <ProsthophileHappy.stages.0.label>prosthophile har bionisk kropsdel</ProsthophileHappy.stages.0.label>
+  <ProsthophileHappy.stages.0.description>Jeg er et produkt af moderne teknologi! Jeg kan gøre alt bedre!</ProsthophileHappy.stages.0.description>
+
+  <ProsthophobeUnhappy.stages.0.label>prosthophile har bionisk kropsdel</ProsthophobeUnhappy.stages.0.label>
+  <ProsthophobeUnhappy.stages.0.description>De forvandlede mig til en teknologisk vederstyggelighed ... Hvis bare de havde givet mig et valg ...</ProsthophobeUnhappy.stages.0.description>
+
+  <BrawlerUnhappy.stages.0.label>slagsbror har langdistancevåben</BrawlerUnhappy.stages.0.label>
+  <BrawlerUnhappy.stages.0.description>Jeg hader at skyde fra lang afstand. Jeg vil op tæt på og være rigtig personlig!</BrawlerUnhappy.stages.0.description>
+
+  <ClothedNudist.stages.0.label>begrænsende tøj</ClothedNudist.stages.0.label>
+  <ClothedNudist.stages.0.description>Jeg er en nudist, men jeg er nødt til at bære dette tøj. Det er ikke uudholdeligt - men jeg føler stadig indsnævret og utilpas.</ClothedNudist.stages.0.description>
+
+  <HappyNude.stages.0.label>lykkeligt nøgen</HappyNude.stages.0.label>
+  <HappyNude.stages.0.description>Jeg er nøgen, og jeg elsker det! Jeg føler mig så fri og ubegrænset og i kontakt med mine omgivelser!</HappyNude.stages.0.description>
+
+  <NightOwlDuringTheDay.stages.0.label>natteravn i dagtimerne</NightOwlDuringTheDay.stages.0.label>
+  <NightOwlDuringTheDay.stages.0.description>Jeg kan ikke lide at arbejde om dagen.</NightOwlDuringTheDay.stages.0.description>
+
+  <NightOwlDuringTheNight.stages.0.label>natteravn om natten</NightOwlDuringTheNight.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.description>Jeg har det meget bedre om natten.</NightOwlDuringTheNight.stages.0.description>
+
+  <Greedy.stages.0.label>grådig efter imponerende soveværelse</Greedy.stages.0.label>
+  <Greedy.stages.0.description>Jeg er grådig. Jeg vil have et virkelig imponerende soveværelse.</Greedy.stages.0.description>
+  <Greedy.stages.1.label>grådig efter imponerende soveværelse</Greedy.stages.1.label>
+  <Greedy.stages.1.description>Jeg er grådig. Mit værelse er ynkeligt! Jeg vil have et virkelig imponerende soveværelse.</Greedy.stages.1.description>
+  <Greedy.stages.2.label>grådig efter imponerende soveværelse</Greedy.stages.2.label>
+  <Greedy.stages.2.description>Jeg er grådig. Mit værelse er ikke nær godt nok. Jeg vil have et virkelig imponerende soveværelse.</Greedy.stages.2.description>
+  <Greedy.stages.3.label>grådig efter imponerende soveværelse</Greedy.stages.3.label>
+  <Greedy.stages.3.description>Jeg er grådig. Mit værelse er ikke godt nok. Jeg vil have et virkelig imponerende soveværelse.</Greedy.stages.3.description>
+  <Greedy.stages.4.label>grådig efter imponerende soveværelse</Greedy.stages.4.label>
+  <Greedy.stages.4.description>Jeg er grådig. Mit værelse er ikke helt godt nok. Jeg vil have et virkelig imponerende soveværelse.</Greedy.stages.4.description>
+
+  <Jealous.stages.0.label>jaloux på {0}'s soveværelse</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Jeg har brug for at have den bedste!</Jealous.stages.0.description>
+
+  <Ascetic.stages.0.label>asketisk har frygtelig soveværelse</Ascetic.stages.0.label>
+  <Ascetic.stages.0.description>Mit soveværelse er som jeg ønsker det skal være. Meget ydmygt og enkelt.</Ascetic.stages.0.description>
+  <Ascetic.stages.1.label>asketisk har frastødende soveværelse</Ascetic.stages.1.label>
+  <Ascetic.stages.1.description>Mit soveværelse er som jeg ønsker det skal være. Meget ydmygt og enkelt.</Ascetic.stages.1.description>
+  <Ascetic.stages.2.label>asketisk har kedeligt soveværelse</Ascetic.stages.2.label>
+  <Ascetic.stages.2.description>Mit soveværelse er meget ydmygt og enkelt. jeg kan lide det.</Ascetic.stages.2.description>
+  <Ascetic.stages.5.label>asketisk har imponerende soveværelse</Ascetic.stages.5.label>
+  <Ascetic.stages.5.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.5.description>
+  <Ascetic.stages.6.label>asketisk har imponerende soveværelse</Ascetic.stages.6.label>
+  <Ascetic.stages.6.description>Jeg kan ikke lide at have et imponerende soveværelse</Ascetic.stages.6.description>
+  <Ascetic.stages.7.label>asketisk har imponerende soveværelse</Ascetic.stages.7.label>
+  <Ascetic.stages.7.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.7.description>
+  <Ascetic.stages.8.label>asketisk har imponerende soveværelse</Ascetic.stages.8.label>
+  <Ascetic.stages.8.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.8.description>
+  <Ascetic.stages.9.label>asketisk har imponerende soveværelse</Ascetic.stages.9.label>
+  <Ascetic.stages.9.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.9.description>
+  <Ascetic.stages.10.label>asketisk har imponerende soveværelse</Ascetic.stages.10.label>
+  <Ascetic.stages.10.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.10.description>
+  <Ascetic.stages.11.label>asketisk har imponerende soveværelse</Ascetic.stages.11.label>
+  <Ascetic.stages.11.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.11.description>
+
+
+</LanguageData>
