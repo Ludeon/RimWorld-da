@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Imprisoned.stages.0.label>Fængslet</Imprisoned.stages.0.label>
+  <Imprisoned.stages.0.description>Jeg hader at være låst inde.</Imprisoned.stages.0.description>
+
+  <SharedBedroom.stages.0.label>delt soveværelse</SharedBedroom.stages.0.label>
+  <SharedBedroom.stages.0.description>At dele et værelse med andre er irriterende. Jeg vil have lidt privatliv.</SharedBedroom.stages.0.description>
+
+  <SharedBed.stages.0.label>deler seng</SharedBed.stages.0.label>
+  <SharedBed.stages.0.description>Jeg er nødt til at dele en seng med nogen jeg ikke specielt har lyst til at dele seng med.</SharedBed.stages.0.description>
+
+  <ColonistLeftUnburied.stages.0.label>kolonist er ubegravet</ColonistLeftUnburied.stages.0.label>
+  <ColonistLeftUnburied.stages.0.description>En af os døde, og vi lade dem bare ligge i det fri. Ingen bør efterlades sådan. Folk fortjener en anstændig begravelse.</ColonistLeftUnburied.stages.0.description>
+
+  <Naked.stages.0.label>nøgen</Naked.stages.0.label>
+  <Naked.stages.0.description>Jeg er nøgen. Det er ydmygende.</Naked.stages.0.description>
+
+  <Pain.stages.0.label>i en smule smerte</Pain.stages.0.label>
+  <Pain.stages.0.description>Av... Det gør ondt.</Pain.stages.0.description>
+  <Pain.stages.1.label>i en moderat mængde af smerte</Pain.stages.1.label>
+  <Pain.stages.1.description>Ughhh ... Hvornår vil det ende?</Pain.stages.1.description>
+  <Pain.stages.2.label>oplever akut smerte</Pain.stages.2.label>
+  <Pain.stages.2.description>Få det til at stoppe... Få det til at stoppe... Få det til at stoppe...</Pain.stages.2.description>
+  <Pain.stages.3.label>i chok pågrund af ekstraordinær smerte</Pain.stages.3.label>
+  <Pain.stages.3.description>AAAAAHHH! Dræb mig nu!</Pain.stages.3.description>
+
+
+</LanguageData>

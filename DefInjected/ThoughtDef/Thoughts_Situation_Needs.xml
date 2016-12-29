@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NeedFood.stages.0.label>sulten</NeedFood.stages.0.label>
+  <NeedFood.stages.0.description>jeg er rigtig sulten.</NeedFood.stages.0.description>
+  <NeedFood.stages.1.label>presserende sulten</NeedFood.stages.1.label>
+  <NeedFood.stages.1.description>Disse sulte veer er svære at ignorere.</NeedFood.stages.1.description>
+  <NeedFood.stages.2.label>sultende (trivilelt)</NeedFood.stages.2.label>
+  <NeedFood.stages.2.description>Det er så lang tid siden jeg har spist. Det krippler og det er svært at fokusere.</NeedFood.stages.2.description>
+  <NeedFood.stages.3.label>sultende (mindre)</NeedFood.stages.3.label>
+  <NeedFood.stages.3.description>Jeg kan mærke min krop svinder ind. Min mave gør ondt som aldrig før.</NeedFood.stages.3.description>
+  <NeedFood.stages.4.label>sultende (moderate)</NeedFood.stages.4.label>
+  <NeedFood.stages.4.description>Jeg kan næsten ikke tænke andet end mad. Min hud strækker sig over mine knogler. Skal jeg dø?</NeedFood.stages.4.description>
+  <NeedFood.stages.5.label>sultende (alvorligt)</NeedFood.stages.5.label>
+  <NeedFood.stages.5.description>Jeg kan næsten ikke bevæge mig eller tænke på andet end mad. Min mave gør ondt som aldrig før. Jeg føler at jeg skal til at besvime.</NeedFood.stages.5.description>
+  <NeedFood.stages.6.label>sultende (ekstremt)</NeedFood.stages.6.label>
+  <NeedFood.stages.6.description>Mad ... mad ... bare en bid at spise ... hvad som helst ... Jeg bønfalder dig ...</NeedFood.stages.6.description>
+
+  <NeedRest.stages.0.label>træt</NeedRest.stages.0.label>
+  <NeedRest.stages.0.description>Jeg har ikke sovet i et stykke tid.</NeedRest.stages.0.description>
+  <NeedRest.stages.1.label>very træt</NeedRest.stages.1.label>
+  <NeedRest.stages.1.description>Jeg er så træt. Jeg vil bare lægge sig ned og hvile i et par minutter ...</NeedRest.stages.1.description>
+  <NeedRest.stages.2.label>udmattet</NeedRest.stages.2.label>
+  <NeedRest.stages.2.description>Jeg er så udmattet at jeg kan dårligt nok stå op. Mine øjenlåg er blodskudte. Lad mig sove ...</NeedRest.stages.2.description>
+
+  <NeedJoy.stages.0.label>totalt glæde-berøvet</NeedJoy.stages.0.label>
+  <NeedJoy.stages.0.description>Det er så længe siden jeg har gjort noget jeg virkelig kunne nyde.</NeedJoy.stages.0.description>
+  <NeedJoy.stages.1.label>meget glæde-berøvet</NeedJoy.stages.1.label>
+  <NeedJoy.stages.1.description>Jeg får aldrig lov til at slappe af og nyde tilværelsen her.</NeedJoy.stages.1.description>
+  <NeedJoy.stages.2.label>glæde-berøvet</NeedJoy.stages.2.label>
+  <NeedJoy.stages.2.description>Jeg kunne virkelig bruge en pause til noget sjovt.</NeedJoy.stages.2.description>
+  <NeedJoy.stages.3.label>glæde-fyldt</NeedJoy.stages.3.label>
+  <NeedJoy.stages.3.description>Jeg har haft en fantastisk tid her for nylig.</NeedJoy.stages.3.description>
+  <NeedJoy.stages.4.label>tonsvis af glæde</NeedJoy.stages.4.label>
+  <NeedJoy.stages.4.description>Jeg har hygget mig så meget, jeg elsker det!</NeedJoy.stages.4.description>
+
+  <NeedComfort.stages.0.label>ubehageligt</NeedComfort.stages.0.label>
+  <NeedComfort.stages.0.description>I've been kind of uncomfortable recently. We need to get something soft to sit on around here.</NeedComfort.stages.0.description>
+  <NeedComfort.stages.1.label>behageligt</NeedComfort.stages.1.label>
+  <NeedComfort.stages.1.description>I've been comfortable recently.</NeedComfort.stages.1.description>
+  <NeedComfort.stages.2.label>meget behageligt</NeedComfort.stages.2.label>
+  <NeedComfort.stages.2.description>I've been very comfortable recently.</NeedComfort.stages.2.description>
+  <NeedComfort.stages.3.label>ekstremt behageligt</NeedComfort.stages.3.label>
+  <NeedComfort.stages.3.description>I've been extremely comfortable recently. This place is so cushy!</NeedComfort.stages.3.description>
+  <NeedComfort.stages.4.label>overdådigt behageligt</NeedComfort.stages.4.label>
+  <NeedComfort.stages.4.description>Jeg hviler på himlens skyer.</NeedComfort.stages.4.description>
+
+  <NeedBeauty.stages.0.label>hæslige omgivelser</NeedBeauty.stages.0.label>
+  <NeedBeauty.stages.0.description>Dette sted er uudholdelig. Få mig ud herfra...</NeedBeauty.stages.0.description>
+  <NeedBeauty.stages.1.label>meget grime omgivelser</NeedBeauty.stages.1.label>
+  <NeedBeauty.stages.1.description>Dette sted er virkelig ubehageligt. Jeg ønsker ikke at være her.</NeedBeauty.stages.1.description>
+  <NeedBeauty.stages.2.label>grime omgivelser</NeedBeauty.stages.2.label>
+  <NeedBeauty.stages.2.description>Dette sted er ubehageligt at være i.</NeedBeauty.stages.2.description>
+  <NeedBeauty.stages.3.label>behagelige omgivelser</NeedBeauty.stages.3.label>
+  <NeedBeauty.stages.3.description>Dette sted er rart.</NeedBeauty.stages.3.description>
+  <NeedBeauty.stages.4.label>meget behagelige omgivelser</NeedBeauty.stages.4.label>
+  <NeedBeauty.stages.4.description>Jeg kan virkelig godt lide dette sted. Det er smukt.</NeedBeauty.stages.4.description>
+  <NeedBeauty.stages.5.label>smukke omgivelser</NeedBeauty.stages.5.label>
+  <NeedBeauty.stages.5.description>Dette sted er smukt. Det løfter mig op og får mig til at elske livet.</NeedBeauty.stages.5.description>
+
+  <NeedSpace.stages.0.label>meget trangt interiør</NeedSpace.stages.0.label>
+  <NeedSpace.stages.0.description>Jeg føler mig som en rotte i et lille bur.</NeedSpace.stages.0.description>
+  <NeedSpace.stages.1.label>trangt interiør</NeedSpace.stages.1.label>
+  <NeedSpace.stages.1.description>Jeg ville ønske, jeg havde mere plads til at bevæge mig rundt og få vejret.</NeedSpace.stages.1.description>
+  <NeedSpace.stages.2.label>rummeligt interiør</NeedSpace.stages.2.label>
+  <NeedSpace.stages.2.description>Dette er et virkeligt behageligt, åbent indendørs rum.</NeedSpace.stages.2.description>
+
+
+</LanguageData>

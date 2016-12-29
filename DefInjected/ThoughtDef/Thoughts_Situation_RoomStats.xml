@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bedroom.stages.0.label>frygteligt soveværelse</Bedroom.stages.0.label>
+  <Bedroom.stages.0.description>Mit soveværelse er et forfærdeligt sted.</Bedroom.stages.0.description>
+  <Bedroom.stages.3.label>anstændigt soveværelse</Bedroom.stages.3.label>
+  <Bedroom.stages.3.description>Mit soveværelse er meget interessant. Jeg kan lide det.</Bedroom.stages.3.description>
+  <Bedroom.stages.4.label>en smule imponerende soveværelse</Bedroom.stages.4.label>
+  <Bedroom.stages.4.description>Mit soveværelse er faktisk lidt imponerende. jeg kan lide det.</Bedroom.stages.4.description>
+  <Bedroom.stages.5.label>imponerende soveværelse</Bedroom.stages.5.label>
+  <Bedroom.stages.5.description>Mit soveværelse er imponerende. Jeg elsker det!</Bedroom.stages.5.description>
+  <Bedroom.stages.6.label>meget imponerende soveværelse</Bedroom.stages.6.label>
+  <Bedroom.stages.6.description>Mit soveværelse er meget imponerende. Dette er det bedste sted nogensinde!</Bedroom.stages.6.description>
+  <Bedroom.stages.7.label>ekstremt imponerende soveværelse</Bedroom.stages.7.label>
+  <Bedroom.stages.7.description>Mit soveværelse er ekstremt imponerende. Dette er det bedste sted nogensinde!</Bedroom.stages.7.description>
+  <Bedroom.stages.8.label>utrolig imponerende soveværelse</Bedroom.stages.8.label>
+  <Bedroom.stages.8.description>Mit soveværelse er utroligt imponerende. Dette er det bedste sted nogensinde!</Bedroom.stages.8.description>
+  <Bedroom.stages.9.label>vidunderligt imponerende soveværelse</Bedroom.stages.9.label>
+  <Bedroom.stages.9.description>Mit soveværelse er det bedste sted man kan forestille sig. Det er vidunderligt.</Bedroom.stages.9.description>
+
+  <PrisonCell.stages.0.label>frygteligt fængselscelle</PrisonCell.stages.0.label>
+  <PrisonCell.stages.0.description>Min fængselscelle er et frygteligt sted.</PrisonCell.stages.0.description>
+  <PrisonCell.stages.3.label>anstændig fængselscelle</PrisonCell.stages.3.label>
+  <PrisonCell.stages.3.description>Min fængselscelle er temmelig anstændig.</PrisonCell.stages.3.description>
+  <PrisonCell.stages.4.label>en smule imponerende fængselscelle</PrisonCell.stages.4.label>
+  <PrisonCell.stages.4.description>Min fængselscelle virker til at være et rart sted.</PrisonCell.stages.4.description>
+  <PrisonCell.stages.5.label>imponerende fængselscelle</PrisonCell.stages.5.label>
+  <PrisonCell.stages.5.description>Min fængselscelle er imponerende. Jeg kan ikke tro de holder mig i et rum som dette.</PrisonCell.stages.5.description>
+  <PrisonCell.stages.6.label>meget imponerende fængselscelle</PrisonCell.stages.6.label>
+  <PrisonCell.stages.6.description>Min fængselscelle er meget imponerende. Jeg kan ikke tro, de holder mig i et rum som dette. jeg elsker det!</PrisonCell.stages.6.description>
+  <PrisonCell.stages.7.label>ekstremt imponerende fængselscelle</PrisonCell.stages.7.label>
+  <PrisonCell.stages.7.description>Min fængselscelle er ekstremt imponerende. Jeg kan ikke tro, de holder mig i et rum som dette. jeg elsker det!</PrisonCell.stages.7.description>
+  <PrisonCell.stages.8.label>utrolig imponerende fængselscelle</PrisonCell.stages.8.label>
+  <PrisonCell.stages.8.description>Min fængselscelle er utroligt imponerende. Dette er det bedste sted nogensinde!</PrisonCell.stages.8.description>
+  <PrisonCell.stages.9.label>vidunderlig imponerende fængselscelle</PrisonCell.stages.9.label>
+  <PrisonCell.stages.9.description>Min fængselscelle er det bedste sted man kan forestille sig. Jeg kan blive her for evigt.</PrisonCell.stages.9.description>
+
+  <Barracks.stages.0.label>frygteligt barak</Barracks.stages.0.label>
+  <Barracks.stages.0.description>Min barak er et frygtelig sted.</Barracks.stages.0.description>
+  <Barracks.stages.1.label>kedelig barak</Barracks.stages.1.label>
+  <Barracks.stages.1.description>Jeg bor i en kedelig barak.</Barracks.stages.1.description>
+  <Barracks.stages.4.label>en smule imponerende barak</Barracks.stages.4.label>
+  <Barracks.stages.4.description>Min barak er et dejligt sted. Jeg ville dog ønske jeg havde mit eget soveværelse.</Barracks.stages.4.description>
+  <Barracks.stages.5.label>imponerende barak</Barracks.stages.5.label>
+  <Barracks.stages.5.description>Min barak er imponerende. Jeg kan lide det. Jeg ville dog ønske jeg havde mit eget soveværelse.</Barracks.stages.5.description>
+  <Barracks.stages.6.label>meget imponerende barrack</Barracks.stages.6.label>
+  <Barracks.stages.6.description>Min barak er meget imponerende. Jeg elsker det!</Barracks.stages.6.description>
+  <Barracks.stages.7.label>ekstremt imponerende barrack</Barracks.stages.7.label>
+  <Barracks.stages.7.description>Min barak er ekstremt imponerende. Dette er det bedste sted nogensinde!</Barracks.stages.7.description>
+  <Barracks.stages.8.label>utroligt imponerende barak</Barracks.stages.8.label>
+  <Barracks.stages.8.description>Min barak er utrolig imponerende. Dette er det bedste sted nogensinde!</Barracks.stages.8.description>
+  <Barracks.stages.9.label>vidunderligt imponerende barak</Barracks.stages.9.label>
+  <Barracks.stages.9.description>Min barak er det bedste sted man kan forestille sig. Det er vidunderligt.</Barracks.stages.9.description>
+
+  <PrisonBarracks.stages.0.label>frygteligt barak</PrisonBarracks.stages.0.label>
+  <PrisonBarracks.stages.0.description>Min fængsels barak er et frygtelig sted..</PrisonBarracks.stages.0.description>
+  <PrisonBarracks.stages.1.label>kedelig barak</PrisonBarracks.stages.1.label>
+  <PrisonBarracks.stages.1.description>Jeg bor i en kedelig fængsels barak.</PrisonBarracks.stages.1.description>
+  <PrisonBarracks.stages.4.label>en smule imponerende barak</PrisonBarracks.stages.4.label>
+  <PrisonBarracks.stages.4.description>Min fængsels barak er lidt imponerende.</PrisonBarracks.stages.4.description>
+  <PrisonBarracks.stages.5.label>nogenlunde imponerende barak</PrisonBarracks.stages.5.label>
+  <PrisonBarracks.stages.5.description>Min fængsels barak er imponerende. Jeg kan lide det.</PrisonBarracks.stages.5.description>
+  <PrisonBarracks.stages.6.label>meget imponerende barrack</PrisonBarracks.stages.6.label>
+  <PrisonBarracks.stages.6.description>Min fængsels barak er meget imponerende. jeg kan lide det.</PrisonBarracks.stages.6.description>
+  <PrisonBarracks.stages.7.label>ekstremt imponerende barrack</PrisonBarracks.stages.7.label>
+  <PrisonBarracks.stages.7.description>Min fængsels barak er ekstremt imponerende. Jeg kan ikke tro, de holder mig et sted som dette.</PrisonBarracks.stages.7.description>
+  <PrisonBarracks.stages.8.label>utroligt imponerende barak</PrisonBarracks.stages.8.label>
+  <PrisonBarracks.stages.8.description>Min fængsels barak er utrolig imponerende. Jeg kan ikke tro, de holder mig et sted som dette.</PrisonBarracks.stages.8.description>
+  <PrisonBarracks.stages.9.label>vidunderligt imponerende barak</PrisonBarracks.stages.9.label>
+  <PrisonBarracks.stages.9.description>Min fængsels barak er vidunderlig! Jeg kan ikke tro, de holder mig et sted som dette.</PrisonBarracks.stages.9.description>
+
+  <HospitalPatientRoomStats.stages.0.label>frygteligt hospital</HospitalPatientRoomStats.stages.0.label>
+  <HospitalPatientRoomStats.stages.0.description>Dette hospital er forfærdeligt.</HospitalPatientRoomStats.stages.0.description>
+  <HospitalPatientRoomStats.stages.1.label>kedelig hospital</HospitalPatientRoomStats.stages.1.label>
+  <HospitalPatientRoomStats.stages.1.description>Jeg sidder fast i et kedeligt hospital.</HospitalPatientRoomStats.stages.1.description>
+  <HospitalPatientRoomStats.stages.4.label>en smule imponerende hospital</HospitalPatientRoomStats.stages.4.label>
+  <HospitalPatientRoomStats.stages.4.description>Mit hospital er lidt imponerende. Det gør mig en smule bedre.</HospitalPatientRoomStats.stages.4.description>
+  <HospitalPatientRoomStats.stages.5.label>nogenlunde imponerende hospital</HospitalPatientRoomStats.stages.5.label>
+  <HospitalPatientRoomStats.stages.5.description>Mit hospital er imponerende. Det gør mig bedre.</HospitalPatientRoomStats.stages.5.description>
+  <HospitalPatientRoomStats.stages.6.label>meget imponerende hospital</HospitalPatientRoomStats.stages.6.label>
+  <HospitalPatientRoomStats.stages.6.description>Mit hospital er meget imponerende. Det gør mig bedre.</HospitalPatientRoomStats.stages.6.description>
+  <HospitalPatientRoomStats.stages.7.label>ekstremt imponerende hospital</HospitalPatientRoomStats.stages.7.label>
+  <HospitalPatientRoomStats.stages.7.description>Mit hospital er ekstremt imponerende. Føler mig allerede bedre.</HospitalPatientRoomStats.stages.7.description>
+  <HospitalPatientRoomStats.stages.8.label>utroligt imponerende hospital</HospitalPatientRoomStats.stages.8.label>
+  <HospitalPatientRoomStats.stages.8.description>Mit hospital er utrolig imponerende. Føler mig allerede bedre.</HospitalPatientRoomStats.stages.8.description>
+  <HospitalPatientRoomStats.stages.9.label>vidunderligt imponerende hospital</HospitalPatientRoomStats.stages.9.label>
+  <HospitalPatientRoomStats.stages.9.description>Mit hospital er vidunderlig! Føler mig allerede sig bedre.</HospitalPatientRoomStats.stages.9.description>
+
+
+</LanguageData>
