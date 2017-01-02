@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caravan.label>karavan</Caravan.label>
+  <Caravan.description>En gruppe af rejsende folk.</Caravan.description>
+
+  <FactionBase.label>faktions base</FactionBase.label>
+  <FactionBase.description>En base for en af fraktionerne.</FactionBase.description>
+
+  <AbandonedFactionBase.label>forladte fraktion base</AbandonedFactionBase.label>
+  <AbandonedFactionBase.description>En forladt base af en af fraktionerne.</AbandonedFactionBase.description>
+
+  <DestroyedFactionBase.label>ødelagt fraktion base</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>En ødelagt fraktion base.</DestroyedFactionBase.description>
+
+  <JourneyDestination.label>rejse destination</JourneyDestination.label>
+  <JourneyDestination.description>Beliggenheden af et skjult rumskib, der kan hjælpe dig med at slippe væk fra planeten.</JourneyDestination.description>
+
+  <AttackedCaravan.label>angrebet karavane</AttackedCaravan.label>
+  <AttackedCaravan.description>En karavane under angreb.</AttackedCaravan.description>
+
+  <TravelingTransportPods.label>transport kapsel</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Transport kapsler i flyvning.</TravelingTransportPods.description>
+
+
+</LanguageData>
