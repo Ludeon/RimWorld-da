@@ -30,7 +30,7 @@
   <ElectricStove.label>electrisk komfur</ElectricStove.label>
   <ElectricStove.description>Et elektrisk drevet komfur med et vedhæftet køkkenbordet til at tilberede måltider.</ElectricStove.description>
 
-  <FueledStove.label>drevnet komfur</FueledStove.label>
+  <FueledStove.label>drevet komfur</FueledStove.label>
   <FueledStove.description>Et enkelt træ-drevne komfur med et vedhæftet køkkenbordet til at tilberede måltider.</FueledStove.description>
 
   <TableStonecutter.label>stenhugger bord</TableStonecutter.label>
@@ -66,7 +66,7 @@
   <HydroponicsBasin.label>hydroponics bassin</HydroponicsBasin.label>
   <HydroponicsBasin.description>Vokser planter hurtigt i et kunstigt næringsstofs bad. Kræver strøm for at arbejde; planter vil dø, hvis strømmen er afbrudt.</HydroponicsBasin.description>
 
-  <FermentingBarrel.label>fermenteringstønde</FermentingBarrel.label>
+  <FermentingBarrel.label>Gæringstønde</FermentingBarrel.label>
   <FermentingBarrel.description>En tønde til fermentering af malt til øl.</FermentingBarrel.description>
 
   <DeepDrill.label>dybtebor</DeepDrill.label>
