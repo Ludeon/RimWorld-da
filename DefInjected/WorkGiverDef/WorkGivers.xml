@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Firefighter -->
+
+  <FightFires.label>bekæmp ildebrand</FightFires.label>
+  <FightFires.verb>sluk</FightFires.verb>
+  <FightFires.gerund>slukker</FightFires.gerund>
+
+
+  <!-- PatientEmergency -->
+
+  <PatientGoToBedEmergency.label>gå i seng for akut behandling</PatientGoToBedEmergency.label>
+  <PatientGoToBedEmergency.verb>modtage behandling i</PatientGoToBedEmergency.verb>
+  <PatientGoToBedEmergency.gerund>modtage behandling i</PatientGoToBedEmergency.gerund>
+
+
+  <!-- Doctor -->
+
+  <DoctorTreatEmergency.label>giv akut behandling</DoctorTreatEmergency.label>
+  <DoctorTreatEmergency.verb>behandel</DoctorTreatEmergency.verb>
+  <DoctorTreatEmergency.gerund>behandler</DoctorTreatEmergency.gerund>
+
+  <DoctorRescue.label>red falden allierede i seng</DoctorRescue.label>
+  <DoctorRescue.verb>redninger</DoctorRescue.verb>
+  <DoctorRescue.gerund>redder</DoctorRescue.gerund>
+
+  <DoBillsMedicalHumanOperation.label>operere på menneskeligende</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.verb>operere</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.gerund>operer på</DoBillsMedicalHumanOperation.gerund>
+
+  <DoctorTreat.label>giv behandling</DoctorTreat.label>
+  <DoctorTreat.verb>behandel</DoctorTreat.verb>
+  <DoctorTreat.gerund>behandler</DoctorTreat.gerund>
+
+  <DoctorFeed.label>foder patient</DoctorFeed.label>
+  <DoctorFeed.verb>foder</DoctorFeed.verb>
+  <DoctorFeed.gerund>fodere</DoctorFeed.gerund>
+
+  <DoBillsMedicalAnimalOperation.label>operere på dyr</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.verb>operere</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.gerund>operer på</DoBillsMedicalAnimalOperation.gerund>
+
+  <TakeToBedToOperate.label>tag patienter i seng til operationer</TakeToBedToOperate.label>
+  <TakeToBedToOperate.verb>tag for at operere</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.gerund>tager for at operere</TakeToBedToOperate.gerund>
+
+  <VisitSickPawn.label>besøge syge mennesker</VisitSickPawn.label>
+  <VisitSickPawn.verb>besøg</VisitSickPawn.verb>
+  <VisitSickPawn.gerund>besøger</VisitSickPawn.gerund>
+
+
+  <!-- PatientBedRest -->
+
+  <PatientGoToBed.label>blive rask i sengen</PatientGoToBed.label>
+  <PatientGoToBed.verb>få sengehvile i</PatientGoToBed.verb>
+  <PatientGoToBed.gerund>få sengehvile i</PatientGoToBed.gerund>
+
+
+  <!-- Flicker -->
+
+  <Flick.label>svirp kontakter</Flick.label>
+  <Flick.verb>svirp kontakter på</Flick.verb>
+  <Flick.gerund>svirp kontakter på</Flick.gerund>
+
+
+  <!-- Warden -->
+
+  <DoExecution.label>henret fanger</DoExecution.label>
+  <DoExecution.verb>udfør henrettelse på</DoExecution.verb>
+  <DoExecution.gerund>udføre henrettelse på</DoExecution.gerund>
+
+  <ReleasePrisoner.label>frigiv fanger</ReleasePrisoner.label>
+  <ReleasePrisoner.verb>frigiv</ReleasePrisoner.verb>
+  <ReleasePrisoner.gerund>frigiver</ReleasePrisoner.gerund>
+
+  <TakePrisonerToBed.label>tage fanger i seng</TakePrisonerToBed.label>
+  <TakePrisonerToBed.verb>tag til seng</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.gerund>tager til seng</TakePrisonerToBed.gerund>
+
+  <FeedPrisoner.label>foder fanger</FeedPrisoner.label>
+  <FeedPrisoner.verb>foder</FeedPrisoner.verb>
+  <FeedPrisoner.gerund>fodre</FeedPrisoner.gerund>
+
+  <DeliverFoodToPrisoner.label>levere mad til fanger</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.verb>lever mad til</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.gerund>levere mad til</DeliverFoodToPrisoner.gerund>
+
+  <ChatWithPrisoner.label>snak med fangerne</ChatWithPrisoner.label>
+  <ChatWithPrisoner.verb>snak med</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.gerund>snakker med</ChatWithPrisoner.gerund>
+
+
+  <!-- Handling -->
+
+  <Slaughter.label>slagt dyr</Slaughter.label>
+  <Slaughter.verb>slagt</Slaughter.verb>
+  <Slaughter.gerund>slagter</Slaughter.gerund>
+
+  <Milk.label>malke dyr</Milk.label>
+  <Milk.verb>malke</Milk.verb>
+  <Milk.gerund>malker</Milk.gerund>
+
+  <Shear.label>klip dyr</Shear.label>
+  <Shear.verb>klip</Shear.verb>
+  <Shear.gerund>klipper</Shear.gerund>
+
+  <Tame.label>tæm dyr</Tame.label>
+  <Tame.verb>tæm</Tame.verb>
+  <Tame.gerund>tæmmer</Tame.gerund>
+
+  <Train.label>træn dyr</Train.label>
+  <Train.verb>træn</Train.verb>
+  <Train.gerund>træner</Train.gerund>
+
+
+  <!-- Cooking -->
+
+  <DoBillsCook.label>tilbered måltider på komfuret</DoBillsCook.label>
+  <DoBillsCook.verb>tilbered</DoBillsCook.verb>
+  <DoBillsCook.gerund>tilbereder</DoBillsCook.gerund>
+
+  <DoBillsCookCampfire.label>tilbered måltider ved lejerbål</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.verb>tilbered</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.gerund>tilbereder</DoBillsCookCampfire.gerund>
+
+  <DoBillsButcherFlesh.label>slagt væsen</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.verb>slagt</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.gerund>slagter ved</DoBillsButcherFlesh.gerund>
+
+  <CookFillHopper.label>fyld magasin</CookFillHopper.label>
+  <CookFillHopper.verb>fyld</CookFillHopper.verb>
+  <CookFillHopper.gerund>fylder</CookFillHopper.gerund>
+
+  <DoBillsBrew.label>bryg drikkevarer</DoBillsBrew.label>
+  <DoBillsBrew.verb>bryg</DoBillsBrew.verb>
+  <DoBillsBrew.gerund>bryger</DoBillsBrew.gerund>
+
+
+  <!-- Hunting -->
+
+  <HunterHunt.label>jagt</HunterHunt.label>
+  <HunterHunt.verb>jag</HunterHunt.verb>
+  <HunterHunt.gerund>jager</HunterHunt.gerund>
+
+
+  <!-- Construction -->
+
+  <DoBillsMedicalMechanoidOperation.label>operere på mekaniter</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>modificer</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>modificerende</DoBillsMedicalMechanoidOperation.gerund>
+
+  <FixBrokenDownBuilding.label>reparer nedbrudte bygninger</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.verb>erstat ødelagt komponenter i</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.gerund>erstater ødelagt komponenter i</FixBrokenDownBuilding.gerund>
+
+  <Repair.label>reparere beskadigede ting</Repair.label>
+  <Repair.verb>reparer</Repair.verb>
+  <Repair.gerund>reparere</Repair.gerund>
+
+  <BuildRoofs.label>byg tag</BuildRoofs.label>
+  <BuildRoofs.verb>byg tag</BuildRoofs.verb>
+  <BuildRoofs.gerund>bygger tag</BuildRoofs.gerund>
+
+  <RemoveRoofs.label>fjern tag</RemoveRoofs.label>
+  <RemoveRoofs.verb>fjern tag</RemoveRoofs.verb>
+  <RemoveRoofs.gerund>fjerner tag</RemoveRoofs.gerund>
+
+  <ConstructFinishFrames.label>konstruere anbragte rammer</ConstructFinishFrames.label>
+  <ConstructFinishFrames.verb>konstruere</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.gerund>konstruer</ConstructFinishFrames.gerund>
+
+  <ConstructDeliverResourcesToFrames.label>levere ressourcer til rammer</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.verb>arbejd på</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.gerund>arbejder på</ConstructDeliverResourcesToFrames.gerund>
+
+  <ConstructDeliverResourcesToBlueprints.label>levere ressourcer til tegninger</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.verb>arbejd på</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.gerund>arbejder på</ConstructDeliverResourcesToBlueprints.gerund>
+
+  <Deconstruct.label>dekonstruere strukturer</Deconstruct.label>
+  <Deconstruct.verb>dekonstruer</Deconstruct.verb>
+  <Deconstruct.gerund>dekonstruer</Deconstruct.gerund>
+
+  <Uninstall.label>afinstallere strukturer</Uninstall.label>
+  <Uninstall.verb>afinstaller</Uninstall.verb>
+  <Uninstall.gerund>afinstallere</Uninstall.gerund>
+
+  <ConstructRemoveFloors.label>fjern gulv</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.verb>fjern gulv</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.gerund>fjerner gulv</ConstructRemoveFloors.gerund>
+
+  <ConstructSmoothFloors.label>udglat gulve</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.verb>udglat</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.gerund>udglater</ConstructSmoothFloors.gerund>
+
+
+  <!-- Growing -->
+
+  <GrowerHarvest.label>høst afgrøder</GrowerHarvest.label>
+  <GrowerHarvest.verb>høst</GrowerHarvest.verb>
+  <GrowerHarvest.gerund>høster</GrowerHarvest.gerund>
+
+  <GrowerSow.label>så afgrøder</GrowerSow.label>
+  <GrowerSow.verb>så</GrowerSow.verb>
+  <GrowerSow.gerund>såer</GrowerSow.gerund>
+
+
+  <!-- Mining -->
+
+  <Mine.label>mine</Mine.label>
+  <Mine.verb>mine</Mine.verb>
+  <Mine.gerund>miner</Mine.gerund>
+
+  <Drill.label>bor</Drill.label>
+  <Drill.verb>bor</Drill.verb>
+  <Drill.gerund>bore</Drill.gerund>
+
+
+  <!-- PlantCutting -->
+
+  <PlantsCut.label>skær planter</PlantsCut.label>
+  <PlantsCut.verb>skær</PlantsCut.verb>
+  <PlantsCut.gerund>skære</PlantsCut.gerund>
+
+
+  <!-- Smithing -->
+
+  <DoBillsMakeWeapons.label>lav våben</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.verb>smed</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.gerund>smed ved</DoBillsMakeWeapons.gerund>
+
+  <DoBillsMachiningTable.label>lav ordrer ved maskinbord</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.verb>arbejd</DoBillsMachiningTable.verb>
+  <DoBillsMachiningTable.gerund>arbejder ved</DoBillsMachiningTable.gerund>
+
+  <DoBillsComponentAssemblyBench.label>sammel komponenter</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.verb>producer komponenter</DoBillsComponentAssemblyBench.verb>
+  <DoBillsComponentAssemblyBench.gerund>producere komponenter ved</DoBillsComponentAssemblyBench.gerund>
+
+
+  <!-- Tailoring -->
+
+  <DoBillsMakeApparel.label>sy tøj</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.verb>sy</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.gerund>syer ved</DoBillsMakeApparel.gerund>
+
+
+  <!-- Art -->
+
+  <DoBillsSculpt.label>udform</DoBillsSculpt.label>
+  <DoBillsSculpt.verb>udform</DoBillsSculpt.verb>
+  <DoBillsSculpt.gerund>udformer ved</DoBillsSculpt.gerund>
+
+
+  <!-- Crafting -->
+
+  <DoBillsUseCraftingSpot.label>lav ordrer ved byggeplads</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.verb>byg</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.gerund>byg ved</DoBillsUseCraftingSpot.gerund>
+
+  <DoBillsRefinery.label>arbejd ved raffinaderiet</DoBillsRefinery.label>
+  <DoBillsRefinery.verb>raffiner kemikalier</DoBillsRefinery.verb>
+  <DoBillsRefinery.gerund>raffinere kemikalier ved</DoBillsRefinery.gerund>
+
+  <DoBillsProduceDrugs.label>producer narkotika</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.verb>producer narkotika</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.gerund>producere narkotika ved</DoBillsProduceDrugs.gerund>
+
+  <DoBillsStonecut.label>skær sten</DoBillsStonecut.label>
+  <DoBillsStonecut.verb>stenhug</DoBillsStonecut.verb>
+  <DoBillsStonecut.gerund>stenhugger ved</DoBillsStonecut.gerund>
+
+  <DoBillsSmelter.label>smelt genstande</DoBillsSmelter.label>
+  <DoBillsSmelter.verb>raffiner</DoBillsSmelter.verb>
+  <DoBillsSmelter.gerund>raffinere ved</DoBillsSmelter.gerund>
+
+
+  <!-- Hauling -->
+
+  <UnloadCarriers.label>aflæs bærere</UnloadCarriers.label>
+  <UnloadCarriers.verb>aflæs</UnloadCarriers.verb>
+  <UnloadCarriers.gerund>aflæser</UnloadCarriers.gerund>
+
+  <LoadTransporters.label>pålæs transportere</LoadTransporters.label>
+  <LoadTransporters.verb>pålæs</LoadTransporters.verb>
+  <LoadTransporters.gerund>pålæser</LoadTransporters.gerund>
+
+  <Strip.label>afklæd lig</Strip.label>
+  <Strip.verb>afklæd</Strip.verb>
+  <Strip.gerund>afklæder</Strip.gerund>
+
+  <BuryCorpses.label>begrav lig</BuryCorpses.label>
+  <BuryCorpses.verb>begrav</BuryCorpses.verb>
+  <BuryCorpses.gerund>begraver</BuryCorpses.gerund>
+
+  <HaulCorpses.label>slæb lig</HaulCorpses.label>
+  <HaulCorpses.verb>slæb</HaulCorpses.verb>
+  <HaulCorpses.gerund>slæber</HaulCorpses.gerund>
+
+  <Open.label>åben beholder</Open.label>
+  <Open.verb>åben</Open.verb>
+  <Open.gerund>åbner</Open.gerund>
+
+  <Refuel.label>tanke op tankbare bygninger</Refuel.label>
+  <Refuel.verb>tank op</Refuel.verb>
+  <Refuel.gerund>tanker op</Refuel.gerund>
+
+  <RearmTraps.label>rearmer fælde</RearmTraps.label>
+  <RearmTraps.verb>rearmer</RearmTraps.verb>
+  <RearmTraps.gerund>rearmere</RearmTraps.gerund>
+
+  <DoBillsCremate.label>udfør kremerings ordrer</DoBillsCremate.label>
+  <DoBillsCremate.verb>kremer</DoBillsCremate.verb>
+  <DoBillsCremate.gerund>kremere ved</DoBillsCremate.gerund>
+
+  <DoBillsHaulCampfire.label>udfør ordrer ved lejerbål</DoBillsHaulCampfire.label>
+  <DoBillsHaulCampfire.verb>arbejd ved</DoBillsHaulCampfire.verb>
+  <DoBillsHaulCampfire.gerund>arbejder ved</DoBillsHaulCampfire.gerund>
+
+  <TakeBeerOutOfFermentingBarrel.label>tage øl ud til at gæringstønder</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.verb>tag øl</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.gerund>tager øl ud af</TakeBeerOutOfFermentingBarrel.gerund>
+
+  <FillFermentingBarrel.label>fyld gæringstønder</FillFermentingBarrel.label>
+  <FillFermentingBarrel.verb>fyld</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.gerund>fylder</FillFermentingBarrel.gerund>
+
+  <HaulGeneral.label>slæb generalle ting</HaulGeneral.label>
+  <HaulGeneral.verb>slæb</HaulGeneral.verb>
+  <HaulGeneral.gerund>slæber</HaulGeneral.gerund>
+
+
+  <!-- Cleaning -->
+
+  <CleanClearSnow.label>ryd sne</CleanClearSnow.label>
+  <CleanClearSnow.verb>ryd sne</CleanClearSnow.verb>
+  <CleanClearSnow.gerund>ryder sne</CleanClearSnow.gerund>
+
+  <CleanFilth.label>rens skidt</CleanFilth.label>
+  <CleanFilth.verb>gør rent</CleanFilth.verb>
+  <CleanFilth.gerund>rengøre</CleanFilth.gerund>
+
+
+  <!-- Research -->
+
+  <Research.label>lav forskning</Research.label>
+  <Research.verb>forskning</Research.verb>
+  <Research.gerund>forsker ved</Research.gerund>
+
+
+</LanguageData>
