@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Clear.label>klar</Clear.label>
+  <Clear.description>En klar dag. Ingen minuser eller modifikatorer.</Clear.description>
+
+  <Fog.label>tåget</Fog.label>
+  <Fog.description>tåge reducerer nøjagtigheden af langdistancevåben.</Fog.description>
+
+  <Rain.label>regn</Rain.label>
+  <Rain.description>Regn reducerer nøjagtigheden af langdistancevåben, slukker ild, og nedsætter folks fart.</Rain.description>
+
+  <DryThunderstorm.label>tør tordenvejr</DryThunderstorm.label>
+  <DryThunderstorm.description>Tørre tordenvejr er farlige, fordi lynet kan starte brande, og der er ingen regn at slukke dem.</DryThunderstorm.description>
+
+  <RainyThunderstorm.label>regnfuld tordenvejr</RainyThunderstorm.label>
+  <RainyThunderstorm.description>Lynene vil starte brande, men regnen vil slukke dem. Regnen reducerer også bevægelse hastighed og træfsikkerheden.</RainyThunderstorm.description>
+
+  <FoggyRain.label>tåget regn</FoggyRain.label>
+  <FoggyRain.description>Reducerer trøfsikkerhed og bevægelse hastighed.</FoggyRain.description>
+
+  <SnowHard.label>hård sne</SnowHard.label>
+  <SnowHard.description>Sne reducerer træfsikkerheden af langdistancevåben, slukker ild, og sløver folks hastighed.</SnowHard.description>
+
+  <SnowGentle.label>blid sne</SnowGentle.label>
+  <SnowGentle.description>Sne reducerer træfsikkerheden af langdistancevåben, slukker ild, og sløver folks hastighed.</SnowGentle.description>
+
+
+</LanguageData>
