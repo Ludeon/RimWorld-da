@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <None.label>ingen</None.label>
+  <Name.label>navn</Name.label>
+  <MarketValue.label>markedsværdig</MarketValue.label>
+  <Category.label>kategori</Category.label>
+  <Quality.label>kvaitet</Quality.label>
+  <HitPointsPercentage.label>helbreds points procenter</HitPointsPercentage.label>
+
+</LanguageData>
