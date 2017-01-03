@@ -75,7 +75,7 @@
 
   <!-- Nutrient dispenser -->
 
-  <NutrientPasteDispenser.label>næringspurè dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>ernærings dispenser</NutrientPasteDispenser.label>
   <NutrientPasteDispenser.description>Syntesiserer næringspurè fra organisk materiale. Bruger mindre ingredienser og tid end nogen anden form for måltids produktion - men ingen kan lide at spise næringspurè. Kan bruge rå madvare, men ikke groft plante materialer som hø.</NutrientPasteDispenser.description>
 
   <Hopper.label>magasin</Hopper.label>
