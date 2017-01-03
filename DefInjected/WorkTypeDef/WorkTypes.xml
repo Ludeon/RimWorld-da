@@ -61,8 +61,8 @@
   <Construction.description>Byg ting som du har udpeget, og reparere beskadigede eller nedbrudte bygninger.</Construction.description>
   <Construction.verb>Konstruer</Construction.verb>
 
-  <Growing.labelShort>Gartner</Growing.labelShort>
-  <Growing.pawnLabel>Grower</Growing.pawnLabel>
+  <Growing.labelShort>Dyrkning</Growing.labelShort>
+  <Growing.pawnLabel>Gartner</Growing.pawnLabel>
   <Growing.gerundLabel>Dyrkning</Growing.gerundLabel>
   <Growing.description>Plant frø og høst færdige afgrøder.</Growing.description>
   <Growing.verb>Dyrk</Growing.verb>
