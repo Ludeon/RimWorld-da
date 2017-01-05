@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Root.label>rødder</Root.label>
+  <Root.label>root</Root.label>
 
 
   <!-- Foods -->
 
   <Foods.label>madvare</Foods.label>
   <FoodMeals.label>måltider</FoodMeals.label>
-  <FoodRaw.label>råmadvare</FoodRaw.label>
-  <MeatRaw.label>køde</MeatRaw.label>
+  <FoodRaw.label>rå madvare</FoodRaw.label>
+  <MeatRaw.label>kød</MeatRaw.label>
   <PlantFoodRaw.label>vegetar</PlantFoodRaw.label>
   <AnimalProductRaw.label>animalske produkter</AnimalProductRaw.label>
   <EggsUnfertilized.label>æg (ubef.)</EggsUnfertilized.label>
@@ -22,13 +22,13 @@
   <Textiles.label>tekstiler</Textiles.label>
   <Leathers.label>læder</Leathers.label>
   <Medicine.label>medicin</Medicine.label>
-  <Drugs.label>stoffer</Drugs.label>
+  <Drugs.label>narkotika</Drugs.label>
 
 
   <!-- Raw resources -->
 
   <ResourcesRaw.label>rå ressourcer</ResourcesRaw.label>
-  <PlantMatter.label>plantematerialer</PlantMatter.label>
+  <PlantMatter.label>plantemateriale</PlantMatter.label>
   <StoneBlocks.label>stenblokke</StoneBlocks.label>
 
 
@@ -40,15 +40,15 @@
   <Unfinished.label>unfinished</Unfinished.label>
   <Artifacts.label>artefakter</Artifacts.label>
   <BodyParts.label>kropsdele</BodyParts.label>
-  <BodyPartsNatural.label>naturalige</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>kunstige</BodyPartsArtificial.label>
+  <BodyPartsNatural.label>naturlig</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>kunstig</BodyPartsArtificial.label>
 
 
   <!-- Weapons -->
 
   <Weapons.label>våben</Weapons.label>
-  <WeaponsMelee.label>nærkamps våben</WeaponsMelee.label>
-  <WeaponsRanged.label>afstandsvåben</WeaponsRanged.label>
+  <WeaponsMelee.label>nærkampsvåben</WeaponsMelee.label>
+  <WeaponsRanged.label>distancevåben</WeaponsRanged.label>
   <Grenades.label>granater</Grenades.label>
 
 
@@ -61,7 +61,7 @@
   <!-- Chunks -->
 
   <Chunks.label>klumper</Chunks.label>
-  <StoneChunks.label>sten klumper</StoneChunks.label>
+  <StoneChunks.label>stenklumper</StoneChunks.label>
 
 
   <!-- Corpses -->
