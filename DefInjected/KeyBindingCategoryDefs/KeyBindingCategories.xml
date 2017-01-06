@@ -18,7 +18,7 @@
     <MainTabs.label>hoved faner</MainTabs.label>
     <MainTabs.description>styring til hoved fanerne.</MainTabs.description>
 
-    <Development.label>udvikleings værktøjer</Development.label>
+    <Development.label>udviklings værktøjer</Development.label>
     <Development.description>styring til udviklerer og moddere. Kun aktiv i udviklings tilstand.</Development.description>
 
 </LanguageData>
