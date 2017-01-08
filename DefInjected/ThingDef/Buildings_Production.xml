@@ -54,7 +54,7 @@
 
   <!-- Non-standard work buildings -->
 
-  <SimpleResearchBench.label>simpel forskningsbænk</SimpleResearchBench.label>
+  <SimpleResearchBench.label>simpel forsknings bænk</SimpleResearchBench.label>
   <SimpleResearchBench.description>En simpel bænk med skriveredskaber og lavteknologiske videnskabelige værktøjer. Forskere arbejder her for at opdage nye ting.</SimpleResearchBench.description>
 
   <HiTechResearchBench.label>hightech forskningsbænk</HiTechResearchBench.label>
