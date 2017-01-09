@@ -1,22 +1,51 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <Deer.label>dådyr</Deer.label>
-    <Deer.labelMale>buk</Deer.labelMale>
-    <Deer.labelFemale>rå</Deer.labelFemale>
+    	<Deer.label>dådyr</Deer.label>
+	<Deer.lifeStages.0.labelMale>buk</Deer.lifeStages.0.labelMale>
+	<Deer.lifeStages.0.labelFemale>rå</Deer.lifeStages.0.labelFemale>
+	<Deer.lifeStages.1.labelMale>buk</Deer.lifeStages.1.labelMale>
+	<Deer.lifeStages.1.labelFemale>rå</Deer.lifeStages.1.labelFemale>
+	<Deer.lifeStages.2.labelMale>buk</Deer.lifeStages.2.labelMale>
+	<Deer.lifeStages.2.labelFemale>rå</Deer.lifeStages.2.labelFemale>
 
-    <Ibex.label>alpestenbuk</Ibex.label>
-    <Ibex.labelMale>alpestenbuk buk</Ibex.labelMale>
-    <Ibex.labelFemale>alpestenbuk rå</Ibex.labelFemale>
-	<Ibex.lifeStages.0.label>alpestenbuksunge</Ibex.lifeStages.0.label>
+    	<Ibex.label>alpestenbuk</Ibex.label>
+	<Ibex.lifeStages.0.labelMale>alpestenbuk</Ibex.lifeStages.0.labelMale>
+	<Ibex.lifeStages.0.labelFemale>alpestenbuks rå</Ibex.lifeStages.0.labelFemale>
+	<Ibex.lifeStages.1.labelMale>alpestenbuk</Ibex.lifeStages.1.labelMale>
+	<Ibex.lifeStages.1.labelFemale>alpestenbuks rå</Ibex.lifeStages.1.labelFemale>
+	<Ibex.lifeStages.2.labelMale>alpestenbuk</Ibex.lifeStages.2.labelMale>
+	<Ibex.lifeStages.2.labelFemale>alpestenbuks rå</Ibex.lifeStages.2.labelFemale>
+
+    	<Elk.label>elg</Elk.label>
+    	<Elk.lifeStages.0.labelMale>elge kalv</Elk.lifeStages.0.labelMale>
+	<Elk.lifeStages.0.labelFemale>elg kalv</Elk.lifeStages.0.labelFemale>
+	<Elk.lifeStages.1.labelMale>elg</Elk.lifeStages.1.labelMale>
+	<Elk.lifeStages.1.labelFemale>elg</Elk.lifeStages.1.labelFemale>
+	<Elk.lifeStages.2.labelMale>elg</Elk.lifeStages.2.labelMale>
+	<Elk.lifeStages.2.labelFemale>elg</Elk.lifeStages.2.labelFemale>
 	
-    <Elk.label>elg</Elk.label>
-    <Elk.lifeStages.0.label>elgekalv</Elk.lifeStages.0.label>
+    	<Caribou.label>rensdyr</Caribou.label>
+	<Caribou.lifeStages.0.labelMale>rensdyrkalv</Caribou.lifeStages.0.labelMale>
+	<Caribou.lifeStages.0.labelFemale>rensdyrkalv</Caribou.lifeStages.0.labelFemale>
+	<Caribou.lifeStages.1.labelMale>rensdyr</Caribou.lifeStages.1.labelMale>
+	<Caribou.lifeStages.1.labelFemale>rensdyr</Caribou.lifeStages.1.labelFemale>
+	<Caribou.lifeStages.2.labelMale>rensdyr</Caribou.lifeStages.2.labelMale>
+	<Caribou.lifeStages.2.labelFemale>rensdyr</Caribou.lifeStages.2.labelFemale>
+
+    	<WildBoar.label>vildsvin</WildBoar.label>
+	<WildBoar.lifeStages.0.labelMale>vildsvine grisling</WildBoar.lifeStages.0.labelMale>
+	<WildBoar.lifeStages.0.labelFemale>vildsvin grisling</WildBoar.lifeStages.0.labelFemale>
+	<WildBoar.lifeStages.1.labelMale>vildsvin orne</WildBoar.lifeStages.1.labelMale>
+	<WildBoar.lifeStages.1.labelFemale>vildsvin so</WildBoar.lifeStages.1.labelFemale>
+	<WildBoar.lifeStages.2.labelMale>vildsvin orne</WildBoar.lifeStages.2.labelMale>
+	<WildBoar.lifeStages.2.labelFemale>vildsvin so</WildBoar.lifeStages.2.labelFemale>
 	
-    <Caribou.label>rensdyr</Caribou.label>
-    <Caribou.lifeStages.0.label>rensdyrkalv</Caribou.lifeStages.0.label>
-
-    <WildBoar.label>vildsvin</WildBoar.label>
-
-    <Tortoise.label>skildpade</Tortoise.label>
+    	<Tortoise.label>skildpade</Tortoise.label>
+	<Tortoise.lifeStages.0.labelMale>skildpade</Tortoise.lifeStages.0.labelMale>
+	<Tortoise.lifeStages.0.labelFemale>skildpade</Tortoise.lifeStages.0.labelFemale>
+	<Tortoise.lifeStages.1.labelMale>skildpade</Tortoise.lifeStages.1.labelMale>
+	<Tortoise.lifeStages.1.labelFemale>skildpade</Tortoise.lifeStages.1.labelFemale>
+	<Tortoise.lifeStages.2.labelMale>skildpade</Tortoise.lifeStages.2.labelMale>
+	<Tortoise.lifeStages.2.labelFemale>skildpade</Tortoise.lifeStages.2.labelFemale>
 
 </LanguageData>
