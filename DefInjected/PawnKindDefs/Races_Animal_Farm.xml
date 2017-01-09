@@ -1,21 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <Chicken.label>kylling</Chicken.label>
-    <Chicken.labelMale>hane</Chicken.labelMale>
-    <Chicken.labelFemale>høne</Chicken.labelFemale>
-    <Chicken.lifeStages.0.label>hønekylling</Chicken.lifeStages.0.label>
-    <Chicken.lifeStages.1.labelMale>hanekylling</Chicken.lifeStages.1.labelMale>
-
+	<Chicken.lifeStages.0.labelMale>hane</Chicken.lifeStages.0.labelMale>
+	<Chicken.lifeStages.0.labelFemale>høne</Chicken.lifeStages.0.labelFemale>
+	<Chicken.lifeStages.1.labelMale>hanekylling</Chicken.lifeStages.1.labelMale>
+	<Chicken.lifeStages.1.labelFemale>høne</Chicken.lifeStages.1.labelFemale>
+	<Chicken.lifeStages.2.labelMale>hane</Chicken.lifeStages.2.labelMale>
+	<Chicken.lifeStages.2.labelFemale>høne</Chicken.lifeStages.2.labelFemale>
+ 
     <Pig.label>gris</Pig.label>
-    <Pig.labelFemale>so</Pig.labelFemale>
-	<Pig.labelMale>orne</Pig.labelMale>
-    <Pig.lifeStages.0.label>grisling</Pig.lifeStages.0.label>
-
-    <Cow.label>ko</Cow.label>
-    <Cow.labelMale>tyr</Cow.labelMale>
-    <Cow.labelFemale>ko</Cow.labelFemale>
-    <Cow.lifeStages.0.label>kalv</Cow.lifeStages.0.label>
-
+	<Pig.lifeStages.0.labelMale>orne</Pig.lifeStages.0.labelMale>
+	<Pig.lifeStages.0.labelFemale>so</Pig.lifeStages.0.labelFemale>
+	<Pig.lifeStages.1.labelMale>orne</Pig.lifeStages.1.labelMale>
+	<Pig.lifeStages.1.labelFemale>so</Pig.lifeStages.1.labelFemale>
+	<Pig.lifeStages.2.labelMale>orne</Pig.lifeStages.2.labelMale>
+	<Pig.lifeStages.2.labelFemale>so</Pig.lifeStages.2.labelFemale>
+	
+    <Cow.label>okse</Cow.label>
+	<Cow.lifeStages.0.labelMale>tyr</Cow.lifeStages.0.labelMale>
+	<Cow.lifeStages.0.labelFemale>ko</Cow.lifeStages.0.labelFemale>
+	<Cow.lifeStages.1.labelMale>tyr</Cow.lifeStages.1.labelMale>
+	<Cow.lifeStages.1.labelFemale>ko</Cow.lifeStages.1.labelFemale>
+	<Cow.lifeStages.2.labelMale>tyr</Cow.lifeStages.2.labelMale>
+	<Cow.lifeStages.2.labelFemale>ko</Cow.lifeStages.2.labelFemale>
+	
     <Alpaca.label>alpaka</Alpaca.label>
-
+	<Alpaca.lifeStages.0.labelMale>alpaka</Alpaca.lifeStages.0.labelMale>
+	<Alpaca.lifeStages.0.labelFemale>alpaka</Alpaca.lifeStages.0.labelFemale>
+	<Alpaca.lifeStages.1.labelMale>alpaka</Alpaca.lifeStages.1.labelMale>
+	<Alpaca.lifeStages.1.labelFemale>alpaka</Alpaca.lifeStages.1.labelFemale>
+	<Alpaca.lifeStages.2.labelMale>alpaka</Alpaca.lifeStages.2.labelMale>
+	<Alpaca.lifeStages.2.labelFemale>alpaka</Alpaca.lifeStages.2.labelFemale>
+  
 </LanguageData>
