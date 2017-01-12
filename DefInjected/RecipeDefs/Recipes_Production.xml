@@ -1,23 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <MakeStoneBlocks.label>lav vilkensomhelst stenblokke</MakeStoneBlocks.label>
-    <MakeStoneBlocks.description>Hug stenklumper ud til brugbare stenblokke.</MakeStoneBlocks.description>
-    <MakeStoneBlocks.jobString>Stenhugning.</MakeStoneBlocks.jobString>
-
+	<MakeStoneBlocksAny.label>lav vilkensomhelst stenblokke</MakeStoneBlocksAny.label>
+	<MakeStoneBlocksAny.description>Skær stenklumper ud til brugbare stenblokke.</MakeStoneBlocksAny.description>
+	<MakeStoneBlocksAny.jobString>Skære stenblok fra klump.</MakeStoneBlocksAny.jobString>
+    
     <ExtractMetalFromSlag.label>smelt metal fra skrot</ExtractMetalFromSlag.label>
     <ExtractMetalFromSlag.description>Ved at hjælp af varme og stærk elektromagnetisme kan brugbart metal udvindes fra klumper af skrot.</ExtractMetalFromSlag.description>
     <ExtractMetalFromSlag.jobString>Smelter metal fra skrot.</ExtractMetalFromSlag.jobString>
 
-    <SmeltWeapon.label>smetl metal fra våben</SmeltWeapon.label>
+    <SmeltWeapon.label>smetl våben</SmeltWeapon.label>
     <SmeltWeapon.description>Ved at hjælp af varme og stærk elektromagnetisme kan brugbart metal udvindes fra våben.</SmeltWeapon.description>
-    <SmeltWeapon.jobString>Smelter metal fra våben.</SmeltWeapon.jobString>
+    <SmeltWeapon.jobString>Smelter våben.</SmeltWeapon.jobString>
 
-    <MakeArtilleryShell.label>lav artelleri make artillery kugle</MakeArtilleryShell.label>
+	<DestroyWeapon.label>ødelæg våben</DestroyWeapon.label>
+	<DestroyWeapon.description>Brug varme til at ødelægge uønskede våben. Hurtigere end smeltning, og virker på ikke smeltbare objekter, men giver ingen ressourcer.</DestroyWeapon.description>
+	<DestroyWeapon.jobString>ødelæger våben.</DestroyWeapon.jobString>
+	
+    <MakeArtilleryShell.label>lav artelleri kugle</MakeArtilleryShell.label>
     <MakeArtilleryShell.description>Byg en artelleri kugle.</MakeArtilleryShell.description>
     <MakeArtilleryShell.jobString>Laver artelleri kugle.</MakeArtilleryShell.jobString>
+	
+	<MakeChemfuelFromWood.label>Lav kemzin af træ</MakeChemfuelFromWood.label>
+	<MakeChemfuelFromWood.description>Lav et parti kemzin ved at forgase træ kævler.</MakeChemfuelFromWood.description>
+	<MakeChemfuelFromWood.jobString>Raffinering kemzin fra træ.</MakeChemfuelFromWood.jobString>
+
+	<MakeChemfuelFromOrganics.label>Lav kemzin af organiske</MakeChemfuelFromOrganics.label>
+	<MakeChemfuelFromOrganics.description>Lav et parti kemzin ved at udvinde biobrændstof fra organiske råmaterialer.</MakeChemfuelFromOrganics.description>
+	<MakeChemfuelFromOrganics.jobString>Raffinering kemzin fra organiske.</MakeChemfuelFromOrganics.jobString>
 
     <MakeComponent.label>lav komponent</MakeComponent.label>
     <MakeComponent.description>Lav en komponent.</MakeComponent.description>
-    <MakeComponent.jobString>Laver en komponent.</MakeComponent.jobString>
+    <MakeComponent.jobString>Laver komponent.</MakeComponent.jobString>
 
 </LanguageData>
