@@ -130,10 +130,10 @@
     
     <!-- Storage -->
     
-    <EquipmentRack.label>redskabsstativ</EquipmentRack.label>
+    <EquipmentRack.label>redskabs stativ</EquipmentRack.label>
     <EquipmentRack.description>Genstande opbevaret i disse vil ikke forringes, selv udenfor.</EquipmentRack.description>
-    <EquipmentRack_Blueprint.label>redskabsstativ (plan)</EquipmentRack_Blueprint.label>
-    <EquipmentRack_Blueprint_Install.label>redskabsstativ (plan)</EquipmentRack_Blueprint_Install.label>
-    <EquipmentRack_Frame.label>redskabsstativ (bygger)</EquipmentRack_Frame.label>
+    <EquipmentRack_Blueprint.label>redskabs stativ (plan)</EquipmentRack_Blueprint.label>
+    <EquipmentRack_Blueprint_Install.label>redskabs stativ (plan)</EquipmentRack_Blueprint_Install.label>
+    <EquipmentRack_Frame.label>redskabs stativ (bygger)</EquipmentRack_Frame.label>
     
 </LanguageData>
