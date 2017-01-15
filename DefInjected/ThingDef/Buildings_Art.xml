@@ -3,15 +3,15 @@
 
   <!-- Sculptures -->
 
-  <SculptureSmall.label>Lille skulpture</SculptureSmall.label>
+  <SculptureSmall.label>Lille skulptur</SculptureSmall.label>
   <SculptureSmall.description>Et værk på størrelse med en torso, lavet af materialer der er modelleret til en artistisk form.</SculptureSmall.description>
-  <SculptureSmall_Blueprint_Install.label>Lille skulpture (plan)</SculptureSmall_Blueprint_Install.label>
+  <SculptureSmall_Blueprint_Install.label>Lille skulptur (plan)</SculptureSmall_Blueprint_Install.label>
 
-  <SculptureLarge.label>Stor skulpture</SculptureLarge.label>
+  <SculptureLarge.label>Stor skulptur</SculptureLarge.label>
   <SculptureLarge.description>Et værk på størrelse med et menneske, lavet af materialer der er modelleret til en artistisk form.</SculptureLarge.description>
   <SculptureLarge_Blueprint_Install.label>Stor skulpture (plan)</SculptureLarge_Blueprint_Install.label>
 
-  <SculptureGrand.label>grandiøs skulpture</SculptureGrand.label>
+  <SculptureGrand.label>grandiøs skulptur</SculptureGrand.label>
   <SculptureGrand.description>Et værk på størrelse med en bil, lavet af materialer der er modelleret til en artistisk form.</SculptureGrand.description>
   <SculptureGrand_Blueprint_Install.label>grandiøs skulpture (plan)</SculptureGrand_Blueprint_Install.label>
 
