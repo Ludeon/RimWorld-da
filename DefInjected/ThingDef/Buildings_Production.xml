@@ -1,85 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CraftingSpot.label>byggeplads</CraftingSpot.label>
+  <CraftingSpot.label>byggested</CraftingSpot.label>
   <CraftingSpot.description>En plads til at bygge simple ting som knive og buer.</CraftingSpot.description>
+  <CraftingSpot_Blueprint.label>byggested (plan)</CraftingSpot_Blueprint.label>
+  <CraftingSpot_Frame.label>byggested (bygger)</CraftingSpot_Frame.label>
 
   <!-- Work tables -->
 
-  <TableSculpting.label>billedhuggerbord</TableSculpting.label>
+  <TableSculpting.label>billedhugger bord</TableSculpting.label>
   <TableSculpting.description>Et arbejdsbord udstyret til kunstnerisk billedhugning.</TableSculpting.description>
+  <TableSculpting_Blueprint.label>billedhugger bord (plan)</TableSculpting_Blueprint.label>
+  <TableSculpting_Frame.label>billedhugger bord (bygger)</TableSculpting_Frame.label>
 
   <TableButcher.label>slagterbord</TableButcher.label>
   <TableButcher.description>Tungt bord til slagtning af døde kreaturer til stykker af råt kød.</TableButcher.description>
+  <TableButcher_Blueprint.label>slagterbord (plan)</TableButcher_Blueprint.label>
+  <TableButcher_Frame.label>slagterbord (bygger)</TableButcher_Frame.label>
 
   <HandTailoringBench.label>skrædderbænk</HandTailoringBench.label>
   <HandTailoringBench.description>Et arbejdsbord til at skræddersy tøj i hånden. Arbejder 50% så hurtigt som en elektrisk skrædderbænk.</HandTailoringBench.description>
+  <HandTailoringBench_Blueprint.label>skrædderbænk (plan)</HandTailoringBench_Blueprint.label>
+  <HandTailoringBench_Frame.label>skrædderbænk (bygger)</HandTailoringBench_Frame.label>
 
   <ElectricTailoringBench.label>elektrisk skrædderbænk</ElectricTailoringBench.label>
   <ElectricTailoringBench.description>Et arbejdsbord til at skræddersy tøj med en sygmaskine til hurtig sygning af tøj. Kan virke uden elektricitet ved 40% af den normale hastighed.</ElectricTailoringBench.description>
+  <ElectricTailoringBench_Blueprint.label>elektrisk skrædderbænk (plan)</ElectricTailoringBench_Blueprint.label>
+  <ElectricTailoringBench_Frame.label>elektrisk skrædderbænk (bygger)</ElectricTailoringBench_Frame.label>
 
-  <FueledSmithy.label>drevnet smedje</FueledSmithy.label>
+  <FueledSmithy.label>drevet smedje</FueledSmithy.label>
   <FueledSmithy.description>En træ-drevet station udstyret til at smede ikke-mekaniske våben og værktøjer.</FueledSmithy.description>
+  <FueledSmithy_Blueprint.label>fueled smithy (blueprint)</FueledSmithy_Blueprint.label>
+  <FueledSmithy_Frame.label>fueled smithy (building)</FueledSmithy_Frame.label>
 
   <ElectricSmithy.label>electrisk smedje</ElectricSmithy.label>
   <ElectricSmithy.description>En elektrisk drevet station udstyret til at smede ikke-mekaniske våben og redskaber.</ElectricSmithy.description>
+  <ElectricSmithy_Blueprint.label>electrisk smedje (plan)</ElectricSmithy_Blueprint.label>
+  <ElectricSmithy_Frame.label>electrisk smedje (bygger)</ElectricSmithy_Frame.label>
 
   <TableMachining.label>maskinbord</TableMachining.label>
   <TableMachining.description>En arbejdsstation til montering og afmontering af maskiner såsom pistoler eller mekanitlig.</TableMachining.description>
+  <TableMachining_Blueprint.label>maskinbord (plan)</TableMachining_Blueprint.label>
+  <TableMachining_Frame.label>maskinbord (bygger)</TableMachining_Frame.label>
 
   <ElectricStove.label>electrisk komfur</ElectricStove.label>
   <ElectricStove.description>Et elektrisk drevet komfur med et vedhæftet køkkenbordet til at tilberede måltider.</ElectricStove.description>
+  <ElectricStove_Blueprint.label>electrisk komfur (plan)</ElectricStove_Blueprint.label>
+  <ElectricStove_Frame.label>electrisk komfur (bygger)</ElectricStove_Frame.label>
 
   <FueledStove.label>drevet komfur</FueledStove.label>
   <FueledStove.description>Et enkelt træ-drevne komfur med et vedhæftet køkkenbordet til at tilberede måltider.</FueledStove.description>
+  <FueledStove_Blueprint.label>drevet komfur (plan)</FueledStove_Blueprint.label>
+  <FueledStove_Frame.label>drevet komfur (bygger)</FueledStove_Frame.label>
 
   <TableStonecutter.label>stenhugger bord</TableStonecutter.label>
   <TableStonecutter.description>Et arbejdsbord udstyret til at skære sten om til brugbare stenblokke.</TableStonecutter.description>
+  <TableStonecutter_Blueprint.label>stenhugger bord (plan)</TableStonecutter_Blueprint.label>
+  <TableStonecutter_Frame.label>stenhugger bord (bygger)</TableStonecutter_Frame.label>
 
   <Brewery.label>bryggeri</Brewery.label>
   <Brewery.description>En arbejdsplads med alt det nødvendige udstyr til at brygge øl.</Brewery.description>
+  <Brewery_Blueprint.label>bryggeri (plan)</Brewery_Blueprint.label>
+  <Brewery_Frame.label>bryggeri (bygger)</Brewery_Frame.label>
 
   <DrugLab.label>medicin laboratorium</DrugLab.label>
   <DrugLab.description>Et arbejdsbord udstyret med forskellige beholdere, varmeapparater og måleudstyr til fremstilling en række lægemidler.</DrugLab.description>
+  <DrugLab_Blueprint.label>medicin laboratorium (plan)</DrugLab_Blueprint.label>
+  <DrugLab_Frame.label>medicin laboratorium (bygger)</DrugLab_Frame.label>
 
   <ElectricSmelter.label>electrisk smelteværk</ElectricSmelter.label>
   <ElectricSmelter.description>Uddrag brugbar metal fra smelteklumper og andre blandede metalgenstande. Bruger en masse strøm.</ElectricSmelter.description>
+  <ElectricSmelter_Blueprint.label>electrisk smelteværk (plan)</ElectricSmelter_Blueprint.label>
+  <ElectricSmelter_Frame.label>electrisk smelteværk (bygger)</ElectricSmelter_Frame.label>
 
   <Refinery.label>raffinaderi</Refinery.label>
   <Refinery.description>Et kemisk raffineringsanlæg. Bruges til at forfine træ til kembrændstof.</Refinery.description>
+  <Refinery_Blueprint.label>raffinaderi (plan)</Refinery_Blueprint.label>
+  <Refinery_Frame.label>raffinaderi (bygger)</Refinery_Frame.label>
 
-  <ComponentAssemblyBench.label>komponentsamlings bænk</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.label>Komponent samlingsbænk</ComponentAssemblyBench.label>
   <ComponentAssemblyBench.description>Et arbejdsbord udstyret med avancerede værktøjer til fremstilling af komponenter af enklere materialer.</ComponentAssemblyBench.description>
+  <ComponentAssemblyBench_Blueprint.label>Komponent samlingsbænk (plan)</ComponentAssemblyBench_Blueprint.label>
+  <ComponentAssemblyBench_Frame.label>Komponent samlingsbænk (bygger)</ComponentAssemblyBench_Frame.label>
 
 
   <!-- Non-standard work buildings -->
 
   <SimpleResearchBench.label>simpel forsknings bænk</SimpleResearchBench.label>
   <SimpleResearchBench.description>En simpel bænk med skriveredskaber og lavteknologiske videnskabelige værktøjer. Forskere arbejder her for at opdage nye ting.</SimpleResearchBench.description>
+  <SimpleResearchBench_Blueprint.label>simpel forsknings bænk (plan)</SimpleResearchBench_Blueprint.label>
+  <SimpleResearchBench_Frame.label>simpel forsknings bænk (bænk)</SimpleResearchBench_Frame.label>
 
   <HiTechResearchBench.label>hightech forskningsbænk</HiTechResearchBench.label>
   <HiTechResearchBench.description>En højteknologisk bænk med computere og elektronisk måleudstyr. Forsknings hastigheden er fremskyndet af de højteknologiske værktøjer. Kræver strøm.</HiTechResearchBench.description>
+  <HiTechResearchBench_Blueprint.label>hightech forskningsbænk (plan)</HiTechResearchBench_Blueprint.label>
+  <HiTechResearchBench_Frame.label>hightech forskningsbænk (bygger)</HiTechResearchBench_Frame.label>
 
   <ElectricCrematorium.label>electrisk krematorium</ElectricCrematorium.label>
   <ElectricCrematorium.description>Kremere lig. Elektrisk drevet.</ElectricCrematorium.description>
+  <ElectricCrematorium_Blueprint.label>electrisk krematorium (plan)</ElectricCrematorium_Blueprint.label>
+  <ElectricCrematorium_Frame.label>electrisk krematorium (bygger)</ElectricCrematorium_Frame.label>
 
-  <HydroponicsBasin.label>hydroponics bassin</HydroponicsBasin.label>
+  <HydroponicsBasin.label>hydroponic bassin</HydroponicsBasin.label>
   <HydroponicsBasin.description>Vokser planter hurtigt i et kunstigt næringsstofs bad. Kræver strøm for at arbejde; planter vil dø, hvis strømmen er afbrudt.</HydroponicsBasin.description>
+  <HydroponicsBasin_Blueprint.label>hydroponic bassin (plan)</HydroponicsBasin_Blueprint.label>
+  <HydroponicsBasin_Frame.label>hydroponic bassin (bygger)</HydroponicsBasin_Frame.label>
 
   <FermentingBarrel.label>Gæringstønde</FermentingBarrel.label>
   <FermentingBarrel.description>En tønde til fermentering af malt til øl.</FermentingBarrel.description>
+  <FermentingBarrel_Blueprint.label>Gæringstønde (plan)</FermentingBarrel_Blueprint.label>
+  <FermentingBarrel_Blueprint_Install.label>Gæringstønde (plan)</FermentingBarrel_Blueprint_Install.label>
+  <FermentingBarrel_Frame.label>Gæringstønde (bygger)</FermentingBarrel_Frame.label>
 
   <DeepDrill.label>dybtebor</DeepDrill.label>
   <DeepDrill.description>En bor til at udvinde mineraler fra dybt under overfladen. Brug en jord-gennemtrængende scanner til at finde ressourcerne.</DeepDrill.description>
+  <DeepDrill_Blueprint.label>dybtebor (plan)</DeepDrill_Blueprint.label>
+  <DeepDrill_Frame.label>dybtebor (bygger)</DeepDrill_Frame.label>
 
 
   <!-- Nutrient dispenser -->
 
-  <NutrientPasteDispenser.label>ernærings dispenser</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>Syntesiserer næringspurè fra organisk materiale. Bruger mindre ingredienser og tid end nogen anden form for måltids produktion - men ingen kan lide at spise næringspurè. Kan bruge rå madvare, men ikke groft plante materialer som hø.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.label>ernæringspuré dispenser</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.description>Syntesiserer ernæringspurè fra organisk materiale. Bruger mindre ingredienser og tid end nogen anden form for måltids produktion - men ingen kan lide at spise næringspurè. Kan bruge rå madvare, men ikke groft plante materialer som hø.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser_Blueprint.label>nutrient paste dispenser (plan)</NutrientPasteDispenser_Blueprint.label>
+  <NutrientPasteDispenser_Frame.label>nutrient paste dispenser (bygger)</NutrientPasteDispenser_Frame.label>
 
   <Hopper.label>magasin</Hopper.label>
   <Hopper.description>Rummer ressourcer til brug for maskiner som næringspurè dispensere.</Hopper.description>
-
+  <Hopper_Blueprint.label>magasin (plan)</Hopper_Blueprint.label>
+  <Hopper_Frame.label>magasin (bygger)</Hopper_Frame.label>
 
 </LanguageData>
