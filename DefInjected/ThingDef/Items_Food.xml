@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MealSurvivalPack.label>pakket overlevelsesmåltid</MealSurvivalPack.label>
+  <MealSurvivalPack.label>overlevelses madpakke</MealSurvivalPack.label>
   <MealSurvivalPack.description>En høj kvalitets pakket måltid, fremstillet til brug i overlevelse situationer.</MealSurvivalPack.description>
 
-  <MealNutrientPaste.label>næringspurè måltid</MealNutrientPaste.label>
+  <MealNutrientPaste.label>ernæringspurè måltid</MealNutrientPaste.label>
   <MealNutrientPaste.description>En syntetisk blanding af proteiner, kulhydrater og vitaminer, aminosyrer og mineraler. Alt kroppen har brug for, og smager absolut modbydeligt.</MealNutrientPaste.description>
 
   <MealSimple.label>simpelt måltid</MealSimple.label>
