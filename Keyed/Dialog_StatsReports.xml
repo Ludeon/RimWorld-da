@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StatsReport_BaseValue>Base værdi</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>relevante træk</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>
+  </StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>livs stadie</StatsReport_LifeStage>
+  <StatsReport_Material>Materiale</StatsReport_Material>
+  <StatsReport_CharacterQuality>karakter kvalitet</StatsReport_CharacterQuality>
+  <StatsReport_Skills>færdigheds faktorer</StatsReport_Skills>
+  <StatsReport_OtherStats>Andre stat faktorer</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Helbreds faktorer</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} vigtighed</HealthFactorPercentImpact>
+  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <StatsReport_PostProcessed>Efterbehandlet buet</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Endelig værdi</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Base markedsværdien beregnes fra byggematerialer og mængden af arbejde.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Kvalitets multiplikator</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Multiplikator for alder {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Multiplikator for helbred {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Multiplikator for humør {0}</StatsReport_MoodMultiplier>
+  <StatsReport_DifficultyMultiplier>Multiplikator for vanskelighed {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>I seng</StatsReport_InBed>
+  <StatsReport_Facilities>Faciliteter</StatsReport_Facilities>
+  <StatsReport_BodySize>Multiplikator for kropsstørrelse {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Stat vises i følgende format:\nDPS (Nærkamps skade / Ventetid i sekunder / Nærkamps træf chance)\n\NDPS = Nærkamps skade * Nærkamps træf chance / Ventetid i sekunder</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Nærkamps skade</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Ventetid</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Nærkamps træf chance</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Forventede levealder</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Multiplikator for manglende kropsdele</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Udstyr og inventar masse</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>Multiplikator for båret af Lig</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>gennemsnittet af alle angreb</AverageOfAllAttacks>
+  <StatsReport_ScenarioFactor>Scenarie</StatsReport_ScenarioFactor>
+
+</LanguageData>
