@@ -1,169 +1,359 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-
-
-  <Confirm>Bekræft</Confirm>
-  <GoBack>Gå Tilbage</GoBack>
+  <Confirm>Bekræfte</Confirm>
+  <GoBack>gå tilbage</GoBack>
   <OK>OK</OK>
-  
+
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>RimWorld er blevet opdateret fra version {0} til version {1}.\n\nDette kan forårsage at gemte spil og mods fra den gamle version ikke længere fungerer.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionNonSteam>Da dette er en DRM-fri kopi, kan du installere spillet to gange i to forskellige mapper, for at kunne spille både gamle og nye versioner.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Hvis du ønsker at fortsætte med den gamle version, kan du vælge i at bruge Steams "betaversioner" funktionen.\n\n1. I Steam biblioteket skal du højreklikke på RimWorld. \n 2. Klik på Egenskaber. \n 3. Klik på betaversions fanen \n 4. Vælg den version du ønsker fra drop-ned menuen.\n\n Gamle versioner vil sandsynligvis blive fjernet fra denne liste til sidst - vi ønskede blot ikke at afskære spil som var i gang.\n\nBemærk at hvis mod skaberen opdatere deres mods til en ny spil-version, vil de sandsynligvis stoppe med at arbejde på en gammel version. Du vil måske ønske at deaktivere automatiske opdateringer for at forhindre dette.</GameUpdatedToNewVersionSteam>
+
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Genvundet fra inkompatible eller beskadiget mod fejl</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Det lader til, at nogle af de aktive mods forårsagede fejl.\n\nDe var uforenelige med hinanden, der er designet til en anden version af RimWorld eller beskadiget.\n\nAlle mods er blevet deaktiveret og kan aktiveres igen i dialogboksen mods.</RecoveredFromErrorsText>
+
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Fejl under indlæsning af aktiver</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Der opstod en fejl under indlæsning spil aktiver. Se fejllog for mere information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Spillet kører i øjeblikket med brugerdefinerede mods - de kan måske eller måske ikke forårsage disse problemer.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Fejl ved generering af kortet</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Der opstod en fejl under generering af et nyt kort. Se fejllog for mere information.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Fejl ved indlæsning af et kort</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Der opstod en fejl under indlæsning af et kort. Se fejllog for mere information.</ErrorWhileLoadingMap>
+
+  <!-- Unloaded mod with an assembly -->
+  <ModWithAssemblyWasUnloaded>Spillet kan ikke fuldt ud aflæsse modificeret kode fra deaktiverede mods, så kode fra deaktiverede mods kan stadig være aktiv.\n\nDet anbefales at du afslutter og genstarte spillet nu for at indlæse alle mods rent.</ModWithAssemblyWasUnloaded>
+
+  <!-- Missing Steam -->
+  <SteamClientMissing>Kunne ikke initialisere Steam API. Mulige årsager:\n\n-Steam kører ikke.\n-Lanceret udefra Steam uden steam_appid.txt på plads.\n-Køre med forskellige rettigheder end Steam klient (fx "som administrator").\n\nI de fleste tilfælde, vil genstartning af computeren løse dette problem.\n\nDu kan stadig spille, men ingen Steam statistik vil blive optaget og Steam funktioner vil ikke være tilgængelige.</SteamClientMissing>
+
+  <!-- Long events -->
+  <InitializingInterface>Initialiserer grænseflade</InitializingInterface>
+  <UnloadingUnusedAssets>Aflæser ubrugte aktiver</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Indlæser alle aktive mods</LoadingAllActiveMods>
+  <LoadingDefs>Indlæser defs</LoadingDefs>
+  <LoadingAssets>Indlæser aktiver</LoadingAssets>
+  <Initializing>Initialiserer</Initializing>
+  <LoadingWorld>Indlæser verden</LoadingWorld>
+  <LoadingMap>Indlæser kortet</LoadingMap>
+  <InitializingGame>Initialiserer spillet</InitializingGame>
+  <SpawningAllThings>Indsætter alle ting</SpawningAllThings>
+  <SpawningColonists>Indsætter kolonister</SpawningColonists>
+
   <!-- Save/load -->
   <SaveGameButton>Gem</SaveGameButton>
-  <OverwriteButton>Overskriv</OverwriteButton>
   <LoadGameButton>Indlæs</LoadGameButton>
+  <OverwriteButton>Overskriv</OverwriteButton>
   <ConfirmDelete>Vil du virkelig slette {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Slet dette spil.</DeleteThisSavegame>
+  <DeleteThisSavegame>Slet dette gemte spil.</DeleteThisSavegame>
   <SavedAs>Gemt som {0}.</SavedAs>
-  <NeedAName>Vælg venligst et navn.</NeedAName>
-  <LoadingLongEvent>Indlæser...</LoadingLongEvent>
-  
-  
-  <!-- Colony naming-->
-  <NameColonyMessage>Alle ved jo godt at du ikke har lyst til at blive på denne sten for evigt. Men {0} foreslår alligevel at du giver kolonien et navn.\n\nHvad skal kolonien hedde?</NameColonyMessage>
-  <ColonyGainsName>Fra nu af er kolonien kendt under navnet {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>Det navn kan din koloni ikke anvende.</ColonyNameIsInvalid>
+  <NeedAName>Angiv et navn.</NeedAName>
+  <LoadingLongEvent>Indlæser</LoadingLongEvent>
+  <SavingLongEvent>Gemmer</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Permadød)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Vi kører version {0} men gemme data er fra {1}, som er en helt anden version.\n\nAt prøve at indlæse disse data vil sandsynligvis ikke virke.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Vi kører version {0} men gemme data fra {1}, som er en anden udgave.\n\nAt prøve indlæse disse data burde stadig fungere.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Gemt data blev gemt med vores spil version og bør virke uden problemer.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Gemt data i et ukendt format og vil næsten helt sikkert ikke indlæses korrekt.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Der opstod et problem ved gemning af filen {0}:\n\n{1}\n\nSe fejllog for mere information.</ProblemSavingFile>
+  <LoadAnyway>Indlæse alligevel</LoadAnyway>
 
-  <!-- Zone naming -->
-  <ZoneGainsName>Zonen kaldes nu{0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Indtast et navn til zonen.</ZoneNameIsInvalid>
-  
+  <!-- Player faction naming -->
+  <NamePlayerFactionMessage>{0} mener, at du skal give din fraktion et navn. Hvad skal din fraktion hedde?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Din fraktion er nu kendt som {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>Dette navn er ikke gyldigt.</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>Da det ser ud til du kommer til at være her et stykke tid, mener {0} at du bør give dette samfund et navn. Hvad skal samfundet hedde?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Dette samfund er nu kendt som {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>Dette navn er ikke gyldigt.</PlayerFactionBaseNameIsInvalid>
+
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+
+  <!-- Renaming -->
+  <NameIsInvalid>Vær venlig at angive et gyldigt navn.</NameIsInvalid>
+  <NameIsInUse>Navnet er allerede i brug.</NameIsInUse>
+  <ZoneGainsName>Zonen kaldes nu {0}.</ZoneGainsName>
+
   <!-- Pawn naming -->
-  <PawnGainsName>Kolonisten er nu kendt under navnet {0}.</PawnGainsName>
+  <PawnGainsName>Denne kolonists øgenavn er nu {0}.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Version mismatch: Kortet var gemt med spil version {0}, du spiller nu på version {1}.\n\n Indlæsning af dette spil vil formodentlig medføre bugs og crashes.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Inkompatibilitet med gemt spil</SaveGameIncompatibleWarningTitle>
-  
-  <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>Du har ændret din skærmopløsning. Virker den nye okay? \n\nReturnere automatisk om {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Behold</ResolutionKeep>
-  <ResolutionRevert>Returner</ResolutionRevert>
+  <VersionMismatch>Version fejltilpasning</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Dette spil blev gemt med spil version {0}\nVi kører spil version {1}\n\nIndlæsning af denne gemt fil kan forårsage fejl og nedbrud.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Verden filen blev genereret med spil version {0}\nVi kører spil version {1}\n\nIndlæsning af denne verden kan forårsage fejl og nedbrud. Du bør nok generere en ny verden fra bunden.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>Denne fil blev gemt med spil version {0}\nVi kører spil version {1}\n\nIndlæsning af denne fil kan forårsage fejl og nedbrud.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>mods fejltilpasning</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Denne filen blev gemt med et andet sæt af mods aktive end dem, vi i øjeblikket kører. Dette kan eller kan ikke give problemer, afhængigt af præcis, hvad disse mods gør.\n\nFilen blev gemt med (i denne rækkefølge):.\n\n{0}\n\nVi kører med (i denne rækkefølge):\n\n{1}</ModsMismatchWarningText>
 
-  <!-- Overview -->
-  <OverviewOf>Oversigt over {0}</OverviewOf>
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Du har ændret dine skærmindstillinger. Fungere de nye okay?\n\nAuto-tilbage-ændre om {0} ...</ConfirmResolutionChange>
+  <ResolutionKeep>Behold</ResolutionKeep>
+  <ResolutionRevert>Vend tilbage</ResolutionRevert>
 
   <!-- Research -->
   <Research>Forskning</Research>
-  <Researched>Udforsket</Researched>
-  <Unresearched>Uudforsket</Unresearched>
-  <Finished>Færdiggjort</Finished>
-  <InProgress>Igangværende</InProgress>
-  <ResearchMenuWithoutBench>Indtil du bygger din FORSKNINGSTATION vil dine kolonister ikke kunne udføre forskning.\n\nDu kan dog stadig kigge og vælge fremtidige forskningsprojekter nu.</ResearchMenuWithoutBench>
-  
-  
+  <Researched>Forsknet</Researched>
+  <Unresearched>uForsket</Unresearched>
+  <Finished>Færdig</Finished>
+  <InProgress>I gang</InProgress>
+  <Locked>Låst</Locked>
+  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Forskning forudsætning</ResearchPrerequisites>
+  <RequiredResearchBench>Kræver forsknings bænk</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Kræver forsknings bænks facilitiesfacilities</RequiredResearchBenchFacilities>
+
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>ADVARSEL: Spillets ydeevne kan være nedsat ved større kort, medmindre din computer er ganske stærk.\n\nHvis du har en svag maskine, vælg Lille.\n\nLudeonikrisk størrelse er ikke testet og vil sikker ikke spille godt.</MapSizePerformanceWarning>
-  <MapSize>Størrelse på kort</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} felter)</MapSizeDesc>
+  <MapTemperatureDangerWarning>Advarsel: Du vil blive lande i et frossen miljø. Det kan være svært eller næsten umuligt at overleve. Hvis du ikke har til hensigt at møde en ekstrem udfordring, vælge et andet sted eller årstid.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Advarsel: Performance kan forringes på større kort størrelser. Ludeonlig størrelse er uprøvet og vil næsten helt sikkert ikke spille godt.</MapSizePerformanceWarning>
+  <MapSize>Kort størrelse</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} celler)</MapSizeDesc>
   <MapSizeSmall>Lille</MapSizeSmall>
   <MapSizeMedium>Medium</MapSizeMedium>
   <MapSizeLarge>Stort</MapSizeLarge>
-  <MapSizeExtreme>Ludeonikrisk</MapSizeExtreme>
-
-
+  <MapSizeExtreme>Ludeonlig</MapSizeExtreme>
+  <MapStartSeason>Start seæson:</MapStartSeason>
+  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <PermadeathMode>Permadød tilstand</PermadeathMode>
+  <PermadeathModeInfo>I permadøds tilstand, får du en gemme file og kan kun gemme når du lukker spillet. Du kan ikke genindlæse spillet for at rette fejl, og når kolonien dør, det er det.\n\nDet er denne måde RimWorld var beregnet til at blive spillet, hvor hver dramatisk drejning - hvorvidt tragisk eller forhåbningsfuld - spilles ud til sin fulde effekt.</PermadeathModeInfo>
 
   <!-- Bill config -->
-  <Suspended>Pauset</Suspended>
-  <NotSuspended>Ikke pauset</NotSuspended>
-  <SuspendedAllCaps>PAUSET</SuspendedAllCaps>
+  <Suspended>Suspenderet</Suspended>
+  <NotSuspended>Ikke Suspenderet</NotSuspended>
+  <SuspendedAllCaps>SUSPENDERET</SuspendedAllCaps>
   <RepeatCount>Gentag: {0}</RepeatCount>
   <Forever>Forevigt</Forever>
-  <IngredientSearchRadius>Søgeradius for ingredienser</IngredientSearchRadius>
-  <TargetCount>Fortsæt til du har: {0}</TargetCount>
+  <Details>Detaljer</Details>
+  <IngredientSearchRadius>ingrediens radius</IngredientSearchRadius>
+  <CurrentlyHave>Har i øjeblikket</CurrentlyHave>
+  <CountingProducts>Tæller</CountingProducts>
   <Infinite>Uendeligt</Infinite>
-  <RecipeCannotHaveTargetCount>(Denne opskrift kan ikke have målsat mængde, da den har flere eller uforudsigelige produkt.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Tilladte ingredienser</PermittedIngredients>
-  <MinimumSkills>Minimum færdigheder:</MinimumSkills>
+  <AllowedSkillRange>Tillad {0} færdighed:</AllowedSkillRange>
+
+  <RecipeCannotHaveTargetCount>(Denne opskrift kan ikke have et antal mål, fordi det har flere eller uforudsigelige produkter.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Arbejdsmængde</WorkAmount>
+  <MinimumSkills>Minimum færdighed:</MinimumSkills>
   <BillRequires>Kræver {0} {1}</BillRequires>
-  <UsableIngredients>Brugbare ingredienser</UsableIngredients>
-  <DoXTimes>Lav X gange</DoXTimes>
-  <DoUntilYouHaveX>Lav indtil du har X</DoUntilYouHaveX>
-  <DoForever>Lav forevigt</DoForever>
+  <BillRequiresNutrition>Kræver {0} ernæring</BillRequiresNutrition>
+  <BillRequiresMayVary>Bemærk: små mængde ingredienser som guld kræver 20x så meget.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Dette er et lille rumfang ingrediens. Dette betyder, at hver "enhed" er kun 1/20 så meget som en normal-volumen ingrediens. Så for at fylde det samme krav, skal du bruge 20x så meget som normalt.</ThisIsSmallVolume>
+  <UsableIngredients>ingredienser</UsableIngredients>
+  <DoXTimes>Gør X gange</DoXTimes>
+  <DoUntilYouHaveX>Gentag indtil du har X</DoUntilYouHaveX>
+  <DoForever>Gør forevigt</DoForever>
   <BillRepeatTargetCountShort>Til {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Læg på jorden</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Tag til bedste lager</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Tag til nærmeste lager</BillStoreMode_NearestStockpileAnyPriority>
-  
-  <!-- Def Card -->
-  <Type>Type</Type>
-  <GunType>Skydevåben</GunType>
-  <PlantType>Plante</PlantType>
-  <FoodType>Mad</FoodType>
-  <HumanType>Menneske</HumanType>
-  <AnimalType>Dyr</AnimalType>
-  <MechanoidType>Mechanoid</MechanoidType>
+  <BillStoreMode_DropOnFloor>Drop på gulvet</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Tag til bedste lagerplads</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Tag til nærmest lagerplads</BillStoreMode_NearestStockpileAnyPriority>
+
+  <!-- Info card -->
   <Damage>Skade</Damage>
   <Accuracy>Præcision</Accuracy>
-  <BurstShotCount>Antal skud per skudsalve</BurstShotCount>
-  <WarmupTime>Opvarming</WarmupTime>
-  <CooldownTime>Nedkøling</CooldownTime>
-  <BurstShotFireRate>Skud rate</BurstShotFireRate>
-  <Range>Afstand</Range>
-  <GrowsWild>Vokser vildt</GrowsWild>
+  <BurstShotCount>Burst skudtæller</BurstShotCount>
+  <WarmupTime>Opvarmning</WarmupTime>
+  <MeleeWarmupTime>Nærkamps opvarmning</MeleeWarmupTime>
+  <CooldownTime>Cooldown</CooldownTime>
+  <BurstShotFireRate>Skudhastighed</BurstShotFireRate>
+  <Range>Rækkevide</Range>
+  <GrowsWild>vokser vildt</GrowsWild>
   <Harvestable>Høstbar</Harvestable>
-  <LimitedLifespan>Begrænset livslængde</LimitedLifespan>
-  <GrowingTime>Vækstperiode</GrowingTime>
+  <LimitedLifespan>Begrænset livstid</LimitedLifespan>
+  <GrowingTime>Voksetid</GrowingTime>
+  <GrowingTimeDesc>Planter vokser kun noget af dagen, og kun når oplyst. Denne statistik måler tiden planten har brug for at tilbringe med faktisk at vokser for at nå fuld størrelse. Den reale vokse tid vil generelt være omkring dobbelt så lang. Lave temperaturer vil også sløve plantevæksten.</GrowingTimeDesc>
   <Days>Dage</Days>
+  <MinGrowingSkillToSow>Minimum dyrknings færdighed for at så</MinGrowingSkillToSow>
   <FertilityRequirement>Fertilitets krav</FertilityRequirement>
-  <LightRequirement>Lys krav</LightRequirement>
-  <Attributes>Attributter</Attributes>
-  <LifeSpan>Livslængde</LifeSpan>
-  <Nutrition>Næring</Nutrition>
-  <FoodQuality>Madkvalitet</FoodQuality>
-  <WalkSpeedProperty>Gang fart</WalkSpeedProperty>
-  <MeleeDamage>Nærkamps skade</MeleeDamage>
-  <MeatAmount>Kød mængde</MeatAmount>
-  <MinFoodQuality>Min. fødevare kvalitet</MinFoodQuality>
+  <FertilitySensitivity>Fertilitets følsomhed</FertilitySensitivity>
+  <LightRequirement>Belysnings krav</LightRequirement>
+  <Attributes>Egenskaber</Attributes>
+  <LifeSpan>levetid</LifeSpan>
+  <Nutrition>Ernæring</Nutrition>
+  <Joy>Glæde</Joy>
+  <FoodQuality>Fødevarekvalitet</FoodQuality>
+  <WalkSpeedProperty>gå hastighed</WalkSpeedProperty>
+  <MinFoodQuality>Min. Fødevarekvalitet</MinFoodQuality>
   <Diet>Kost</Diet>
-  <RecruitDifficulty>Rekrutterings sværhedsgrad</RecruitDifficulty>
-  <baseMarketValue>Grund pris</baseMarketValue>
-  <Covers>Dække</Covers>
-  <NaturalArmorCovers>Naturlige forsvars værker</NaturalArmorCovers>
-  <BodyPartEfficiency>Kropsdelens effektivitet</BodyPartEfficiency>
-  
-  <!-- Trade -->
-  <DragToTrade>Træk for at handle</DragToTrade>
-  <BuyPriceDesc>Prisen du betaler for at købe.</BuyPriceDesc>
-  <SellPriceDesc>Prisen du modtager for at sælge.</SellPriceDesc>
-  <PriceTypeDesc>Prisen for denne vare er {0}.</PriceTypeDesc>
-  <ColonyCount>Hvor mange af denne vare som din koloni har at handle med.\n\nDu kan kun sælge til forhandlere hvis varerne er udendørs og tæt på et handelssignal.</ColonyCount>
-  <TraderCount>Hvor mange af denne vare som forhandleren har at handle med.</TraderCount>
-  <AcceptButton>Accepter</AcceptButton>
-  <ResetButton>Begynd forfra</ResetButton>
-  <CancelButton>Fortryd</CancelButton>
-  <YourTradeableSilver>Sølv i din lomme: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip> Du kan kun handle med sølv der er tæt på et handelssignal og ikke er under et tag.</YourTradeableSilverTip>
-  <TraderHasNoMore>Forhandleren har ikke mere.</TraderHasNoMore>
-  <ColonyHasNoMore>Ikke mere at sælge.</ColonyHasNoMore>
-  <TraderWillNotTrade>Forhandleren er ikke villig til at sælge denne vare.</TraderWillNotTrade>
-  
-  <!-- Comms -->
-  <SocialSkillIs>Sociale færdigheder: {0}</SocialSkillIs>
+  <BodySize>kropsstørrelse</BodySize>
+  <RecruitDifficulty>Rekrutterings vanskelighed</RecruitDifficulty>
+  <MarketValue>Base pris</MarketValue>
+  <Covers>Dækning</Covers>
+  <CoverEffectiveness>Dæknings effektivitet</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Hvor effektivt dette er når det anvendes som dække i en ildkamp. Højere procentsatser vil blokere flere skud.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>Erfarings Vækst faktor</MedicineXpGainFactor>
+  <BodyPartEfficiency>Kropsdels effektivitet</BodyPartEfficiency>
+  <MoodChange>humør ændring</MoodChange>
+  <Wildness>vildskab</Wildness>
+  <WildnessExplanation>Vildere væsner er naturligvis svære at tæmme, træne og håndtere.</WildnessExplanation>
+  <AnimalFilthRate>Dyreskidt hastigheden</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Dyr producerer skidt når de flytter rundt på konstruerede gulve. Dette er den gennemsnitlige mængde af skidt der er produceret pr {0} celler vandrede af dette væsen.\n\nStørre eller mindre kæledyr-lignende dyr producere mere snavs.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Tid</TimeRecordsCategory>
+  <MiscRecordsCategory>Div.</MiscRecordsCategory>
+  <Addictiveness>vanedannendelse</Addictiveness>
+  <PackAnimal>Flokdyr</PackAnimal>
+  <PackAnimalExplanation>Hvorvidt dette dyr er passende at bruge til at bære genstande i en karavane over længere afstande.</PackAnimalExplanation>
 
-  <!-- Stats report -->
-  <StatsReport_BaseValue>Grund værdi</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>Relevant karaktertræk</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>Relevant udstyr</StatsReport_RelevantGear>
-  <StatsReport_Material>Materiale</StatsReport_Material>
-  <StatsReport_CharacterQuality>Karakterens kvalitet</StatsReport_CharacterQuality>
-  <StatsReport_Skills>Færdigheds faktorer</StatsReport_Skills>
-  <StatsReport_OtherStats>Andre faktorer</StatsReport_OtherStats>
-  <StatsReport_HealthFactors>Helbreds faktorer</StatsReport_HealthFactors>
-  <HealthFactorPercentImpact>{0} vigtighed</HealthFactorPercentImpact>
-  <StatsReport_PostProcessed>Efterbehandlet kurve</StatsReport_PostProcessed>
-  <StatsReport_FinalValue>Slutværdi</StatsReport_FinalValue>
-  
-  
+  <!-- Trade -->
+  <PositiveBuysNegativeSells>Positive tal købe.\nNegative tal sælg.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Prisen du betaler for at købe dette.</BuyPriceDesc>
+  <SellPriceDesc>Prisen du modtager for at sælge dette.</SellPriceDesc>
+  <PriceTypeDesc>for dette emne, er denne pris {0}.</PriceTypeDesc>
+  <ColonyCount>Hvor mange af denne vare kolonien har klar til at sælge.\n\nDu kan kun sælge varer til forhandlere i kredsløb, hvis varende er udendørs og i nærheden af en kredsløbs handelsfyr.</ColonyCount>
+  <TraderCount>Hvor mange af denne vare forhandleren har til handel med.</TraderCount>
+  <AcceptButton>Acceptere</AcceptButton>
+  <ResetButton>Nulstil</ResetButton>
+  <CancelButton>afbestille</CancelButton>
+  <CloseButton>Luk</CloseButton>
+  <YourTradeableSilver>Dit omsættelig sølv: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>Du kan kun handle med sølv, der er i nærheden af et kredsløbs handelsfyr og ikke under et tag.</YourTradeableSilverTip>
+  <TraderHasNoMore>Forhandler har ikke mere.</TraderHasNoMore>
+  <ColonyHasNoMore>Ikke mere at sælge.</ColonyHasNoMore>
+  <TraderWillNotTrade>Forhandler er ikke villige til at handle dette.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Din forhandler {0} kan ikke tale ordentligt på grund af dårligt helbred.\n\nDette vil påvirke handelsprisen.\n\nOvervej at bruge en sundere forhandler.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Forhandleren har utilstrækkelig sølv til fuldt ud at dække denne transaktion. Fortsæt alligevel?</ConfirmTraderShortFunds>
+  <SortBy>Sorter efter</SortBy>
+  <TraderTypePrice>forhandler type</TraderTypePrice>
+  <Selling>sælger</Selling>
+  <Buying>køber</Buying>
+  <ItemSellPriceFactor>vare salgspris multiplikator</ItemSellPriceFactor>
+  <DifficultyLevel>sværhedsgrad</DifficultyLevel>
+  <PostCurve>global kurve post-proces</PostCurve>
+  <YourNegotiatorBonus>Din forhandler bonus</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>Handel med fraktion grund bonus</TradeWithFactionBaseBonus>
+  <minimum>minimum</minimum>
+  <FinalPrice>Endelig pris</FinalPrice>
+  <TradeMassUsageTooltip>Den resulterende masse forbrug og masse kapacitet.</TradeMassUsageTooltip>
+
+  <!-- Form caravan -->
+  <FormCaravan>Form karavane</FormCaravan>
+  <FormCaravanColonyThingCountTip>Hvor mange af denne vare kolonien har klar til at give til karavanen.</FormCaravanColonyThingCountTip>
+  <PawnsTab>Mennesker og dyr</PawnsTab>
+  <ItemsTab>Objekter</ItemsTab>
+  <CaravanConfigTab>konfig</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>Du skal tildele mindst én ikke-nedskudte kolonist.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Kunne ikke finde nogen gyldig udgangs placering.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>Advarsel: nogle af de tildelte kolonister ikke er i stand til at nå frem til udgangs placering.</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0} er utilgængelig for af de tildelte kolonister.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>Ingen af de tildelte kolonister kan nå {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>Ingen af de tildelte kolonister kan nå {0} x {1}.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>karavane er ikke i stand til at bære så meget.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Den aktuelle masse forbrug og masse kapaciteten.\n\nMasse forbrug omfatter de tildelte karavaners leverancer samt kolonisternes 'nuværende udstyr.\n\nDu vil ikke være i stand til at sende karavaner hvis masse forbruget overstiger kapacitetten.</CaravanMassUsageTooltip>
+  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
+  <DaysWorthOfFoodInfo>{0} dage værd af mad</DaysWorthOfFoodInfo>
+  <InfiniteDaysWorthOfFoodInfo>Vil aldrig løbe tør for mad</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>Et ca. antal dage før karavanen løber tør for mad.\n\nDet tager hensyn til både menneske og dyre mad, og viser det værst tænkelige scenarie. Det betyder, at efter dette antal dage, vil mindst en person eller et dyr være uden mad.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodWarningDialog>Din karavane har kun {0} dages værd af mad og vil blive sulten meget hurtigt.\n\nEr du sikker på du ønsker at danne denne karavane?</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Din karavane har ingen mad, og vil blive sulten meget hurtigt.\n\nEr du sikker på du ønsker at danne denne karavane?</DaysWorthOfFoodWarningDialog_NoFood>
+  <NoExitDirectionForCaravanChosen>Du skal vælge en udgangs retning for karavanen.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(Ingen udgangs retning tilgængelig)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Udgangs retning</ExitDirection>
+  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
+  <ItemWeightTip>Vægt af dette element.</ItemWeightTip>
+  <MarketValueTip>Markeds værdig</MarketValueTip>
+  <MassCapacity>Masse kapacitet</MassCapacity>
+  <Mass>Masse</Mass>
+  <EquipmentAndApparelMass>Udstyr og beklædnings masse</EquipmentAndApparelMass>
+  <InventoryMass>Inventar masse</InventoryMass>
+  <CaravanFormationProcessStarted>Dine kolonister vil nu tage de tildelte elementer og forlade området så hurtigt som muligt.</CaravanFormationProcessStarted>
+  <ReformCaravan>gendan karavane</ReformCaravan>
+  <ColonistsSection>Kolonister</ColonistsSection>
+  <PrisonersSection>Fanger</PrisonersSection>
+  <AnimalsSection>Dyr</AnimalsSection>
+
+  <!-- Split caravan -->
+  <SplitCaravan>Del karavane</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Du skal efterlade mindst én ikke-nedskudte kolonist.</SourceCaravanMustHaveAtLeastOneColonist>
+  <CaravanSplitSourceLabel>Nuværende</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
+  <SplitCaravanThingCountTip>Hvor mange af disse elementer karavanen har klar til at give den nye karavane.</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>Nuværende forbrug masse og masse kapacitet.</SplitCaravanMassUsageTooltip>
+
+  <!-- Load transporters -->
+  <LoadTransporters>Last {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>De tildelte personer og genstande er for tunge for transport kapslerne.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>Du kan ikke sende tomme transport kapsler.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} kan ikke nå transport kapslerne.</PawnCantReachTransporters>
+  <TransporterItemIsUnreachableSingle>Der er ingen bane mellem transport kapslerne og den {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>Der er ingen bane mellem transport kapslerne og {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>Aktuel masse forbrug og masse kapacitet.\n\nDu vil ikke være i stand til at sende transport kapslerne hvis masse forbrug overstiger dens kapacitet.</TransportersMassUsageTooltip>
+
+  <!-- Comms -->
+  <SocialSkillIs>Social færdighed: {0}</SocialSkillIs>
+
   <!--Research-->
-  <ResearchFinished>Forskning fuldendt: {0}</ResearchFinished>
-  <ResearchScreen>Forskningsskærm</ResearchScreen>
-  
+  <ResearchFinished>Forskning afsluttede: {0}</ResearchFinished>
+  <ResearchScreen>Forsknings skærm</ResearchScreen>
+
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Vil du uploade dit spildata til RimWorlds server for at hjælpe udviklerne med at balancere spillet? Hvis du godkender, vil dine data blive uploadet hver {0} dag (og i andre situationer som ved fuldendt spil). Privatlivs præferencer kan ændres i menuen indstillinger.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Selvom din historik er sendt anonymt, kan du vedhæfte dit navn.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Tillad uploading af spildata</HistoryUploadYes>
-  <HistoryUploadNo>Tillad ikke uploading af spildata</HistoryUploadNo>
+  <HistoryUploadMessage>Ønsker du at uploade dine spil dataposter til RimWorld serveren for at hjælpe udviklere med at balancere spillet? Hvis du er enig, vil dine data blive uploadet hver {0} dage (og i nogle andre sjældne tilfælde som i slutningen af spillet). Privat præferencer kan ændres senere i menuen indstillinger.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Selvom historien er sendt anonymt, kan du vedhæfte dit navn.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Tillad at uploade spil data</HistoryUploadYes>
+  <HistoryUploadNo>Tillad ikke at uploade spil data</HistoryUploadNo>
   <HistoryUploadYesOnce>Upload kun denne gang</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Upload ikke denne gang, spørg mig igen senere</HistoryUploadNoOnce>
-	
+  <HistoryUploadNoOnce>Upload ikke denne gang, spørg mig senere</HistoryUploadNoOnce>
+
+  <!-- Outfit management -->
+  <Outfit>påklædning</Outfit>
+  <SelectOutfit>Vælg påklædning...</SelectOutfit>
+  <NewOutfit>Ny påklædning</NewOutfit>
+  <DeleteOutfit>Slet påklædning...</DeleteOutfit>
+  <OutfitInUse>Påklædning bliver brugt af {0}.</OutfitInUse>
+  <NoOutfitSelected>Ingen påklædning valgt</NoOutfitSelected>
+
+  <!-- Drug policy management -->
+  <DrugPolicy>lægemiddel politik</DrugPolicy>
+  <SelectDrugPolicy>Vælg politik...</SelectDrugPolicy>
+  <NewDrugPolicy>Ny politik</NewDrugPolicy>
+  <DeleteDrugPolicy>Slet politik...</DeleteDrugPolicy>
+  <DrugPolicyInUse>lægemiddel politik er i brug af {0}.</DrugPolicyInUse>
+  <SocialDrugs>Social lægemiddel</SocialDrugs>
+  <NoDrugs>Ingen lægemiddel</NoDrugs>
+  <OneDrinkPerDay>Én drikke pr dag</OneDrinkPerDay>
+  <Unrestricted>Ubegrænset</Unrestricted>
+  <NoDrugPolicySelected>Ingen lægemiddel politik valgt</NoDrugPolicySelected>
+  <AddDrug>Tilføj lægemiddel...</AddDrug>
+  <DrugColumnLabel>lægemiddel</DrugColumnLabel>
+  <DrugUsageColumnLabel>Forbrug</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>Hyppighed</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Kun hvis humør er lavere end</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Kun hvis glæde er lavere end</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Tag til inventar</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(ingen lægemiddel)</NoDrugsBrackets>
+  <EveryDay>Hver dag</EveryDay>
+  <TimesPerDay>{0} gange om dagen</TimesPerDay>
+  <EveryDays>Hver {0} dag</EveryDays>
+  <NoDrugUseRequirement>Hvilken som helst</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Slet dette lægemiddel.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>Navnet på et lægemiddel.</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>Hvordan lægemiddel må anvendes.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>Hvor ofte kolonisterne bør prøve at tage dette lægemiddel.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>Kolonisterne vil tage dette lægemiddel, hvis deres humør niveauet er under denne grænse.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Kolonisterne vil tage dette lægemiddel, hvis deres glæde niveauet er under denne grænse.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>En mængde af lægemidlet til at afhente ekstra når det samles til forbrug, for at undgå at skulle besøge lægemiddel lagret hver gang.</TakeToInventoryColumnDesc>
+  <DrugUsageTipForAddiction>For misbrugsproblemer\n\nBrug dette lægemiddel til at fodere allerede etablerede afhængigheds behov.\n\nSelv hvis deaktiveret, nogle karaktere med specifikke træk, eller igang med mentale nedbrud, kan alligevel bruge stoffet.</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>For glæde\n\nBrug dette lægemiddel til glæde og sociale formål.\n\nSelv hvis deaktiveret, nogle karaktere med specifikke træk, eller igang med mentale nedbrud, kan alligevel bruge stoffet</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Planlagt\n\nBrug dette lægemiddel på en defineret tidsplan, når bestemte betingelser er opfyldt.</DrugUsageTipScheduled>
+
+  <!-- Growing -->
+  <NoGrowerCanPlant>{0} kræver {1} færdighed i Ddyrkning at så.\n\nINgen af dine ikke-nedskudte dyrkere har denne færdighed, så denne plante vil ikke blive sået.</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>Nogle af dine kolonister eller dyr er i dette område. Er du sikker på du vil opgive det?\n\nFølgende personer og dyr vil blive ladt tilbage?:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmLeavePrisonersOrAnimalsBehind>Der er stadig nogle fanger eller dyr tilbage i dette område, og dette er den eneste karavane de kan deltage i øjeblikket.\n\nHvis du flytter din karavane, vil de ikke være i stand til at forlade området, indtil du er tilbage. Fangerne vil begynde at undslippe, mens dyrene vil blive ved med at venter på dig.\n\nHvis du beslutter at vente, vil de forsøge at slutte sig til din karavane så hurtigt som muligt.\n\nEr du sikker på du vil flytte din karavene?</ConfirmLeavePrisonersOrAnimalsBehind>
+
+  <!-- Abandon pawn -->
+  <ConfirmAbandonPawnDialog>Vil du virkelig gerne opgive {0}?</ConfirmAbandonPawnDialog>
+  <ConfirmAbandonPawnDialog_LeftToDie>{0} vil højst sandsynligt dø.</ConfirmAbandonPawnDialog_LeftToDie>
+  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} vil tage følgende genstande med HIM:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
+  <ConfirmAbandonPawnDialog_AllColonistsThoughts>Alle kolonister vil få følgende tanker:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
+  <ConfirmAbandonPawnDialog_IndividualThoughts>Efterlade {0} vil medføre at følgende personer får følgende tanker:</ConfirmAbandonPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>Kapsel gruppe ikke helt lastet. {0} mangler. Affyr alligevel?</ConfirmSendNotCompletelyLoadedPods>
+
 </LanguageData>
