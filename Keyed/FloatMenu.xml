@@ -1,93 +1,148 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <CallOnRadio>Ring til {0}</CallOnRadio>
+  <CannotUseReason>Kan ikkke bruge ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Kan ikke bruge (solar flare)</CannotUseSolarFlare>
+  <CannotUseNoPower>Kan ikke bruge (no power)</CannotUseNoPower>
+  <CannotUseNoPath>Kan ikke bruge (no path)</CannotUseNoPath>
+  <CannotUseReserved>Kan ikke bruge (reserved)</CannotUseReserved>
+  <CannotUseFull>Kan ikke bruge (full)</CannotUseFull>
+  <LeaderUnavailable>leder {0} er ikke tilgængelig</LeaderUnavailable>
 
-  
-	<CallOnRadio>Ring til {0}</CallOnRadio>
-	<CannotUseSolarFlare>Kan ikke bruge (soludbrug)</CannotUseSolarFlare>
-	<CannotUseNoPower>Kan ikke bruge (ingen strøm)</CannotUseNoPower>
-	<CannotUseNoPath>Kan ikke bruge (ingen vej)</CannotUseNoPath>
-  <CannotUseReserved>Kan ikke bruge(reserveret)</CannotUseReserved>
-  <CannotUseFull>Kan ikke bruge(fuld)</CannotUseFull>
-  
-  <FireAt>Skyd på {0}</FireAt>
+  <FireAt>Brand ved {0}</FireAt>
 
-  <OutOfRange>Udenfor rækkevidde</OutOfRange>
-  <CannotHitTarget>Kan ikke ramme målet</CannotHitTarget>
-  <CannotFight>{0} Kan ikke kæmpe</CannotFight>
+  <OutOfRange>ude for rækkevide</OutOfRange>
+  <CannotHitTarget>kan ikke ramme målet</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} kan ikke udføre vold</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} er ikke indkaldt</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>kan ikke beordre ikke-kontrollerede enheder</CannotOrderNonControlledLower>
 
   <OrderManThing>Bemand {0}</OrderManThing>
-  
+
   <MeleeAttack>Nærkamps angrib {0}</MeleeAttack>
-  <MeleeAttackToDeath>Nærkamps angrib {0} til døden</MeleeAttackToDeath>
-  <NoPath>ingen vej</NoPath>
+  <MeleeAttackToDeath>Nærkamps angrib {0} til døde</MeleeAttackToDeath>
+  <NoPath>ingen stig</NoPath>
 
-	<ForbiddenLower>forbudt</ForbiddenLower>
-	<SociallyImproperLower>socialt upassende</SociallyImproperLower>
-  <PrisonerRoomLower>fængselscelle</PrisonerRoomLower>
-	<BurningLower>brænder</BurningLower>
-	<NoEmptyPlaceLower>intet lager er konfigereret til at opbevare det</NoEmptyPlaceLower>
-	<AlreadyFilledLower>allerede fyldt</AlreadyFilledLower>
-	<MissingMaterials>materialebehov</MissingMaterials>
-	
-	
-  <CannotGoNoPath>Kan ikke gå hertil (ingen vej)</CannotGoNoPath>
-  <GoHere>Gå hertil</GoHere>
-  
+  <ForbiddenLower>forbidden</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>uden tilladt område</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>ikke i hjemme område</NotInHomeArea>
+  <SociallyImproperLower>socialt upassende</SociallyImproperLower>
+  <PrisonerRoomLower>fængels værelse</PrisonerRoomLower>
+  <BurningLower>brænder</BurningLower>
+  <NoEmptyPlaceLower>ingen tomme pladser konfigureret til at indeholde det</NoEmptyPlaceLower>
+  <AlreadyFilledLower>allerede fyldt nok</AlreadyFilledLower>
+  <MissingMaterials>mangler materialer</MissingMaterials>
+  <MissingSkill>færdighed for lav</MissingSkill>
+  <NoEmptyGraveLower>ingen tomme grav konfigureret til at indeholde det</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>dyr interagerede med for nylig</AnimalInteractedTooRecently>
+  <NoUsableFood>ingen brugbar mad</NoUsableFood>
+  <NoFood>ingen mad</NoFood>
+  <AnimalsSkillTooLow>Dyr færdighed for lav</AnimalsSkillTooLow>
+  <NoComponentsToRepair>mangler komponenter</NoComponentsToRepair>
+  <NoFuelToRefuel>brug for {0}</NoFuelToRefuel>
+  <NoWort>behøver malt</NoWort>
+
+  <ConsumeThing>Indtag {0}</ConsumeThing>
+
+  <CannotGoNoPath>Kan ikke gå her (ingen rute)</CannotGoNoPath>
+  <GoHere>Go here</GoHere>
+
   <Arrest>Arrester {0}</Arrest>
-  <CannotArrest>Kan ikke arrestere</CannotArrest>
+  <TryToArrest>Prøv at arrester {0}</TryToArrest>
+  <CannotArrest>Kan ikke arrester</CannotArrest>
 
-  <Capture>Tilfangetag {0}</Capture>
-  <CannotCapture>Kan ikke tilfangetage</CannotCapture>
+  <Capture>Fang {0}</Capture>
+  <CannotCapture>Kan ikke fange</CannotCapture>
 
   <Rescue>Red {0}</Rescue>
   <CannotRescue>Kan ikke redde</CannotRescue>
 
-  <NoPrisonerBed>Ingen fængselscelle og seng, markeret til fange, til rådighed.</NoPrisonerBed>
-  <NoNonPrisonerBed>Ingen tilgængelig seng til kolonister.</NoNonPrisonerBed>
-  <Reserved>Reserveret af en anden.</Reserved>
-  <ReservedBy>Reserveret af {0}.</ReservedBy>
-  <IsReservedBy>{0} er reservet af {1}.</IsReservedBy>
+  <CarryToCryptosleepCasket>Bær {0} til cryptosøvns kiste</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kan ikke bære til cryptosøvns kiste</CannotCarryToCryptosleepCasket>
 
-  <NoManipulationSkill>Ude af stand</NoManipulationSkill>
+  <NoCryptosleepCasket>Ingen tilgængelige cryptosøvns kiste.</NoCryptosleepCasket>
+  <NoPrisonerBed>Ingen tilgængelig, ureserverede, tillukket fange-mærket seng.</NoPrisonerBed>
+  <NoNonPrisonerBed>Ingen tilgængelig, ureserverede ikke-fange seng.</NoNonPrisonerBed>
+  <NoAnimalBed>Ingen tilgængelig, ureserverede dyreseng.</NoAnimalBed>
+  <Reserved>Reserveret af en anden.</Reserved>
+  <ReservedBy>Reserveret af {0}</ReservedBy>
+  <IsReservedBy>{0} er Reserveret af {1}.</IsReservedBy>
+  <TooHeavy>For tung</TooHeavy>
+
+  <Incapable>kan ikke</Incapable>
+  <IncapableOfCapacity>kan ikke {0}</IncapableOfCapacity>
+
+  <MinSkill>min færdighed</MinSkill>
 
   <Equip>Udrust {0}</Equip>
-  <EquipWarningBrawler>(slagsbror vil blive vred)</EquipWarningBrawler>
-  <CannotEquip>Kan ikke udruste {0}</CannotEquip>
-  
-  <Wear>Bær {0}</Wear>
-  <CannotWear>Kan ikke bære {0}</CannotWear>
-  
-  <Strip>Fjern tøj {0}</Strip>
-  <CannotStrip>Kan ikke fjerne tøj {0}</CannotStrip>
+  <EquipWarningBrawler>(slagsbror vil blive ulykkelig)</EquipWarningBrawler>
+  <CannotEquip>Kan ikke udrust {0}</CannotEquip>
 
-  <Deposit>Opbevar {0} i {1}</Deposit>
-  <CannotDeposit>Kan ikke opbevare {0} i {1}</CannotDeposit>
+  <ForceWear>Tving til at gå med {0}</ForceWear>
+  <CannotWear>kan ikke gå med {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>mangler kropsdelle</CannotWearBecauseOfMissingBodyParts>
 
-  <Drop>Læg {0}</Drop>
-  
-  <UseMedicalBed>Sov indtil helbredt</UseMedicalBed>
+  <CannotPickUp>kan ikke samle {0} op</CannotPickUp>
+  <CannotPickUpAll>kan ikke samle {0} op (alle)</CannotPickUpAll>
+  <PickUp>Samle {0} op</PickUp>
+  <PickUpAll>Samle {0} op (all)</PickUpAll>
+  <PickUpSome>Samle {0} op...</PickUpSome>
+  <PickUpCount>Samle {0} x{{0}} op</PickUpCount>
+
+  <CannotGiveToPackAnimal>Kan ikke give {0} til pakdyr</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Kan ikke give {0} (alle) til pakdyr</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Giv {0} til pakdyr</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Giv {0} (alle) til pakdyr</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Giv {0} til pakdyr...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Tag {0} x{{0}}</GiveToPackAnimalCount>
+
+  <CannotCarryToExit>Kan ikke bære {0} og forlade området</CannotCarryToExit>
+  <CarryToExit>Bær {0} og forlad området</CarryToExit>
+
+  <Strip>Afklæd {0}</Strip>
+  <CannotStrip>Kan ikke afklæd {0}</CannotStrip>
+
+  <SelfDestructHere>Selvdestruerer her</SelfDestructHere>
+
+  <Drop>Smid {0}</Drop>
+
+  <UseMedicalBed>Hvil indtil helet</UseMedicalBed>
   <NotInjured>Ikke såret</NotInjured>
   <SomeoneElseSleeping>Optaget</SomeoneElseSleeping>
 
+  <TradeWith>Handel med {0}</TradeWith>
+  <CannotTrade>Kan ikke handle</CannotTrade>
+
+  <EnterMap>Gå ind i {0}</EnterMap>
+  <VisitFactionBase>Besøg {0}</VisitFactionBase>
+  <AttackFactionBase>Angrib {0}</AttackFactionBase>
+
   <!-- Specific thing interactions -->
-  <EnterCryptosleepPod>Læg i kryptosøvn-kapsel </EnterCryptosleepPod>
-  
-  
-  
+  <EnterCryptosleepCasket>Gå ind i cryptosøvns kiste</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Åben cryptosøvns kiste</OpenCryptosleepCasket>
+
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan ikke {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Kan ikke prioritere (ude af stand til at {0})</CannotMissingHealthActivities>
+
   <CannotGenericAlreadyAm>Allerede {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Kan ikke prioritere ({0} er ikke en {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>Kan ikke prioritere (vil aldrig gøre {0})</CannotPrioritizeWorkTypeDisabled>
+
+  <CannotPrioritizeNotAssignedToWorkType>Kan ikke prioritere (ikke udpeget som {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langsigtet opgave)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Kan ikke prioritere ({0} er udenfor tiladt område)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioriter {0} {1}</PrioritizeGeneric>
-  
+
+  <DropAtEdge>Drop på kanten</DropAtEdge>
+  <DropInCenter>Drop i centrum</DropInCenter>
+
 </LanguageData>
