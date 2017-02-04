@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Ordre</TabBills>
+  <TabGrowing>Dyrkning</TabGrowing>
+  <TabCharacter>Karakter</TabCharacter>
+  <TabTraining>Træning</TabTraining>
+  <TabPrisoner>Fange</TabPrisoner>
+  <TabGuest>Gæst</TabGuest>
+  <TabGear>Udstyr</TabGear>
+  <TabNeeds>Behov</TabNeeds>
+  <TabStorage>Lager</TabStorage>
+  <TabHealth>Helbred</TabHealth>
+  <TabRace>Race</TabRace>
+  <TabBasics>Basis</TabBasics>
+  <TabStats>Stats</TabStats>
+  <TabRecords>journaler</TabRecords>
+  <TabArt>Kunst</TabArt>
+  <TabSocial>Social</TabSocial>
+
+
+  <!-- Bills tab  -->
+  <AddBill>Tilføj ordre</AddBill>
+  <RecipeRequiresSkills>Opskriften {0}, kræver færdigheder nedenfor. Ingen af dine kolonister har disse færdigheder, så ingen vil lave denne ordre.</RecipeRequiresSkills>
+  <MinimumSkill>Min færdighed</MinimumSkill>
+  <SuspendedCaps>UDSÆT</SuspendedCaps>
+  <BoundWorkerIs>Arbejder: {0}</BoundWorkerIs>
+  <PlantVerb>Så</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Rekruttering besvær</RecruitmentDifficulty>
+  <GetsFood>får mad</GetsFood>
+  <DoctorsCare>Læger behandler</DoctorsCare>
+  <GetsMedicine>Får medicin</GetsMedicine>
+  <ShouldTryToRecruit>Prøv at rekruttere</ShouldTryToRecruit>
+  <PrisonerNoInteraction>ingen interaktion</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Venlig snak</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Snak med og rekruttere</PrisonerAttemptRecruit>
+  <PrisonerRelease>Løslad</PrisonerRelease>
+  <PrisonerExecution>Henret</PrisonerExecution>
+  <ConsideredGuilty>Betragtes som skyldig (udløber om {0})</ConsideredGuilty>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Bevæg hastighed</MoveSpeed>
+  <Efficiency>Effektivitet</Efficiency>
+  <MissingBodyPart>Væk</MissingBodyPart>
+  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
+  <ShatteredBodyPart>Knust</ShatteredBodyPart>
+  <RemovedBodyPart>Fjernet</RemovedBodyPart>
+  <Healthy>Sund</Healthy>
+  <InPain>I smerte</InPain>
+  <PainLevel>Smerte</PainLevel>
+  <Injured>Såret</Injured>
+  <NoInjuries>(ingen skader)</NoInjuries>
+  <WholeBody>Whole body</WholeBody>
+  <DataProcessing>Databehandling</DataProcessing>
+  <Communication>Kommunikation</Communication>
+  <Affects>Affects</Affects>
+  <BleedingRate>Bløder</BleedingRate>
+  <TimeToDeath>dør om {0}</TimeToDeath>
+  <WontBleedOutSoon>ingen umiddelbar fare</WontBleedOutSoon>
+  <HealthOverview>Overview</HealthOverview>
+  <MedicalOperationsShort>Operationer ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifikationer ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medicinske operationer</MedicalOperations>
+  <Amputate>Amputer</Amputate>
+  <Harvest>Høst</Harvest>
+  <RemoveOrgan>Fjern</RemoveOrgan>
+  <MemoryLower>hukommelse</MemoryLower>
+  <SocialInteractionsLower>sociale interaktioner</SocialInteractionsLower>
+  <HungerRate>Sulte rate</HungerRate>
+  <Tiredness>Træthed</Tiredness>
+  <PainFactor>Smerte</PainFactor>
+  <PreventsInfection>forhindrer infektion</PreventsInfection>
+
+
+  <!-- Medical - Body and activities condition -->
+  <None>Ingen</None>
+  <VeryPoor>Meget dårlig</VeryPoor>
+  <Poor>Dårlig</Poor>
+  <Weakened>Svækket</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Forbedret</Enhanced>
+  <SeriouslyImpaired>Alvorligt nedsat</SeriouslyImpaired>
+  <Impaired>Nedsat</Impaired>
+  <SlightlyImpaired>En smule nedsat</SlightlyImpaired>
+  <NoPain>Ingen</NoPain>
+  <LittlePain>Lidt</LittlePain>
+  <MediumPain>Medium</MediumPain>
+  <SeverePain>Alvorlig</SeverePain>
+  <ExtremePain>Ektrem</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>trænbare intelligens</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Kræver trænbar intelligens {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} er for lille til at træne dette.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>forudsætning nødvendig: {0}</TrainingNeedsPrerequisite>
+
+  <!-- Social tab -->
+  <NoRelationships>(ingen forhold)</NoRelationships>
+  <Kidnapped>Kidnapped</Kidnapped>
+  <Slave>Slave</Slave>
+  <FactionLeader>faktion leder</FactionLeader>
+  <OpinionOf>Mening om {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s mening om mig</SomeonesOpinionOfMe>
+  <IAmDead>Jeg er død</IAmDead>
+  <IAmPsychopath>Jeg er en psykopat</IAmPsychopath>
+
+  <!-- Gear tab -->
+  <AverageArmor>Gennemsnits rustning</AverageArmor>
+  <MassCarried>Masse bæret: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>Komfortable temperaturer</ComfyTemperatureRange>
+  <ArmorBlunt>Stump</ArmorBlunt>
+  <ArmorSharp>Skarp</ArmorSharp>
+  <ArmorHeat>Varmr</ArmorHeat>
+  <ArmorElectric>Elektrisk</ArmorElectric>
+
+</LanguageData>
