@@ -1,73 +1,128 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AnimalInsanitySingle>Et {0} i området er blevet psykotisk! Den vil angribe alle den ser på sin vej.</AnimalInsanitySingle>
-  <AnimalInsanityMultiple>En bølge af psykisk pres har lagt sig tungt over landskabet. Dine kolonister er okay, men...\n\nDet virker som om mange af {0}erne i område er blevet psykotiske.</AnimalInsanityMultiple>
+  <LetterLabelAnimalInsanitySingle>Gal dyr</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>En lokal {0} er blevet sindsyg. Det vil angribe alle den ser.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Gale dyr!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Eller anden form for psykisk bølge har fejet over landskabet. Dine kolonister er okay, men ...\n\nDet ser ud til mange {0}er i området er blevet drevet sindssyg.</AnimalInsanityMultiple>
 
-  <CropBlight>En mysterisk plantepest har ødelagt dine afgrøder.</CropBlight>
+  <LetterLabelCropBlight>Plantepest</LetterLabelCropBlight>
+  <CropBlight>En mystisk plantepest har ødelagt dine afgrøder.</CropBlight>
 
-  <EclipseIncident>En af planetens måner har i sit kredsløb lagt sig foran solen. En solformørkelse er begyndt.</EclipseIncident>
+  <LetterLabelMiracleHeal>Mirakle</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} har oplevet en mirakuløs bedring!</MiracleHeal>
 
-  <MiracleHeal>{0} har netop oplevet en mirakuløs helbredelse!</MiracleHeal>
-
-  
   <!-- Enemy raids -->
   <EnemyRaidWalkIn>En gruppe af {0} fra {1} er ankommet i nærheden.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>En gruppe af {0} fra {1} er ankommet i nedfaldne rumkapsler i nærheden.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>En gruppe af {0} fra {1} er ankommet lige udenfor din base!</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>De vil forberede sig et stykke tid, så angribe.\n\nForbered dit forsvar eller angrib dem på forhånd.</EnemyRaidStageThenAttack>
-  <EnemyRaidImmediateAttack>De angriber med det samme.</EnemyRaidImmediateAttack>
-  <EnemyRaidBesiege>Det ser ud til, at de vil belejre din koloni.</EnemyRaidBesiege>
-
+  <EnemyRaidEdgeDrop>En gruppe af {0} fra {1} er ankommet drop kapsler i nærheden.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>En gruppe af {0} fra {1} er droppet ned lige på toppen af dig!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>En af de {0} - {1}, er lederen af denne fraktion.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
-  <FriendlyRaidWalkIn>En venligsindet gruppe af {0} fra {1} er ankommet i nærheden.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>En venligsindet gruppe af  {0} fra {1} er ankommet i nedfaldne rumkapsler i nærheden.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>En venligsindet gruppe af {0} fra {1} er ankommet lige udenfor din base!</FriendlyRaidCenterDrop>
-  <FriendlyRaidStageThenAttack>De vil forberede sig et stykke tid, så rykke ind for at hjælpe dig.</FriendlyRaidStageThenAttack>
-  <FriendlyRaidImmediateAttack>De rykker ind for at hjælpe dig omgående.</FriendlyRaidImmediateAttack>
-  <FriendlyRaidBesiege>Det ser ud til, at de vil bruge belejringstaktikker for at hjælpe dig.</FriendlyRaidBesiege>
+  <FriendlyRaidWalkIn>En gruppe af venlige {0} fra {1} er ankommet i nærheden.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>En gruppe af venlige {0} fra {1} er droppet ned fra kredsløb i nærheden.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>En gruppe af venlige {0} fra {1} er droppet ned fra kredsløb lige på toppen af dig!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>En af de {0} - {1}, er lederen af denne fraktion.</FriendlyRaidLeaderPresent>
 
-  <RefugeePodCrash>Du har opdaget en flugt-kapsel, der er styrtet ned i nærheden.\n\Hvis der er overlevende efter nedslaget, så har de sikkert hårde kvæstelser.</RefugeePodCrash>
+  <LetterLabelRefugeePodCrash>flugtkapsel</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Du har opdaget en flugtkapsel der er styrtet hårdt ned i nærheden.\n\nHvis nogen overlevede styrtet, vil de være hårdt såret.\n\nDu kan redde dem og sende dem på deres vej. Eller, fange dem for at rekruttere dem eller gøre dem til slaver.</RefugeePodCrash>
 
-  <CargoPodCrash>Du har opdaget en klynge af gods-kapsler, der er styrtet ned i nærheden.\n\nMåske vil du finde noget brugbart ved nedstyrtningsstedet.</CargoPodCrash>
+  <LetterLabelCargoPodCrash>fragtkapsel</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Du har opdaget en klynge af fragt kapsler der er styrtet ned i nærheden.\n\nMåske vil du finde noget nyttigt i vraget.</CargoPodCrash>
 
-  <AnElectricalConduit>et electrisk rørledning</AnElectricalConduit>
-  <AWallsPowerConduit>en vægs elektriske rørledning</AWallsPowerConduit>
-  <ShortCircuit>En fejl i {0} har forårsaget en kortslutning.\n\nAlle {1} Wd af energi der er opsamlet i de tilsluttede batterier, er blevet afladt i en elektrisk eksplosion.</ShortCircuit>
-  <ShortCircuitWasLarge>Denne store mængde energi har forårsaget en eksplosion af anseelig størrelse.</ShortCircuitWasLarge>
-  <ShortCircuitWasHuge>Det er godt nok en enorm eksplosion. Hold da helt op!</ShortCircuitWasHuge>
+  <AnElectricalConduit>en elektrisk ledning</AnElectricalConduit>
+  <ShortCircuit>En fejl i {0} har forårsaget en kortslutning.\n\nAlle {1} Wd af energi i de tilsluttede batterier er blevet afladet i en elektrisk eksplosion.</ShortCircuit>
+  <ShortCircuitWasLarge>Denne store mængde strøm har skabt en eksplosion af betydelig størrelse.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Det er virkelig en enorm eksplosion. Wow.</ShortCircuitWasHuge>
 
-  <LetterSolarFlare>Et soludbrud er begyndt.\n\nDen intense stråling vil slukke alle elektriske enheder.\n\nDet bør være overstået efter omkring en dag.</LetterSolarFlare>
+  <TraderArrival>Et handesl skib passerer i nærheden.\n\nDe er kendt som {0}. De er en {1}.</TraderArrival>
 
-  <TraderArrival>Et handelsrumskib flyver forbi.\n\nDe er kendt som {0}. De er en {1}.</TraderArrival>
+  <SingleTravelerPassing>En {0} fra {1} passerer igennem. HECAP er kaldt {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>En gruppe af rejsende fra {0} passerer igennem.</GroupTravelersPassing>
 
-  <SingleTravelerPassing>En {0} fra {1} flyver forbi. HECAP har navnet {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>En gruppe rejsende fra {0} flyver forbi.</GroupTravelersPassing>
+  <LetterLabelSingleVisitorArrives>Besøgende</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>En {0} fra {1} besøger kolonien.\n\nHECAP er kaldt {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nHECAP har tilsyneladende et par ting til salg.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nHECAP er leder af den fraktion.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Besøgende</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>En gruppe fra {0} besøger kolonien.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nDe ser ud til at have et par ting at handle med.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nEn af de besøgende - {0}, er lederen af den fraktion.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>De besøgende fra {0} rejser.</VisitorsLeaving>
 
-  <SingleVisitorArrives>En {0} fra {1} er på besøg i kolonien.\n\nHECAP har navnet {2}.</SingleVisitorArrives>
-  <GroupVisitorsArrive>En gruppe rejsende fra {0} er kommet på besøg i kolonien.</GroupVisitorsArrive>
-  <VisitorsLeaving>Besøgende fra {0} er på vej hjem.</VisitorsLeaving>
+  <LetterLabelWandererJoin>vandrer slutter sig til</LetterLabelWandererJoin>
+  <WandererJoin>En {0} kaldet NAME er ankommet, og slutter sig til kolonien. HECAP er en {1}.</WandererJoin>
 
-  <WandererJoin>En {0} med navnet NAME er ankommet og vil gerne være en del af din koloni. HECAP er en {1}.</WandererJoin>
-  
-  
+  <LetterLabelManhunterPackArrived>Menneskejæger flok</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke passere døre, så hvis du bliver bag mure vil du være i sikker. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
+
   <!-- Crashed ship part-->
-  <SpaceshipPartCrash>Et stort vragstykke af et ældgammelt rumskib, er faldet ned i nærheden.\n\nDine kolonister mærker noget bagerst i deres sind, der hvisker om unævnelige formaninger og handlinger. Vraget må indeholde en AI ombord, der har evnen til at sende psykiske projektioner ud til kolonisterne. Denne AI er ikke venligtsindet.\n\nØdelæg den så hurtigt som muligt.</SpaceshipPartCrash>
-  <MessageAnimalInsanityPulse>Den ældgamle vragdel har udsendt en psykisk puls, som driver dyrene i nærheden gale.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Det nedfaldne rumskib har udsendt en fokuseret psykisk puls, som har drevet kolonisten {0} gal.</LetterShipPartDroveColonistInsane>
+  <MessageAnimalInsanityPulse>Den ældgamle struktur har udsendt en psykisk puls, der har drevet nærliggende dyr fra forstanden.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Den nedstyrtede skibs del har udsendt en fokuseret psykisk puls, der har drevet kolonister {0} sindssyg.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vågnede for {0} dage siden</AwokeDaysAgo>
-  <PsychicDroneLevel>Niveauet af psykisk puls: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>Psykisk pulse niveau: {0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>Lav</PsychicDroneLevelLow>
   <PsychicDroneLevelMedium>Medium</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Høj</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Ekstrem</PsychicDroneLevelExtreme>
-  <LetterPsychicDroneLevelIncreased>Det nedfaldne rumskib udstråler nu, en mere kraftfuld type af psykisk plus. Hver eneste menneske i området føler sig forstyrret, forfærdet og paranoid.</LetterPsychicDroneLevelIncreased>
-  
+  <PsychicDroneLevelExtreme>Ektreme</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Pulse intensiverer</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Den nedstyrtede skibs del udsender nu en mere kraftfuld form for psykisk puls. Hver menneskelignende i området føler sig nu mere forstyrret, rædselsslagen, og paranoid.</LetterPsychicDroneLevelIncreased>
+
   <!-- Agent revealed -->
-  <LetterAgentRevealed>{0} er blevet afsløret som en agent, sendt af din fjende {1}.\n\nDe forsøger nu at flygte - stands dem.</LetterAgentRevealed>
-  
+  <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} er blevet afsløret som en agent for din fjende {1}.\n\nDe forsøger nu at flygte.</LetterAgentRevealed>
+
   <!-- Distant psychic drone -->
-  <LetterIncidentPsychicDrone>Alle kolonister af kønnet {0} skærer tænder i smerte!\n\nEn fjern hadsskabende maskine udsender projektioner af en psykisk puls. Pulsen kan mærkes over hele dette område, og den psykiske frekvens påvirker  kun kolonister af {0} køn. De næste par dage vil visse personers humør, være en hel del værre end normalt.</LetterIncidentPsychicDrone>
-  
+  <LetterLabelPsychicDrone>Psykisk puls</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Hver kolonist af det {0} køn ømmer sig i smerte!\n\nEn fjern motor af had rør på sig. Det projekter en stærk psykisk puls i hele denne region, på en frekvens der kun lader til at påvirke det {0} køn. I et par dage vil nogle folks humør være ganske lidt værre.</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Psykisk lindring</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Hver kolonist fra det {0} køn smiler med tilfredshed!\n\nEn fjern motor af lykke er i omrøring. Det projektere en stærk psykisk puls i hele regionen, på en frekvens, der kun virker til at påvirke det {0} køn. For et par dage, vil nogle folks humør være lidt bedre.</LetterIncidentPsychicSoothe>
+
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>Bævere!</LetterLabelBeaversArrived>
+  <BeaversArrived>En gruppe af sultne alphabæere er netop ankommet.\n\ nPrøv at eliminer dem før de decimere hver enetste træ i regionen.</BeaversArrived>
+
+  <!-- Refugee chased -->
+  <RefugeeChasedInitial>En {1} der hedder {0} kalder dig fra nærliggende. HECAP bliver jagtet af {2} fra {3}!\n\nHECAP tigger om sikkerhed og tilbyder at slutte sig til din koloni. Biologisk, HE er {4} år gammel.\n\NVær advarede - hvis du accepterer, er du nødt til at bekæmp  {2} som er i hælen på ham.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Tilbyd sikkerhed</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Ignorer beskeden</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} skriger i panik igennem den lille højttaler inden du afbryder transmissionen.</RefugeeChasedRejected>
+
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>{0} selv-tæmmet</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} er blevet tam.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} er blevet tam. Den er blevet givet til {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} er blevet tam. Kolonisterne har besluttet sig at navngive den {1}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <LetterLabelFarmAnimalsWanderIn>{0}s tilslutter sig</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+
+  <!-- Thrumbo passes -->
+  <LetterLabelThrumboPasses>Sjælnde thrumboer</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>En lille flok thrumboer har vandrede ind i området.\n\nFredelig af natur, disse sjældne skabninger er ekstremt farlige, når de konfronteres. Nogle handlende er villige til at betale en masse penge for deres dyrebare læder og horn.\n\nThrumboer vil forlade området om et par dage.</LetterThrumboPasses>
+
+  <!-- Trader caravan -->
+  <LetterLabelTraderCaravanArrival>{1} fra {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>En karavane fra {0} nærmer sig. De er en {1}.\n\nDe vil hænge ud omkring kolonien i et par dage, inden de forlader den. Du kan angribe dem - men det vil gøre resten af deres fraktion vrede!</LetterTraderCaravanArrival>
+
+  <!-- Building breaks down -->
+  <LetterLabelBuildingBrokenDown>Brudt ned: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>En af dine maskiner ({0}) er brudt sammen. Den virker ikke før en kolonist med Reparation arbejdstypen går og ordner den..</LetterBuildingBrokenDown>
+
+  <!-- Ransom demand -->
+  <RansomDemand>{1} kontakter dig i radioen. De holder tidligere kolonist {0} for løsepenge.\n\nDe er villige til at frigive ham tilbage til dig i bytte for {2} sølv.</RansomDemand>
+  <RansomDemand_Accept>Acceptere</RansomDemand_Accept>
+  <RansomDemand_Reject>Afvise</RansomDemand_Reject>
+
+  <!-- Journey -->
+  <JourneyOffer>En venlig AI fra din fortid opkaldt Charlon Whitestone har sendt dig en besked!\n\NHE afslører, at han har et rumskib skjult på denne planet, og sender dig dens verdens koordinater.\n\nHvis du rejser til skibet, vil Charlon tage dig væk fra denne udkants verden, til stjernerne.</JourneyOffer>
+
+  <!-- Caravan meeting -->
+  <CaravanMeeting>Din karavane har mødt fredeligt med en karavane fra {0}. Den anden karavane er sammensat af:\n\n{1}</CaravanMeeting>
+  <CaravanMeeting_Trade>Handel</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>Angrib</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>Drag videre</CaravanMeeting_MoveOn>
+
 </LanguageData>
