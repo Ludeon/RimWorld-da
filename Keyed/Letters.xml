@@ -1,29 +1,147 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JumpToLocation>Klik for at hoppe til problemet</JumpToLocation>
+  <JumpToLocation>Hop til lokation</JumpToLocation>
 
-  <RelationsBrokenDown>Relationen til {0} er gået stykker. De er nu fjendtligt indstillet imod dig.</RelationsBrokenDown>
-  <RelationsWarmed>Relationen med {0} er blevet bedre. De er ikke længere fjendtligt indstillede imod dig.</RelationsWarmed>
+  <LetterLabelFirstSummerWarning>Sommer</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Sommeren er begyndt! Men vinteren er på vej.\n\nDine fødevareafgrøder vil ikke vokse i vinterkulden. Sørg for at opbevare flere dage vræd af mad nu, imens du stadig kan.\n\nDu kan bygge en walk-in kølerum for at forhindre mad fra at blive dårligt.\n\nOg forsøge at købe, stjæle eller lave nogle anoraker, ellers vil du fryse når du træder udenfor.</FirstSummerWarning>
 
-  <RelationsBrokenCapture>Fordi du fangede {0}, er {1} nu din fjende.</RelationsBrokenCapture>
+  <RelationsBrokenDown>Forholdet til {0} er brudt sammen. De er nu fjendtlige over for dig.</RelationsBrokenDown>
+  <RelationsWarmed>Forholdet med {0} er blevet varmer. De er ikke længere fjendtlige over for dig.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Fordi du fanget {0}, er {1} nu din fjende.</RelationsBrokenCapture>
 
   <ColonyGoodwill>Koloni goodwill</ColonyGoodwill>
   <Neutral>Neutral</Neutral>
 
-  <ShortCircuitRain>En {0} er kortsluttet i regnen og har startet en ildebrand.</ShortCircuitRain>
-  <AreaRevealed>Et nyt område er blevet tilgængeligt.</AreaRevealed>
+  <ShortCircuitRain>En {0} er kortsluttet i regnen og startede en brand.</ShortCircuitRain>
 
-  <RoofCollapsed>Det tag er styrtet sammen, fordi det var for langt fra understøttelse.</RoofCollapsed>
-  <TheseThingsCrushed>Følgende ting blev knust:</TheseThingsCrushed>
+  <LetterLabelAreaRevealed>Område afsløret</LetterLabelAreaRevealed>
+  <AreaRevealed>Et nyt område er blevet afsløret.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Et nyt område er blevet afsløret. Den indeholder ældgamle, fjendtlige mekanitter.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>Et tag er brudt sammen fordi det var alt for langt fra nogen støtte.</RoofCollapsed>
+  <TheseThingsCrushed>Disse ting blev knust:</TheseThingsCrushed>
   <NothingCrushed>Intet blev knust.</NothingCrushed>
-  
-  <MentalBreakRampage>{0} har fået et mentalt sammenbrud og er går beserk.</MentalBreakRampage>
-  <MentalBreakDaze>{0} har givet op og forlader kolonien.</MentalBreakDaze>
-  <MentalBreakLeave>{0} har givet op og vandrer rundt disillusioneret.</MentalBreakLeave>
+  <LetterLabelRoofCollapsed>Tag kollapset</LetterLabelRoofCollapsed>
 
-  <RecruitSuccess>Det lykkedes {0} at rekruttere {1} ({2} chance).</RecruitSuccess>
-  <RecruitFail>Det lykkedes ikke {0} at rekruttere {1} ({2} chance).</RecruitFail>
-  
-  
+  <RecruitSuccess>{0} succesfuldt rekrutteret {1} ({2} chance).</RecruitSuccess>
+  <RecruitFail>{0} kunne ikke rekruttere {1} ({2} chance).</RecruitFail>
+
+  <LetterLabelBirthday>Fødselsdag</LetterLabelBirthday>
+  <BirthdayChronological>Det er {0} s kronologisk fødselsdag i dag! Biologisk, {1} er {3} år.\n\nKronologisk, {1} netop blevet {2}.\n\nBemærk, da folk ikke ældes imens de er i kryptosøvn er deres kronologisk fødselsdag adskilt fra deres biologisk fødselsdag.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} har nået den biologiske alder af {1}.\n\nDesværre, har {0} fået følgende sygdomme på grund af aldring:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>Sygdom</LetterLabelNewDisease>
+  <NewDisease>{0} er blevet syg af {1}.\n\nSikre at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewDisease>
+  <NewPartDisease>{0} er blevet syg af {3}. Infektionen er i HIS {1}.\n\nSikre at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Urgammel Fare</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Som {0} nærmer sig den gamle mur, en følelse af bange anelser overvinder HIM. HECAP er ikke sikker på hvorfor, men han mener, at denne støvede struktur kan indeholde stor fare.</AncientShrineWarning>
+
+  <StruckMineable>Vi har ramt {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} hævn</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>En {0} angriber efter at være blevet skadet!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>En {0} angriber grund af et tæmme forsøg!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Andre {0}s i nærheden er også blevet rasende!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} ramt fælde</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} har ved et uheld sprunget en fælde og taget skade af det.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} har udviklet et helbredsproblem:\n\n {1}\n\nDette var forårsaget af:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
+
+  <LetterHediffFromRandomHediffGiver>{0} har udviklet et helbredsproblem: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <LetterLeadersDeathLabel>{1} døde: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{0}, {3} af {1}, døde.\n\nDen nye {3} er {2}.</LetterLeadersDeath>
+
+  <LetterLeaderChangedLabel>Ny {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{0} er ikke længere {3} af {1}.\n\nDen nye {3} er {2}.</LetterLeaderChanged>
+
+  <MentalBreakLetterLabel>Mentalt sammenbrud</MentalBreakLetterLabel>
+  <MentalBreakReason>Dråben var: {0}.</MentalBreakReason>
+
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Forhold</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>Der er folk der har forhold til dine kolonister eller fanger i den ankommede gruppe af {0}.\n\nHusk dog, at selvom de er relateret, vil de stadig angribe hinanden på grund af deres dårlige fraktions relationer.\n\nDisse mennesker er:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Der er folk der har relationer til dine kolonister eller fanger i den ankommede gruppe af venlige {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Der er folk der har relationer til dine kolonister eller fanger i den ankommede gruppe:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Kredsløbs forhandleren sælger folk der har relationer til dine kolonister eller fanger:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithFactionBase>Fraktions basen sælger folk der har relationer til dine kolonister eller fanger:</LetterRelatedPawnsTradingWithFactionBase>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen sælger folk der har relationer til dine kolonister eller fanger:</LetterRelatedPawnsTradingWithOtherCaravan>
+
+  <RelationshipAppendedLetterSuffix>(forhold)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME har et forhold til en kolonist. HECAP er {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME har et forhold til en af dine fanger. HECAP er {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Affære</LetterLabelAffair>
+  <LetterAffair>{0}, gift med {1}, har indledt en affære med {2}.</LetterAffair>
+  <LetterLabelNewLovers>Nye kærester</LetterLabelNewLovers>
+  <LetterNewLovers>{0} og {1} har fundet sammen og er nu kærester.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} og {1} er ikke længere i et forhold.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Slå op</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Ægteskabet er på!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Afvist frieri</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} har accepteret {0} s frieri.\n\nPå et tidspunkt i de kommende dage eller årstider, vil de holde deres ægteskab ceremoni og invitere alle kolonisterne. Overvej at placere et ægteskab plads, hvis du vil styre, hvor ceremonien sker.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} har afvist {0} s frieri. {0} vil være ulykkelig over dette.</LetterRejectedProposal>
+
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>God vilje</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Dårlig vilje</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Mentalt sammenbrud</LetterLabelMentalBreakdown>
+
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Kæledyrs død</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, kæledyr til {1}, døde. Det vil påvirke {1}'s humør.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} navngivet {1}, kæledyr til {2}, døde. Det vil påvirke {2}'s humør.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} døde. Det vil påvirke følgende personers humør:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} navgivet {1} er død. Det vil påvirke følgende personers humør:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Fængelsflugt</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Fanger har iscenesat en fængelsflugt! De har på en eller anden måde besejret dørlåsen og er på vej ud. De kan søge efter våben, kæmpe, eller forsøge at flygte. Disse fanger er involveret:\n\n {0}\n\nFanger er mere tilbøjelige til at forsøge at flygte når de er utilfredse, talrige, og sunde.</LetterPrisonBreak>
+
+  <!-- Party -->
+  <LetterLabelNewParty>Fest</LetterLabelNewParty>
+  <LetterNewParty>{0} holder fest! Alle der deltager får glæde og social energi, og et varigt, positiv stemnings løft.</LetterNewParty>
+
+  <!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>{0} afhængighed</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} har udviklet en afhængighed til {1}.\n\nHECAP har nu behov for {1}, synligt på HIS Behov fane. HECAP vil automatisk forbruge stoffet til at opfylde hans behov. Hvis han ikke kan få noget {1}, vil han få abstinenser.</LetterNewlyAddicted>
+
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>{0} abegilde</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} er på abegilde med {1}.</LetterDrugBinge>
+
+  <!-- Formed caravan -->
+  <LetterLabelFormedCaravan>Karavane klar</LetterLabelFormedCaravan>
+  <LetterFormedCaravan>Din karavane er dannet og afventer ordrer på verdenskortet.</LetterFormedCaravan>
+
+  <!-- Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>Karavane ødelagt</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Alle medlemmer af din karavane er døde.</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered ambush map -->
+  <LetterLabelCaravanEnteredAmbushMap>Karavan ankommet til baghold</LetterLabelCaravanEnteredAmbushMap>
+  <LetterCaravanEnteredAmbushMap>{0} er ankom til bagholdsangrebs stedet.</LetterCaravanEnteredAmbushMap>
+
+  <!-- Caravan entered enemy base -->
+  <LetterLabelCaravanEnteredEnemyBase>Angreb begyndt</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} er ankommet til {1} og er klar til at begynde angrebet.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} er ankommet til {1} og er klar til at begynde angrebet.\n\nPå grund af din fjendtlige tilgang, er {2} nu fjendtlig over for dig.</LetterCaravanEnteredEnemyBaseBecameHostile>
+
+  <!-- Faction base defeated -->
+  <LetterLabelFactionBaseDefeated>Forpost ødelagt</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Den fjendtlige forpost {0} er blevet ødelagt.\n\nDu har {1} timer at indsamle genstande, før dine kolonister reformere Karavanen.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>Dette var den sidste base af {0}, hvilket betyder den fraktion ikke findes mere.</LetterFactionBaseDefeated_FactionDestroyed>
+
+  <!-- Pawns lost due to map countdown -->
+  <LetterLabelPawnsLostDueToMapCountdown>Efterladt</LetterLabelPawnsLostDueToMapCountdown>
+  <LetterPawnsLostDueToMapCountdown>Nogle af dine dyr eller fanger blev efterladt i vildmarken:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+
 </LanguageData>
