@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <ManualPriorities>Manuelle prioriteter</ManualPriorities>
+  <HigherPriority>højere prioritet</HigherPriority>
+  <LowerPriority>lavere prioritet</LowerPriority>
+  <RelevantSkills>Relevante færdigheder: {0} \ gennemsnittet af relevante færdigheder: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klik for at springe til:</ClickToJumpTo>
+  <CannotDoThisWork>{0} kan ikke gøre denne form for arbejde.</CannotDoThisWork>
+  <NoneBrackets>(ingen)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Denne kolonist er ikke i stand til at gøre noget arbejde af denne type på grund af hans helbredstilstand.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+
+  <!-- Assign tab -->
+  <CurrentOutfit>Nuværende tøj</CurrentOutfit>
+  <ManageOutfits>Administrer tøj</ManageOutfits>
+  <ClearForcedApparel>Ryd tvunget</ClearForcedApparel>
+  <ApparelForcedLower>tvunget</ApparelForcedLower>
+  <ForcedApparel>Tvungen tøj</ForcedApparel>
+  <AssignTabEdit>Redigere...</AssignTabEdit>
+  <CurrentDrugPolicies>Nuværende narkotikapolitik</CurrentDrugPolicies>
+  <ManageDrugPolicies>Administrer narkotikapolitik</ManageDrugPolicies>
+
+  <!-- Restrictions tab -->
+  <Copy>Kopier</Copy>
+  <Paste>Indsæt</Paste>
+  <AllowedArea>Tilladt område</AllowedArea>
+
+  <!-- Animals tab -->
+  <Master>Fører</Master>
+  <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
+  <FollowDraftedTip>Følg fører mens føren er vervet.</FollowDraftedTip>
+  <FollowFieldworkTip>Følg føreren mens føreren gør feltarbejde (jagt eller tæmme dyr).</FollowFieldworkTip>
+
+  <!-- Factions tab -->
+  <Hostile>Fjendtlig</Hostile>
+  <DefeatedLower>besejret</DefeatedLower>
+  <HostileTo>Fjende af {0}</HostileTo>
+  <CurrentGoodwill>Nuværende velvilje med denne fraktion.</CurrentGoodwill>
+
+  <!-- Social tab -->
+  <Friend>Ven</Friend>
+  <Rival>Rival</Rival>
+  <Acquaintance>Bekendtskab</Acquaintance>
+
+  <!-- History tab - subtabs -->
+  <Graph>Graf</Graph>
+  <Statistics>Statistiker</Statistics>
+
+  <!-- History tab - Graphs -->
+  <SelectGraph>Vælg graf</SelectGraph>
+  <Last30Days>Sidste 30 dage</Last30Days>
+  <Last100Days>Sidste 100 dage</Last100Days>
+  <Last300Days>Sidste 300 dage</Last300Days>
+  <AllDays>Alle</AllDays>
+  <Day>Dag</Day>
+  <Value>Værdig</Value>
+  <External>Ekstern</External>
+
+  <!-- History tab - Statistics -->
+  <Playtime>Spille tid</Playtime>
+  <Storyteller>Historiefortæller</Storyteller>
+  <ThisMapColonyWealthTotal>Koloni rigdom (dette kort)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Koloni rigdom (objekter) (dette kort)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Koloni rigdom (bygninger) (dette kort)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>Større trusler</NumThreatBigs>
+  <NumEnemyRaids>fjendtlige togter</NumEnemyRaids>
+  <ThisMapDamageTaken>Skader taget (dette kort)</ThisMapDamageTaken>
+  <ColonistsKilled>Kolonister dræbt</ColonistsKilled>
+  <ColonistsLaunched>Kolonister sendt ud i rummet</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <ProjectTechLevel>projekt teknologi niveau</ProjectTechLevel>
+  <YourTechLevel>din teknologi-niveau</YourTechLevel>
+  <ResearchCostMultiplier>kost multiplikator</ResearchCostMultiplier>
+  <ResearchCostComparison>Projekt basis kost {0} bliver {1} for dig på grund af dit teknologi-niveau.</ResearchCostComparison>
+
+</LanguageData>
