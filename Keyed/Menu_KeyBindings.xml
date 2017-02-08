@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaveButton>Gem</SaveButton>
+  <!--<CancelButton>Cancel</CancelButton>-->
+  <ClearBinding>Ryd</ClearBinding>
+  <ResetBinding>Nulstil til standard</ResetBinding>
+  <BindingButtonToolTip>Venstre-klik for at binde denne tast eller højreklik for valgmuligheder</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Tryk på en tast eller Esc for at annullere...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Tast binding overskrevet: {0}</KeyBindingOverwritten>
+
+</LanguageData>
