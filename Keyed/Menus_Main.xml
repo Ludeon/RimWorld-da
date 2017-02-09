@@ -1,140 +1,174 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <CreateWorld>Skab Verden</CreateWorld>
-  <NewColony>Ny Koloni</NewColony>
-  <BackToGame>Tilbage til Spillet</BackToGame>
+  <Tutorial>Læreprogram</Tutorial>
+  <NewColony>Ny koloni</NewColony>
+  <BackToGame>Tilbage til spillet</BackToGame>
+  <ReviewScenario>Vuder scenarie</ReviewScenario>
   <Save>Gem</Save>
-  <Load>Indlæs Koloni</Load>
-  <Options>Indstillinger</Options>
+  <LoadGame>Indlæs spil</LoadGame>
+  <Options>Instillinger</Options>
   <Mods>Mods</Mods>
-  <Credits>Rulletekster</Credits>
-  <QuitToMainMenu>Forlad til Hovedmenu</QuitToMainMenu>
-  <QuitToOS>Forlad til Skrivebord</QuitToOS>
+  <Credits>Kredit</Credits>
+  <QuitToMainMenu>Afslut til hovedmenu</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Gem og afslut til menu</SaveAndQuitToMainMenu>
+  <QuitToOS>Afslut til OS</QuitToOS>
+  <SaveAndQuitToOS>Gem og afslut til OS</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
   <Forums>Forums</Forums>
-  <OfficialWiki>Officiel wiki</OfficialWiki>
+  <OfficialWiki>Officel wiki</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
   <TynansDesignBook>Tynan's design bog</TynansDesignBook>
-  <HelpTranslate>Hjælp med oversættelsen af RimWorld</HelpTranslate>
+  <HelpTranslate>Hjælp med at oversætte RimWorld</HelpTranslate>
+  <BuySoundtrack>Køb lydspor</BuySoundtrack>
+  <CreateWorld>Opret verden</CreateWorld>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Kig på verden</ReviewWorld>
-  <WorldGenerate>Skab Verden</WorldGenerate>
+  <ReviewWorld>Vuder verden</ReviewWorld>
+  <WorldGenerate>Generer</WorldGenerate>
   <WorldSaveAndFinish>Gem og afslut</WorldSaveAndFinish>
-  <Reset>Genstart</Reset>
-  <WorldSize>Størrelse</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Tilfældiggør seed</RandomizeSeed>
-
+  <Reset>Nulstille</Reset>
+  <PlanetCoverage>Globe dækning</PlanetCoverage>
+  <PlanetRainfall>Overordnet nedbør</PlanetRainfall>
+  <PlanetTemperature>Overordnet temperatur</PlanetTemperature>
+  <PlanetRainfall_Low>Lav</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Høj</PlanetRainfall_High>
+  <PlanetTemperature_Low>Lav</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Høj</PlanetTemperature_High>
+  <WorldSeed>Frø</WorldSeed>
+  <RandomizeSeed>Tilfældig frø</RandomizeSeed>
+  <PlanetCoverageTip>Planeten er altid den samme diameter, men da det er langt større end nødvendigt for at spille, generer vi ikke hele overfladen, da det kan tage meget lang tid. Dette er den procentdel af overfladen, som du ønsker genereret.</PlanetCoverageTip>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Vælg verden</SelectWorld>
   <WorldChooseButton>Vælg</WorldChooseButton>
-  <NoWorldsFilesFound>Ingen verdener fundet. Skab en ny verden først.</NoWorldsFilesFound>
-  
+  <NoWorldsFilesFound>Ingen verdens filer fundet. Opret en verden først.</NoWorldsFilesFound>
+
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Build {0} er nu tilgængelig. Tjek ludeon.com for mere information.</BuildNowAvailable>
-	<BuildUpToDate>Build er opdateret.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Fejl vedrørende version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Indlæser version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Version {0} er nu tilgængelig. Tjek ludeon.com for mere info.</BuildNowAvailable>
+  <BuildUpToDate>Dette er den nyeste version.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Fejl ved hentning af versions info: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Indlæser version info...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Skaber Verden</GenerateWorld>
+  <GenerateWorld>Generer verden</GenerateWorld>
 
-  <!--=========== Mods screen ==========-->
-  <GetMods>Få mods</GetMods>
-  <OpenModsDataFolder>Åbn mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Er du sikker på, at du ønsker at deaktivere kerne mod? Spillet vil slet ikke virke, medmindre du har et andet mod der kan erstatte al kernens funktionalitet.\n\nHusk, andre mods kan overskrive 'defs' in kerne moddet ved at bruge det samme 'defName'.</ConfirmDisableCoreMod>
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Åben Steam Værksted</OpenSteamWorkshop>
+  <GetModsFromForum>Få mods fra forumet</GetModsFromForum>
+  <OpenModsDataFolder>Åben mod data mappen</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Er du sikker på du vil deaktivere kerne modden? Spillet vil overhovdet ikke virke, medmindre du har en anden mod, der erstatter alle kernefunktionaliteterne.\n\nHusk, andre mods kan tilsidesætte defs i kernen mod ved hjælp af den samme defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Er du sikker på at du vil slette alt indhold for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Afmeld</Unsubscribe>
+  <ConfirmUnsubscribe>Er du sikker på du vil afmelde {0}?</ConfirmUnsubscribe>
   <Author>Forfatter</Author>
+  <WorkshopPage>Værksteds side</WorkshopPage>
+  <UploadToSteamWorkshop>Upload til Steam Værksted</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Opdater på Steam Værksted</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Upload er allerede igang.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Værksted submission fejlede.\n\nGrund: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Succesfuld uploadet {0}.</WorkshopUploadSucceeded>
+  <Downloading>Downloader</Downloading>
+  <Source>Source</Source>
+  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Denne mod er ikke lavet til denne version af RimWorld, og vil sandsynligvis ikke fungere korrekt.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod brug for et godt formateret version i About.xml. Sådan her: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Træk for at omarrangere</DragToReorder>
 
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Vælg scenarie</ChooseScenario>
+  <ScenariosCustom>Brugerdefinerede</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Værksted</ScenariosSteamWorkshop>
+  <ScenarioEditor>Scenarie editor</ScenarioEditor>
+  <Delete>Slet</Delete>
+
+  <!--============ Scenario editor ===============-->
+  <Seed>Frø</Seed>
+  <Load>Indlæs</Load>
+  <EditMode>Redigeringstilstand</EditMode>
+  <Summary>Oversigt</Summary>
+  <AddPart>Tilføj del</AddPart>
+  <TextFieldsMustBeFilled>Alle tekstfelter skal udfyldes.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Er du sikker på du ønsker at uploade dette til Steam Værkstedet?\n\nDu skal acceptere Steam Værkstedets servicevilkår. Find de fuldstændige vilkår her:\n\nhttp: //steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Naturligvis bør du kun uploade indhold, som du selv har skabt.\n\nHar du selv lavet dette indhold?</ConfirmContentAuthor>
+  <Incompatible>Ukompatible</Incompatible>
+  <TooMany>For mange (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Kan blive opdateret på Værksted, da du er forfatteren.</CanBeUpdatedOnWorkshop>
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Vælg AI Historiefortæller</ChooseAIStoryteller>
-  <HowStorytellersWork>AI Historiefortælleren skaber hændelser som f.eks. piratbander der angriber, ressourcer der falder ned fra atmosfæren, eller dyr som angriber dine kolonister. Historiefortælleren vil have indflydelse på, hvordin din kolonis historie udvikler sig.</HowStorytellersWork>
-  <MustChooseChallengeScale>Vælg din sværhedsgrad.</MustChooseChallengeScale>
-  <ChallengeScale>Sværhedsgrad</ChallengeScale>
-  <ChallengeScaleTip>Når historiefortælleren sender farer efter dig, vil de være {0} så store som i tilstanden Udfordrende.</ChallengeScaleTip>
-  <ChallengeScale_BuilderMode>Bygge tilstand</ChallengeScale_BuilderMode>
-  <ChallengeScale_Casual>Afslappet</ChallengeScale_Casual>
-  <ChallengeScale_Rough>Hård</ChallengeScale_Rough>
-  <ChallengeScale_Challenge>Udfordrende</ChallengeScale_Challenge>
-  <ChallengeScale_SeriousChallegne>Seriøs Udfordring</ChallengeScale_SeriousChallegne>
-  <ChallengeScale_ExtremeChallenge>Ekstrem Udfordring</ChallengeScale_ExtremeChallenge>
-
-
-
-
-
-
-
-
-
-
+  <HowStorytellersWork>AI Historiefortælleren skaber begivenheder som pirat togter, ressource nedfald, eller dyre angreb. Deres valg vil påvirke historien om din koloni. Du kan ændre disse indstillinger på ethvert tidspunkt.</HowStorytellersWork>
+  <MustChooseDifficulty>Vær venlig at vælg en sværhedsgrad.</MustChooseDifficulty>
+  <Difficulty>Sværhedsgrad</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Vælg landingssted</SelectLandingSite>
-  <SelectSite>Vælg sted</SelectSite>
-  <MustSelectLandingSite>Vælg venligst et landingssted.</MustSelectLandingSite>
-  <CannotLandBiome>Du kan ikke lande på denne biome: {0}</CannotLandBiome>
-  <WorldRenderMode>Tilstand</WorldRenderMode>
-  <WorldRenderModeFull>Fuld</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperatur</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Højde</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fertilitet</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Regnfald</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomer</WorldRenderModeBiomes>
-  <BiomeNotImplemented>biome ikke implementeret</BiomeNotImplemented>
+  <SelectLandingSite>Vælg landingsplads</SelectLandingSite>
+  <SelectRandomSite>Vælg tilfældig plads</SelectRandomSite>
+  <SelectSite>Vælg plads</SelectSite>
+  <MustSelectLandingSite>Vær venlig at vælge en landingsplads.</MustSelectLandingSite>
+  <CannotLandBiome>Du kan ikke lande på dette biom: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Biome ikke implementeret</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Du kan ikke lande på ufremkommelige bjerge.</CannotLandImpassableMountains>
   <BaseAlreadyThere>{0} har allerede en base der.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
+  <Biome>Biom</Biome>
   <Terrain>Terræn</Terrain>
-  <Elevation>Højde</Elevation>
+  <Elevation>Elevation</Elevation>
   <Fertility>Fertilitet</Fertility>
-  <AvgTemp>Gennemsnitlig temperatur</AvgTemp>
-  <Rainfall>Regnfald</Rainfall>
+  <AvgTemp>Gennemsnitstemperatur</AvgTemp>
+  <AvgSummerTemp>Sommer temperatur</AvgSummerTemp>
+  <AvgWinterTemp>Vinter temperatur</AvgWinterTemp>
+  <Rainfall>Nedbør</Rainfall>
   <HasCoast0>Nordlig kyst</HasCoast0>
   <HasCoast1>Østlig kyst</HasCoast1>
   <HasCoast2>Sydlig kyst</HasCoast2>
   <HasCoast3>Vestlig kyst</HasCoast3>
-  <FactionBase>Fremmed base</FactionBase>
+  <FactionBase>Fraktion kyst</FactionBase>
+  <StoneTypesHere>Sten typer</StoneTypesHere>
+  <TimeZone>Tidszone</TimeZone>
+  <MovementTimeNow>Nuværende bevægelse tid</MovementTimeNow>
+  <MovementTimeSummer>Sommer bevægelse tid</MovementTimeSummer>
+  <MovementTimeWinter>Vinter bevægelse tid</MovementTimeWinter>
 
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Lav karakterer</CreateCharacters>
-  <FirstNameDesc>Karakterens fornavn.\n\nDette vil kun blive vist i visse menuer.</FirstNameDesc>
-  <ShortIdentifierDesc>Karakterens øgenavn.\n\nDet bliver vist på alle tidspunkter. Det kan være fornavn eller efternavn, eller et helt andet øgenavn.</ShortIdentifierDesc>
-  <LastNameDesc>Karakterens efternavn.\n\nDette vil kun blive vist i visse menuer.</LastNameDesc>
-  <Randomize>Tilfældiggør</Randomize>
+  <CreateCharacters>Skab karakter</CreateCharacters>
+  <FirstNameDesc>Karakterens fornavn.\n\nDet vises kun i visse menuer.</FirstNameDesc>
+  <ShortIdentifierDesc>Karakterens korte identifikator.\n\nDette vises på alle tidspunkter. Det kan være det første eller efter-navn, eller et helt separat kaldenavn.</ShortIdentifierDesc>
+  <LastNameDesc>Karakterens efternavn.\n\nDette vises kun i visse menuer.</LastNameDesc>
+  <Randomize>Tilfældigser</Randomize>
   <AgeIndicator>alder {0}</AgeIndicator>
   <Backstory>Baggrundshistorie</Backstory>
-  <IncapableOf>Ude af stand til</IncapableOf>
-  <Traits>Karaktertræk</Traits>
-  <TraitsDoNothing>Karaktertræk er sjove bidder af historie om dine kolonister; de fleste træk har ingen direkte effekt. Dette vil ændre sig i fremtidige versioner.</TraitsDoNothing>
+  <IncapableOf>ude af stand til</IncapableOf>
+  <Traits>Træk</Traits>
   <PermanentMoodEffect>Permanent humør effekt</PermanentMoodEffect>
   <Skills>Færdigheder</Skills>
-  <NoneLower>ingen</NoneLower>
-  <Adulthood>Voksenliv</Adulthood>
+  <NoneLower>Ingen</NoneLower>
+  <Adulthood>Voksen</Adulthood>
   <Childhood>Barndom</Childhood>
-  <Male>Mand</Male>
-  <Female>Kvinde</Female>
+  <Male>han</Male>
+  <Female>hun</Female>
   <Pain>Smerte</Pain>
-  
-  
+  <Health>Helbred</Health>
+  <Relations>Relationer</Relations>
+
   <!--=========== Misc ==========-->
   <Start>Start</Start>
-  <Advanced>Advanceret</Advanced>
+  <Advanced>Avanceret</Advanced>
   <Next>Næste</Next>
   <Back>Tilbage</Back>
-  
   <Gameplay>Gameplay</Gameplay>
+  <ConfirmQuit>Virkelig holde op? Du mister ikke-gemt fremskridt.</ConfirmQuit>
+  <EveryoneNeedsValidName>Hver person har brug for et gyldigt navn.</EveryoneNeedsValidName>
+  <Quit>Afslut</Quit>
+  <Ignore>Ignorer</Ignore>
 
-  <ConfirmQuit>Vil du virkelig slutte? Du vil miste alt der ikke er gemt.</ConfirmQuit>
-  
-  <EveryoneNeedsValidName>Alle personer har brug for et brugbart navn.</EveryoneNeedsValidName>
-
-  <GeneratingWorld>Skaber verden...</GeneratingWorld>
-  <GeneratingMap>Skaber kort...</GeneratingMap>
+  <!--============ Progress bar==============-->
+  <GeneratingWorld>Generer verden</GeneratingWorld>
+  <GeneratingMap>Generer kort</GeneratingMap>
+  <GeneratingMapForNewEncounter>Generer kort for nyt møde</GeneratingMapForNewEncounter>
 
 </LanguageData>
