@@ -1,48 +1,208 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- 
-  <MessageSiegersAssaulting>De {0} belejrende fra {1} angriber kolonien.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Belejrende {0} fra {1} angriber kolonien.</MessageSiegersAssaulting>
 
   <MessageRaidersBeginningAssault>{0} fra {1} begynder deres angreb.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} fra {1} har set dig og begynder deres angreb tidligt.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} fra {1} har besluttet at kidnappe hvem kan og forlade stedet.</MessageRaidersKidnapping>
+  <MessageRaidersDetectedEarlyAssault>{0} fra {1} har opdaget dig og begyndt deres angreb tidligt.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} fra {1} har besluttet at kidnappe hvem de kan og smutte.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} fra {1} har besluttet at stjæle hvad de kan, og smutte.</MessageRaidersStealing>
 
-  <MessageRaidersLeaving>{0} fra {1} forlader stedet.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} fra {1} har givet op og forlader stedet.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} fra {1} er tilfredes med den skade de har forvoldt og forlader stedet.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} fra {1} går nu.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} fra {1} har givet op og smutter.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} fra {1} er tilfredse med skaderne og smutter.</MessageRaidersSatisfiedLeaving>
 
-  
   <MessageFightersFleeing>{0} fra {1} flygter.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Venligsindede {0} fra {1} forlader stedet.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Venlige {0} fra {1} smutter.</MessageFriendlyFightersLeaving>
 
+  <MessageVisitorsTakingWounded>{0} fra {1} tager en såret gæst.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} fra {1} er blevet fanget og graver sig ud for at undslippe.</MessageVisitorsTrappedLeaving>
 
+  <MessageWornApparelDeterioratedAway>{0} båret af {1} er blevet forværret til ingenting.</MessageWornApparelDeterioratedAway>
 
-  <MessageShipHasLeftCommsRange>{0} har er uden for kommunikations rækkevidde.</MessageShipHasLeftCommsRange>
-	
-	<MessageNeedBeaconToTradeWithShip>Du skal bruge et orbital trade beacon for at kunne handle med et skib.</MessageNeedBeaconToTradeWithShip>
-	
-  <MessageBillComplete>Bestilling færdig: {0}.</MessageBillComplete>
-  
-  <MessageFullyHealed>{0} er helt rask.</MessageFullyHealed>
+  <MessageSeasonBegun>{0} er begyndt.</MessageSeasonBegun>
 
-  <MessagePrisonerIsEscaping>Fangen {0} er ved at undslippe.</MessagePrisonerIsEscaping>
+  <MessageShipHasLeftCommsRange>{0} har efterladt Kommunikations rækkevidde.</MessageShipHasLeftCommsRange>
 
-  <MessageRecruitSuccess>Det lykkedes {0} at rekruttere {1} ({2} chance).</MessageRecruitSuccess>
-	<MessageRecruitFail>Det lykkedes ikke {0} at rekruttere {1} ({2} chance).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>Det lykkedes ikke {0} at rekruttere {1} (fangen er under loyalitets grænsen).</MessageRecruitFailBecauseLoyalty>
-	
-  <MessageTraderCannotAfford>Handelsskibet har ikke råd til denne handel.</MessageTraderCannotAfford>
+  <MessageNeedBeaconToTradeWithShip>Du har brug for en orbital handels fyr til at handle med et rumskib.\n\nFyret skal have strøm.</MessageNeedBeaconToTradeWithShip>
+
+  <MessageBillComplete>Ordre komplet: {0}.</MessageBillComplete>
+
+  <MessageFullyHealed>{0} er fuldstændig helet.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Fanger {0} flygter.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} fandt ingen nærliggende, uforbeholdt patroner til {1}.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Advarsel: {0}s vil ofte angribe når skadet.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Advarsel: {0}s kan angribe på et fejlslaget tæmme forsøg ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+
+  <LetterLabelMessageRecruitSuccess>Ny rekrut</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{0} har succesfuldt rekrutterede {1} ({2} chance).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance) og navngivet den HIM {3}.</MessageTameAndNameSuccess>
+
   <MessageColonyCannotAfford>Kolonien har ikke råd til denne handel.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>Du har ikke nok sølv klart til at handle.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Handelsskibet har ikke nok sølv.</MessageTraderNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>Du har ikke nok sølv klar til at handle.</MessageColonyNotEnoughSilver>
 
-  <MessageCriticalAlert>Kritisk alarm: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>kritisk alarm: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestableFood>Skal udpege mad-givende og nok opvoksede planter.</MessageMustDesignateHarvestableFood>
-  <MessageMustDesignateHarvestableWood>Skal udpege træ-givende og nok opvoksede træer.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestable>Skal udpege høstbar, tilstrækkeligt vokset planter.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Skal udpege træ-givende, tilstrækkeligt vokset planter.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Skal udpege planter.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Skal udpege transportbare ting.</MessageMustDesignateHaulable>
-  
-  
+  <MessageMustDesignateHaulable>Skal udpege slæbbar objekter. Nogle elementer er altid slæbbar og kan ikke udpeges.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Skal udpege ufremkommelige minebare klipper.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Skal udpege jagtbare dyr.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Skal udpege tæmmebare dyr.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Skal udpege forladte kunstige strukturer.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Skal udpege rå sten terræn.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Intet kan fjerne tykke tage.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>Dette er allerede i opbevaring og vil blive flyttet til højt prioriteret opbevaring om nødvendigt.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Skal udpege lig eller nedskudt karakter med fjernbare tøj.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Skal udpege tamme dyr der hører til kolonien.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Skal udpege fulde grave eller beholdere.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} har nægtet at blive arresteret!</MessageRefusedArrest>
+
+  <MessageNoMedicalBeds>Der er ingen medicinske senge til rådighed.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>Der er ingen senge til dyr til rådighed.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operation kræver {0} eller bedre, men {1} 's nuværende lægehjælp tilstand er "{2}".</MessageTooLowMedCare>
+
+  <PawnDiedBecauseOf>{0} er død på grund af {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} er ikke længere ude af stand til at gå.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0} er kollapset på grund af ekstrem udmattelse.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationFailureMinor>{0} har fejlet på en mindre måde, imens der blev opereret på{1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{0} har fejlet katastrofalt imens der blev opereret på {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{0} har feljet på en latterlig måde imens der blev opereret på {1}.</MessageMedicalOperationFailureRidiculous>
+
+  <MessageMedicalOperationWillAngerFaction>Denne operation vil gøre {0} vred.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Fordi {0} forlod kortet sund, har forholdet til {1} blevet forbedret med {2}.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0} har aborteret på grund af sult.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} har aborteret på grund af dårligt helbred.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} har født.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} har navngivet {1} {2} efter at være blevet nusset.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>Ingen fører kan tæmme {0} (kræver niveau {1} i {2}, deb bedste fører {3} har {4}).</MessageNoHandlerSkilledEnough>
+
+  <MessageEatenByPredator>{0} er blevet spist af {1}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} bliver angrebet af {1}!</MessageAttackedByPredator>
+
+  <MessageHiveReproduced>En insekt kube har reproduceret sig selv.</MessageHiveReproduced>
+
+  <MessageTraderCaravanLeaving>Handelskaravanen fra {0} går nu.</MessageTraderCaravanLeaving>
+
+  <MessageCantSelectDeadPawn>{0} er død.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} er af kortet.</MessageCantSelectOffMapPawn>
+
+  <MessageSocialFight>{0} startede en social kamp med {1}. Begrundelse: {2}.</MessageSocialFight>
+
+  <MessageNewMarriageCeremony>Kolonister samles for at fejre {0} og {1} 's ægteskab.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} og {1} begynder deres bryllups ceremoni!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>Bryllups ceremonien for {0} og {1} er blevet aflyst.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} og {1}er blevet gift. Kolonister fejrer nu lejlighed.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>Bryllups ceremonien for {0} og {1} er færdig.</MessageMarriageCeremonyAfterPartyFinished>
+
+  <MessageNewBondRelation>{0} og {1} har dannet et bånd.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} og {1} har dannet et bånd. {0} har navngivet HIM {2}.</MessageNewBondRelationNewName>
+
+  <MessageBondedAnimalMentalBreak>{0} har et mentalt sammenbrud på grund af {1} 's død.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} navngivet {1} har et mentalt sammenbrud på grund af {2}'s død.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} dyrende har et mentalt sammenrbrud på grund af {1} 's død.</MessageBondedAnimalsMentalBreak>
+
+  <MessageSuccessfullyRemovedHediff>{0} har med succes fjernet {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+
+  <MessageShipChunkDrop>En bid af et rumfartøj er faldet fra rummet og er landet i nærheden.</MessageShipChunkDrop>
+
+  <MessagePartyCalledOff>Festen er blevet afblæst.</MessagePartyCalledOff>
+  <MessagePartyFinished>Festen er færdig.</MessagePartyFinished>
+
+  <MessageCannotSellItemsReason>Nogle objekter kan ikke handles med på grund af: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} mislykkedes i konstruktionen af {0}. Nogle ressourcer er blevet spildt.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Screenshot gemt som: {0}</MessageScreenshotSavedAs>
+
+  <MessageNoLongerSocialFighting>{0} og {1} slås ikke længere socialt.</MessageNoLongerSocialFighting>
+
+  <MessageNoLongerBingingOnDrug>{0} fråser ikke længere på {1}.</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0} har rådnet væk i opbevaring.</MessageRottedAwayInStorage>
+
+  <MessageFoodPoisoning>{0} har fået madforgiftning af: {1}.</MessageFoodPoisoning>
+
+  <MessageFailedToSendCaravanBecausePawnLost>Kunne ikke sende karavanen fordi en af de kolonister, fanger eller dyr er mistet.</MessageFailedToSendCaravanBecausePawnLost>
+  <MessageCaravanFormationPaused>karavane dannelsesprocessen vil fortsætte når alle kommer sig fra et mentalt sammenbrud.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>Dine kolonister vil nu fortsætte danner en karavane.</MessageCaravanFormationUnpaused>
+
+  <MessageCaravanMemberHasExtremeMentalBreak>En af karavane medlemmerne har et mentalt sammenbrud.</MessageCaravanMemberHasExtremeMentalBreak>
+
+  <MessageMaxPlanetCoveragePerformanceWarning>Advarsel: Det kan tage meget lang tid at generere en hel planet.</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <MessagePlantDiedOfCold>{0} er død af kulde.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfRot>{0} er død pågrund af forrådnenlse fordi den ikke blev høstet.</MessagePlantDiedOfRot>
+
+  <MessagePawnBeingBurned>{0} bliver brændt af supervarmet luft!</MessagePawnBeingBurned>
+
+  <MessageAccidentalOverdose>{0} har ved et uheld taget en overdosis af {1}!</MessageAccidentalOverdose>
+
+  <MessageCaravanArrivedAtDestination>{0} er ankommet til destinationen.</MessageCaravanArrivedAtDestination>
+
+  <MessageCaravanIsVisitingFaction>{0} er ankommet i {1}.</MessageCaravanIsVisitingFaction>
+
+  <MessageCaravanEnteredWorldObject>{0} er ankommet i {1}.</MessageCaravanEnteredWorldObject>
+
+  <MessagePawnLeftMapAndCreatedCaravan>{0} har forladt området og dannet en karavane.</MessagePawnLeftMapAndCreatedCaravan>
+
+  <MessageSettledInExistingMap>Du har succesfuldt slået dig ned i et nyt område.</MessageSettledInExistingMap>
+
+  <MessageAmbushVictory>Sejr! Om {0} timer, vil karavanen automatisk reformes. Du kan reforme karavanen nu på Verdens skærmen.</MessageAmbushVictory>
+
+  <MessageAutomaticallyReformedCaravan>Dine kolonister har reformeret karavanen.</MessageAutomaticallyReformedCaravan>
+
+  <MessageOldWoundHealed>På grund af {0}, {1}'s {2} er helet.</MessageOldWoundHealed>
+
+  <MessageRescueeJoined>Siden du reddede HIM, har {0} tilsluttet sig din gruppe!</MessageRescueeJoined>
+
+  <MessageAttackedCaravanIsNowHostile>Fordi du angreb en karavane fra {0}, er denne fraktion nu fjendtlig over for dig.</MessageAttackedCaravanIsNowHostile>
+
+  <MessageTransporterUnreachable>Nogle transport kapsler er utilgængelig.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>Alle kapsel ramper der er forbundet med de udvalgte transport kapsler skal være tilstødende.</MessageTransportersNotAdjacent>
+
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Lastningens processen er blevet annulleret, fordi en af transport kapsler er blevet ødelagt.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Lastningens processen er blevet annulleret, fordi en af de kapsel ramper er blevet ødelagt.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+
+  <MessageTransportersLoadingProcessStarted>Dine kolonister vil nu laste de tildelte elementer ind i transport kapslerne.</MessageTransportersLoadingProcessStarted>
+
+  <MessageTransportPodsArrived>Dine transport kapsler er ankommet.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>Dine transport kapsler er ankommet, men da der ikke var nogen kolonister inde i dem, er indholdet gået tabt.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrived_BecameHostile>{0} er nu fjendtlig over for dig.</MessageTransportPodsArrived_BecameHostile>
+
+  <MessageFailedToLoadTransportersBecauseColonistLost>Lastningens processen er blevet annulleret fordi en af kolonisterne er gået tabt.</MessageFailedToLoadTransportersBecauseColonistLost>
+
+  <MessageFinishedLoadingTransporters>Dine kolonister er blevet færdig med at laste transport kapslerne</MessageFinishedLoadingTransporters>
+
+  <MessageTransportPodsDestinationIsInvalid>Valgt destination er ugyldig.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>Hver kapsel rampe skal mindst have {0} x kemzin for at sende transport kapsler så langt.</MessageTransportPodsDestinationIsTooFar>
+
+  <MessageReformedCaravan>Karavanen er blevet reformeret.</MessageReformedCaravan>
+
+  <MessageCantAbandonLastColonist>Du kan ikke opgive den sidste kolonist.</MessageCantAbandonLastColonist>
+
+  <MessageCantEquipIncapableOfViolence>Kan ikke udstyre: {0} kan ikke gøre vold.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>Kan ikke udstyre: ude af stand til.</MessageCantEquipIncapableOfManipulation>
+
+  <MessageSlaughteringBondedAnimal>Fordi de er forbundet, vil slagtning af {0} vil gøre {1} ulykkelig.</MessageSlaughteringBondedAnimal>
+
+  <MessageCaravanRunOutOfFood>{0} er løbet tør for mad ({1}).</MessageCaravanRunOutOfFood>
+
+  <MessageSelectOwnBaseToFormCaravan>For at danne en karavane, skal du vælge din egen koloni eller et sted, hvor du har folk.</MessageSelectOwnBaseToFormCaravan>
+
+  <MessageScreenResTooSmallForUIScale>På denne opløsning og UI skala, ville spillets interface ikke passe på skærmen. Reducer UI skala eller øge opløsning.</MessageScreenResTooSmallForUIScale>
+
 </LanguageData>
