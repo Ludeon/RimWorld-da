@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Firefighter.labelShort>Brandsluk</Firefighter.labelShort>
-  <Firefighter.pawnLabel>brandmand</Firefighter.pawnLabel>
-  <Firefighter.gerundLabel>Brandslukning</Firefighter.gerundLabel>
-  <Firefighter.description>Sluk brande i kolonien.</Firefighter.description>
-  <Firefighter.verb>Sluk</Firefighter.verb>
+  <Firefighter.label>Brandslukning</Firefighter.label>
+  <Firefighter.description>Sluk koloniens brande.</Firefighter.description>
+  <Firefighter.labelShort>Slukning af ild</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Brandslukker</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>Brandslukker</Firefighter.gerundLabel>
+  <Firefighter.verb>Sluk ilden</Firefighter.verb>
 
+  <PatientEmergency.label>Patient</PatientEmergency.label>
+  <PatientEmergency.description>Hvis du har livstruende sundhedforhold, gå til en hospitalsseng.</PatientEmergency.description>
   <PatientEmergency.labelShort>Patient</PatientEmergency.labelShort>
   <PatientEmergency.pawnLabel>Patient</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>Patient</PatientEmergency.gerundLabel>
-  <PatientEmergency.description>Gå til en medicinsk seng til behandling hvis du har en umiddelbart livstruende helbredstilstand.</PatientEmergency.description>
-  <PatientEmergency.verb>Bliv patient</PatientEmergency.verb>
+  <PatientEmergency.gerundLabel>Behandling</PatientEmergency.gerundLabel>
+  <PatientEmergency.verb>Blive patient</PatientEmergency.verb>
 
   <Doctor.labelShort>Læge</Doctor.labelShort>
   <Doctor.pawnLabel>Læge</Doctor.pawnLabel>
