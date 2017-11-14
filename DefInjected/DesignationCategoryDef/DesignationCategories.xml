@@ -28,10 +28,13 @@
     <Floors.label>gulve</Floors.label>
     <Floors.description>Gulve.</Floors.description>
     
-    <Joy.label>Glæde</Joy.label>
+    <Joy.label>glæde</Joy.label>
     <Joy.description>Ting til at forbedre kolonisternes humør.</Joy.description>
     
     <Ship.label>rumskib</Ship.label>
     <Ship.description>Komponenter til at bygge dit rumskib.</Ship.description>
+    
+    <Temperature.label>temperatur</Temperature.label>
+    <Temperature.description>Ting, der kan styre temperaturen.</Temperature.description>
     
 </LanguageData>

@@ -79,7 +79,7 @@
   <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
   <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
   <CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
-  <Temperature>Temperature</Temperature>
+  <Temperature>Temperatur</Temperature>
   <BadTemperature>bad temperature</BadTemperature>
   <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
   <DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>

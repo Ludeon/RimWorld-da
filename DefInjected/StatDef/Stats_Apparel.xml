@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>
-  <ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.label>Beskyttelse - Stumpt</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>Beskyttelse mod stump skade såsom køle angreb, stenskred og eksplosioner.</ArmorRating_Blunt.description>
 
-  <ArmorRating_Sharp.label>Armor - Sharp</ArmorRating_Sharp.label>
-  <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.label>Beskyttelse - Skarp</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Beskyttelse mod skarp skade såsom kugler, knivstik og dyre tænder.</ArmorRating_Sharp.description>
 
-  <ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>
-  <ArmorRating_Heat.description>Armor against temperature-related damage like burns.</ArmorRating_Heat.description>
+  <ArmorRating_Heat.label>Beskyttelse - Varme</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>Beskyttelse mod temperatur relatede skade såsom ild.</ArmorRating_Heat.description>
 
-  <ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>
-  <ArmorRating_Electric.description>Armor against electric damage like EMP pulses.</ArmorRating_Electric.description>
+  <ArmorRating_Electric.label>Beskyttelse - Elektrisk</ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Beskyttelse mod elektrisk skade, såsom EMP-pulser.</ArmorRating_Electric.description>
 
-  <Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>
-  <Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn.</Insulation_Cold.description>
+  <Insulation_Cold.label>Isolering - Kulde</Insulation_Cold.label>
+  <Insulation_Cold.description>Hvor meget dette tøj opvejer en bærerens minimum behagelig temperatur, når det bæres.</Insulation_Cold.description>
 
-  <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
-  <Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>
+  <Insulation_Heat.label>Isolering - Varme</Insulation_Heat.label>
+  <Insulation_Heat.description>Hvor meget dette tøj opvejer en bærerens maximum behagelig temperatur, når det bæres.</Insulation_Heat.description>
 
-  <EnergyShieldEnergyMax.label>Shield max energy</EnergyShieldEnergyMax.label>
-  <EnergyShieldEnergyMax.description>The maximum energy a shield belt can have at one time. More energy can absorb more damage.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.label>Maksimal energi for skjold</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>Loftet for energien et skjoldbælte kan indeholde på én gang. Mere energi kan absorbere mere skade.</EnergyShieldEnergyMax.description>
 
-  <EnergyShieldRechargeRate.label>Shield recharge rate</EnergyShieldRechargeRate.label>
-  <EnergyShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.label>Genopladningsrate for skjold</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.description>Raten hvorved et skjold modtager energi, så længe det ikke er itu.</EnergyShieldRechargeRate.description>
   <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
 
-  <SmokepopBeltRadius.label>Smokepop belt radius</SmokepopBeltRadius.label>
-  <SmokepopBeltRadius.description>The area obscured when a smokepop belt detonates.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.label>Røgpopbælte-radius</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>Området som sløres, når et røgpopbælte sprænger.</SmokepopBeltRadius.description>
   <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
 
 

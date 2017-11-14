@@ -5,12 +5,12 @@
 
   <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Start with {0} people.</ScenPart_StartWithPawns>
-  <RandomPet>random pet</RandomPet>
+  <ScenPart_StartWithPawns>Start med {0} mennesker.</ScenPart_StartWithPawns>
+  <RandomPet>tilfældigt kæledyr</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Start med forskning: {0}</ScenPart_StartingResearchFinished>
 
-  <ScenPart_ArriveInDropPods>Arrive in drop pods.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Ankom i drop pods.</ScenPart_ArriveInDropPods>
 
   <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
 
@@ -33,11 +33,11 @@
 
   <!-- ======================== Grouped ========================-->
 
-  <ScenPart_StartWith>Start with</ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Map is scattered with</ScenPart_MapScatteredWith>
+  <ScenPart_StartWith>Start med</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Omkring på kortet findes</ScenPart_MapScatteredWith>
   <ScenPart_PermaGameCondition>Permanent game condition(s)</ScenPart_PermaGameCondition>
   <ScenPart_DisableIncident>Incident(s) disabled</ScenPart_DisableIncident>
   <ScenPart_CreateIncident>Incident created</ScenPart_CreateIncident>
-  <ScenPart_DisallowBuilding>Can never build</ScenPart_DisallowBuilding>
+  <ScenPart_DisallowBuilding>Kan aldrig bygge</ScenPart_DisallowBuilding>
 
 </LanguageData>

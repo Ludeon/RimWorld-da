@@ -13,8 +13,8 @@
   <DestroyedFactionBase.label>ødelagt fraktionsbase</DestroyedFactionBase.label>
   <DestroyedFactionBase.description>En ødelagt fraktionsbase.</DestroyedFactionBase.description>
 
-  <JourneyDestination.label>rejsemål</JourneyDestination.label>
-  <JourneyDestination.description>Beliggenhedenen af et skjult rumskib, som kan hjælpe dig med at slippe væk fra planeten.</JourneyDestination.description>
+  <EscapeShip.label>landet rumskib</EscapeShip.label>
+  <EscapeShip.description>Beliggenhedenen af et skjult rumskib, som kan hjælpe dig med at slippe væk fra planeten.</EscapeShip.description>
 
   <AttackedCaravan.label>angrebet karavane</AttackedCaravan.label>
   <AttackedCaravan.description>En karavane under angreb.</AttackedCaravan.description>
@@ -24,5 +24,9 @@
 
   <RoutePlannerWaypoint.label>markør</RoutePlannerWaypoint.label>
   <RoutePlannerWaypoint.description>En midlertidig markør.</RoutePlannerWaypoint.description>
+  
+  <PeaceTalks.label>fredsforhandlinger</PeaceTalks.label>
+  <PeaceTalks.description>En beliggenhed som er udpeget til fredsforhandlinger</PeaceTalks.description>
+
 
 </LanguageData>

@@ -7,10 +7,10 @@
   <PsychiteRefining.description>Lær at raffinere psykid blade into flagger eller yayo, forskellige former af det euforiske medicin, psykid.</PsychiteRefining.description>
 
   <WakeUpProduction.label>vågn-op produktion</WakeUpProduction.label>
-  <WakeUpProduction.description>Dine kemikere har lært formularen og tekniken til at syntiser vågn-op, et arbejdsforberende medicin.</WakeUpProduction.description>
+  <WakeUpProduction.description>Dine kemikere har lært formularen og teknikken til at syntisere vågn-op, et arbejdsforberende medicin.</WakeUpProduction.description>
 
-  <GoJuiceProduction.label>go-juice produktiontion</GoJuiceProduction.label>
-  <GoJuiceProduction.description>Lær at producere det syntetiske kampforbedrende medcin, go-juice.</GoJuiceProduction.description>
+  <GoJuiceProduction.label>go-juice produktion</GoJuiceProduction.label>
+  <GoJuiceProduction.description>Lær at producere det syntetiske kampforbedrende medicin, go-juice.</GoJuiceProduction.description>
 
   <PenoxycylineProduction.label>penoxycyline produktion</PenoxycylineProduction.label>
   <PenoxycylineProduction.description>Lær at producere penoxycyline, et sygdoms bekæmpende medicin.</PenoxycylineProduction.description>
@@ -41,8 +41,8 @@
   <ElectricSmelting.label>elektrisk smeltning</ElectricSmelting.label>
   <ElectricSmelting.description>Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.</ElectricSmelting.description>
 
-  <ElectricCremation.label>elektrisk kremation</ElectricCremation.label>
-  <ElectricCremation.description>Byg et krematorium hvilken kan fordampe uønskede lig.</ElectricCremation.description>
+  <ElectricCremation.label>elektrisk kremering</ElectricCremation.label>
+  <ElectricCremation.description>Byg et krematorium, hvilket kan fordampe uønskede lig.</ElectricCremation.description>
 
   <ColoredLights.label>farvede lys</ColoredLights.label>
   <ColoredLights.description>Gør at kolonisterne kan bygge farvede lys for at dekorer lidt.</ColoredLights.description>
@@ -57,17 +57,17 @@
   <IEDIncendiary.description>Gør at kolonister kan bygge brandfælder fra artilleri kugler.</IEDIncendiary.description>
 
   <Mortars.label>morterer</Mortars.label>
-  <Mortars.description>Lær hvordan du bygger morterer som kan kaste kugler en lang distance over vægge.</Mortars.description>
+  <Mortars.description>Lær, hvordan du bygger morterer som kan kaste kugler en lang distance over mure.</Mortars.description>
 
-  <MicroelectronicsBasics.label>basisk mikroelektronik</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>Det basiske ved at arbejde med delikat og kompleks elektronik. Dette låser op for høj-tek forsknings bænken, komm konsolen, og andre forsknings projekter som billedrørs tv, og kryptosøvns kister.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.label>grundlæggende mikroelektronik</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Det grundlæggende ved at arbejde med delikat og kompleks elektronik. Dette låser op for høj-tek forskningsbænken, komm konsolen, og andre forskningsprojekter som billedrørs-tv, og kryptosøvns-kister.</MicroelectronicsBasics.description>
 
   <!-- Tier 2.5 Microelectronics -->
 
-  <TubeTelevision.label>billedrørs tv</TubeTelevision.label>
-  <TubeTelevision.description>Gør at du kan producere billedrørs tv.</TubeTelevision.description>
+  <TubeTelevision.label>billedrørs-tv</TubeTelevision.label>
+  <TubeTelevision.description>Gør at du kan producere billedrørs-tv.</TubeTelevision.description>
 
-  <GunTurrets.label>gevær tårne</GunTurrets.label>
-  <GunTurrets.description>Gør at du kan producere automatiske gevær tårne.</GunTurrets.description>
+  <GunTurrets.label>geværtårne</GunTurrets.label>
+  <GunTurrets.description>Gør, at du kan producere automatiske geværtårne.</GunTurrets.description>
 
 </LanguageData>

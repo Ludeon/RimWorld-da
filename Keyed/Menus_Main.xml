@@ -5,31 +5,31 @@
   <Tutorial>Læreprogram</Tutorial>
   <NewColony>Ny koloni</NewColony>
   <BackToGame>Tilbage til spillet</BackToGame>
-  <ReviewScenario>Vuder scenarie</ReviewScenario>
+  <ReviewScenario>Vurder scenarie</ReviewScenario>
   <Save>Gem</Save>
   <LoadGame>Indlæs spil</LoadGame>
-  <Options>Instillinger</Options>
+  <Options>Indstillinger</Options>
   <Mods>Mods</Mods>
-  <Credits>Kredit</Credits>
+  <Credits>Rulletekster</Credits>
   <QuitToMainMenu>Afslut til hovedmenu</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Gem og afslut til menu</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>Gem og afslut til hovedmenu</SaveAndQuitToMainMenu>
   <QuitToOS>Afslut til OS</QuitToOS>
   <SaveAndQuitToOS>Gem og afslut til OS</SaveAndQuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
+  <FictionPrimer>Intro til fiktion</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
+  <Forums>Forum</Forums>
   <OfficialWiki>Officel wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design bog</TynansDesignBook>
+  <TynansTwitter>Tynans twitter</TynansTwitter>
+  <TynansDesignBook>Tynans designbog</TynansDesignBook>
   <HelpTranslate>Hjælp med at oversætte RimWorld</HelpTranslate>
   <BuySoundtrack>Køb lydspor</BuySoundtrack>
   <CreateWorld>Opret verden</CreateWorld>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Vuder verden</ReviewWorld>
-  <WorldGenerate>Generer</WorldGenerate>
+  <ReviewWorld>Vurder verden</ReviewWorld>
+  <WorldGenerate>Skab</WorldGenerate>
   <WorldSaveAndFinish>Gem og afslut</WorldSaveAndFinish>
-  <Reset>Nulstille</Reset>
+  <Reset>Nulstil</Reset>
   <PlanetCoverage>Globe dækning</PlanetCoverage>
   <PlanetRainfall>Overordnet nedbør</PlanetRainfall>
   <PlanetTemperature>Overordnet temperatur</PlanetTemperature>
@@ -41,34 +41,34 @@
   <PlanetTemperature_High>Høj</PlanetTemperature_High>
   <WorldSeed>Frø</WorldSeed>
   <RandomizeSeed>Tilfældig frø</RandomizeSeed>
-  <PlanetCoverageTip>Planeten er altid den samme diameter, men da det er langt større end nødvendigt for at spille, generer vi ikke hele overfladen, da det kan tage meget lang tid. Dette er den procentdel af overfladen, som du ønsker genereret.</PlanetCoverageTip>
+  <PlanetCoverageTip>Planeten er altid den samme diameter, men da det er langt større end nødvendigt for at spille, skaber vi ikke hele overfladen, da det kan tage meget lang tid. Dette er den procentdel af overfladen, som du ønsker skabt.</PlanetCoverageTip>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Vælg verden</SelectWorld>
   <WorldChooseButton>Vælg</WorldChooseButton>
-  <NoWorldsFilesFound>Ingen verdens filer fundet. Opret en verden først.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Ingen verdensfiler fundet. Opret en verden først.</NoWorldsFilesFound>
 
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Version {0} er nu tilgængelig. Tjek ludeon.com for mere info.</BuildNowAvailable>
   <BuildUpToDate>Dette er den nyeste version.</BuildUpToDate>
-  <ErrorGettingVersionInfo>Fejl ved hentning af versions info: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Indlæser version info...</LoadingVersionInfo>
+  <ErrorGettingVersionInfo>Fejl ved hentning af versionsinfo: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Indlæser versionsinfo ...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generer verden</GenerateWorld>
+  <GenerateWorld>Skab verden</GenerateWorld>
 
   <!--=========== Mods config ==========-->
-  <OpenSteamWorkshop>Åben Steam Værksted</OpenSteamWorkshop>
-  <GetModsFromForum>Få mods fra forumet</GetModsFromForum>
-  <OpenModsDataFolder>Åben mod data mappen</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Er du sikker på du vil deaktivere kerne modden? Spillet vil overhovdet ikke virke, medmindre du har en anden mod, der erstatter alle kernefunktionaliteterne.\n\nHusk, andre mods kan tilsidesætte defs i kernen mod ved hjælp af den samme defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Er du sikker på at du vil slette alt indhold for {0}?</ConfirmDeleteMod>
+  <OpenSteamWorkshop>Åbn Steam-værksted</OpenSteamWorkshop>
+  <GetModsFromForum>Få mods fra forummet</GetModsFromForum>
+  <OpenModsDataFolder>Åbn mappen med mod-data</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Er du sikker på, at du vil deaktivere kerne-modden? Spillet vil ikke virke, medmindre du har en anden mod, der erstatter alle kernefunktionaliteterne.\n\nHusk, andre mods kan tilsidesætte defs i kerne-modden ved hjælp af det samme defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Er du sikker på, at du vil slette alt indhold for {0}?</ConfirmDeleteMod>
   <Unsubscribe>Afmeld</Unsubscribe>
-  <ConfirmUnsubscribe>Er du sikker på du vil afmelde {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Er du sikker på, at du vil afmelde {0}?</ConfirmUnsubscribe>
   <Author>Forfatter</Author>
-  <WorkshopPage>Værksteds side</WorkshopPage>
-  <UploadToSteamWorkshop>Upload til Steam Værksted</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Opdater på Steam Værksted</UpdateOnSteamWorkshop>
+  <WorkshopPage>Værksteds-side</WorkshopPage>
+  <UploadToSteamWorkshop>Upload til Steam-værksted</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Opdater på Steam-værksted</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>Upload er allerede igang.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Værksted submission fejlede.\n\nGrund: {0}</WorkshopSubmissionFailed>
   <WorkshopUploadSucceeded>Succesfuld uploadet {0}.</WorkshopUploadSucceeded>
@@ -116,18 +116,18 @@
   <BaseAlreadyThere>{0} har allerede en base der.</BaseAlreadyThere>
   <Biome>Biom</Biome>
   <Terrain>Terræn</Terrain>
-  <Elevation>Elevation</Elevation>
+  <Elevation>Højde</Elevation>
   <Fertility>Fertilitet</Fertility>
   <AvgTemp>Gennemsnitstemperatur</AvgTemp>
-  <AvgSummerTemp>Sommer temperatur</AvgSummerTemp>
-  <AvgWinterTemp>Vinter temperatur</AvgWinterTemp>
+  <AvgSummerTemp>Sommertemperatur</AvgSummerTemp>
+  <AvgWinterTemp>Vintertemperatur</AvgWinterTemp>
   <Rainfall>Nedbør</Rainfall>
   <HasCoast0>Nordlig kyst</HasCoast0>
   <HasCoast1>Østlig kyst</HasCoast1>
   <HasCoast2>Sydlig kyst</HasCoast2>
   <HasCoast3>Vestlig kyst</HasCoast3>
   <FactionBase>Fraktion kyst</FactionBase>
-  <StoneTypesHere>Sten typer</StoneTypesHere>
+  <StoneTypesHere>Stentyper</StoneTypesHere>
   <TimeZone>Tidszone</TimeZone>
   <MovementTimeNow>Nuværende bevægelse tid</MovementTimeNow>
   <MovementTimeSummer>Sommer bevægelse tid</MovementTimeSummer>
@@ -135,16 +135,16 @@
 
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Skab karakter</CreateCharacters>
-  <FirstNameDesc>Karakterens fornavn.\n\nDet vises kun i visse menuer.</FirstNameDesc>
-  <ShortIdentifierDesc>Karakterens korte identifikator.\n\nDette vises på alle tidspunkter. Det kan være det første eller efter-navn, eller et helt separat kaldenavn.</ShortIdentifierDesc>
-  <LastNameDesc>Karakterens efternavn.\n\nDette vises kun i visse menuer.</LastNameDesc>
-  <Randomize>Tilfældigser</Randomize>
+  <CreateCharacters>Skab figur</CreateCharacters>
+  <FirstNameDesc>Figurens fornavn.\n\nDet vises kun i visse menuer.</FirstNameDesc>
+  <ShortIdentifierDesc>Figurens korte identifikator.\n\nDette vises på alle tidspunkter. Det kan være det første eller efter-navn, eller et helt separat kaldenavn.</ShortIdentifierDesc>
+  <LastNameDesc>Figurens efternavn.\n\nDette vises kun i visse menuer.</LastNameDesc>
+  <Randomize>Tilfældiggør</Randomize>
   <AgeIndicator>alder {0}</AgeIndicator>
   <Backstory>Baggrundshistorie</Backstory>
   <IncapableOf>ude af stand til</IncapableOf>
   <Traits>Træk</Traits>
-  <PermanentMoodEffect>Permanent humør effekt</PermanentMoodEffect>
+  <PermanentMoodEffect>Permanent effekt af humør</PermanentMoodEffect>
   <Skills>Færdigheder</Skills>
   <NoneLower>Ingen</NoneLower>
   <Adulthood>Voksen</Adulthood>
@@ -154,6 +154,9 @@
   <Pain>Smerte</Pain>
   <Health>Helbred</Health>
   <Relations>Relationer</Relations>
+  <TeamSkills>Holdfærdigheder</TeamSkills>
+  <StartingPawnsSelected>Udvalgt</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Forladt</StartingPawnsLeftBehind>
 
   <!--=========== Misc ==========-->
   <Start>Start</Start>
@@ -161,14 +164,15 @@
   <Next>Næste</Next>
   <Back>Tilbage</Back>
   <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Virkelig holde op? Du mister ikke-gemt fremskridt.</ConfirmQuit>
+  <ConfirmQuit>Vil du virkelig afslutte? Du mister alle fremskridt, som ikke er gemt.</ConfirmQuit>
   <EveryoneNeedsValidName>Hver person har brug for et gyldigt navn.</EveryoneNeedsValidName>
   <Quit>Afslut</Quit>
   <Ignore>Ignorer</Ignore>
 
   <!--============ Progress bar==============-->
-  <GeneratingWorld>Generer verden</GeneratingWorld>
-  <GeneratingMap>Generer kort</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generer kort for nyt møde</GeneratingMapForNewEncounter>
+  <GeneratingWorld>Skaber verden</GeneratingWorld>
+  <GeneratingPlanet>Skaber planet</GeneratingPlanet>
+  <GeneratingMap>Skaber kort</GeneratingMap>
+  <GeneratingMapForNewEncounter>Skaber kort til nyt møde</GeneratingMapForNewEncounter>
 
 </LanguageData>

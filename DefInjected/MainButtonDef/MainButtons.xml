@@ -1,37 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Inspect.label>inspect</Inspect.label>
 
-  <Architect.label>architect</Architect.label>
-  <Architect.description>Designate where and what colonists should build, farm, store items, and so on.</Architect.description>
+  <Inspect.label>undersøg</Inspect.label>
 
-  <Work.label>work</Work.label>
-  <Work.description>Choose which colonist does what kinds of work, and in what priority order.</Work.description>
+  <Architect.label>arkitekt</Architect.label>
+  <Architect.description>Bestem hvor og hvad kolonisterne skal bygge, dyrke, lagre ting og så videre.</Architect.description>
 
-  <Restrict.label>restrict</Restrict.label>
-  <Restrict.description>Restrict colonists to certain activities at certain times of day, or to specific allowed areas.</Restrict.description>
+  <Work.label>arbejde</Work.label>
+  <Work.description>Vælg hvilken kolonist som skal udføre hvilket arbejde, og hvordan det prioriteres.</Work.description>
+  
+  <Restrict.label>begræns</Restrict.label>
+  <Restrict.description>Begræns hvilke aktiviteter, på bestemte tidspunkter, kolonister har adgang til.</Restrict.description>
 
-  <Assign.label>assign</Assign.label>
-  <Assign.description>Configure what each colonist is allowed to wear, and how to react to nearby enemies.</Assign.description>
+  <Assign.label>Tildel</Assign.label>
+  <Assign.description>Bestem hvad tøj hver kolonist kan bruge, og hvordan de skal reagere overfor fjender.</Assign.description>
 
-  <Animals.label>animals</Animals.label>
-  <Animals.description>Configure how the colony's tame animals should be treated.</Animals.description>
+  <Animals.label>dyr</Animals.label>
+  <Animals.description>Bestem hvordan koloniens tamme dyr skal behandles</Animals.description>
 
-  <Research.label>research</Research.label>
-  <Research.description>Examine and decide on research projects.</Research.description>
+  <Research.label>forskning</Research.label>
+  <Research.description>Undersøg og beslut hvilket forskningsprojekt, der skal arbejdes på.</Research.description>
 
-  <World.label>world</World.label>
-  <World.description>Examine the world map.</World.description>
+  <World.label>verden</World.label>
+  <World.description>Se på verdenskortet.</World.description>
 
-  <History.label>history</History.label>
-  <History.description>Review records of the colony's history.</History.description>
+  <History.label>historik</History.label>
+  <History.description>Gennemse koloniens historiearkiv.</History.description>
 
-  <Factions.label>factions</Factions.label>
-  <Factions.description>Review the factions known to the colony and their relationships.</Factions.description>
+  <Factions.label>fraktioner</Factions.label>
+  <Factions.description>Se fraktioner som kolonien er bekendt med, og deres forhold.</Factions.description>
 
   <Menu.label>menu</Menu.label>
-  <Menu.description>Change options, save, load, or quit the game.</Menu.description>
+  <Menu.description>Skift indstillinger, gem, indlæs eller afslut spillet.</Menu.description>
 
 
 </LanguageData>

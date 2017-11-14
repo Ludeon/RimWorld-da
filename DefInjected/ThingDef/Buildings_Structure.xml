@@ -12,8 +12,8 @@
 
   <!-- Walls -->
 
-  <Wall.label>Væg</Wall.label>
-  <Wall.description>En ufremkommelige væg. I stand til at holde et tag oppe.</Wall.description>
+  <Wall.label>væg</Wall.label>
+  <Wall.description>En ufremkommelig væg. I stand til at holde et tag oppe.</Wall.description>
 
 
 </LanguageData>

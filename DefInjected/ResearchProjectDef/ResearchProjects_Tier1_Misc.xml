@@ -4,31 +4,31 @@
   <!-- Tier 1: pre-electricity -->
 
   <Pemmican.label>pemmikan</Pemmican.label>
-  <Pemmican.description>Lav pemmican, en preserveret kombination af kød og planteføde der ikke bliver dårligt i lang tid. Rigtig godt til når man vil rejse.</Pemmican.description>
+  <Pemmican.description>Lav pemmican, en præserveret kombination af kød og planteføde der ikke bliver dårligt i lang tid. Egner sig godt til, når man vil rejse.</Pemmican.description>
 
-  <PassiveCooler.label>passive kølerer</PassiveCooler.label>
-  <PassiveCooler.description>Lav passiv kølerer, en måde at nedkøle indendørs områder uden elektricitet.</PassiveCooler.description>
+  <PassiveCooler.label>passive køler</PassiveCooler.label>
+  <PassiveCooler.description>Lav passive kølere, en måde at nedkøle indendørsområder uden elektricitet.</PassiveCooler.description>
 
-  <Devilstrand.label>djæveltråd</Devilstrand.label>
-  <Devilstrand.description>Gør at kolonister kan plante djæveltråd, en langsomt voksende svamp der afgiver værdigfulde fibre.</Devilstrand.description>
+  <Devilstrand.label>djævletråd</Devilstrand.label>
+  <Devilstrand.description>Gør, at kolonister kan plante djævletråd, en langsomt voksende svamp der afgiver værdifulde fibre.</Devilstrand.description>
 
   <Brewing.label>Bryggeri</Brewing.label>  
   <Brewing.description>Gør at du kan bygge et bryggeri til at transformere humle til lækker, smagfuld øl.</Brewing.description>
 
   <CarpetMaking.label>tæppevævning</CarpetMaking.label>
-  <CarpetMaking.description>Gør at dine kolonister kan bygge tæpper og foræge kvaliteten af deres miljø.</CarpetMaking.description>
+  <CarpetMaking.description>Gør, at dine kolonister kan bygge tæpper og forøge kvaliteten af deres miljø.</CarpetMaking.description>
 
   <Smithing.label>smedning</Smithing.label>
-  <Smithing.description>Byg smedjer til at bygge metal våben og værktøjer.</Smithing.description>
+  <Smithing.description>Byg smedjer til at lave våben og værktøjer af metal.</Smithing.description>
 
   <Stonecutting.label>stenhugning</Stonecutting.label>
-  <Stonecutting.description>Byg stenhugger borde, der giver mulighed for at forvandle stenklumper til stenblokke, som kan bruges til konstruktion..</Stonecutting.description>
+  <Stonecutting.description>Byg stenhuggerborde, der giver mulighed for at forvandle stenklumper til stenblokke, som kan bruges til konstruktion.</Stonecutting.description>
 
   <ComplexClothing.label>kompleks beklædning</ComplexClothing.label>
-  <ComplexClothing.description>Sy kompliceret beklædning som bukser, frakke og cowboy hatte</ComplexClothing.description>
+  <ComplexClothing.description>Sy kompliceret beklædning som bukser, frakker og cowboyhatte</ComplexClothing.description>
 
-  <DrugProduction.label>medicin produktion</DrugProduction.label>
-  <DrugProduction.description>Det basiske af medicin forberedelse og syntese. Gør at du kan bygge medicinbord. Der behøves mere forskning for at lave specifik medicin.</DrugProduction.description>
+  <DrugProduction.label>medicinproduktion</DrugProduction.label>
+  <DrugProduction.description>Det grundlæggende af medicin forberedelse og syntese. Gør, at du kan bygge medicinbord. Der behøves mere forskning for at lave specifik medicin.</DrugProduction.description>
 
   <Electricity.label>elektricitet</Electricity.label>
   <Electricity.description>Generer og udnyt elektricitet til at lave mad eller andre simple opgaver.</Electricity.description>

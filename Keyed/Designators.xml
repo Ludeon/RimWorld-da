@@ -5,29 +5,29 @@
   <DesignatorCancelDesc>Annuller udpegede bygning, minedrift, indhentning, høst, og alle andre betegnelser.</DesignatorCancelDesc>
 
   <DesignatorCutPlants>skær planter</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Markerer planter der skal skæres og destrueres. Planten vil være helt fjernet, og enhver mad eller ressource der kunne anskaffes vil blive høstet.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Marker planter der skal skæres og destrueres. Planten vil være helt fjernet, og enhver mad eller ressource der kunne anskaffes vil blive høstet.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>dekonstruere</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Dekonstruere dette og genvinde en del af dets ressourcer.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>dekonstruer</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Dekonstruer dette og genvinde en del af dets ressourcer.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Afinstaller</DesignatorUninstall>
-  <DesignatorUninstallDesc>Afinstallere dette, så det kan flyttes, sælges, eller installeret et andet sted.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Afinstaller dette, så det kan flyttes, sælges, eller installeret et andet sted.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>Høst</DesignatorHarvest>
-  <DesignatorHarvestDesc>Markerer planter der skal høstes for deres fødevarer eller andre produkter.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Marker planter, der skal høstes for deres fødevarer eller andre produkter.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>hug træ</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Markerer træer der skal hugges ned til træplanker.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>fæld træ</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Marker træer der skal hugges ned til træplanker.</DesignatorHarvestWoodDesc>
 
   <DesignatorHaulThings>slæb ting</DesignatorHaulThings>
   <DesignatorHaulThingsDesc>Marker klippestykker og andre elementer til at blive trukket til dumpings område. Ikke behov for ting som mad eller lig, hvilket altid kan slæbes.</DesignatorHaulThingsDesc>
   <MustHaulHaulables>Kan kun udpege slæbelige men ikke-altid-slæbelige ting (som klippestykker).</MustHaulHaulables>
 
-  <DesignatorHunt>Jag</DesignatorHunt>
+  <DesignatorHunt>jag</DesignatorHunt>
   <DesignatorHuntDesc>Marker dyr, der skal jages af dine jægere.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Udpege områder af sten der skal udvindes.</DesignatorMineDesc>
+  <DesignatorMine>mine</DesignatorMine>
+  <DesignatorMineDesc>Udpeg områder af sten der skal udvindes.</DesignatorMineDesc>
 
   <DesignatorSmoothFloor>udglat gulv</DesignatorSmoothFloor>
   <DesignatorSmoothFloorDesc>Udpeg rå sten terræn der skal udglattes.</DesignatorSmoothFloorDesc>
@@ -43,20 +43,20 @@
   <DesignatorAreaHomeClear>fjern hjemområde</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Fjerner et hjemområde. Kolonister vil ikke længere gøre rent, reparere eller slukke brande her.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Udvid byg tag område</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Udvid byg tag-område</DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>Kolonister vil bygge tage på dette område.</DesignatorAreaBuildRoofExpandDesc>
   <DesignatorAreaBuildRoofClear>Fjern byg tag zone</DesignatorAreaBuildRoofClear>
   <DesignatorAreaBuildRoofClearDesc>Fjern det område hvor kolonisterne vil bygge tag. Eksisterende tage vil forblive, men kolonisterne vil ikke bygge mere.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorAreaNoRoofExpand>Udvid ingen tag område</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Udvid ingen tag-område</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Kolonister vil fjerne tagene på dette område (undtagen overliggende bjerg, som ikke kan fjernes).</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Fjern ingen tag zone</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>Fjerner ikke-tag-zonen, så kolonister ikke længere vil fjerne tagene.</DesignatorAreaNoRoofClearDesc>
 
-  <DesignatorAreaSnowClearExpand>Udvid snerydning område</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Udvid snerydningsområde</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>Opret et område som kolonister vil forsøge at holde fri for sne.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>fjern snerydning område</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Fjerner et snerydnings område. Kolonister vil ikke længere forsøge at holde dette område fri for sne.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClear>fjern snerydningsområde</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Fjerner et snerydningsområde. Kolonister vil ikke længere forsøge at holde dette område fri for sne.</DesignatorAreaSnowClearClearDesc>
 
   <DesignatorExpandAreaAllowed>Udvid tilladt område</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>Udvid et tilladt område.\n\nTilladt områder er defineret områder du kan tildele kolonister. Kolonister vil ikke acceptere arbejde eller opfylde deres behov uden for deres tilladte område.</DesignatorExpandAreaAllowedDesc>
@@ -74,7 +74,7 @@
   <DesignatorZoneDelete>Slet zoner</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Fjern zoner som lagerplads zoner eller dyrknings zoner.</DesignatorZoneDeleteDesc>
 
-  <DesignatorClaim>Gør Krav på</DesignatorClaim>
+  <DesignatorClaim>Gør krav på</DesignatorClaim>
   <DesignatorClaimDesc>Gør krav på neutrale strukturer for kolonien, herunder gamle ruiner og forladte belejrings baser. Strukturer der er gjort krav på kan repareres og vedligeholdes af dine kolonister.</DesignatorClaimDesc>
 
   <DesignatorRemoveFloor>fjern gulv</DesignatorRemoveFloor>

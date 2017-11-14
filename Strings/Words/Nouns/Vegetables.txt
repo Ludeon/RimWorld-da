@@ -1,14 +1,14 @@
-﻿tomato
-carrot
-onion
-turnip
-bok choy
-stalk of celery
-gourd
-pumpkin
+﻿tomat
+gulerod
+løg
+kålroe
+bak choy
+stængel selleri
+centnergræskar
+græskar
 broccoli
-cauliflower
-bell pepper
-potato
-mushroom
-radish
+blomkål
+paprika
+kartoffel
+svamp
+radise

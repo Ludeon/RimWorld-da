@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <Cassandra.label>Klassisk Cassandra</Cassandra.label>
-    <Cassandra.description>Cassandra laver historie events på en støt stigende kurve af udfordringer og spænding.</Cassandra.description>
+    <Cassandra.description>Cassandra laver historiebegivenheder på en støt stigende kurve af udfordringer og spænding.</Cassandra.description>
 
     <Phoebe.label>Afslappet Phoebe</Phoebe.label>
-    <Phoebe.description>Phoebe giver dig masser af tid imellem katastroferne til at slappe af og bygge din koloni. Men være beredt - ved høje sværhedsgrader vil hun slå lige så hårdt som alle andre.</Phoebe.description>
+    <Phoebe.description>Phoebe giver dig masser af tid mellem katastroferne til at slappe af og bygge din koloni. Men vær beredt - ved høje sværhedsgrader vil hun slå lige så hårdt som alle andre.</Phoebe.description>
 
     <Randy.label>Tilfældig Randy</Randy.label>
-    <Randy.description>Randy følger ikke reglerne. Hen alver tilfældige events og han er ligeglad med hvis de bliver til en sejers historie eller en historie om fuldkommen håbløshed. Det hele er drama for ham.</Randy.description>
+    <Randy.description>Randy følger ikke reglerne. Han danner tilfældige begivenheder, og han er ligeglad med hvis de bliver til en sejrshistorie eller en historie om fuldkommen håbløshed. Det hele er drama for ham.</Randy.description>
 
-    <Tutor.label>Tutor Hidden</Tutor.label>
+    <Tutor.label>Vejleder skjult</Tutor.label>
 
 </LanguageData>

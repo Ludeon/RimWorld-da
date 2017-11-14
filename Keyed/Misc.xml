@@ -15,7 +15,7 @@
 
   <VersionIndicator>Version {0}</VersionIndicator>
   <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <CompiledOn>Kompileret {0}</CompiledOn>
 
 	<MeatLabel>{0} kød</MeatLabel>
   <MeatDesc>Råt kød fra {0}.</MeatDesc>

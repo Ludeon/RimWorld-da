@@ -3,8 +3,8 @@
 
   <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
 
-  <GroundPenetratingScanner.label>jord-gennemtrængende scanner</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Gør at kolonisterne kan bygge en jord-gennemtrængende scanner der kan opdage resourcer dybt under overfladen.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.label>jord-gennemtrængende skanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Gør at kolonisterne kan bygge en jord-gennemtrængende skanner, der kan opdage ressourcer dybt under overfladen.</GroundPenetratingScanner.description>
 
   <VitalsMonitor.label>livstengs monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Gør at kolonister kan bygge en livstengs monitor som forøger kvaliteten af patienters behandling, hvis den er placeret ved siden af en sygeseng.</VitalsMonitor.description>

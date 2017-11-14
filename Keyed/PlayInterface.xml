@@ -1,15 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>Overblik</Overview>
-  <OverviewTip>Administrer koloniens arbejder prioritet og statistik.</OverviewTip>
-  <ResearchTip>Undersøg og vælg et forskningsprojekt.</ResearchTip>
   <Wiki>Wiki</Wiki>
-  <WikiTip>Åbner Web browser for at se RimWorld wikien og få hjælp til at spille.</WikiTip>
-  <Menu>Menu</Menu>
-  <MenuTip>Gem, load, afslut spillet eller ændre indstillinger.</MenuTip>
-
-  <Architect>Arkitekt</Architect>
-
+  <WikiTip>Åbner RimWorld-wikien i din internetbrowser (på engelsk)</WikiTip>
 
 </LanguageData>

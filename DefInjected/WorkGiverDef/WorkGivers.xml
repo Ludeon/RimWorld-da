@@ -3,130 +3,146 @@
 
   <!-- Firefighter -->
 
-  <FightFires.label>bekæmp ildebrand</FightFires.label>
+  <FightFires.label>bekæmp brande</FightFires.label>
   <FightFires.verb>sluk</FightFires.verb>
-  <FightFires.gerund>slukker</FightFires.gerund>
+  <FightFires.gerund>at slukke</FightFires.gerund>
 
 
   <!-- PatientEmergency -->
 
-  <PatientGoToBedEmergency.label>gå i seng for akut behandling</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>modtage behandling i</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>modtage behandling i</PatientGoToBedEmergency.gerund>
+  <PatientGoToBedEmergencyTreatment.label>gå i seng for akut behandling</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.verb>modtage behandling i</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.gerund>at modtage behandling i</PatientGoToBedEmergencyTreatment.gerund>
+  
+  <PatientGoToBedTreatment.label>gå i seng for behandling</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.verb>modtage behandling i</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.gerund>at modtage behandling i</PatientGoToBedTreatment.gerund>
 
 
   <!-- Doctor -->
 
   <DoctorTreatEmergency.label>giv akut behandling</DoctorTreatEmergency.label>
-  <DoctorTreatEmergency.verb>behandel</DoctorTreatEmergency.verb>
-  <DoctorTreatEmergency.gerund>behandler</DoctorTreatEmergency.gerund>
+  <DoctorTreatEmergency.verb>behandl</DoctorTreatEmergency.verb>
+  <DoctorTreatEmergency.gerund>at behandle</DoctorTreatEmergency.gerund>
 
-  <DoctorRescue.label>red falden allierede i seng</DoctorRescue.label>
-  <DoctorRescue.verb>redninger</DoctorRescue.verb>
-  <DoctorRescue.gerund>redder</DoctorRescue.gerund>
+  <DoctorRescue.label>red faldne allierede i seng</DoctorRescue.label>
+  <DoctorRescue.verb>redning</DoctorRescue.verb>
+  <DoctorRescue.gerund>at redde</DoctorRescue.gerund>
 
-  <DoBillsMedicalHumanOperation.label>operere på menneskeligende</DoBillsMedicalHumanOperation.label>
-  <DoBillsMedicalHumanOperation.verb>operere</DoBillsMedicalHumanOperation.verb>
-  <DoBillsMedicalHumanOperation.gerund>operer på</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalHumanOperation.label>operer på menneskeligende</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.verb>operer</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.gerund>at operere på</DoBillsMedicalHumanOperation.gerund>
 
-  <DoctorTreat.label>giv behandling</DoctorTreat.label>
-  <DoctorTreat.verb>behandel</DoctorTreat.verb>
-  <DoctorTreat.gerund>behandler</DoctorTreat.gerund>
+  <DoctorTendToHumanlikes.label>behandl patients</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>behandl</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.gerund>at behandle</DoctorTendToHumanlikes.gerund>
 
-  <DoctorFeed.label>foder patient</DoctorFeed.label>
-  <DoctorFeed.verb>foder</DoctorFeed.verb>
-  <DoctorFeed.gerund>fodere</DoctorFeed.gerund>
+  <DoctorTendToSelf.label>giv sig selv behandling</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>behandl</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.gerund>at behandle</DoctorTendToSelf.gerund>
 
-  <DoBillsMedicalAnimalOperation.label>operere på dyr</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.verb>operere</DoBillsMedicalAnimalOperation.verb>
-  <DoBillsMedicalAnimalOperation.gerund>operer på</DoBillsMedicalAnimalOperation.gerund>
+  <DoctorFeedHumanlikes.label>giv patienter mad</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>made</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.gerund>at made</DoctorFeedHumanlikes.gerund>
+
+  <DoBillsMedicalAnimalOperation.label>operer på dyr</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.verb>operer</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.gerund>at operere på</DoBillsMedicalAnimalOperation.gerund>
+
+  <DoctorTendToAnimals.label>behandl dyr</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>behandl</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.gerund>at behandle</DoctorTendToAnimals.gerund>
+
+  <DoctorFeedAnimals.label>fodr dyr</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>fodr</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.gerund>at fodre</DoctorFeedAnimals.gerund>
 
   <TakeToBedToOperate.label>tag patienter i seng til operationer</TakeToBedToOperate.label>
   <TakeToBedToOperate.verb>tag for at operere</TakeToBedToOperate.verb>
-  <TakeToBedToOperate.gerund>tager for at operere</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.gerund>at tage for at operere</TakeToBedToOperate.gerund>
 
-  <VisitSickPawn.label>besøge syge mennesker</VisitSickPawn.label>
+  <VisitSickPawn.label>besøge syge folk</VisitSickPawn.label>
   <VisitSickPawn.verb>besøg</VisitSickPawn.verb>
-  <VisitSickPawn.gerund>besøger</VisitSickPawn.gerund>
+  <VisitSickPawn.gerund>at besøge</VisitSickPawn.gerund>
 
 
   <!-- PatientBedRest -->
 
-  <PatientGoToBed.label>blive rask i sengen</PatientGoToBed.label>
+  <PatientGoToBed.label>bliv rask i sengen</PatientGoToBed.label>
   <PatientGoToBed.verb>få sengehvile i</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>få sengehvile i</PatientGoToBed.gerund>
+  <PatientGoToBed.gerund>at få sengehvile i</PatientGoToBed.gerund>
 
 
   <!-- Flicker -->
 
-  <Flick.label>flip kontakter</Flick.label>
-  <Flick.verb>flip kontakter på</Flick.verb>
-  <Flick.gerund>flip kontakter på</Flick.gerund>
+  <Flick.label>tryk på kontakter</Flick.label>
+  <Flick.verb>tryk på kontakter</Flick.verb>
+  <Flick.gerund>at trykke på kontakter</Flick.gerund>
 
 
   <!-- Warden -->
 
   <DoExecution.label>henret fanger</DoExecution.label>
   <DoExecution.verb>udfør henrettelse på</DoExecution.verb>
-  <DoExecution.gerund>udføre henrettelse på</DoExecution.gerund>
+  <DoExecution.gerund>at udføre henrettelse på</DoExecution.gerund>
 
   <ReleasePrisoner.label>frigiv fanger</ReleasePrisoner.label>
   <ReleasePrisoner.verb>frigiv</ReleasePrisoner.verb>
-  <ReleasePrisoner.gerund>frigiver</ReleasePrisoner.gerund>
+  <ReleasePrisoner.gerund>at frigive</ReleasePrisoner.gerund>
 
-  <TakePrisonerToBed.label>tage fanger i seng</TakePrisonerToBed.label>
+  <TakePrisonerToBed.label>tag fanger til seng</TakePrisonerToBed.label>
   <TakePrisonerToBed.verb>tag til seng</TakePrisonerToBed.verb>
-  <TakePrisonerToBed.gerund>tager til seng</TakePrisonerToBed.gerund>
+  <TakePrisonerToBed.gerund>at tage til seng</TakePrisonerToBed.gerund>
 
-  <FeedPrisoner.label>foder fanger</FeedPrisoner.label>
-  <FeedPrisoner.verb>foder</FeedPrisoner.verb>
-  <FeedPrisoner.gerund>fodre</FeedPrisoner.gerund>
+  <FeedPrisoner.label>fodr fanger</FeedPrisoner.label>
+  <FeedPrisoner.verb>fodr</FeedPrisoner.verb>
+  <FeedPrisoner.gerund>at fodre</FeedPrisoner.gerund>
 
-  <DeliverFoodToPrisoner.label>levere mad til fanger</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>lever mad til fanger</DeliverFoodToPrisoner.label>
   <DeliverFoodToPrisoner.verb>lever mad til</DeliverFoodToPrisoner.verb>
-  <DeliverFoodToPrisoner.gerund>levere mad til</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>at levere mad til</DeliverFoodToPrisoner.gerund>
 
   <ChatWithPrisoner.label>snak med fangerne</ChatWithPrisoner.label>
   <ChatWithPrisoner.verb>snak med</ChatWithPrisoner.verb>
-  <ChatWithPrisoner.gerund>snakker med</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.gerund>at snakke med</ChatWithPrisoner.gerund>
 
 
   <!-- Handling -->
 
   <Slaughter.label>slagt dyr</Slaughter.label>
   <Slaughter.verb>slagt</Slaughter.verb>
-  <Slaughter.gerund>slagter</Slaughter.gerund>
+  <Slaughter.gerund>at slagte</Slaughter.gerund>
 
   <Milk.label>malke dyr</Milk.label>
-  <Milk.verb>malke</Milk.verb>
-  <Milk.gerund>malker</Milk.gerund>
+  <Milk.verb>malk</Milk.verb>
+  <Milk.gerund>at malke</Milk.gerund>
 
   <Shear.label>klip dyr</Shear.label>
   <Shear.verb>klip</Shear.verb>
-  <Shear.gerund>klipper</Shear.gerund>
+  <Shear.gerund>at klippe</Shear.gerund>
 
-  <Tame.label>tæm dyr</Tame.label>
+  <Tame.label>tæmme dyr</Tame.label>
   <Tame.verb>tæm</Tame.verb>
-  <Tame.gerund>tæmmer</Tame.gerund>
+  <Tame.gerund>at tæmme</Tame.gerund>
 
   <Train.label>træn dyr</Train.label>
   <Train.verb>træn</Train.verb>
-  <Train.gerund>træner</Train.gerund>
+  <Train.gerund>at træne</Train.gerund>
 
 
   <!-- Cooking -->
 
   <DoBillsCook.label>tilbered måltider på komfuret</DoBillsCook.label>
   <DoBillsCook.verb>tilbered</DoBillsCook.verb>
-  <DoBillsCook.gerund>tilbereder</DoBillsCook.gerund>
+  <DoBillsCook.gerund>at tilberede</DoBillsCook.gerund>
 
-  <DoBillsCookCampfire.label>tilbered måltider ved lejerbål</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.label>tilbered måltider ved lejrbål</DoBillsCookCampfire.label>
   <DoBillsCookCampfire.verb>tilbered</DoBillsCookCampfire.verb>
-  <DoBillsCookCampfire.gerund>tilbereder</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.gerund>at tilberede</DoBillsCookCampfire.gerund>
 
-  <DoBillsButcherFlesh.label>slagt væsen</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.label>slagt væsner</DoBillsButcherFlesh.label>
   <DoBillsButcherFlesh.verb>slagt</DoBillsButcherFlesh.verb>
-  <DoBillsButcherFlesh.gerund>slagter ved</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.gerund>at slagte ved</DoBillsButcherFlesh.gerund>
 
   <CookFillHopper.label>fyld magasin</CookFillHopper.label>
   <CookFillHopper.verb>fyld</CookFillHopper.verb>
@@ -134,21 +150,17 @@
 
   <DoBillsBrew.label>bryg drikkevarer</DoBillsBrew.label>
   <DoBillsBrew.verb>bryg</DoBillsBrew.verb>
-  <DoBillsBrew.gerund>bryger</DoBillsBrew.gerund>
+  <DoBillsBrew.gerund>at brygge</DoBillsBrew.gerund>
 
 
   <!-- Hunting -->
 
   <HunterHunt.label>jagt</HunterHunt.label>
-  <HunterHunt.verb>jæger</HunterHunt.verb>
-  <HunterHunt.gerund>jag</HunterHunt.gerund>
+  <HunterHunt.verb>jag</HunterHunt.verb>
+  <HunterHunt.gerund>at jage</HunterHunt.gerund>
 
 
   <!-- Construction -->
-
-  <DoBillsMedicalMechanoidOperation.label>operere på mekaniter</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>modificer</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>modificerende</DoBillsMedicalMechanoidOperation.gerund>
 
   <FixBrokenDownBuilding.label>reparer nedbrudte bygninger</FixBrokenDownBuilding.label>
   <FixBrokenDownBuilding.verb>erstat ødelagt komponenter i</FixBrokenDownBuilding.verb>
@@ -254,6 +266,10 @@
 
 
   <!-- Crafting -->
+  
+  <DoBillsMedicalMechanoidOperation.label>operere på mekaniter</DoBillsMedicalMechanoidOperation.label>
+  <DoBillsMedicalMechanoidOperation.verb>modificer</DoBillsMedicalMechanoidOperation.verb>
+  <DoBillsMedicalMechanoidOperation.gerund>modificerende</DoBillsMedicalMechanoidOperation.gerund>
 
   <DoBillsUseCraftingSpot.label>lav ordrer ved byggeplads</DoBillsUseCraftingSpot.label>
   <DoBillsUseCraftingSpot.verb>byg</DoBillsUseCraftingSpot.verb>
@@ -328,18 +344,18 @@
 
   <HaulGeneral.label>slæb generalle ting</HaulGeneral.label>
   <HaulGeneral.verb>slæb</HaulGeneral.verb>
-  <HaulGeneral.gerund>slæber</HaulGeneral.gerund>
+  <HaulGeneral.gerund>at slæbe</HaulGeneral.gerund>
 
 
   <!-- Cleaning -->
 
   <CleanClearSnow.label>ryd sne</CleanClearSnow.label>
   <CleanClearSnow.verb>ryd sne</CleanClearSnow.verb>
-  <CleanClearSnow.gerund>ryder sne</CleanClearSnow.gerund>
+  <CleanClearSnow.gerund>at rydde sne</CleanClearSnow.gerund>
 
   <CleanFilth.label>rens skidt</CleanFilth.label>
   <CleanFilth.verb>gør rent</CleanFilth.verb>
-  <CleanFilth.gerund>rengøre</CleanFilth.gerund>
+  <CleanFilth.gerund>at rengøre</CleanFilth.gerund>
 
 
   <!-- Research -->

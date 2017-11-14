@@ -5,25 +5,25 @@
   <Clear.description>En klar dag. Ingen minuser eller modifikatorer.</Clear.description>
 
   <Fog.label>tåget</Fog.label>
-  <Fog.description>tåge reducerer nøjagtigheden af langdistancevåben.</Fog.description>
+  <Fog.description>tåge mindsker nøjagtigheden af skydevåben.</Fog.description>
 
   <Rain.label>regn</Rain.label>
-  <Rain.description>Regn reducerer nøjagtigheden af langdistancevåben, slukker ild, og nedsætter folks fart.</Rain.description>
+  <Rain.description>Regn mindsker nøjagtigheden af skydevåben, slukker ild, og sløver folks ned.</Rain.description>
 
-  <DryThunderstorm.label>tør tordenvejr</DryThunderstorm.label>
-  <DryThunderstorm.description>Tørre tordenvejr er farlige, fordi lynet kan starte brande, og der er ingen regn at slukke dem.</DryThunderstorm.description>
+  <DryThunderstorm.label>tørt tordenvejr</DryThunderstorm.label>
+  <DryThunderstorm.description>Tørt tordenvejr er farligt, fordi lyn kan starte brande, og der er ingen regn til at slukke dem.</DryThunderstorm.description>
 
-  <RainyThunderstorm.label>regnfuld tordenvejr</RainyThunderstorm.label>
-  <RainyThunderstorm.description>Lynene vil starte brande, men regnen vil slukke dem. Regnen reducerer også bevægelse hastighed og træfsikkerheden.</RainyThunderstorm.description>
+  <RainyThunderstorm.label>tordenvejr med regn</RainyThunderstorm.label>
+  <RainyThunderstorm.description>Lynene vil starte brande, men regnen vil slukke dem. Regnen mindsker også bevægelseshastighed og træfsikkerhed.</RainyThunderstorm.description>
 
   <FoggyRain.label>tåget regn</FoggyRain.label>
-  <FoggyRain.description>Reducerer trøfsikkerhed og bevægelse hastighed.</FoggyRain.description>
+  <FoggyRain.description>Mindsker træfsikkerhed og bevægelseshastighed.</FoggyRain.description>
 
   <SnowHard.label>hård sne</SnowHard.label>
-  <SnowHard.description>Sne reducerer træfsikkerheden af langdistancevåben, slukker ild, og sløver folks hastighed.</SnowHard.description>
+  <SnowHard.description>Sne mindsker træfsikkerheden af skydevåben, slukker ild, og sløver folk ned.</SnowHard.description>
 
   <SnowGentle.label>blid sne</SnowGentle.label>
-  <SnowGentle.description>Sne reducerer træfsikkerheden af langdistancevåben, slukker ild, og sløver folks hastighed.</SnowGentle.description>
+  <SnowGentle.description>Sne mindsker træfsikkerheden af skydevåben, slukker ild, og sløver folk ned.</SnowGentle.description>
 
 
 </LanguageData>
