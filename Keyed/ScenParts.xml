@@ -5,7 +5,7 @@
 
   <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Start med {0} mennesker.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>Start med {0} mennesker, valgt fra {1}.</ScenPart_StartWithPawns>
   <RandomPet>tilfældigt kæledyr</RandomPet>
 
   <ScenPart_StartingResearchFinished>Start med forskning: {0}</ScenPart_StartingResearchFinished>

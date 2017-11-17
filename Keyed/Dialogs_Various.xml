@@ -203,7 +203,6 @@
   <Addictiveness>Vanedannendelse</Addictiveness>
   <PackAnimal>Flokdyr</PackAnimal>
   <PackAnimalExplanation>Hvorvidt dette dyr er passende at bruge til at bære genstande i en karavane over længere afstande.</PackAnimalExplanation>
-</PackAnimalExplanation>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Positive tal køber.\nNegative tal sælger.</PositiveBuysNegativeSells>
@@ -222,7 +221,9 @@
   <ColonyHasNoMore>Ikke mere at sælge.</ColonyHasNoMore>
   <TraderWillNotTrade>Forhandler er ikke villig til at handle dette.</TraderWillNotTrade>
   <Negotiator>Forhandler</Negotiator>
-  <NegotiatorTalkingImpaired>Din forhandler {0} kan ikke tale ordentligt på grund af dårligt helbred.\n\nDette vil påvirke handelsprisen.\n\nOvervej at bruge en sundere forhandler.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>Din forhandler {0} kan ikke tale ordentligt på grund af dårligt helbred.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>Din forhandler {0} kan ikke høre ordentligt på grund af dårligt helbred.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>Dette vil påvirke handelsprisen.\n\nOvervej at bruge en sundere forhandler.</NegotiatorCapacityImpaired>
   <ConfirmTraderShortFunds>Forhandleren har utilstrækkelig sølv til fuldt ud at dække denne transaktion.  Fortsæt alligevel?</ConfirmTraderShortFunds>
   <SortBy>Sorter efter</SortBy>
   <TraderTypePrice>forhandler type</TraderTypePrice>
@@ -349,7 +350,7 @@
   <MoodThresholdColumnDesc>Kolonisterne vil tage dette rusmiddel, hvis deres humørniveau er under denne grænse.</MoodThresholdColumnDesc>
   <JoyThresholdColumnDesc>Kolonisterne vil tage dette rusmiddel, hvis deres glædeniveau er under denne grænse.</JoyThresholdColumnDesc>
   <TakeToInventoryColumnDesc>En ekstra mængde af rusmidlet til at afhente, når det opsamles til forbrug, for at undgå at skulle besøge rusmiddellagret hver gang.</TakeToInventoryColumnDesc>
-  <DrugUsageTipForAddiction>or misbrugsproblemer\n\nBrug dette rusmiddel til at fodre allerede etablerede afhængighedsbehov.\n\nSelv hvis deaktiveret, kan nogle figurer med specifikke træk, eller i færd med mentale nedbrud alligevel bruge rusmidlet./DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>or misbrugsproblemer\n\nBrug dette rusmiddel til at fodre allerede etablerede afhængighedsbehov.\n\nSelv hvis deaktiveret, kan nogle figurer med specifikke træk, eller i færd med mentale nedbrud alligevel bruge rusmidlet.</DrugUsageTipForAddiction>
   <DrugUsageTipForJoy>For glæde\n\nBrug dette rusmiddel til glæde og sociale formål.\n\nSelv hvis deaktiveret, kan nogle figurer med specifikke træk, eller i færd med mentale nedbrud alligevel bruge rusmidlet</DrugUsageTipForJoy>
   <DrugUsageTipScheduled>Planlagt\n\nBrug dette rusmiddel på en defineret tidsplan, når bestemte betingelser er opfyldte.</DrugUsageTipScheduled>
 

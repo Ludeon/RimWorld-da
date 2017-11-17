@@ -177,7 +177,7 @@
   <GunInstalled>Installed</GunInstalled>
   <MinimumRange>Minimum range</MinimumRange>
   <CanFireIn>Can fire in</CanFireIn>
-  <ShellLoaded>Shell loaded</ShellLoaded>
+  <ShellLoaded>Shell loaded: {0}</ShellLoaded>
   <ShellNotLoaded>Not loaded</ShellNotLoaded>
 
   <!-- Job reports -->

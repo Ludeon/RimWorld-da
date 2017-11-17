@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <Autosaving>Gemmer automatisk</Autosaving>
   <GameStartDialog>I tre vågner op i jeres cryosøvns The three of you awake in your cryptosleep enhed til lyden af sirener og flænsende metal. I når knapt nok til redningskapslerne, før skibet bliver revet i stykker.\n\nNoget tid senere, lander i på denne ukendte verden.\n\nMens stykker af flænset rumskib falder ned om jer, begynder i at planlægge hvordan i overlever.</GameStartDialog>
-
   <Colony>Koloni</Colony>
-  
-  <ChangeLanguageFromMainMenu>Du kan kun ændre sprog fra indstilllings menuen på hovedmenuen.</ChangeLanguageFromMainMenu>
-
+  <ChangeLanguageFromMainMenu>Du kan kun ændre sprog fra hovedmenuen.</ChangeLanguageFromMainMenu>
   <AndLower>og</AndLower>
   <DisabledLower>slået fra</DisabledLower>
 
@@ -14,23 +12,64 @@
 
 
   <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <DevelopmentBuildLower>udviklingsversion</DevelopmentBuildLower>
   <CompiledOn>Kompileret {0}</CompiledOn>
-
-	<MeatLabel>{0} kød</MeatLabel>
-  <MeatDesc>Råt kød fra {0}.</MeatDesc>
-
-	<CorpseLabel>{0} lig</CorpseLabel>
-	<CorpseDesc>Lig af {0}.</CorpseDesc>
-
-
-	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <LoggedIntoSteamAs>Logget på Steam som {0}</LoggedIntoSteamAs>
   
+  <!-- General-use words -->
+  <Yes>Ja</Yes>
+  <No>Nej</No>
+  <min>min</min>
+  <max>maks</max>
+  <chance>chance</chance>
+  <context>kontekst</context>
+  <multiplier>forstærker</multiplier>
+  <damage>skade</damage>
+  <radius>radius</radius>
+  <durationDays>varighed (dage)</durationDays>
+  <intervalDays>interval (dage)</intervalDays>
+  <repeat>gentag</repeat>
+  <default>standard</default>
+  <distance>afstand</distance>
+
+  <MeatLabel>{0} kød</MeatLabel>
+  <MeatDesc>Råt slagtet kød. Det kan bruges til madlavning, eller spises råt.</MeatDesc>
+    
+  <LeatherLabel>{0} læder</LeatherLabel>
+  <LeatherDesc>Garvet, tørret, skrabt skind. Et godt traditionelt materiale til at lave tøj og tasker.</LeatherDesc>
+
+  <CorpseLabel>{0} lig</CorpseLabel>
+  <CorpseDesc>Lig af {0}.</CorpseDesc>
+  <DeadLabel>{0} (død)</DeadLabel>
+  
+  <RoughStoneTerrainLabel>rug {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Rug, naturlig {0} jord.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>groft hugget {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Groft skåret naturligt {0} gulv.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>jævn {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Jævnet naturligt {0} gulv.</SmoothStoneTerrainDesc>
+
+
+  <BlueprintLabelExtra> (perspektivplan)</BlueprintLabelExtra>
+  <FrameLabelExtra> (bygning)</FrameLabelExtra>
+  
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
+  
+  <SomeonesRoom>{0}s {1}</SomeonesRoom>
+  <CouplesRoom>{0} and {1}s {2}</CouplesRoom>
+  
+  <VariousLabel>(flere)</VariousLabel>
   
   <!-- History events -->
   <ColonistDied>Kolonist døde</ColonistDied>
   
+  <!-- Rotation -->
+  <North>nord</North>
+  <South>syd</South>
+  <West>vest</West>
+  <East>øst</East>
   
   
 </LanguageData>

@@ -16,9 +16,9 @@
   <CommandTryReconnectLabel>Gentilslut</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Prøv at oprette forbindelse til et anden strøm net inden for min forbindelse radius. Dette er nyttigt, hvis jeg er tilsluttet et strømløst net, men der er et drevet net i nærheden.</CommandTryReconnectDesc>
 
-  <CommandGatherSpotToggleLabel>Samlings plads/CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Aktiv - kolonister vil samles omkring dette objekt.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inaktiv - kolonister vil ikke samles omkring dette objekt.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleLabel>Samlingsplads</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktiv - kolonister vil samles omkring denne genstand.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inaktiv - kolonister vil ikke samles omkring denne genstand.</CommandGatherSpotToggleDescInactive>
 
 
   <!-- Drafting -->

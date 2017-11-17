@@ -4,7 +4,7 @@
   <ClockTime>Time</ClockTime>
   <ClockDate>Date</ClockDate>
   <ClockYear>Year</ClockYear>
-  <DateReadoutTip>Days passed since your arrival: {0}\nThere are {1} days in each season.\nCurrent season: {2}</DateReadoutTip>
+  <DateReadoutTip>Dage siden din ankomst: {0}\nNuværende kvadrum: {4}\nLokal årstid: {2}\n\nÅret er opdelt i fire kvadra af {3} dage hver. Kvadra er ens overalt, mens årstider varierer fra sted til sted.\n\nLokale årstider for hver kvadrum:\n{5}</DateReadoutTip>
 
   <FullDate>{0} of {1}, {2}</FullDate>
   <DateReadout>{0} of {1}, {2}</DateReadout>

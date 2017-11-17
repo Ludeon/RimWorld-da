@@ -31,7 +31,8 @@
   <CargoPodCrash>Du har opdaget en klynge af fragt kapsler der er styrtet ned i nærheden.\n\nMåske vil du finde noget nyttigt i vraget.</CargoPodCrash>
 
   <AnElectricalConduit>en elektrisk ledning</AnElectricalConduit>
-  <ShortCircuit>En fejl i {0} har forårsaget en kortslutning.\n\nAlle {1} Wd af energi i de tilsluttede batterier er blevet afladet i en elektrisk eksplosion.</ShortCircuit>
+  <ShortCircuit>En fejl i {0} har forårsaget en kortslutning.</ShortCircuit>
+  <ShortCircuitDischargedEnergy>Alle {0} Wd af energi i de tilsluttede batterier er blevet afladet i en elektrisk eksplosion.</ShortCircuitDischargedEnergy>
   <ShortCircuitWasLarge>Denne store mængde strøm har skabt en eksplosion af betydelig størrelse.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Det er virkelig en enorm eksplosion. Wow.</ShortCircuitWasHuge>
 

@@ -111,6 +111,7 @@
   <IdenticalBlueprintExists>Identisk plan findes allerede her.</IdenticalBlueprintExists>
   <TerrainCannotSupport>Terrænet her kan ikke støtte dette.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Plads allerede besat.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>Plads bliver gjort blød.</SpaceBeingSmoothed>
   <TerrainMustBeRemovable>Skal vælge et aftagelig gulv.</TerrainMustBeRemovable>
 
 

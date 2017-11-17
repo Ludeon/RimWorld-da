@@ -109,7 +109,7 @@
 
   <UseMedicalBed>Hvil indtil helet</UseMedicalBed>
   <NotInjured>Ikke såret</NotInjured>
-  <SomeoneElseSleeping>Optaget</SomeoneElseSleeping>
+  <SomeoneElseSleeping>Optaget af {0}</SomeoneElseSleeping>
 
   <TradeWith>Handel med {0}</TradeWith>
   <CannotTrade>Kan ikke handle</CannotTrade>
