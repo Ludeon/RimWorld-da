@@ -39,7 +39,7 @@
     <InstallSimpleProstheticArm.label>installer simpel armprotese</InstallSimpleProstheticArm.label>
     <InstallSimpleProstheticArm.description>Installerer en simpel armprotese.</InstallSimpleProstheticArm.description>
     <InstallSimpleProstheticArm.jobString>Installerer simpel armprotese.</InstallSimpleProstheticArm.jobString>
-
+
     <InstallDenture.label>installer tandprotese</InstallDenture.label>
     <InstallDenture.description>Installerer en tandprotese.</InstallDenture.description>
     <InstallDenture.jobString>Installerer tandprotese.</InstallDenture.jobString>

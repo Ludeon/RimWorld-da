@@ -39,7 +39,7 @@
   <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
 
   <InstallSimpleProstheticLeg.label>install simple prosthetic leg</InstallSimpleProstheticLeg.label>
-  <InstallSimpleProstheticLeg.description>Installs simple prosthetic leg.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>Installs simple prostethic leg.</InstallSimpleProstheticLeg.description>
   <InstallSimpleProstheticLeg.jobString>Installing simple prostethic leg.</InstallSimpleProstheticLeg.jobString>
 
   <InstallSimpleProstheticArm.label>install simple prosthetic arm</InstallSimpleProstheticArm.label>

@@ -17,7 +17,7 @@
 	<Hard.label>Intenst</Hard.label>
 	<Hard.description>En betydelig udfordring. At gennemføre på dette niveau kræver en solid og gennemgående forståelse af overlevelses strategier, og en smule held.</Hard.description>
 
-	<VeryHard.label>Ekstremt/VeryHard.label>
+    <VeryHard.label>Ekstremt</VeryHard.label>
 	<VeryHard.description>Lige så svært som en diamant er hård. Fjender er stærke, priserne er sølle, maden er begrænset, kolonisterne er sure.\n\nFor dem som elsker digital lidelse.</VeryHard.description>
 
 </LanguageData>
