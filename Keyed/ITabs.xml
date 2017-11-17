@@ -105,7 +105,7 @@
   <NoRelationships>(ingen forhold)</NoRelationships>
   <Kidnapped>Kidnapped</Kidnapped>
   <Slave>Slave</Slave>
-  <FactionLeader>faktion leder</FactionLeader>
+  <FactionLeader>fraktionsleder</FactionLeader>
   <OpinionOf>Mening om {0}</OpinionOf>
   <SomeonesOpinionOfMe>{0}'s mening om mig</SomeonesOpinionOfMe>
   <IAmDead>Jeg er død</IAmDead>

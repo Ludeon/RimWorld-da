@@ -13,7 +13,7 @@
     <SocialImpact.description>Når denne person interagerer socialt er dette hvor meget den anden person er påvirket.</SocialImpact.description>
 
     <GiftImpact.label>diplomatisk gave virkning</GiftImpact.label>
-    <GiftImpact.description>Når denne person giver gaver til en anden faktion er denne multiplikator anvendt til deres virkning på faktions relationen.</GiftImpact.description>
+    <GiftImpact.description>Når denne person giver gaver til en anden fraktion er denne multiplikator anvendt til deres virkning på faktions relationen.</GiftImpact.description>
 
     <TradePriceImprovement.label>handelspris forbedring</TradePriceImprovement.label>
     <TradePriceImprovement.description>Når denne perosn forhandler priser, er købe og salgs priserne forbedret med denne procent.</TradePriceImprovement.description>

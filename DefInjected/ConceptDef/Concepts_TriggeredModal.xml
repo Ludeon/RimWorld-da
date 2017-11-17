@@ -5,7 +5,7 @@
     <TradeGoodsMustBeNearBeacon.label>Handelsvare og handelsfyr</TradeGoodsMustBeNearBeacon.label>
     <TradeGoodsMustBeNearBeacon.helpText>For at sende objekter og sølv til forhandlere i kredsløb, skal du bygge et KREDSLØBS HANDELSFYR og placere en lagerplads med objekter i nærheden af det.</TradeGoodsMustBeNearBeacon.helpText>
 
-    <ArrestingCreatesEnemies.label>At arrestere forvære faktion relationer</ArrestingCreatesEnemies.label>
+    <ArrestingCreatesEnemies.label>At arrestere forværrer fraktion relationer</ArrestingCreatesEnemies.label>
     <ArrestingCreatesEnemies.helpText>Advarsel: Denne person du er ved at prøve at arrestere kommer nok ikke med friviligt.\n\nHvis du arrestere en ikke-kolonist vil hele deres faktion blive din fjende.</ArrestingCreatesEnemies.helpText>
 
     <SwitchFlickingDesignation.label>Tryk betegnelse</SwitchFlickingDesignation.label>

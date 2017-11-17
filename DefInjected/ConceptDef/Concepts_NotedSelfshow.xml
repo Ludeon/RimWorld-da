@@ -81,7 +81,7 @@
     	<ManualWorkPriorities.helpText>En af de vigtigste ting i Rimworld er at vælge gode arbejdsinstillinger for dine kolonister.\n\nDårlig arbejdsinstillinger efterlade essentielle opgaver ufærdigjort i lang tid imens kolonisterne spilder tid med uvigtige opgaver.\n\nFor at give mere kontrol over hvilket arbejde dine kolonister udføre, kan du bruge Manuel Prioritering tilstand i ARBEJDS tappen.\n\nI denne tilstand vil hver kolonist have et prioriterings nummer ved hver arbejds type. Kolonister vil lave arbejde prioriteret 1 fra venstre til højre, så prioritering 2 arbejde fra venstre til højre, og så videre.\n\nSmart brug af disse instillinger er essentielt for store, godt automatiseret kolonier.</ManualWorkPriorities.helpText>
 
     	<GettingMoreTraders.label>Få flere forhandlere</GettingMoreTraders.label>
-    	<GettingMoreTraders.helpText>Flere handelskaravaner vil komme og besøge dig hvis du er allieret med flere faktioner.\n\nHvis du ikke har nogle allierede vil ingen karavaner nogensinde komme forbi.\n\nDu kan også betale allierede til at sende handelskaravaner ved at kontakte dem med komms konsolen.</GettingMoreTraders.helpText>
+    	<GettingMoreTraders.helpText>Flere handelskaravaner vil komme og besøge dig hvis du er allieret med flere fraktioner.\n\nHvis du ikke har nogle allierede vil ingen karavaner nogensinde komme forbi.\n\nDu kan også betale allierede til at sende handelskaravaner ved at kontakte dem med komms konsolen.</GettingMoreTraders.helpText>
 
     	<InspectRoomStats.label>Rum stats inspektion</InspectRoomStats.label>
     	<InspectRoomStats.helpText>Du kan inspicere hvor imponerende, right, og smukt et indivuelt rum er ved at bruge RUM STATS INSPEKTION skifte knapperne i nederst højre hjørne.</InspectRoomStats.helpText>
