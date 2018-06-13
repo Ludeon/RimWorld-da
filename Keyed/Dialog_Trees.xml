@@ -2,7 +2,7 @@
 <LanguageData>
 
   <FactionGreetingHostile>{0} smider nogle skældsord ind i mikrofonen og afbryder.</FactionGreetingHostile>
-  <FactionGreetingWary>{0} hilser {1} varsomt og spørger hvad HIS vil.</FactionGreetingWary>
+  <FactionGreetingWary>{0} hilser {1} varsomt og spørger hvad [PAWN_possessive] vil.</FactionGreetingWary>
   <FactionGreetingWarm>{0} hilser {1} hjerteligt og spørger hvordan kolonien har det.</FactionGreetingWarm>
 
   <Disconnect>Afbryd</Disconnect>

@@ -40,7 +40,7 @@
   <LetterLabelMessageRecruitSuccess>Ny rekrut</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} har succesfuldt rekrutterede {1} ({2} chance).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance) og navngivet den HIM {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance) og navngivet den [PAWN_objective] {3}.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>Kolonien har ikke råd til denne handel.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Du har ikke nok sølv klar til at handle.</MessageColonyNotEnoughSilver>
@@ -109,7 +109,7 @@
   <MessageMarriageCeremonyAfterPartyFinished>Bryllups ceremonien for {0} og {1} er færdig.</MessageMarriageCeremonyAfterPartyFinished>
 
   <MessageNewBondRelation>{0} og {1} har dannet et bånd.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{0} og {1} har dannet et bånd. {0} har navngivet HIM {2}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{0} og {1} har dannet et bånd. {0} har navngivet [PAWN_objective] {2}.</MessageNewBondRelationNewName>
 
   <MessageBondedAnimalMentalBreak>{0} har et mentalt sammenbrud på grund af {1} 's død.</MessageBondedAnimalMentalBreak>
   <MessageNamedBondedAnimalMentalBreak>{0} navngivet {1} har et mentalt sammenbrud på grund af {2}'s død.</MessageNamedBondedAnimalMentalBreak>
@@ -167,7 +167,7 @@
 
   <MessageOldWoundHealed>På grund af {0}, {1}'s {2} er helet.</MessageOldWoundHealed>
 
-  <MessageRescueeJoined>Siden du reddede HIM, har {0} tilsluttet sig din gruppe!</MessageRescueeJoined>
+  <MessageRescueeJoined>Siden du reddede [PAWN_objective], har {0} tilsluttet sig din gruppe!</MessageRescueeJoined>
 
   <MessageAttackedCaravanIsNowHostile>Fordi du angreb en karavane fra {0}, er denne fraktion nu fjendtlig over for dig.</MessageAttackedCaravanIsNowHostile>
 

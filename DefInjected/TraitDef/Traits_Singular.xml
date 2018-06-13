@@ -2,70 +2,70 @@
 <LanguageData>
 
   <Nudist.degreeDatas.0.label>nudist</Nudist.degreeDatas.0.label>
-  <Nudist.degreeDatas.0.description>NAME nyder følelsen af frihed der kommer af at være nøgen. HECAP kan håndtere tøj, men vil være lykkeligere uden.</Nudist.degreeDatas.0.description>
+  <Nudist.degreeDatas.0.description>[PAWN_nameDef] nyder følelsen af frihed der kommer af at være nøgen. [PAWN_pronoun] kan håndtere tøj, men vil være lykkeligere uden.</Nudist.degreeDatas.0.description>
 
   <Bloodlust.degreeDatas.0.label>blodlyst</Bloodlust.degreeDatas.0.label>
-  <Bloodlust.degreeDatas.0.description>NAME får et sus fra at såre folk, og har ikke imod synet af blod eller død. HECAP er dobbelt så stor sandsynlig til at starte en social kamp.</Bloodlust.degreeDatas.0.description>
+  <Bloodlust.degreeDatas.0.description>[PAWN_nameDef] får et sus fra at såre folk, og har ikke imod synet af blod eller død. [PAWN_pronoun] er dobbelt så stor sandsynlig til at starte en social kamp.</Bloodlust.degreeDatas.0.description>
 
   <Kind.degreeDatas.0.label>venlig</Kind.degreeDatas.0.label>
-  <Kind.degreeDatas.0.description>NAME er en flink person. HECAP har en tendens til at lysne alles dag og fornærmer aldrig andre.</Kind.degreeDatas.0.description>
+  <Kind.degreeDatas.0.description>[PAWN_nameDef] er en flink person. [PAWN_pronoun] har en tendens til at lysne alles dag og fornærmer aldrig andre.</Kind.degreeDatas.0.description>
 
   <Psychopath.degreeDatas.0.label>psykopat</Psychopath.degreeDatas.0.label>
-  <Psychopath.degreeDatas.0.description>NAME har ingen empati. Andres lidelser Generer ikke ham. HECAP har ikke noget imod, hvis andre er slagtet, efterladt ubegravet, fængslet, eller solgt til slaveri - medmindre det påvirker ham. HECAP får heller ikke noget humør boost af socialt samvær.</Psychopath.degreeDatas.0.description>
+  <Psychopath.degreeDatas.0.description>[PAWN_nameDef] har ingen empati. Andres lidelser Generer ikke ham. [PAWN_pronoun] har ikke noget imod, hvis andre er slagtet, efterladt ubegravet, fængslet, eller solgt til slaveri - medmindre det påvirker ham. [PAWN_pronoun] får heller ikke noget humør boost af socialt samvær.</Psychopath.degreeDatas.0.description>
 
   <Cannibal.degreeDatas.0.label>kannibal</Cannibal.degreeDatas.0.label>
-  <Cannibal.degreeDatas.0.description>NAME lærte at det at spise menneskekød er forkert og forfærdelig. Men én gang, for længe siden, prøvede han det ... Og han kunne lide det.</Cannibal.degreeDatas.0.description>
+  <Cannibal.degreeDatas.0.description>[PAWN_nameDef] lærte at det at spise menneskekød er forkert og forfærdelig. Men én gang, for længe siden, prøvede han det ... Og han kunne lide det.</Cannibal.degreeDatas.0.description>
 
   <Abrasive.degreeDatas.0.label>irriterende</Abrasive.degreeDatas.0.label>
-  <Abrasive.degreeDatas.0.description>NAME siger altid præcis, hvad der er på HIS sind, især hvis det er går ham på. Det har en tendens til at påvirke folk på den forkerte måde.</Abrasive.degreeDatas.0.description>
+  <Abrasive.degreeDatas.0.description>[PAWN_nameDef] siger altid præcis, hvad der er på [PAWN_possessive] sind, især hvis det er går ham på. Det har en tendens til at påvirke folk på den forkerte måde.</Abrasive.degreeDatas.0.description>
 
   <TooSmart.degreeDatas.0.label>for smart</TooSmart.degreeDatas.0.label>
-  <TooSmart.degreeDatas.0.description>NAME er for klog for HIS eget bedste. HECAP lærer alt meget hurtigere end alle andre, men kan være ganske excentrisk.</TooSmart.degreeDatas.0.description>
+  <TooSmart.degreeDatas.0.description>[PAWN_nameDef] er for klog for [PAWN_possessive] eget bedste. [PAWN_pronoun] lærer alt meget hurtigere end alle andre, men kan være ganske excentrisk.</TooSmart.degreeDatas.0.description>
 
   <Brawler.degreeDatas.0.label>Slagsbror</Brawler.degreeDatas.0.label>
-  <Brawler.degreeDatas.0.description>NAME kan lide at kæmpe tæt og personligt. HISCAP præcision er øget betydeligt i nærkamp, men HE vil være meget ulykkelig hvis bedt om at bære et langdistancevåben.</Brawler.degreeDatas.0.description>
+  <Brawler.degreeDatas.0.description>[PAWN_nameDef] kan lide at kæmpe tæt og personligt. [PAWN_possessive] præcision er øget betydeligt i nærkamp, men [PAWN_pronoun] vil være meget ulykkelig hvis bedt om at bære et langdistancevåben.</Brawler.degreeDatas.0.description>
 
   <Masochist.degreeDatas.0.label>masochist</Masochist.degreeDatas.0.label>
-  <Masochist.degreeDatas.0.description>For NAME, er der noget spændende om at blive såret. HECAP ved ikke hvorfor, HE er bare sat anderledes sammen.</Masochist.degreeDatas.0.description>
+  <Masochist.degreeDatas.0.description>For [PAWN_nameDef], er der noget spændende om at blive såret. [PAWN_pronoun] ved ikke hvorfor, [PAWN_pronoun] er bare sat anderledes sammen.</Masochist.degreeDatas.0.description>
 
   <Prosthophile.degreeDatas.0.label>prosthophile</Prosthophile.degreeDatas.0.label>
-  <Prosthophile.degreeDatas.0.description>NAME føler begrænset i HIS svage menneskekrop. HECAP drømmer ofte om at gå bioniske.</Prosthophile.degreeDatas.0.description>
+  <Prosthophile.degreeDatas.0.description>[PAWN_nameDef] føler begrænset i [PAWN_possessive] svage menneskekrop. [PAWN_pronoun] drømmer ofte om at gå bioniske.</Prosthophile.degreeDatas.0.description>
 
   <Prosthophobe.degreeDatas.0.label>prosthophobi</Prosthophobe.degreeDatas.0.label>
-  <Prosthophobe.degreeDatas.0.description>NAME mener at den menneskelige krop er begrænset for en grund. For ham, er bioniske kropsdele uetisk.</Prosthophobe.degreeDatas.0.description>
+  <Prosthophobe.degreeDatas.0.description>[PAWN_nameDef] mener at den menneskelige krop er begrænset for en grund. For ham, er bioniske kropsdele uetisk.</Prosthophobe.degreeDatas.0.description>
 
   <GreenThumb.degreeDatas.0.label>grønne tommelfingere</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>NAME har en passion for havearbejde. HECAP får en humør bonus for hver plante HE sår.</GreenThumb.degreeDatas.0.description>
+  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] har en passion for havearbejde. [PAWN_pronoun] får en humør bonus for hver plante [PAWN_pronoun] sår.</GreenThumb.degreeDatas.0.description>
 
   <NightOwl.degreeDatas.0.label>natteravn</NightOwl.degreeDatas.0.label>
-  <NightOwl.degreeDatas.0.description>NAME kan lide at være oppe i løbet af natten, og sove i løbet af dagen.\n\nHECAP får en humør bonus hvis vågen om natten (23h-6h) og taber humør hvis vågen i løbet af dagen (11h-18h).</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] kan lide at være oppe i løbet af natten, og sove i løbet af dagen.\n\n[PAWN_pronoun] får en humør bonus hvis vågen om natten (23h-6h) og taber humør hvis vågen i løbet af dagen (11h-18h).</NightOwl.degreeDatas.0.description>
 
   <Greedy.degreeDatas.0.label>grådig</Greedy.degreeDatas.0.label>
-  <Greedy.degreeDatas.0.description>NAME har brug for et virkelig imponerende soveværelse. HECAP får et humør tab hvis han ikke får hvad han vil have.</Greedy.degreeDatas.0.description>
+  <Greedy.degreeDatas.0.description>[PAWN_nameDef] har brug for et virkelig imponerende soveværelse. [PAWN_pronoun] får et humør tab hvis han ikke får hvad han vil have.</Greedy.degreeDatas.0.description>
 
   <Jealous.degreeDatas.0.label>jaloux</Jealous.degreeDatas.0.label>
-  <Jealous.degreeDatas.0.description>For NAME, er det nedværdigende at have et mindre imponerende soveværelse end en anden. HECAP får et humør tab, hvis en kolonist har et mere imponerende soveværelse.</Jealous.degreeDatas.0.description>
+  <Jealous.degreeDatas.0.description>For [PAWN_nameDef], er det nedværdigende at have et mindre imponerende soveværelse end en anden. [PAWN_pronoun] får et humør tab, hvis en kolonist har et mere imponerende soveværelse.</Jealous.degreeDatas.0.description>
 
   <Ascetic.degreeDatas.0.label>asketisk</Ascetic.degreeDatas.0.label>
-  <Ascetic.degreeDatas.0.description>NAME foretrækker at leve i askese. HECAP kommer i et dårligt humør,hvis HE har et soveværelse, der er for imponerende. HECAP bryder sig heller ikke om fin mad og foretrækker at spise rå - og rå fødevarer vil ikke genere HIM overhovdet.</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.description>[PAWN_nameDef] foretrækker at leve i askese. [PAWN_pronoun] kommer i et dårligt humør,hvis [PAWN_pronoun] har et soveværelse, der er for imponerende. [PAWN_pronoun] bryder sig heller ikke om fin mad og foretrækker at spise rå - og rå fødevarer vil ikke genere [PAWN_objective] overhovdet.</Ascetic.degreeDatas.0.description>
 
   <Gay.degreeDatas.0.label>homoseksuel</Gay.degreeDatas.0.label>
-  <Gay.degreeDatas.0.description>NAME er romantisk tiltrukket af mennesker af HIS eget køn.</Gay.degreeDatas.0.description>
+  <Gay.degreeDatas.0.description>[PAWN_nameDef] er romantisk tiltrukket af mennesker af [PAWN_possessive] eget køn.</Gay.degreeDatas.0.description>
 
   <DislikesMen.degreeDatas.0.label>mandehader</DislikesMen.degreeDatas.0.label>
-  <DislikesMen.degreeDatas.0.description>NAME bryder sig virkelig ikke om, og er mistroisk, overfor mænd.</DislikesMen.degreeDatas.0.description>
+  <DislikesMen.degreeDatas.0.description>[PAWN_nameDef] bryder sig virkelig ikke om, og er mistroisk, overfor mænd.</DislikesMen.degreeDatas.0.description>
 
   <DislikesWomen.degreeDatas.0.label>kvindehader</DislikesWomen.degreeDatas.0.label>
-  <DislikesWomen.degreeDatas.0.description>NAME bryder sig virkelig ikke om, og er mistroisk, overfor kvinder</DislikesWomen.degreeDatas.0.description>
+  <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef] bryder sig virkelig ikke om, og er mistroisk, overfor kvinder</DislikesWomen.degreeDatas.0.description>
 
   <AnnoyingVoice.degreeDatas.0.label>irriterende stemme</AnnoyingVoice.degreeDatas.0.label>
-  <AnnoyingVoice.degreeDatas.0.description>NAME's stemme har en særlig raspen, næsevis kvalitet til det, og HE har tendens til at tale i gøende, forvanskede sætninger. Dette disponerer andre til at lide HIM.</AnnoyingVoice.degreeDatas.0.description>
+  <AnnoyingVoice.degreeDatas.0.description>[PAWN_nameDef]'s stemme har en særlig raspen, næsevis kvalitet til det, og [PAWN_pronoun] har tendens til at tale i gøende, forvanskede sætninger. Dette disponerer andre til at lide [PAWN_objective].</AnnoyingVoice.degreeDatas.0.description>
 
   <CreepyBreathing.degreeDatas.0.label>uhyggelig vejrtrækning</CreepyBreathing.degreeDatas.0.label>
-  <CreepyBreathing.degreeDatas.0.description>NAME ånder tungt hele tiden, og sveder konstant. Folk finder det uhyggeligt.</CreepyBreathing.degreeDatas.0.description>
+  <CreepyBreathing.degreeDatas.0.description>[PAWN_nameDef] ånder tungt hele tiden, og sveder konstant. Folk finder det uhyggeligt.</CreepyBreathing.degreeDatas.0.description>
 
   <Pyromaniac.degreeDatas.0.label>pyroman</Pyromaniac.degreeDatas.0.label>
-  <Pyromaniac.degreeDatas.0.description>NAME elsker ild. HECAP vil lejlighedsvis starte brande og vil aldrig slukke dem.</Pyromaniac.degreeDatas.0.description>
+  <Pyromaniac.degreeDatas.0.description>[PAWN_nameDef] elsker ild. [PAWN_pronoun] vil lejlighedsvis starte brande og vil aldrig slukke dem.</Pyromaniac.degreeDatas.0.description>
 
 
 </LanguageData>

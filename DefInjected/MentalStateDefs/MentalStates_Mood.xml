@@ -41,9 +41,9 @@
     <WanderSad.baseInspectLine>Mental tilstand: sørglig vandrer</WanderSad.baseInspectLine>
 
     <WanderOwnRoom.label>sidder alene</WanderOwnRoom.label>
-    <WanderOwnRoom.recoveryMessage>{0} gemmer sig ikke længere i HIS værelse.</WanderOwnRoom.recoveryMessage>
+    <WanderOwnRoom.recoveryMessage>{0} gemmer sig ikke længere i [PAWN_possessive] værelse.</WanderOwnRoom.recoveryMessage>
     <WanderOwnRoom.beginLetterLabel>gemmer sig på værelset</WanderOwnRoom.beginLetterLabel>
-    <WanderOwnRoom.beginLetter>{0} gemmer sig på HIS værelse.</WanderOwnRoom.beginLetter>
+    <WanderOwnRoom.beginLetter>{0} gemmer sig på [PAWN_possessive] værelse.</WanderOwnRoom.beginLetter>
     <WanderOwnRoom.baseInspectLine>Mental tilstand: gemmer sig på værelset</WanderOwnRoom.baseInspectLine>
 
 </LanguageData>

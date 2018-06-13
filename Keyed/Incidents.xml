@@ -37,13 +37,13 @@
 
   <TraderArrival>Et handesl skib passerer i nærheden.\n\nDe er kendt som {0}. De er en {1}.</TraderArrival>
 
-  <SingleTravelerPassing>En {0} fra {1} passerer igennem. HECAP er kaldt {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>En {0} fra {1} passerer igennem. [PAWN_pronoun] er kaldt {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>En gruppe af rejsende fra {0} passerer igennem.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Besøgende</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>En {0} fra {1} besøger kolonien.\n\nHECAP er kaldt {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP har tilsyneladende et par ting til salg.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP er leder af den fraktion.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>En {0} fra {1} besøger kolonien.\n\n[PAWN_pronoun] er kaldt {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] har tilsyneladende et par ting til salg.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] er leder af den fraktion.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Besøgende</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>En gruppe fra {0} besøger kolonien.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nDe ser ud til at have et par ting at handle med.</GroupVisitorsArriveTraderInfo>
@@ -51,7 +51,7 @@
   <VisitorsLeaving>De besøgende fra {0} rejser.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>vandrer slutter sig til</LetterLabelWandererJoin>
-  <WandererJoin>En {0} kaldet NAME er ankommet, og slutter sig til kolonien. HECAP er en {1}.</WandererJoin>
+  <WandererJoin>En {0} kaldet [PAWN_nameDef] er ankommet, og slutter sig til kolonien. [PAWN_pronoun] er en {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Menneskejæger flok</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke passere døre, så hvis du bliver bag mure vil du være i sikker. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
@@ -84,7 +84,7 @@
   <BeaversArrived>En gruppe af sultne alphabæere er netop ankommet.\n\ nPrøv at eliminer dem før de decimere hver enetste træ i regionen.</BeaversArrived>
 
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>En {1} der hedder {0} kalder dig fra nærliggende. HECAP bliver jagtet af {2} fra {3}!\n\nHECAP tigger om sikkerhed og tilbyder at slutte sig til din koloni. Biologisk, HE er {4} år gammel.\n\NVær advarede - hvis du accepterer, er du nødt til at bekæmp  {2} som er i hælen på ham.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>En {1} der hedder {0} kalder dig fra nærliggende. [PAWN_pronoun] bliver jagtet af {2} fra {3}!\n\n[PAWN_pronoun] tigger om sikkerhed og tilbyder at slutte sig til din koloni. Biologisk, [PAWN_pronoun] er {4} år gammel.\n\NVær advarede - hvis du accepterer, er du nødt til at bekæmp  {2} som er i hælen på ham.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Tilbyd sikkerhed</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignorer beskeden</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} skriger i panik igennem den lille højttaler inden du afbryder transmissionen.</RefugeeChasedRejected>

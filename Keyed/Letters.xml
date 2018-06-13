@@ -34,10 +34,10 @@
 
   <LetterLabelNewDisease>Sygdom</LetterLabelNewDisease>
   <NewDisease>{0} er blevet syg af {1}.\n\nSikre at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewDisease>
-  <NewPartDisease>{0} er blevet syg af {3}. Infektionen er i HIS {1}.\n\nSikre at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewPartDisease>
+  <NewPartDisease>{0} er blevet syg af {3}. Infektionen er i [PAWN_possessive] {1}.\n\nSikre at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewPartDisease>
 
   <LetterLabelAncientShrineWarning>Urgammel Fare</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Som {0} nærmer sig den gamle mur, en følelse af bange anelser overvinder HIM. HECAP er ikke sikker på hvorfor, men han mener, at denne støvede struktur kan indeholde stor fare.</AncientShrineWarning>
+  <AncientShrineWarning>Som {0} nærmer sig den gamle mur, en følelse af bange anelser overvinder [PAWN_objective]. [PAWN_pronoun] er ikke sikker på hvorfor, men han mener, at denne støvede struktur kan indeholde stor fare.</AncientShrineWarning>
 
   <StruckMineable>Vi har ramt {0}!</StruckMineable>
 
@@ -74,8 +74,8 @@
   <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen sælger folk der har relationer til dine kolonister eller fanger:</LetterRelatedPawnsTradingWithOtherCaravan>
 
   <RelationshipAppendedLetterSuffix>(forhold)</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>NAME har et forhold til en kolonist. HECAP er {0}'s {1}.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>NAME har et forhold til en af dine fanger. HECAP er {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] har et forhold til en kolonist. [PAWN_pronoun] er {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] har et forhold til en af dine fanger. [PAWN_pronoun] er {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <LetterLabelAffair>Affære</LetterLabelAffair>
@@ -112,7 +112,7 @@
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} afhængighed</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} har udviklet en afhængighed til {1}.\n\nHECAP har nu behov for {1}, synligt på HIS Behov fane. HECAP vil automatisk forbruge stoffet til at opfylde hans behov. Hvis han ikke kan få noget {1}, vil han få abstinenser.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} har udviklet en afhængighed til {1}.\n\n[PAWN_pronoun] har nu behov for {1}, synligt på [PAWN_possessive] Behov fane. [PAWN_pronoun] vil automatisk forbruge stoffet til at opfylde hans behov. Hvis han ikke kan få noget {1}, vil han få abstinenser.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} abegilde</LetterLabelDrugBinge>
