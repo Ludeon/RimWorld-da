@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <ArtDescription_Sculpture.rulePack.rulesStrings.0>physical_description_root-&gt;[sculpture] [depicts] [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.0>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.1>physical_description_root-&gt;[sculpture] ligner en [depiction] af [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.1>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.2>physical_description_root-&gt;[sculpture] er en [depiction] af [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.2>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.3>sculpture-&gt;Skulpturen</ArtDescription_Sculpture.rulePack.rulesStrings.3>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.4>sculpture-&gt;Værket</ArtDescription_Sculpture.rulePack.rulesStrings.4>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.5>sculpture-&gt;Stykket</ArtDescription_Sculpture.rulePack.rulesStrings.5>
-    <ArtDescription_Sculpture.rulePack.rulesStrings.6>sculpture-&gt;Udskæringen</ArtDescription_Sculpture.rulePack.rulesStrings.6>
+	<ArtDescription_Sculpture.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;[sculpture] [depicts] [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;[sculpture] ligner en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;[sculpture] er en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>sculpture-&gt;Skulpturen</li>
+		<li>sculpture-&gt;Værket</li>
+		<li>sculpture-&gt;Stykket</li>
+		<li>sculpture-&gt;Udskæringen</li>
+	</ArtDescription_Sculpture.rulePack.rulesStrings>
 
-    <ArtDescription_WeaponMelee.rulePack.rulesStrings.0>physical_description_root-&gt;dette våben er engraveret med en [depiction] af [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.0>
-    <ArtDescription_WeaponMelee.rulePack.rulesStrings.1>physical_description_root-&gt;dette våben bære en [depiction] af [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.1>
-    <ArtDescription_WeaponMelee.rulePack.rulesStrings.2>physical_description_root-&gt;En gravering på dette våben [depicts] [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.2>
+	<ArtDescription_WeaponMelee.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;dette våben er engraveret med en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;dette våben bære en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;En gravering på dette våben [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_WeaponMelee.rulePack.rulesStrings>
 
-    <ArtDescription_WeaponGun.rulePack.rulesStrings.0>physical_description_root-&gt;Dette våben er engraveret med en [depiction] af [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.0>
-    <ArtDescription_WeaponGun.rulePack.rulesStrings.1>physical_description_root-&gt;Dette våben bære en [depiction] af [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.1>
-    <ArtDescription_WeaponGun.rulePack.rulesStrings.2>physical_description_root-&gt;En engravering på dette våben [depicts] [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.2>
+	<ArtDescription_WeaponGun.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;Dette våben er engraveret med en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;Dette våben bære en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;En engravering på dette våben [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_WeaponGun.rulePack.rulesStrings>
 
-    <ArtDescription_Furniture.rulePack.rulesStrings.0>physical_description_root-&gt;Dette møbel er engraveret med en [depiction] af [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.0>
-    <ArtDescription_Furniture.rulePack.rulesStrings.1>physical_description_root-&gt;Dette møbel bære en [depiction] af [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.1>
-    <ArtDescription_Furniture.rulePack.rulesStrings.2>physical_description_root-&gt;En engravering på dette møbel [depicts] [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.2>
+	<ArtDescription_Furniture.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;Dette møbel er engraveret med en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;Dette møbel bære en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;En engravering på dette møbel [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_Furniture.rulePack.rulesStrings>
 
-    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>physical_description_root-&gt;Denne sarkofag  er engraveret med [depiction] af [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>
-    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>physical_description_root-&gt;Sarkofagen bære en [depiction] af [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>
-    <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>physical_description_root-&gt;En engraving på denne sarkofag [depicts] [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>
+	<ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+		<li>physical_description_root-&gt;Denne sarkofag  er engraveret med [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;Sarkofagen bære en [depiction] af [image]. [desc_sentence_group]</li>
+		<li>physical_description_root-&gt;En engraving på denne sarkofag [depicts] [image]. [desc_sentence_group]</li>
+	</ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
 
 </LanguageData>

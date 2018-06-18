@@ -1,11 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <BuildRapport.label>lære at kende</BuildRapport.label>
-    <BuildRapport.logRulesInitiator.rulesStrings.0>logentry-&gt;prøvede at lære [other_nameShortIndef] at kende.</BuildRapport.logRulesInitiator.rulesStrings.0>
-    <BuildRapport.logRulesRecipient.rulesStrings.0>logentry-&gt;lyttede til at [other_nameShortIndef] lærte mig at kende</BuildRapport.logRulesRecipient.rulesStrings.0>
+	<BuildRapport.logRulesInitiator.rulesStrings>
+		<li>logentry-&gt;prøvede at lære [other_nameShortIndef] at kende.</li>
+	</BuildRapport.logRulesInitiator.rulesStrings>
+	<BuildRapport.logRulesRecipient.rulesStrings>
+		<li>logentry-&gt;lyttede til at [other_nameShortIndef] lærte mig at kende</li>
+	</BuildRapport.logRulesRecipient.rulesStrings>
 
     <RecruitAttempt.label>recruit attempt</RecruitAttempt.label>
-    <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry-&gt;Forsøgte at rekruttere [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
-    <RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry-&gt;Lyttede til en rekrutteringstale fra [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+	<RecruitAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry-&gt;Forsøgte at rekruttere [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesInitiator.rulesStrings>
+	<RecruitAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry-&gt;Lyttede til en rekrutteringstale fra [other_nameShortIndef].</li>
+	</RecruitAttempt.logRulesRecipient.rulesStrings>
 
 </LanguageData>

@@ -1,15 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <RomanceAttempt.label>romance forsøgt</RomanceAttempt.label>
-    <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry-&gt;forsøgte at forføre [other_nameShortIndef] med romance.</RomanceAttempt.logRulesInitiator.rulesStrings.0>
-    <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry-&gt;blev forført af [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+	<RomanceAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry-&gt;forsøgte at forføre [other_nameShortIndef] med romance.</li>
+	</RomanceAttempt.logRulesInitiator.rulesStrings>
+	<RomanceAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry-&gt;blev forført af [other_nameShortIndef].</li>
+	</RomanceAttempt.logRulesRecipient.rulesStrings>
 
     <Breakup.label>breakup</Breakup.label>
-    <Breakup.logRulesInitiator.rulesStrings.0>logentry-&gt;Slog op med [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
-    <Breakup.logRulesRecipient.rulesStrings.0>logentry-&gt;Er blevet forladt af [other_nameShortIndef].</Breakup.logRulesRecipient.rulesStrings.0>
+	<Breakup.logRulesInitiator.rulesStrings>
+		<li>logentry-&gt;Slog op med [other_nameShortIndef].</li>
+	</Breakup.logRulesInitiator.rulesStrings>
+	<Breakup.logRulesRecipient.rulesStrings>
+		<li>logentry-&gt;Er blevet forladt af [other_nameShortIndef].</li>
+	</Breakup.logRulesRecipient.rulesStrings>
 
     <MarriageProposal.label>marriage proposal</MarriageProposal.label>
-    <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry-&gt;Friede til [other_nameShortIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
-    <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry-&gt;Blev friet til af [other_nameShortIndef].</MarriageProposal.logRulesRecipient.rulesStrings.0>
+	<MarriageProposal.logRulesInitiator.rulesStrings>
+		<li>logentry-&gt;Friede til [other_nameShortIndef].</li>
+	</MarriageProposal.logRulesInitiator.rulesStrings>
+	<MarriageProposal.logRulesRecipient.rulesStrings>
+		<li>logentry-&gt;Blev friet til af [other_nameShortIndef].</li>
+	</MarriageProposal.logRulesRecipient.rulesStrings>
 
 </LanguageData>

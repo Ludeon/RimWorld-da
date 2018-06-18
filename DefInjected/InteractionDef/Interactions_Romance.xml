@@ -2,16 +2,28 @@
 <LanguageData>
 
   <RomanceAttempt.label>romance attempt</RomanceAttempt.label>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Attempted to woo [other_nameShortIndef] into a romance.</RomanceAttempt.logRulesInitiator.rulesStrings.0>
-  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry->Was wooed by [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+	<RomanceAttempt.logRulesInitiator.rulesStrings>
+		<li>logentry->Attempted to woo [other_nameShortIndef] into a romance.</li>
+	</RomanceAttempt.logRulesInitiator.rulesStrings>
+	<RomanceAttempt.logRulesRecipient.rulesStrings>
+		<li>logentry->Was wooed by [other_nameShortIndef].</li>
+	</RomanceAttempt.logRulesRecipient.rulesStrings>
 
   <Breakup.label>breakup</Breakup.label>
-  <Breakup.logRulesInitiator.rulesStrings.0>logentry->Broke up with [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
-  <Breakup.logRulesRecipient.rulesStrings.0>logentry->Was broken up with by [other_nameShortIndef].</Breakup.logRulesRecipient.rulesStrings.0>
+	<Breakup.logRulesInitiator.rulesStrings>
+		<li>logentry->Broke up with [other_nameShortIndef].</li>
+	</Breakup.logRulesInitiator.rulesStrings>
+	<Breakup.logRulesRecipient.rulesStrings>
+		<li>logentry->Was broken up with by [other_nameShortIndef].</li>
+	</Breakup.logRulesRecipient.rulesStrings>
 
   <MarriageProposal.label>marriage proposal</MarriageProposal.label>
-  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->Proposed marriage to [other_nameShortIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
-  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry->Was proposed to by [other_nameShortIndef].</MarriageProposal.logRulesRecipient.rulesStrings.0>
+	<MarriageProposal.logRulesInitiator.rulesStrings>
+		<li>logentry->Proposed marriage to [other_nameShortIndef].</li>
+	</MarriageProposal.logRulesInitiator.rulesStrings>
+	<MarriageProposal.logRulesRecipient.rulesStrings>
+		<li>logentry->Was proposed to by [other_nameShortIndef].</li>
+	</MarriageProposal.logRulesRecipient.rulesStrings>
 
 
 </LanguageData>
