@@ -3,6 +3,7 @@
   <friendlyNameNative>Dansk</friendlyNameNative>
   <friendlyNameEnglish>Danish</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_Danish</languageWorkerClass>
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
