@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
     <InstallNaturalHeart.label>installer hjerte</InstallNaturalHeart.label>
     <InstallNaturalHeart.description>Installerer et hjerte.</InstallNaturalHeart.description>
@@ -39,7 +40,7 @@
     <InstallSimpleProstheticArm.label>installer simpel armprotese</InstallSimpleProstheticArm.label>
     <InstallSimpleProstheticArm.description>Installerer en simpel armprotese.</InstallSimpleProstheticArm.description>
     <InstallSimpleProstheticArm.jobString>Installerer simpel armprotese.</InstallSimpleProstheticArm.jobString>
-
+
     <InstallDenture.label>installer tandprotese</InstallDenture.label>
     <InstallDenture.description>Installerer en tandprotese.</InstallDenture.description>
     <InstallDenture.jobString>Installerer tandprotese.</InstallDenture.jobString>
