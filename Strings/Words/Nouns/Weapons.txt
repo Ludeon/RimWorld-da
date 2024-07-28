@@ -1,4 +1,5 @@
-﻿kniv
+kniv
+daggert
 knivblad
 pisk
 sav
@@ -16,20 +17,10 @@ sabel
 økse
 stridsøkse
 hammer
-lille økse
 forhammer
 le
 kno
 stridshandsker
-gladius
-huggert
-sabel
-kårde
-claymore
-segl
-pike
-lanse
-stridskølle
 
 pil
 pil
@@ -43,4 +34,3 @@ bombe
 a-bombe
 missil
 raket
-landmine
