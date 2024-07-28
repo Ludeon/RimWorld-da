@@ -1,15 +1,11 @@
-﻿village
-village
-village
-town
-town
-town
+﻿landsby
+landsby
+by
+by
 township
-borough
 hamlet
-rest stop
-municipality
-district
-smalltown
-community
-city
+distrikt
+storby
+settlement
+encamptment
+campsite

@@ -1,6 +1,6 @@
 ﻿sadness
 despair
-loss
+tab
 depression
 emptiness
 void
@@ -13,7 +13,7 @@ mind
 loneliness
 isolation
 seclusion
-silence
+stilhed
 confinement
 detachment
 lonesomeness
@@ -41,7 +41,7 @@ hardship
 helplessness
 scarcity
 starvation
-thirst
-hunger
-difficulty
+tørst
+sult
+sværhedsgrad
 challenge

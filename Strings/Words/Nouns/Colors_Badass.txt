@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+rød
+sort
+grå
+askegrå
 
-dark
+mørk
 shadow
 night

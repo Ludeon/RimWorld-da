@@ -8,28 +8,28 @@
   <ContainedResources>Contained resources</ContainedResources>
   <ForPrisonerUse>For prisoner use</ForPrisonerUse>
   <ForColonistUse>For colonist use</ForColonistUse>
-  <MedicalBed>Medical</MedicalBed>
-  <Owner>Owner</Owner>
-  <Owners>Owners</Owners>
-  <AssignedColonist>Assigned colonist</AssignedColonist>
-  <Nobody>Nobody</Nobody>
-  <Unowned>Unowned</Unowned>
-  <DeadTime>Dead for {0}</DeadTime>
+  <MedicalBed>Medicinsk</MedicalBed>
+  <Owner>Ejer</Owner>
+  <Owners>Ejere</Owners>
+  <AssignedColonist>Tildelt kolonist</AssignedColonist>
+  <Nobody>Ingen</Nobody>
+  <Unowned>Ingen ejer</Unowned>
+  <DeadTime>Har været død i {0}</DeadTime>
   <WalkSpeed>walk speed {0}</WalkSpeed>
   <FertShort>fert.</FertShort>
-  <DyingLower>dying</DyingLower>
+  <DyingLower>døende</DyingLower>
   <FilthOnFeet>Filth on feet:</FilthOnFeet>
   <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
-  <NothingLower>nothing</NothingLower>
+  <NothingLower>ingenting</NothingLower>
   <Adapted>Adapted</Adapted>
-  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
+  <FreshMissingBodyPart>frisk</FreshMissingBodyPart>
   <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
   <NeedsTendingNow>Needs tending now</NeedsTendingNow>
   <NextTendIn>Will need tending in {0}</NextTendIn>
-  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
-  <Immunity>Immunity</Immunity>
+  <MissingMedicalBillIngredient>ingen {0}</MissingMedicalBillIngredient>
+  <Immunity>immunitet</Immunity>
   <Race>Race</Race>
-  <Description>Description</Description>
+  <Description>Beskrivelse</Description>
   <Equipment>Equipment</Equipment>
   <Apparel>Apparel</Apparel>
   <Inventory>Inventory</Inventory>
@@ -37,7 +37,7 @@
   <DropThing>Drop</DropThing>
   <Rename>Rename</Rename>
   <RenameColonist>Rename colonist</RenameColonist>
-  <UnknownLower>unknown</UnknownLower>
+  <UnknownLower>ukendt</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
   <PowerSwitch_Power>Power</PowerSwitch_Power>
@@ -55,7 +55,7 @@
   <HiveReproducesIn>Reproduces in</HiveReproducesIn>
   <BrokenDown>Broken down</BrokenDown>
   <BondBrackets>(bond)</BondBrackets>
-  <Fuel>Fuel</Fuel>
+  <Fuel>Brændstof</Fuel>
   <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
   <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
   <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
@@ -65,15 +65,15 @@
   <CurrentRadius>current radius</CurrentRadius>
   <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
   <Permanent>permanent</Permanent>
-  <CaravanResting>Resting.</CaravanResting>
+  <CaravanResting>Hviler.</CaravanResting>
   <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
   <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
-  <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
-  <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
-  <CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
-  <AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
-  <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
+  <CaravanOutOfFood>Løbet tør for mad.</CaravanOutOfFood>
+  <CaravanDaysOfFood>Mad til antal dage: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Mad til antal dage: {0}, rådner om {1} dage</CaravanDaysOfFoodRot>
+  <CaravanMemberMentalBreak>Stoppede fordi: {0} har et psykisk sammenbrud.</CaravanMemberMentalBreak>
+  <AllCaravanMembersDowned>Stoppede fordi: everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Stoppede fordi: alle har et psykisk sammenbrud.</AllCaravanMembersMentalBreak>
   <CaravanTraveling>Traveling.</CaravanTraveling>
   <CaravanWaiting>Waiting.</CaravanWaiting>
   <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
@@ -83,31 +83,31 @@
   <BadTemperature>bad temperature</BadTemperature>
   <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
   <DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>
-  <CaravanVisiting>Visiting {0}.</CaravanVisiting>
+  <CaravanVisiting>Besøger {0}.</CaravanVisiting>
   <CaravanEntering>Entering {0}.</CaravanEntering>
-  <CaravanAttacking>Attacking {0}.</CaravanAttacking>
+  <CaravanAttacking>Angriber {0}.</CaravanAttacking>
   <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
   <WornByCorpseChar>D</WornByCorpseChar>
   <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
-  <Map>Map</Map>
+  <Map>Kort</Map>
   <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
   <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0}.</ForceExitAndRemoveMapCountdownTip>
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
-  <NoPower>No power</NoPower>
+  <NoPower>Ingen strøm</NoPower>
   <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
-  <DisabledCommand>DISABLED</DisabledCommand>
+  <DisabledCommand>SLÅET FRA</DisabledCommand>
   <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
   <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
   <NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ingen brændstof</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
   <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
   <SettlementTrader>{0} of {1}</SettlementTrader>
   <RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
   <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
-  <VentClosed>Closed</VentClosed>
+  <VentClosed>Lukket</VentClosed>
   <WornBy>worn by {0}</WornBy>
   <EquippedBy>equipped by {0}</EquippedBy>
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
@@ -294,7 +294,7 @@
   <LessThanADay>less than a day</LessThanADay>
 
   <!-- Meal -->
-  <Ingredients>Ingredients</Ingredients>
+  <Ingredients>Ingredienser</Ingredients>
 
   <!-- Plants -->
   <PercentGrowth>{0} grown</PercentGrowth>
@@ -372,7 +372,7 @@
   <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Cryptosleep casket -->
-  <CasketContains>Contains</CasketContains>
+  <CasketContains>Indeholder</CasketContains>
   <CasketWarning>Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
 
   <!-- Ship launch report -->
@@ -385,8 +385,8 @@
   <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
-  <Installed>Installed</Installed>
-  <NotInstalled>Not installed</NotInstalled>
+  <Installed>Installeret</Installed>
+  <NotInstalled>Ikke installeret</NotInstalled>
 
   <!-- Art -->
   <Title>Title</Title>
@@ -402,20 +402,20 @@
   <QualityIs>Quality: {0}</QualityIs>
 
   <!-- Mood descriptions -->
-  <Mood_MentalState>mental state</Mood_MentalState>
-  <Mood_AboutToBreak>about to break</Mood_AboutToBreak>
-  <Mood_OnEdge>on edge</Mood_OnEdge>
-  <Mood_Stressed>stressed</Mood_Stressed>
+  <Mood_MentalState>mental tilstand</Mood_MentalState>
+  <Mood_AboutToBreak>ved at bryde sammen</Mood_AboutToBreak>
+  <Mood_OnEdge>ængstelig</Mood_OnEdge>
+  <Mood_Stressed>stresset</Mood_Stressed>
   <Mood_Neutral>neutral</Mood_Neutral>
-  <Mood_Content>content</Mood_Content>
-  <Mood_Happy>happy</Mood_Happy>
+  <Mood_Content>tilpas</Mood_Content>
+  <Mood_Happy>glad</Mood_Happy>
 
   <!-- Game over -->
   <GameOverEveryoneDead>Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place.</GameOverEveryoneDead>
   <GameOverShipLaunched>You've launched the ship! These colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nYour AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunched>
   <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
   <GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
-  <GameOverKeepPlaying>Keep playing</GameOverKeepPlaying>
+  <GameOverKeepPlaying>Fortsæt med at spille</GameOverKeepPlaying>
   <GameOverMainMenu>Main menu</GameOverMainMenu>
 
   <!-- Generic lifespan -->
@@ -427,7 +427,7 @@
   <TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
 
   <!-- Facilities -->
-  <InactiveFacility>inactive</InactiveFacility>
+  <InactiveFacility>inaktiv</InactiveFacility>
 
   <!-- Hediffs growth modes -->
   <DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
@@ -435,23 +435,23 @@
   <DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
-  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
-  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
-  <MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
-  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
-  <MarriageSpotReserved>reserved</MarriageSpotReserved>
-  <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
-  <MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
+  <MarriageSpotUsable>Kan anvendes nu.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Kan ikke anvendes: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>blokeret</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>for farligt for {0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>forbudt for {0}</MarriageSpotForbidden>
+  <MarriageSpotReserved>reservet</MarriageSpotReserved>
+  <MarriageSpotUnreachable>utilgængelig for {0}</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>i fængselscelle</MarriageSpotInPrisonCell>
   <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
-  <ActivityIconSleeping>Sleeping</ActivityIconSleeping>
-  <ActivityIconFleeing>Fleeing</ActivityIconFleeing>
+  <ActivityIconSleeping>Sover</ActivityIconSleeping>
+  <ActivityIconFleeing>Flygter</ActivityIconFleeing>
   <ActivityIconAttacking>Fighting</ActivityIconAttacking>
   <ActivityIconIdle>Idle</ActivityIconIdle>
-  <ActivityIconBurning>Burning</ActivityIconBurning>
+  <ActivityIconBurning>Brænder</ActivityIconBurning>
 
   <!-- Maintainable -->
   <DueForMaintenance>Due for maintenance.</DueForMaintenance>
@@ -484,9 +484,9 @@
   <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
 
   <!-- Outfits -->
-  <OutfitAnything>Anything</OutfitAnything>
-  <OutfitWorker>Worker</OutfitWorker>
-  <OutfitSoldier>Soldier</OutfitSoldier>
+  <OutfitAnything>Hvad som helst</OutfitAnything>
+  <OutfitWorker>Arbejder</OutfitWorker>
+  <OutfitSoldier>Soldat</OutfitSoldier>
   <OutfitNudist>Nudist</OutfitNudist>
 
 </LanguageData>

@@ -3,19 +3,19 @@
 
   <WorkTagNone>Ingen</WorkTagNone>
   <WorkTagIntellectual>Intellektuel</WorkTagIntellectual>
-  <WorkTagManualDumb>Dum arbejder</WorkTagManualDumb>
-  <WorkTagManualSkilled>Faglært arbejder</WorkTagManualSkilled>
+  <WorkTagManualDumb>Manuelt arbejde</WorkTagManualDumb>
+  <WorkTagManualSkilled>Faglært arbejde</WorkTagManualSkilled>
   <WorkTagViolent>Voldelig</WorkTagViolent>
   <WorkTagCaring>Omsorgsfuld</WorkTagCaring>
   <WorkTagSocial>Social</WorkTagSocial>
-  <WorkTagScary>Skræmmende</WorkTagScary>
+  <WorkTagAnimals>Dyrepasning</WorkTagAnimals>
   <WorkTagArtistic>Artistisk</WorkTagArtistic>
-  <WorkTagCrafting>Håndværk</WorkTagCrafting>
+  <WorkTagCrafting>Håndværksarbejde</WorkTagCrafting>
   <WorkTagCooking>Madlavning</WorkTagCooking>
-  <WorkTagFirefighting>Ildslukning</WorkTagFirefighting>
+  <WorkTagFirefighting>Brandslukning</WorkTagFirefighting>
   <WorkTagCleaning>Rengøring</WorkTagCleaning>
   <WorkTagHauling>Transport</WorkTagHauling>
   <WorkTagPlantWork>Botanist</WorkTagPlantWork>
-  <WorkTagMining>Minearbejder</WorkTagMining>
+  <WorkTagMining>Minearbejde</WorkTagMining>
 
 </LanguageData>

@@ -10,7 +10,7 @@
 
   <ScenPart_StartingResearchFinished>Start med forskning: {0}</ScenPart_StartingResearchFinished>
 
-  <ScenPart_ArriveInDropPods>Ankom i drop pods.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Ankom i transportkapsler.</ScenPart_ArriveInDropPods>
 
   <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
 

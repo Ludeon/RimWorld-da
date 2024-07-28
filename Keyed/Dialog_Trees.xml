@@ -1,31 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FactionGreetingHostile>{0} smider nogle skældsord ind i mikrofonen og afbryder.</FactionGreetingHostile>
-  <FactionGreetingWary>{0} hilser {1} varsomt og spørger hvad [PAWN_possessive] vil.</FactionGreetingWary>
-  <FactionGreetingWarm>{0} hilser {1} hjerteligt og spørger hvordan kolonien har det.</FactionGreetingWarm>
+  <FactionGreetingHostile>{0} sender nogle skældsord gennem mikrofonen og afbryder forbindelsen.</FactionGreetingHostile>
+  <FactionGreetingHostileAppreciative>{0} demands that you make a gesture of goodwill, like bringing gifts to one of [PAWN_possessive] settlements or releasing [PAWN_possessive] faction's prisoners unharmed. Until then, [PAWN_pronoun] is unwilling to talk.\n\nMuttering an insult, [PAWN_pronoun] disconnects.</FactionGreetingHostileAppreciative>
+  <FactionGreetingWary>{0} hilser {1} varsomt og spørger, hvad [PAWN_possessive] vil.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} hilser {1} hjerteligt og spørger, hvordan [PAWN_pronoun] kan hjælpe.</FactionGreetingWarm>
 
   <Disconnect>Afbryd</Disconnect>
 
   <!-- gift offer -->
   <OfferGift>Tilbyd gave</OfferGift>
+  <MustBeAlly>skal være allieret</MustBeAlly>
+  <NeedGoodwill>har brug for {0} goodwill</NeedGoodwill>
   <NeedSilverLaunchable>har brug for {0} sølv nær handelsfyr</NeedSilverLaunchable>
-  <NotEnoughSilver>ikke nok sælv</NotEnoughSilver>
+  <NotEnoughSilver>ikke nok sølv</NotEnoughSilver>
   <SilverForGoodwill>{0} sølv for {1} goodwill</SilverForGoodwill>
   <SilverGiftSent>{0} Takker dig.\n\n(Goodwill forbedret med {1}).</SilverGiftSent>
 
   <!-- trade caravan request -->
-  <RequestTrader>Anmod om en handels karavane (cost: {0} silver)</RequestTrader>
-  <ChooseTraderKind>{0} spørger om hvad slags handels karavane du ønsker.</ChooseTraderKind>
-  <TraderSent>{0} accepterer at sende dig en handels karavane. Den vil ankomme inden for få dage.</TraderSent>
+  <RequestTrader>Anmod om en handelskaravane (pris: {0} goodwill)</RequestTrader>
+  <ChooseTraderKind>{0} spørger hvilken slags handelskaravane, du ønsker.</ChooseTraderKind>
+  <TraderSent>{0} går med til at sende dig en handelskaravane. Den vil ankomme inden for få dage.</TraderSent>
   <WaitTime>vent {0}</WaitTime>
 
+  <!-- AI core request -->
+  <RequestAICoreInformation>Request the location of an {0} (cost: {1} silver)</RequestAICoreInformation>
+  <RequestAICoreInformationResult>{0} sender den efterspurgte information og ønsker dig held og lykke.</RequestAICoreInformationResult>
+  <NoKnownAICore>der kendes ikke til flere steder</NoKnownAICore>	
 
   <!-- military aid request -->
-  <RequestMilitaryAid>Anmode om øjeblikkelig militær hjælp (koster: {0} goodwill).</RequestMilitaryAid>
+  <RequestMilitaryAid>Anmod om øjeblikkelig militær hjælp (koster: {0} goodwill).</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjælpe dig med at bekæmpe andre fraktioner som ikke er deres fjender. Dette omfatter nogle der i øjeblikket truer dig, {1}. Ønsker du stadig at ringe efter hjælp?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Ja, ring til dem alligevel.</CallConfirm>
-  <CallCancel>Nej, glem det.</CallCancel>
+  <CallCancel>Nej, det er lige meget.</CallCancel>
   <MilitaryAidSent>{0} accepterer at sende krigere for at hjælpe dig.</MilitaryAidSent>
+  <CantSendMilitaryAidInTime>{0} beklager og siger at de ikke vil kunne nå at ankomme i tide.\n\n(Denne fraktions teknologiniveau er for lavt til transportkapsler)</CantSendMilitaryAidInTime>
 
 </LanguageData>
