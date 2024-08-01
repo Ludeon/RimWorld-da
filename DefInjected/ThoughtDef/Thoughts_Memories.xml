@@ -36,10 +36,10 @@
     <!-- Combat -->
     
     <ObservedLayingCorpse.label>så et lig</ObservedLayingCorpse.label>
-    <ObservedLayingCorpse.description>Jeg så et lig, der lå på jorden.</ObservedLayingCorpse.description>
+    <ObservedLayingCorpse.description>Jeg så et lig der lå på jorden.</ObservedLayingCorpse.description>
     
     <ObservedLayingRottingCorpse.label>så et rådnende lig</ObservedLayingRottingCorpse.label>
-    <ObservedLayingRottingCorpse.description>Jeg så et rådnende lig, der lå på jorden. Det var ulækkert.</ObservedLayingRottingCorpse.description>
+    <ObservedLayingRottingCorpse.description>Jeg så et rådnende lig der lå på jorden. Det var ulækkert.</ObservedLayingRottingCorpse.description>
     
     <WitnessedDeathAlly.label>bevidnede en allieret dø</WitnessedDeathAlly.label>
     <WitnessedDeathAlly.description>Jeg så en af mine folk dø. De var i live det ene øjeblik, døde det næste.</WitnessedDeathAlly.description>

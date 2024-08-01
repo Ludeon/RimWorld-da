@@ -2,7 +2,7 @@
 despair
 tab
 depression
-emptiness
+tomhed
 void
 solitude
 distance
@@ -23,7 +23,7 @@ decay
 desolation
 destruction
 devastation
-exhaustion
+udmattelse
 defeat
 failure
 trouble
@@ -31,7 +31,7 @@ cataclysm
 armageddon
 death
 deficiency
-poverty
+fattigdom
 privation
 want
 desire

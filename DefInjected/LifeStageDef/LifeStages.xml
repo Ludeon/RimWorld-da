@@ -3,20 +3,20 @@
 
   <MechanoidFullyFormed.label>fully-formed</MechanoidFullyFormed.label>
   <HumanlikeBaby.label>baby</HumanlikeBaby.label>
-  <HumanlikeToddler.label>toddler</HumanlikeToddler.label>
-  <HumanlikeChild.label>child</HumanlikeChild.label>
+  <HumanlikeToddler.label>tumling</HumanlikeToddler.label>
+  <HumanlikeChild.label>barn</HumanlikeChild.label>
 
   <HumanlikeTeenager.label>teenager</HumanlikeTeenager.label>
   <HumanlikeTeenager.adjective>teenage</HumanlikeTeenager.adjective>
 
-  <HumanlikeAdult.label>adult</HumanlikeAdult.label>
-  <EusocialInsectLarva.label>larva</EusocialInsectLarva.label>
-  <EusocialInsectJuvenile.label>immature</EusocialInsectJuvenile.label>
-  <EusocialInsectAdult.label>adult</EusocialInsectAdult.label>
+  <HumanlikeAdult.label>voksen</HumanlikeAdult.label>
+  <EusocialInsectLarva.label>larve</EusocialInsectLarva.label>
+  <EusocialInsectJuvenile.label>barnlig</EusocialInsectJuvenile.label>
+  <EusocialInsectAdult.label>voksen</EusocialInsectAdult.label>
   <AnimalBaby.label>baby</AnimalBaby.label>
   <AnimalBabyTiny.label>baby</AnimalBabyTiny.label>
-  <AnimalJuvenile.label>juvenile</AnimalJuvenile.label>
-  <AnimalAdult.label>adult</AnimalAdult.label>
+  <AnimalJuvenile.label>mindreårig</AnimalJuvenile.label>
+  <AnimalAdult.label>voksen</AnimalAdult.label>
 
 
 </LanguageData>

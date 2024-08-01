@@ -18,14 +18,14 @@
   <NaturalMood.degreeDatas.0.label>sanguine</NaturalMood.degreeDatas.0.label>
   <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.</NaturalMood.degreeDatas.0.description>
   <NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
-  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] er naturligt optimistisk omkring livet. It's hard to get [PAWN_objective] down.</NaturalMood.degreeDatas.1.description>
   <NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
-  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] tends to look on the bad side of life.</NaturalMood.degreeDatas.2.description>
-  <NaturalMood.degreeDatas.3.label>depressive</NaturalMood.degreeDatas.3.label>
+  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] har tendens til at fokusere på de negative ting i livet.</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.3.label>depressiv</NaturalMood.degreeDatas.3.label>
   <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.</NaturalMood.degreeDatas.3.description>
 
   <Nerves.degreeDatas.0.label>jernvilje</Nerves.degreeDatas.0.label>
-  <Nerves.degreeDatas.0.description>[PAWN_nameDef]'s vilje er et jern skjold. [PAWN_pronoun] fortsætter igennem tykt og tyndt, når andre ville bryde ned for længe siden.</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.0.description>[PAWN_nameDef]s vilje er et jernskjold. [PAWN_pronoun] fortsætter igennem tykt og tyndt, når andre ville bryde ned for længe siden.</Nerves.degreeDatas.0.description>
   <Nerves.degreeDatas.1.label>standhaftige</Nerves.degreeDatas.1.label>
   <Nerves.degreeDatas.1.description>[PAWN_nameDef] er mentalt hårdnakket og bryder ikke sammen under stress som ville knække de fleste andre mennesker.</Nerves.degreeDatas.1.description>
   <Nerves.degreeDatas.2.label>nervous</Nerves.degreeDatas.2.label>
@@ -43,7 +43,7 @@
   <Industriousness.degreeDatas.1.label>hårdtarbejdende</Industriousness.degreeDatas.1.label>
   <Industriousness.degreeDatas.1.description>[PAWN_nameDef] er en naturlig hårdtarbejdende person og vil afslutte opgaver hurtigere end de fleste.</Industriousness.degreeDatas.1.description>
   <Industriousness.degreeDatas.2.label>doven</Industriousness.degreeDatas.2.label>
-  <Industriousness.degreeDatas.2.description>[PAWN_nameDef] er en smule doven</Industriousness.degreeDatas.2.description>
+  <Industriousness.degreeDatas.2.description>[PAWN_nameDef] er en smule doven.</Industriousness.degreeDatas.2.description>
   <Industriousness.degreeDatas.3.label>dvasket</Industriousness.degreeDatas.3.label>
   <Industriousness.degreeDatas.3.description>[PAWN_nameDef] elsker lediggang og hader alt der er produktivt. [PAWN_pronoun] bevæger sig langsomt og forbliver sjældent fokuseret på en opgave.</Industriousness.degreeDatas.3.description>
 
@@ -57,18 +57,23 @@
   <PsychicSensitivity.degreeDatas.3.description>[PAWN_nameDef]'s sind fungerer på en psykisk frekvens forskellig fra alle andre. [PAWN_pronoun] er bare ikke påvirket af psykiske fænomener.</PsychicSensitivity.degreeDatas.3.description>
 
   <ShootingAccuracy.degreeDatas.0.label>omhyggelig skytte</ShootingAccuracy.degreeDatas.0.label>
-  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] er en temmelig god skytte, men [PAWN_pronoun] har brug for mere tid til at fokusere på [PAWN_possessive] mål.</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] er en temmelig god skytte, men [PAWN_pronoun] har brug for mere tid til at fokusere på sit mål.</ShootingAccuracy.degreeDatas.0.description>
   <ShootingAccuracy.degreeDatas.1.label>skydegal</ShootingAccuracy.degreeDatas.1.label>
   <ShootingAccuracy.degreeDatas.1.description>Bang! Bang! Bang! [PAWN_nameDef] er en forfærdelig skytte, men [PAWN_pronoun] er ligeglad, fordi skydevåben er fede!</ShootingAccuracy.degreeDatas.1.description>
 
   <Beauty.degreeDatas.0.label>smuk</Beauty.degreeDatas.0.label>
-  <Beauty.degreeDatas.0.description>[PAWN_nameDef] er usædvanlig smuk, med en eksotisk, en stadig velkendte, ansigts struktur og et fængslende blik. Folk er tiltrukket af [PAWN_objective], selv før [PAWN_pronoun] selv åbner munden.</Beauty.degreeDatas.0.description>
+  <Beauty.degreeDatas.0.description>[PAWN_nameDef] er usædvanlig smuk, med en eksotisk, en stadig velkendte, ansigtsstruktur og et fængslende blik. Folk er tiltrukket af [PAWN_objective], selv før [PAWN_pronoun] selv åbner munden.</Beauty.degreeDatas.0.description>
   <Beauty.degreeDatas.1.label>flot</Beauty.degreeDatas.1.label>
   <Beauty.degreeDatas.1.description>[PAWN_nameDef] har et smukt ansigt, som gør at folk kan lide [PAWN_objective].</Beauty.degreeDatas.1.description>
   <Beauty.degreeDatas.2.label>grim</Beauty.degreeDatas.2.label>
-  <Beauty.degreeDatas.2.description>[PAWN_nameDef] er noget grimt. Dette skubber andre væk under sociale interaktioner.</Beauty.degreeDatas.2.description>
+  <Beauty.degreeDatas.2.description>[PAWN_nameDef] er noget grim. Dette skubber andre væk under sociale interaktioner.</Beauty.degreeDatas.2.description>
   <Beauty.degreeDatas.3.label>uhyrlig grim</Beauty.degreeDatas.3.label>
-  <Beauty.degreeDatas.3.description>[PAWN_nameDef] er uhyrlig grim. [PAWN_possessive] ansigt ligner en krydsning mellem en tegning af et talentløst barn, et misdannet foster i en krukke med formaldehyd, og et stykke moderne kunst. Andre skal lave en bevidst indsats for at se på [PAWN_objective] under en samtale.</Beauty.degreeDatas.3.description>
+  <Beauty.degreeDatas.3.description>[PAWN_nameDef] er uhyrlig grim. [PAWN_possessive] ansigt ligner en blanding mellem en tegning af et talentløst barn, et misdannet foster i en krukke med formaldehyd, og et stykke moderne kunst. Andre skal lave en bevidst indsats for at se på [PAWN_objective] mens de taler sammen.</Beauty.degreeDatas.3.description>
+
+ <Immunity.degreeDatas.0.label>superimmun</Immunity.degreeDatas.0.label>
+  <Immunity.degreeDatas.0.description>[PAWN_nameDef] har et naturligt stærkt immunsystem. [PAWN_pronoun] vil opbygge resistens hurtigere end en almindelig person og kan overleve sygdomme, som slår andre ihjel.</Immunity.degreeDatas.0.description>
+  <Immunity.degreeDatas.1.label>sygelig</Immunity.degreeDatas.1.label>
+  <Immunity.degreeDatas.1.description>[PAWN_nameDef] har et forfærdeligt immunsystem. [PAWN_pronoun] bliver syg oftere, og ofte med sygdomme som ingen andre i kolonien har haft.</Immunity.degreeDatas.1.description>
 
 
 </LanguageData>

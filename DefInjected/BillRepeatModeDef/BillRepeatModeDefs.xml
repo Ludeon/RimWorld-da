@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <RepeatCount.label>gør X antal gange</RepeatCount.label>
+  <TargetCount.label>gør indtil du har X</TargetCount.label>
+  <Forever.label>gør det for evigt</Forever.label>
+
+
+</LanguageData>

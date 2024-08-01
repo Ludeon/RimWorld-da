@@ -5,9 +5,9 @@
   <SolarFlare.description>A solar flare is hitting the planet. This creates extreme electrical interference and prevents most electrical devices from working.</SolarFlare.description>
   <SolarFlare.endMessage>The solar flare is ending.</SolarFlare.endMessage>
 
-  <Eclipse.label>eclipse</Eclipse.label>
-  <Eclipse.description>An eclipse is shadowing the surface. It will be dark, even during the daytime.</Eclipse.description>
-  <Eclipse.endMessage>The eclipse is ending.</Eclipse.endMessage>
+  <Eclipse.label>formørkelse</Eclipse.label>
+  <Eclipse.description>An eclipse is shadowing the surface. Det vil være mørkt - også i dagstimerne.</Eclipse.description>
+  <Eclipse.endMessage>Formørkelsen er forbi.</Eclipse.endMessage>
 
   <PsychicDrone.label>psychic drone</PsychicDrone.label>
   <PsychicDrone.description>A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.</PsychicDrone.description>
@@ -17,25 +17,25 @@
   <PsychicSoothe.description>A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.</PsychicSoothe.description>
   <PsychicSoothe.endMessage>The psychic soothe is ending.</PsychicSoothe.endMessage>
 
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.label>giftigt nedfald</ToxicFallout.label>
   <ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.</ToxicFallout.description>
-  <ToxicFallout.endMessage>The worst of the toxic fallout has settled.</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>Det værste af det giftige nedfald har lagt sig.</ToxicFallout.endMessage>
 
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
   <VolcanicWinter.description>The atmosphere is choked with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
-  <VolcanicWinter.endMessage>Most of the volcanic ash has settled.</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Det meste af det vulkaniske aske har lagt sig.</VolcanicWinter.endMessage>
 
-  <HeatWave.label>heat wave</HeatWave.label>
+  <HeatWave.label>hedebølge</HeatWave.label>
   <HeatWave.description>An extreme wave of heat is baking the area.</HeatWave.description>
-  <HeatWave.endMessage>The heat wave is over.</HeatWave.endMessage>
+  <HeatWave.endMessage>Hedebølgen er forbi.</HeatWave.endMessage>
 
   <ColdSnap.label>cold snap</ColdSnap.label>
   <ColdSnap.description>An unusual cold snap is freezing the region.</ColdSnap.description>
   <ColdSnap.endMessage>The cold snap is over.</ColdSnap.endMessage>
 
-  <Flashstorm.label>flashstorm</Flashstorm.label>
-  <Flashstorm.description>Extreme amounts of lightning are hitting a small region.</Flashstorm.description>
-  <Flashstorm.endMessage>The flashstorm is over.</Flashstorm.endMessage>
+  <Flashstorm.label>lynstorm</Flashstorm.label>
+  <Flashstorm.description>En voldsom mængde af lyn slår ned i en lille del af regionen.</Flashstorm.description>
+  <Flashstorm.endMessage>Lynstormen er forbi.</Flashstorm.endMessage>
 
   <ClimateCycle.label>climate cycle</ClimateCycle.label>
   <ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
@@ -43,5 +43,8 @@
   <Planetkiller.label>planetkiller</Planetkiller.label>
   <Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.</Planetkiller.description>
 
+  <Aurora.label>polarlys</Aurora.label>
+  <Aurora.description>Himlen er oplyst af polarlys. Dette spektakulære lysshow vil øge humøret for alle dem der er udenfor og ser det.</Aurora.description>
+  <Aurora.endMessage>Polarlyset er forbi.</Aurora.endMessage>
 
 </LanguageData>

@@ -6,7 +6,7 @@
   <StatsReport_RelevantGear>
   </StatsReport_RelevantGear>
   <StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>livs stadie</StatsReport_LifeStage>
+  <StatsReport_LifeStage>livsstadie</StatsReport_LifeStage>
   <StatsReport_Material>Materiale</StatsReport_Material>
   <StatsReport_CharacterQuality>karakter kvalitet</StatsReport_CharacterQuality>
   <StatsReport_Skills>færdigheds faktorer</StatsReport_Skills>
@@ -26,11 +26,11 @@
   <StatsReport_Facilities>Faciliteter</StatsReport_Facilities>
   <StatsReport_BodySize>Multiplikator for kropsstørrelse {0}</StatsReport_BodySize>
   <StatsReport_MeleeDPSExplanation>Stat vises i følgende format:\nDPS (Nærkamps skade / Ventetid i sekunder / Nærkamps træf chance)\n\NDPS = Nærkamps skade * Nærkamps træf chance / Ventetid i sekunder</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>Nærkamps skade</StatsReport_MeleeDamage>
+  <StatsReport_MeleeDamage>Nærkampsskade</StatsReport_MeleeDamage>
   <StatsReport_Cooldown>Ventetid</StatsReport_Cooldown>
   <StatsReport_MeleeHitChance>Nærkamps træf chance</StatsReport_MeleeHitChance>
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
-  <StatsReport_LifeExpectancy>Forventede levealder</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>Forventet levealder</StatsReport_LifeExpectancy>
   <StatsReport_MissingBodyParts>Multiplikator for manglende kropsdele</StatsReport_MissingBodyParts>
   <StatsReport_GearAndInventoryMass>Udstyr og inventar masse</StatsReport_GearAndInventoryMass>
   <StatsReport_WornByCorpse>Multiplikator for båret af Lig</StatsReport_WornByCorpse>

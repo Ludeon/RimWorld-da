@@ -2,70 +2,94 @@
 <LanguageData>
 
   <Nudist.degreeDatas.0.label>nudist</Nudist.degreeDatas.0.label>
-  <Nudist.degreeDatas.0.description>[PAWN_nameDef] nyder følelsen af frihed der kommer af at være nøgen. [PAWN_pronoun] kan håndtere tøj, men vil være lykkeligere uden.</Nudist.degreeDatas.0.description>
+  <Nudist.degreeDatas.0.description>[PAWN_nameDef] nyder følelsen af den frihed der følger med at være nøgen. [PAWN_pronoun] kan bære tøj, men vil være lykkeligere uden.</Nudist.degreeDatas.0.description>
 
-  <Bloodlust.degreeDatas.0.label>blodlyst</Bloodlust.degreeDatas.0.label>
-  <Bloodlust.degreeDatas.0.description>[PAWN_nameDef] får et sus fra at såre folk, og har ikke imod synet af blod eller død. [PAWN_pronoun] er dobbelt så stor sandsynlig til at starte en social kamp.</Bloodlust.degreeDatas.0.description>
+  <Bloodlust.degreeDatas.0.label>blodtørstig</Bloodlust.degreeDatas.0.label>
+  <Bloodlust.degreeDatas.0.description>[PAWN_nameDef] får et sus af at såre folk og har ikke noget imod synet af blod eller død. Det er fire gange så sandsynligt, at [PAWN_pronoun] starter en social kamp end andre.</Bloodlust.degreeDatas.0.description>
 
   <Kind.degreeDatas.0.label>venlig</Kind.degreeDatas.0.label>
-  <Kind.degreeDatas.0.description>[PAWN_nameDef] er en flink person. [PAWN_pronoun] har en tendens til at lysne alles dag og fornærmer aldrig andre.</Kind.degreeDatas.0.description>
+  <Kind.degreeDatas.0.description>[PAWN_nameDef] er en flink person. [PAWN_pronoun] har en tendens til at lysne alle andres dage og fornærmer aldrig andre.</Kind.degreeDatas.0.description>
 
   <Psychopath.degreeDatas.0.label>psykopat</Psychopath.degreeDatas.0.label>
-  <Psychopath.degreeDatas.0.description>[PAWN_nameDef] har ingen empati. Andres lidelser Generer ikke ham. [PAWN_pronoun] har ikke noget imod, hvis andre er slagtet, efterladt ubegravet, fængslet, eller solgt til slaveri - medmindre det påvirker ham. [PAWN_pronoun] får heller ikke noget humør boost af socialt samvær.</Psychopath.degreeDatas.0.description>
+  <Psychopath.degreeDatas.0.description>[PAWN_nameDef] føler ingen empati. Andres lidelser generer [PAWN_pronoun] ikke. [PAWN_pronoun] har ikke noget imod at andre bliver slagtet, efterladt ubegravet, fængslet eller solgt til slaveri - medmindre det påvirker [PAWN_pronoun]. [PAWN_pronoun] får heller ikke noget humørstigning af socialt samvær.</Psychopath.degreeDatas.0.description>
 
   <Cannibal.degreeDatas.0.label>kannibal</Cannibal.degreeDatas.0.label>
-  <Cannibal.degreeDatas.0.description>[PAWN_nameDef] lærte at det at spise menneskekød er forkert og forfærdelig. Men én gang, for længe siden, prøvede han det ... Og han kunne lide det.</Cannibal.degreeDatas.0.description>
+  <Cannibal.degreeDatas.0.description>[PAWN_nameDef] har lært at det at spise menneskekød er forkert og forfærdeligt. Men én gang, for længe siden, prøvede [PAWN_pronoun] det... Og [PAWN_pronoun] kunne lide det.</Cannibal.degreeDatas.0.description>
 
   <Abrasive.degreeDatas.0.label>irriterende</Abrasive.degreeDatas.0.label>
-  <Abrasive.degreeDatas.0.description>[PAWN_nameDef] siger altid præcis, hvad der er på [PAWN_possessive] sind, især hvis det er går ham på. Det har en tendens til at påvirke folk på den forkerte måde.</Abrasive.degreeDatas.0.description>
+  <Abrasive.degreeDatas.0.description>[PAWN_nameDef] siger altid præcis, hvad der er på [PAWN_possessive] sind, især hvis det er går [PAWN_objective] på. Det har en tendens til at påvirke folk på den forkerte måde.</Abrasive.degreeDatas.0.description>
 
-  <TooSmart.degreeDatas.0.label>for smart</TooSmart.degreeDatas.0.label>
-  <TooSmart.degreeDatas.0.description>[PAWN_nameDef] er for klog for [PAWN_possessive] eget bedste. [PAWN_pronoun] lærer alt meget hurtigere end alle andre, men kan være ganske excentrisk.</TooSmart.degreeDatas.0.description>
+  <TooSmart.degreeDatas.0.label>for klog</TooSmart.degreeDatas.0.label>
+  <TooSmart.degreeDatas.0.description>[PAWN_nameDef] er for klog for sit eget bedste. [PAWN_pronoun] lærer alt meget hurtigere end alle andre, men kan være ganske excentrisk.</TooSmart.degreeDatas.0.description>
 
-  <Brawler.degreeDatas.0.label>Slagsbror</Brawler.degreeDatas.0.label>
-  <Brawler.degreeDatas.0.description>[PAWN_nameDef] kan lide at kæmpe tæt og personligt. [PAWN_possessive] præcision er øget betydeligt i nærkamp, men [PAWN_pronoun] vil være meget ulykkelig hvis bedt om at bære et langdistancevåben.</Brawler.degreeDatas.0.description>
+  <Brawler.degreeDatas.0.label>slagsbror</Brawler.degreeDatas.0.label>
+  <Brawler.degreeDatas.0.description>[PAWN_nameDef] kan lide en god slåskamp. [PAWN_possessive] præcision er øget betydeligt i nærkamp, men [PAWN_pronoun] vil være meget ulykkelig, hvis [PAWN_pronoun] bliver bedt om at bære et skydevåben.</Brawler.degreeDatas.0.description>
 
   <Masochist.degreeDatas.0.label>masochist</Masochist.degreeDatas.0.label>
-  <Masochist.degreeDatas.0.description>For [PAWN_nameDef], er der noget spændende om at blive såret. [PAWN_pronoun] ved ikke hvorfor, [PAWN_pronoun] er bare sat anderledes sammen.</Masochist.degreeDatas.0.description>
-
-  <Prosthophile.degreeDatas.0.label>prosthophile</Prosthophile.degreeDatas.0.label>
-  <Prosthophile.degreeDatas.0.description>[PAWN_nameDef] føler begrænset i [PAWN_possessive] svage menneskekrop. [PAWN_pronoun] drømmer ofte om at gå bioniske.</Prosthophile.degreeDatas.0.description>
-
-  <Prosthophobe.degreeDatas.0.label>prosthophobi</Prosthophobe.degreeDatas.0.label>
-  <Prosthophobe.degreeDatas.0.description>[PAWN_nameDef] mener at den menneskelige krop er begrænset for en grund. For ham, er bioniske kropsdele uetisk.</Prosthophobe.degreeDatas.0.description>
-
-  <GreenThumb.degreeDatas.0.label>grønne tommelfingere</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] har en passion for havearbejde. [PAWN_pronoun] får en humør bonus for hver plante [PAWN_pronoun] sår.</GreenThumb.degreeDatas.0.description>
+  <Masochist.degreeDatas.0.description>For [PAWN_nameDef] er der noget ophidsende ved at blive såret. [PAWN_pronoun] ved ikke hvorfor; [PAWN_pronoun] er bare sat anderledes sammen.</Masochist.degreeDatas.0.description>
 
   <NightOwl.degreeDatas.0.label>natteravn</NightOwl.degreeDatas.0.label>
-  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] kan lide at være oppe i løbet af natten, og sove i løbet af dagen.\n\n[PAWN_pronoun] får en humør bonus hvis vågen om natten (23h-6h) og taber humør hvis vågen i løbet af dagen (11h-18h).</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] kan lide at være oppe om natten og sove om dagen.\n\n[PAWN_pronoun] får en humørstigning, hvis [PAWN_pronoun] er vågen om natten (kl. 23-6) og et humørtab, hvis [PAWN_pronoun] er vågen om dagen (kl. 11-18).</NightOwl.degreeDatas.0.description>
 
   <Greedy.degreeDatas.0.label>grådig</Greedy.degreeDatas.0.label>
-  <Greedy.degreeDatas.0.description>[PAWN_nameDef] har brug for et virkelig imponerende soveværelse. [PAWN_pronoun] får et humør tab hvis han ikke får hvad han vil have.</Greedy.degreeDatas.0.description>
-
+  <Greedy.degreeDatas.0.description>[PAWN_nameDef] har brug for et virkelig imponerende soveværelse. [PAWN_pronoun] får et humørtab, hvis [PAWN_pronoun] ikke får, hvad [PAWN_pronoun] vil have.</Greedy.degreeDatas.0.description>
+  
   <Jealous.degreeDatas.0.label>jaloux</Jealous.degreeDatas.0.label>
-  <Jealous.degreeDatas.0.description>For [PAWN_nameDef], er det nedværdigende at have et mindre imponerende soveværelse end en anden. [PAWN_pronoun] får et humør tab, hvis en kolonist har et mere imponerende soveværelse.</Jealous.degreeDatas.0.description>
-
+  <Jealous.degreeDatas.0.description>For [PAWN_nameDef] er det nedværdigende at have et soveværelse, som er mindre imponerende end andres. [PAWN_pronoun] får et humørtab, hvis en kolonist har et mere imponerende soveværelse.</Jealous.degreeDatas.0.description>
+  
   <Ascetic.degreeDatas.0.label>asketisk</Ascetic.degreeDatas.0.label>
-  <Ascetic.degreeDatas.0.description>[PAWN_nameDef] foretrækker at leve i askese. [PAWN_pronoun] kommer i et dårligt humør,hvis [PAWN_pronoun] har et soveværelse, der er for imponerende. [PAWN_pronoun] bryder sig heller ikke om fin mad og foretrækker at spise rå - og rå fødevarer vil ikke genere [PAWN_objective] overhovdet.</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.description>[PAWN_nameDef] foretrækker at leve i askese. [PAWN_pronoun] kommer i et dårligt humør, hvis [PAWN_pronoun] har et soveværelse, der er for imponerende. [PAWN_pronoun] bryder sig heller ikke om fin mad og foretrækker at spise råt - og rå fødevarer vil ikke genere [PAWN_objective] overhovedet.</Ascetic.degreeDatas.0.description>
 
   <Gay.degreeDatas.0.label>homoseksuel</Gay.degreeDatas.0.label>
-  <Gay.degreeDatas.0.description>[PAWN_nameDef] er romantisk tiltrukket af mennesker af [PAWN_possessive] eget køn.</Gay.degreeDatas.0.description>
+  <Gay.degreeDatas.0.description>[PAWN_nameDef] er tiltrukket romantisk af mennesker af sit eget køn.</Gay.degreeDatas.0.description>
+  
+  <AnnoyingVoice.degreeDatas.0.label>irriterende stemme</AnnoyingVoice.degreeDatas.0.label>
+  <AnnoyingVoice.degreeDatas.0.description>[PAWN_nameDef]'s stemme har en særlig skærende og nasal klang, og [PAWN_pronoun] har tendens til at tale et gøende og forvrænget sprog. Dette gør andre mere tilbøjelige til ikke at kunne lide [PAWN_objective].</AnnoyingVoice.degreeDatas.0.description>
+  
+  <CreepyBreathing.degreeDatas.0.label>uhyggelig vejrtrækning</CreepyBreathing.degreeDatas.0.label>
+  <CreepyBreathing.degreeDatas.0.description>[PAWN_nameDef] ånder tungt hele tiden og sveder konstant. Folk finder det uhyggeligt.</CreepyBreathing.degreeDatas.0.description>
+  
+  <Pyromaniac.degreeDatas.0.label>pyroman</Pyromaniac.degreeDatas.0.label>
+  <Pyromaniac.degreeDatas.0.description>[PAWN_nameDef] elsker ild. [PAWN_pronoun] vil lejlighedsvis starte brande og vil aldrig slukke dem.</Pyromaniac.degreeDatas.0.description>
+
+  <Wimp.degreeDatas.0.label>tøsedreng</Wimp.degreeDatas.0.label>
+  <Wimp.degreeDatas.0.description>[PAWN_nameDef] er svag og kujonagtig. Selv en lille smule smerte vil gøre [PAWN_objective] immobil.</Wimp.degreeDatas.0.description>
+
+  <Nimble.degreeDatas.0.label>adræt</Nimble.degreeDatas.0.label>
+  <Nimble.degreeDatas.0.description>[PAWN_nameDef] has remarkable kinesthetic intelligence. Det virker næsten til at [PAWN_pronoun] danser udenom fare med unaturlig ynde.</Nimble.degreeDatas.0.description>
+
+  <FastLearner.degreeDatas.0.label>fast learner</FastLearner.degreeDatas.0.label>
+  <FastLearner.degreeDatas.0.description>[PAWN_nameDef] has a knack for learning. [PAWN_pronoun] picks things up much faster than others.</FastLearner.degreeDatas.0.description>
+  
+  <Indoorsman.degreeDatas.0.label>indoorsman</Indoorsman.degreeDatas.0.label>
+  <Indoorsman.degreeDatas.0.description>[PAWN_nameDef] has no need to experience the outdoors. [PAWN_pronoun] will never feel cooped up or get cabin fever, no matter how long [PAWN_pronoun] stays inside.</Indoorsman.degreeDatas.0.description>
+  
+
+  <!-- The below really probably should've been spectrum traits -->
+
+  <Transhumanist.degreeDatas.0.label>transhumanist</Transhumanist.degreeDatas.0.label>
+  <Transhumanist.degreeDatas.0.description>[PAWN_nameDef] føler sig begrænset i sin svage menneskekrop. [PAWN_pronoun] drømmer ofte om at forbedre sin krop med bioniske kropsdele.</Transhumanist.degreeDatas.0.description>
+
+  <BodyPurist.degreeDatas.0.label>prosthophobi</BodyPurist.degreeDatas.0.label>
+  <BodyPurist.degreeDatas.0.description>[PAWN_nameDef] mener at den menneskelige krop er begrænset af en grund. For [PAWN_pronoun] er bioniske kropsdele uetiske og modbydelige.</BodyPurist.degreeDatas.0.description>
 
   <DislikesMen.degreeDatas.0.label>mandehader</DislikesMen.degreeDatas.0.label>
   <DislikesMen.degreeDatas.0.description>[PAWN_nameDef] bryder sig virkelig ikke om, og er mistroisk, overfor mænd.</DislikesMen.degreeDatas.0.description>
 
   <DislikesWomen.degreeDatas.0.label>kvindehader</DislikesWomen.degreeDatas.0.label>
-  <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef] bryder sig virkelig ikke om, og er mistroisk, overfor kvinder</DislikesWomen.degreeDatas.0.description>
+  <DislikesWomen.degreeDatas.0.description>[PAWN_nameDef] bryder sig virkelig ikke om, og er mistroisk, overfor kvinder.</DislikesWomen.degreeDatas.0.description>
 
-  <AnnoyingVoice.degreeDatas.0.label>irriterende stemme</AnnoyingVoice.degreeDatas.0.label>
-  <AnnoyingVoice.degreeDatas.0.description>[PAWN_nameDef]'s stemme har en særlig raspen, næsevis kvalitet til det, og [PAWN_pronoun] har tendens til at tale i gøende, forvanskede sætninger. Dette disponerer andre til at lide [PAWN_objective].</AnnoyingVoice.degreeDatas.0.description>
+  <GreatMemory.degreeDatas.0.label>god hukommelse</GreatMemory.degreeDatas.0.label>
+  <GreatMemory.degreeDatas.0.description>[PAWN_nameDef] has a fantastic memory for detail. [PAWN_pronoun] will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.0.description>
 
-  <CreepyBreathing.degreeDatas.0.label>uhyggelig vejrtrækning</CreepyBreathing.degreeDatas.0.label>
-  <CreepyBreathing.degreeDatas.0.description>[PAWN_nameDef] ånder tungt hele tiden, og sveder konstant. Folk finder det uhyggeligt.</CreepyBreathing.degreeDatas.0.description>
+  <Tough.degreeDatas.0.label>sejlivet</Tough.degreeDatas.0.label>
+  <Tough.degreeDatas.0.description>[PAWN_nameDef] har tyk hud, holdbare knogler og en kompakt krop. [PAWN_pronoun] tager meget mindre i skade end andre som får lignende slag. [PAWN_pronoun] er utrolig sværd at slå ihjel.</Tough.degreeDatas.0.description>
 
-  <Pyromaniac.degreeDatas.0.label>pyroman</Pyromaniac.degreeDatas.0.label>
-  <Pyromaniac.degreeDatas.0.description>[PAWN_nameDef] elsker ild. [PAWN_pronoun] vil lejlighedsvis starte brande og vil aldrig slukke dem.</Pyromaniac.degreeDatas.0.description>
+  <Gourmand.degreeDatas.0.label>gourmand</Gourmand.degreeDatas.0.label>
+  <Gourmand.degreeDatas.0.description>[PAWN_nameDef]s liv handler om mad. [PAWN_pronoun] bliver hurtig sulten, og hvis [PAWN_pronoun] er i dårligt humør, vil [PAWN_pronoun] ofte tilfredsstille [PAWN_objective] selv ved at spise.</Gourmand.degreeDatas.0.description>
+
+  <QuickSleeper.degreeDatas.0.label>quick sleeper</QuickSleeper.degreeDatas.0.label>
+  <QuickSleeper.degreeDatas.0.description>[PAWN_nameDef] har ikke brug for lige så meget søvn som den gennemsnitlige person. Uanset om [PAWN_pronoun] sover i en seng eller på jorden, vil [PAWN_pronoun] være helt udhvilet på to tredjedele af den almindelige tid.</QuickSleeper.degreeDatas.0.description>
 
 
 </LanguageData>

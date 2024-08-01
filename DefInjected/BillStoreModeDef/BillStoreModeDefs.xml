@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <DropOnFloor.label>læg på gulvet</DropOnFloor.label>
+  <BestStockpile.label>tag til det bedste lager</BestStockpile.label>
+  <SpecificStockpile.label>tag til {0}</SpecificStockpile.label>
+
+
+</LanguageData>

@@ -6,7 +6,7 @@
   <MessageRaidersBeginningAssault>{0} fra {1} begynder deres angreb.</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{0} fra {1} har opdaget dig og begyndt deres angreb tidligt.</MessageRaidersDetectedEarlyAssault>
   <MessageRaidersKidnapping>{0} fra {1} har besluttet at kidnappe hvem de kan og smutte.</MessageRaidersKidnapping>
-  <MessageRaidersStealing>{0} fra {1} har besluttet at stjæle hvad de kan, og smutte.</MessageRaidersStealing>
+  <MessageRaidersStealing>{0} fra {1} har besluttet at stjæle hvad de kan og smutte.</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{0} fra {1} går nu.</MessageRaidersLeaving>
   <MessageRaidersGivenUpLeaving>{0} fra {1} har givet op og smutter.</MessageRaidersGivenUpLeaving>
@@ -38,9 +38,9 @@
   <MessageAnimalManhuntsOnTameFailed>Advarsel: {0}s kan angribe på et fejlslaget tæmme forsøg ({1} chance).</MessageAnimalManhuntsOnTameFailed>
 
   <LetterLabelMessageRecruitSuccess>Ny rekrut</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>{0} har succesfuldt rekrutterede {1} ({2} chance).</MessageRecruitSuccess>
-  <MessageTameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} har succesfuldt tæmmet {1} ({2} chance) og navngivet den [PAWN_objective] {3}.</MessageTameAndNameSuccess>
+  <MessageRecruitSuccess>{0} har med succes rekrutterede {1} ({2} chance).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} har med succes tæmmet {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} har med succes tæmmet {1} ({2} chance) og navngivet den [PAWN_objective] {3}.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>Kolonien har ikke råd til denne handel.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Du har ikke nok sølv klar til at handle.</MessageColonyNotEnoughSilver>
@@ -159,7 +159,7 @@
 
   <MessagePawnLeftMapAndCreatedCaravan>{0} har forladt området og dannet en karavane.</MessagePawnLeftMapAndCreatedCaravan>
 
-  <MessageSettledInExistingMap>Du har succesfuldt slået dig ned i et nyt område.</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>Du har med succes slået dig ned i et nyt område.</MessageSettledInExistingMap>
 
   <MessageAmbushVictory>Sejr! Om {0} timer, vil karavanen automatisk reformes. Du kan reforme karavanen nu på Verdens skærmen.</MessageAmbushVictory>
 

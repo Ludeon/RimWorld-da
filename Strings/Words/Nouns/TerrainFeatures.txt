@@ -9,9 +9,9 @@ fjeld
 skov
 kaktus
 træ
-buks
+busk
 krat
-bramnle
+bramble
 
 kampesten
 rock
@@ -32,7 +32,7 @@ gorge
 oasis
 meadow
 
-grotte
+hule
 
 river
 stream
@@ -44,10 +44,10 @@ inlet
 sound
 cove
 
-lake
+sø
 hav
-pond
-basin
+dam
+bassin
 lagune
 pit
 sump

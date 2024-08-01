@@ -2,8 +2,8 @@
 <LanguageData>
 
     <FactionGreetingHostile>Den {0} repræsentant kaster nogle skældsord mod skærmen og lukker forbindelsen.</FactionGreetingHostile>
-    <FactionGreetingWary>Den {0} repræsentant giver {1} en varm hilsen og sprøger hvad [PAWN_pronoun] vil.</FactionGreetingWary>
-    <FactionGreetingWarm>Den {0} repræsentant giver {1} en varm hilsen og spørger hvordan det går med kolonien.</FactionGreetingWarm>
+    <FactionGreetingWary>Den {0} repræsentant giver {1} en varm hilsen og sprøger, hvad [PAWN_pronoun] vil.</FactionGreetingWary>
+    <FactionGreetingWarm>Den {0} repræsentant giver {1} en varm hilsen og spørger, hvordan det går med kolonien.</FactionGreetingWarm>
 
 
 

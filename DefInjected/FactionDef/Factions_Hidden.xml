@@ -7,15 +7,15 @@
   <Spacer.fixedName>Rumrejsende</Spacer.fixedName>
 
   <SpacerHostile.label>Rumrejsende</SpacerHostile.label>
-  <SpacerHostile.description>Folk fra de dybbeste dybter af rummet.</SpacerHostile.description>
+  <SpacerHostile.description>Folk fra de mørkeste kroge af rummet.</SpacerHostile.description>
   <SpacerHostile.pawnsPlural>Rumrejsende</SpacerHostile.pawnsPlural>
   <SpacerHostile.fixedName>Rumrejsende</SpacerHostile.fixedName>
 
   <!-- Special sub-humanlike factions -->
 
   <Mechanoid.label>Maskinit</Mechanoid.label>
-  <Mechanoid.description>en sværm af urgamle selv-reparende maksiner.</Mechanoid.description>
-  <Mechanoid.pawnsPlural>Maskiniter</Mechanoid.pawnsPlural>
+  <Mechanoid.description>en sværm af urgamle selv-reparende maskiner.</Mechanoid.description>
+  <Mechanoid.pawnsPlural>Maskinitter</Mechanoid.pawnsPlural>
   <Mechanoid.fixedName>en maskinit cube</Mechanoid.fixedName>
   
   <Insect.label>Insekt</Insect.label>

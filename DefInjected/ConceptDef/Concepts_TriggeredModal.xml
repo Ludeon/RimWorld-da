@@ -2,16 +2,16 @@
 
      <!-- Concepts taught in modal dialogs -->
      
-    <TradeGoodsMustBeNearBeacon.label>Handelsvare og handelsfyr</TradeGoodsMustBeNearBeacon.label>
-    <TradeGoodsMustBeNearBeacon.helpText>For at sende objekter og sølv til forhandlere i kredsløb, skal du bygge et KREDSLØBS HANDELSFYR og placere en lagerplads med objekter i nærheden af det.</TradeGoodsMustBeNearBeacon.helpText>
+    <TradeGoodsMustBeNearBeacon.label>Handelsvarer og handelsfyr</TradeGoodsMustBeNearBeacon.label>
+    <TradeGoodsMustBeNearBeacon.helpText>For at sende genstande og sølv til forhandlere i kredsløb, skal du bygge et KREDSLØBSHANDELSFYR og placere en lagerplads med genstande i nærheden af det.</TradeGoodsMustBeNearBeacon.helpText>
 
-    <ArrestingCreatesEnemies.label>At arrestere forvære faktion relationer</ArrestingCreatesEnemies.label>
-    <ArrestingCreatesEnemies.helpText>Advarsel: Denne person du er ved at prøve at arrestere kommer nok ikke med friviligt.\n\nHvis du arrestere en ikke-kolonist vil hele deres faktion blive din fjende.</ArrestingCreatesEnemies.helpText>
+    <ArrestingCreatesEnemies.label>At arrestere forværrer relationer til andre faktioner</ArrestingCreatesEnemies.label>
+    <ArrestingCreatesEnemies.helpText>Advarsel: Personen som du er ved at forsøge at arrestere, kommer muligvis ikke med friviligt.\n\nHvis du arresterer en ikke-kolonist, vil hele deres faktion blive din fjende.</ArrestingCreatesEnemies.helpText>
 
     <SwitchFlickingDesignation.label>Tryk betegnelse</SwitchFlickingDesignation.label>
     <SwitchFlickingDesignation.helpText>Note: Dette udpeger kun at kolonister bør trykke på knappen.\n\nIntet vil faktisk ske indtil en kolonist (med Tryk jobtypen) kommer og trykker på knappen manuelt.</SwitchFlickingDesignation.helpText>
      
-    <MaxNumberOfPlayerHomes.label>Maximum antal spiller kolonier</MaxNumberOfPlayerHomes.label>
-    <MaxNumberOfPlayerHomes.helpText>Advarsel: RimWorld er designet til at blive spillet med en spiller koloni af gangen. Det er dog muligt at have flere kolonier, hvilket dog nok vil få computeren til at køre langsomere og spillet bliver ubalanceret. Vi forslår at at du i det mindste til at begynde med, spiller med et maximum af en koloni.</MaxNumberOfPlayerHomes.helpText>
+    <MaxNumberOfPlayerHomes.label>Maksimum antal af kolonier for spilleren</MaxNumberOfPlayerHomes.label>
+    <MaxNumberOfPlayerHomes.helpText>Advarsel: RimWorld er designet til at blive spillet med én koloni af gangen. Selvom det er muligt at have flere kolonier som spiller, vil dette muligvis resultere i en nedsat ydeevne og ubalance i spillet. Vi forslår at du i første omgang spiller med én koloni maksimalt.</MaxNumberOfPlayerHomes.helpText>
 
 </LanguageData>

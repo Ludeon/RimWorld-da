@@ -2,7 +2,7 @@
 
     <Skygaze.reportString>himmelkigning.</Skygaze.reportString>
 
-    <Meditate.reportString>meditere.</Meditate.reportString>
+    <Meditate.reportString>mediterer.</Meditate.reportString>
 
     <Pray.reportString>beder en bøn.</Pray.reportString>
 
@@ -14,18 +14,17 @@
 
     <ViewArt.reportString>kigger på kunst.</ViewArt.reportString>
 
-    <SocialRelax.reportString>slapper socialt af.</SocialRelax.reportString>
+    <SocialRelax.reportString>slapper af socialt.</SocialRelax.reportString>
 
     <VisitSickPawn.reportString>hjælper patienten TargetA med humøret.</VisitSickPawn.reportString>
 
-    <PlayHorseshoes.reportString>spiller hestesko.</PlayHorseshoes.reportString>
-
+    <PlayHorseshoes.reportString>kaster med hestesko.</PlayHorseshoes.reportString>
+     <Play_Hoopstone.reportString>spiller ringsten</Play_Hoopstone.reportString>
+     <Play_GameOfUr.reportString>spiller et spil Ur.</Play_GameOfUr.reportString>
     <PlayChess.reportString>spiller skak.</PlayChess.reportString>
-
-    <PlayBilliards.reportString>spiller pool.</PlayBilliards.reportString>
-
+    <PlayBilliards.reportString>spiller billard.</PlayBilliards.reportString>
+    <Play_Poker.reportString>spiller poker.</Play_Poker.reportString>
     <WatchTelevision.reportString>ser fjernsyn.</WatchTelevision.reportString>
-
-    <UseTelescope.reportString>bruger et teleskope.</UseTelescope.reportString>
+    <UseTelescope.reportString>kigger gennem et teleskop.</UseTelescope.reportString>
 
 </LanguageData>

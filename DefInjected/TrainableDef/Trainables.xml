@@ -2,16 +2,18 @@
 <LanguageData>
 
   <Obedience.label>lydighed</Obedience.label>
-  <Obedience.description>Dyret kan tildeles en mester, som det vil følge og forsvare.</Obedience.description>
+  <Obedience.description>Dyret kan tildeles en herre som det vil følge og forsvare.</Obedience.description>
 
   <Release.label>frigøre</Release.label>
-  <Release.description>Dyret kan frigives til at angribe fjerne mål i stedet for bare at forsvare sin herre.</Release.description>
+  <Release.description>Dyret kan frigives til at angribe fjerne mål i stedet for blot at forsvare sin herre.</Release.description>
 
   <Rescue.label>redning</Rescue.label>
   <Rescue.description>Dyret vil redde sårede allierede og trække dem i sikkerhed.</Rescue.description>
 
   <Haul.label>slæbe</Haul.label>
-  <Haul.description>Dyret vil tilfældigt slæbe genstande engang imellem (det ikke kan dog ikke sættes til at trække bestemte genstande).</Haul.description>
+  <Haul.description>Dyret vil tilfældigt slæbe genstande fra tid til anden (det kan dog ikke sættes til at trække bestemte genstande).</Haul.description>
 
+  <Tameness.label>tamhed</Tameness.label>
+  <Tameness.description>Dyret kan lære at føle sig som en del af din koloni.</Tameness.description>
 
 </LanguageData>

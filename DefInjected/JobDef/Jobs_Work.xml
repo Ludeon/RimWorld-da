@@ -10,16 +10,16 @@
 
     <Steal.reportString>stjæler TargetA.</Steal.reportString>
     <Kidnap.reportString>kidnapper TargetA.</Kidnap.reportString>
-    <CarryDownedPawnToExit.reportString>bære TargetA.</CarryDownedPawnToExit.reportString>
+    <CarryDownedPawnToExit.reportString>bærer TargetA.</CarryDownedPawnToExit.reportString>
 
     <!-- Pawn hauling -->
     
     <Rescue.reportString>redder TargetA.</Rescue.reportString>
-    <CarryToCryptosleepCasket.reportString>bære TargetA til cryptosøvns kiste.</CarryToCryptosleepCasket.reportString>
+    <CarryToCryptosleepCasket.reportString>bærer TargetA til cryptosøvnskiste.</CarryToCryptosleepCasket.reportString>
     <Capture.reportString>tager TargetA til fange.</Capture.reportString>
-    <Arrest.reportString>arrestere TargetA.</Arrest.reportString>
+    <Arrest.reportString>arresterer TargetA.</Arrest.reportString>
     <ReleasePrisoner.reportString>slipper TargetA løs.</ReleasePrisoner.reportString>
-    <EscortPrisonerToBed.reportString>eskortere fangen TargetA.</EscortPrisonerToBed.reportString>
+    <EscortPrisonerToBed.reportString>eskorterer fangen TargetA.</EscortPrisonerToBed.reportString>
     <TakeWoundedPrisonerToBed.reportString>tager den såret fange TargetA.</TakeWoundedPrisonerToBed.reportString>
     <TakeToBedToOperate.reportString>tager TargetA til sin seng.</TakeToBedToOperate.reportString>
     
@@ -33,29 +33,29 @@
     
     <!-- Construction and repair -->
 
-    <PlaceNoCostFrame.reportString>konstruere TargetA.</PlaceNoCostFrame.reportString>
-    <FinishFrame.reportString>konstruere TargetA.</FinishFrame.reportString>
-    <Deconstruct.reportString>dekonstruere TargetA.</Deconstruct.reportString>
+    <PlaceNoCostFrame.reportString>konstruerer TargetA.</PlaceNoCostFrame.reportString>
+    <FinishFrame.reportString>konstruerer TargetA.</FinishFrame.reportString>
+    <Deconstruct.reportString>dekonstruerer TargetA.</Deconstruct.reportString>
     <Uninstall.reportString>afinstallere TargetA.</Uninstall.reportString>
-    <Repair.reportString>reparer TargetA.</Repair.reportString>
+    <Repair.reportString>reparerer TargetA.</Repair.reportString>
     <FixBrokenDownBuilding.reportString>udskifter ødelagt komponenter i	TargetA.</FixBrokenDownBuilding.reportString>
     <BuildRoof.reportString>bygger tag.</BuildRoof.reportString>
     <RemoveRoof.reportString>fjerner tag.</RemoveRoof.reportString>
     
     <!-- Medical -->
 
-    <FeedPatient.reportString>fodre TargetA med TargetB.</FeedPatient.reportString>
+    <FeedPatient.reportString>fodrer TargetA med TargetB.</FeedPatient.reportString>
     <TendPatient.reportString>tager sig af TargetA.</TendPatient.reportString>
     
     <!-- Misc -->
 
-    <DeliverFood.reportString>fodre TargetA med TargetB.</DeliverFood.reportString>
+    <DeliverFood.reportString>fodrer TargetA med TargetB.</DeliverFood.reportString>
     <DoBill.reportString>laver ordrer ved TargetA.</DoBill.reportString>
-    <OperateDeepDrill.reportString>bore ved TargetA.</OperateDeepDrill.reportString>
+    <OperateDeepDrill.reportString>borer ved TargetA.</OperateDeepDrill.reportString>
     <Clean.reportString>rengører TargetA.</Clean.reportString>
     <Research.reportString>forsker.</Research.reportString>
     <Hunt.reportString>jager TargetA.</Hunt.reportString>
-    <UseCommsConsole.reportString>bruger komm konsollen.</UseCommsConsole.reportString>
+    <UseCommsConsole.reportString>bruger kommunikationskonsollen.</UseCommsConsole.reportString>
     <Mine.reportString>graver ved TargetA.</Mine.reportString>
     <SmoothFloor.reportString>jævner gulvet.</SmoothFloor.reportString>
     <RemoveFloor.reportString>fjerner gulvet.</RemoveFloor.reportString>

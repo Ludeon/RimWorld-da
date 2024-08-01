@@ -3,14 +3,14 @@
 
   <!-- Basic quality thoughts -->
 
-  <AteLavishMeal.stages.0.label>spiste overdådige måltid</AteLavishMeal.stages.0.label>
+  <AteLavishMeal.stages.0.label>spiste overdådigt måltid</AteLavishMeal.stages.0.label>
   <AteLavishMeal.stages.0.description>Det overdådige måltid var forbløffende. Det nærede min krop og min sjæl.</AteLavishMeal.stages.0.description>
 
   <AteFineMeal.stages.0.label>spiste fint måltid</AteFineMeal.stages.0.label>
   <AteFineMeal.stages.0.description>Jeg spiste et virkelig velsmagende fint måltid. Mums!</AteFineMeal.stages.0.description>
 
   <AteAwfulMeal.stages.0.label>spiste et forfærdeligt måltid</AteAwfulMeal.stages.0.label>
-  <AteAwfulMeal.stages.0.description>I had to eat a disgusting, tasteless meal. I know it keeps you alive, but nobody wants to swallow that glop.</AteAwfulMeal.stages.0.description>
+  <AteAwfulMeal.stages.0.description>Jeg var nødt til at spise et ulækkert, smagsløst måltid. Jeg ved godt at det holder en i live, men ingen har lyst til at spise det stads.</AteAwfulMeal.stages.0.description>
 
   <AteRawFood.stages.0.label>spiste rå føde</AteRawFood.stages.0.label>
   <AteRawFood.stages.0.description>Jeg var nødt til at spise rå mad. Kan vi ikke koge det, eller i det mindste syntetisere noget næringspuré?</AteRawFood.stages.0.description>
@@ -45,8 +45,8 @@
 
   <!-- Rotten state thoughts -->
 
-  <AteRottenFood.stages.0.label>spiste rådent mad</AteRottenFood.stages.0.label>
-  <AteRottenFood.stages.0.description>Jeg spiste noget modbydeligt, fordærvet mad. Det smelter i min mund - men ikke på en god måde.</AteRottenFood.stages.0.description>
+  <AteRottenFood.stages.0.label>spiste råddent mad</AteRottenFood.stages.0.label>
+  <AteRottenFood.stages.0.description>Jeg spiste noget modbydeligt, råddent mad. Det smelter i min mund - men ikke på den gode måde.</AteRottenFood.stages.0.description>
 
 
 </LanguageData>

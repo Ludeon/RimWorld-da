@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <GameMapCamera.label>camera</GameMapCamera.label>
@@ -18,6 +18,9 @@
 
   <MainTabs.label>main tabs</MainTabs.label>
   <MainTabs.description>Controls for the main tabs.</MainTabs.description>
+
+  <Modifiers.label>modifiers</Modifiers.label>
+  <Modifiers.description>Controls used to modify other actions.</Modifiers.description>
 
   <Development.label>developer tools</Development.label>
   <Development.description>Controls for developers and modders. Active in development mode only.</Development.description>

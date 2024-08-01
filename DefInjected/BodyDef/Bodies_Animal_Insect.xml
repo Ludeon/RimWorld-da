@@ -1,8 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BeetleLike.label>beetle-like</BeetleLike.label>
-  <BeetleLikeWithClaw.label>beetle-like with claw</BeetleLikeWithClaw.label>
+  <BeetleLike.label>billelignende</BeetleLike.label>
+    <BeetleLike.corePart.parts.0.customLabel>venstre vingedække</BeetleLike.corePart.parts.0.customLabel>
+  <BeetleLike.corePart.parts.1.customLabel>højre vingedække<tleLike.corePart.parts.1.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.1.customLabel>venstre øje</BeetleLike.corePart.parts.4.parts.0.parts.1.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.2.customLabel>højre øje</BeetleLike.corePart.parts.4.parts.0.parts.2.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.3.customLabel>venstre følehorn</BeetleLike.corePart.parts.4.parts.0.parts.3.customLabel>
+  <BeetleLike.corePart.parts.4.parts.0.parts.4.customLabel>højre følehorn</BeetleLike.corePart.parts.4.parts.0.parts.4.customLabel>
+  <BeetleLike.corePart.parts.5.customLabel>forreste venstre ben</BeetleLike.corePart.parts.5.customLabel>
+  <BeetleLike.corePart.parts.6.customLabel>forreste højre ben</BeetleLike.corePart.parts.6.customLabel>
+  <BeetleLike.corePart.parts.7.customLabel>venstre midterben</BeetleLike.corePart.parts.7.customLabel>
+  <BeetleLike.corePart.parts.8.customLabel>højre emidterben</BeetleLike.corePart.parts.8.customLabel>
+  <BeetleLike.corePart.parts.9.customLabel>bagerste venstre ben</BeetleLike.corePart.parts.9.customLabel>
+  <BeetleLike.corePart.parts.10.customLabel>bagerste højre ben</BeetleLike.corePart.parts.10.customLabel>
+
+  <BeetleLikeWithClaw.label>billelignende med klør</BeetleLikeWithClaw.label>
+  <BeetleLikeWithClaw.corePart.parts.0.customLabel>venstre vingedække<tleLikeWithClaw.corePart.parts.0.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.1.customLabel>højre vingedække<tleLikeWithClaw.corePart.parts.1.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.1.customLabel>venstre øje</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.1.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.2.customLabel>højre øje</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.2.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.3.customLabel>venstre følehorn</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.3.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.4.customLabel>højre følehorn</BeetleLikeWithClaw.corePart.parts.4.parts.0.parts.4.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.5.customLabel>forreste venstre ben</BeetleLikeWithClaw.corePart.parts.5.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.6.customLabel>forreste højre ben</BeetleLikeWithClaw.corePart.parts.6.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.7.customLabel>venstre midterben</BeetleLikeWithClaw.corePart.parts.7.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.8.customLabel>højre midterben</BeetleLikeWithClaw.corePart.parts.8.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.9.customLabel>bagerste venstre ben</BeetleLikeWithClaw.corePart.parts.9.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.10.customLabel>bagerste højre ben</BeetleLikeWithClaw.corePart.parts.10.customLabel>
 
 
 </LanguageData>

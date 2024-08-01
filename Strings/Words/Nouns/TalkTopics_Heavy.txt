@@ -1,39 +1,39 @@
-childhood
+barndom
 childhood fears
 childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
+barndomsoplevelser
+livet
+livsudfordringer
+livets belønninger
+livsminder
+livsmål
 life regrets
 life stresses
 the disappointment of life
 the pointlessless of life
 the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
+håb
+modenhed
+voksenlivet
+børn
+frygt
+mareridt
+succes
 the morality of poverty
 the morality of wealth
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+døden
+dødens uundgåelighed
+dødens frigørelse
+livet efter døden
+afdøde kære
+fraværende venner
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+velgørenhed
+filantropi
+at hjælpe de undertrykte
+at hjælpe de syge
+at hjælpe de fattige
 
 aliens
 alien contact
@@ -42,85 +42,85 @@ the absence of aliens
 government conspiracies
 religious conspiracies
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+stjernerne
+andre planeter
+denne planet
+universets størrelse
+universets alder
+universets skæbne
+menneskehedens udbredelse i universet
 
-primitivism
-luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+primitivisme
+luddisme
+teknologi
+maskinintelligens
+kunstig intelligens
+computerteknologi
+våbenteknologi
 
-society
-morality
-freedom
-law
-government
-rights
-history
+samfund
+morale
+frihed
+lov
+regering
+rettigheder
+historie
 terror
-terrorism
-politics
-honor
+terrorisme
+politik
+ære
 social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
+markedet
+frihed
+autoritarisme
+anarki
+uretfærdighed
+retfærdighed
+sandhed
 tribalism
 ingroup preference
 
-philosophy
-reality
-culture
-culture differences
-culture shock
+filosofi
+virkelighed
+kultur
+kulturforskelle
+julturchok
 human nature
 humanity
 religion
-the meaning of life
-identity
-eternity
-monism
-dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
-liberalism
+meningen med livet
+identitet
+evighed
+monisme
+dualisme
+erkendelsesteori
+ærlighed
+ytringsfrihed
+etnicitet
+liberalisme
 the inevitability of suffering
 the nature of knowledge
 the nature of emotion
 
-fate
-the fate of mankind
-the fate of the universe
+skæbnen
+menneskehedens skæbne
+universets skæbne
 
-art
-art movements
-artistic ambition
+kunst
+kunstbevægelser
+kunstnerisk ambition
 human aesthetics
-artistic instincts
-art history
+kunstneriske instinkter
+kunsthistorie
 
-sexuality
-love
-romance
-sexual fetishes
+seksualitet
+kærlighedhed
+romantik
+seksuelle feticher
 sexual morality
-masculinity
-femininity
-seduction
+maskulinitet
+feminitet
+forførelse
 sex
 animal sexuality
 

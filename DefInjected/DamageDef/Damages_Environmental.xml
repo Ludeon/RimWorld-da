@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Flame.label>flamme</Flame.label>
+  <Flame.deathMessage>{0} er brændt til døde.</Flame.deathMessage>
+
+
+  <!-- Burn is like Flame, but doesn't ignite anything -->
+
+  <Burn.label>brænd</Burn.label>
+  <Burn.deathMessage>{0} er brændt til døde.</Burn.deathMessage>
+
+  <Frostbite.label>forfrysning</Frostbite.label>
+  <Frostbite.deathMessage>{0} er bukket under for sine forfrysninger.</Frostbite.deathMessage>
+
+  <TornadoScratch.label>skramme</TornadoScratch.label>
+  <TornadoScratch.deathMessage>{0} er blevet slået ihjel af en tornado.</TornadoScratch.deathMessage>
+
+
+</LanguageData>

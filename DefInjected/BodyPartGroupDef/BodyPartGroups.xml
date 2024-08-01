@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Torso.label>overkrop</Torso.label>
-
+    <Torso.label>torso</Torso.label>
     <UpperHead.label>skalp</UpperHead.label>
-
     <FullHead.label>hoved</FullHead.label>
-
     <Eyes.label>øjne</Eyes.label>
-
     <Teeth.label>tænder</Teeth.label>
-
     <Mouth.label>mund</Mouth.label>
-
+      <Neck.label>hals</Neck.label>
     <Arms.label>arme</Arms.label>
-
     <Shoulders.label>skuldre</Shoulders.label>
-
     <Hands.label>hænder</Hands.label>
 
     <LeftHand.label>venstre næve</LeftHand.label>
+      <LeftHand.labelShort>næve</LeftHand.labelShort>
 
     <RightHand.label>højre næve</RightHand.label>
+      <RightHand.labelShort>næve</RightHand.labelShort>
 
+  <Waist.label>talje</Waist.label>
     <Legs.label>ben</Legs.label>
-
     <Feet.label>fødder</Feet.label>
 
     <FrontLeftPaw.label>venstre forpote</FrontLeftPaw.label>
+  <FrontLeftPaw.labelShort>pote</FrontLeftPaw.labelShort>
 
     <FrontRightPaw.label>højre forpote</FrontRightPaw.label>
+  <FrontRightPaw.labelShort>pote</FrontRightPaw.labelShort>
 
     <HeadAttackTool.label>hoved</HeadAttackTool.label>
 
     <FrontLeftLeg.label>venstre forben</FrontLeftLeg.label>
+  <FrontLeftLeg.labelShort>ben</FrontLeftLeg.labelShort>
+  
+    <FrontRightLeg.label>højre forben</FrontRightLeg.label>
+  <FrontRightLeg.labelShort>ben</FrontRightLeg.labelShort>
 
-    <FrontRightLeg.label>højre forpote</FrontRightLeg.label>
+    <FrontLeftClaws.label>venstre forklør</FrontLeftClaws.label>
+  <FrontLeftClaws.labelShort>klør</FrontLeftClaws.labelShort>
 
-    <FrontLeftClaws.label>venstre forklo</FrontLeftClaws.label>
-
-    <FrontRightClaws.label>højre forklo</FrontRightClaws.label>
+    <FrontRightClaws.label>højre forklør</FrontRightClaws.label>
+  <FrontRightClaws.labelShort>klør</FrontRightClaws.labelShort>
 
     <LeftBlade.label>venstre klinge</LeftBlade.label>
+      <LeftBlade.labelShort>klinge</LeftBlade.labelShort>
 
     <RightBlade.label>højre klinge</RightBlade.label>
+  <RightBlade.labelShort>klinge</RightBlade.labelShort>
 
-    <TuskAttackTool.label>tusks</TuskAttackTool.label>
-
+    <TuskAttackTool.label>stødtænder</TuskAttackTool.label>
     <HornAttackTool.label>horn</HornAttackTool.label>
-
-    <HeadClaw.label>claw</HeadClaw.label>
-
+    <HeadClaw.label>klo</HeadClaw.label>
     <TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
-
-    <Beak.label>beak</Beak.label>
+    <Beak.label>næb</Beak.label>
     
+
 </LanguageData>

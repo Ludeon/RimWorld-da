@@ -9,7 +9,7 @@
   <Insulted.stages.0.label>fornærmet</Insulted.stages.0.label>
 
   <InsultedMood.stages.0.label>fornærmet</InsultedMood.stages.0.label>
-  <InsultedMood.stages.0.description>Jeg er blevet direkte fornærmet! Hvad en forfærdelig person!</InsultedMood.stages.0.description>
+  <InsultedMood.stages.0.description>Jeg er blevet direkte fornærmet! Sikke en forfærdelig person!</InsultedMood.stages.0.description>
 
   <KindWords.stages.0.label>søde ord</KindWords.stages.0.label>
 
@@ -37,8 +37,8 @@
   <CrashedTogether.stages.0.label>styrtede ned sammen</CrashedTogether.stages.0.label>
 
   <SoldMyLovedOne.stages.0.label>elsket person solgt</SoldMyLovedOne.stages.0.label>
-  <SoldMyLovedOne.stages.0.labelSocial>solgte min en jeg holdt af</SoldMyLovedOne.stages.0.labelSocial>
-  <SoldMyLovedOne.stages.0.description>Nogen jeg elskede blev solgt til en forhandler som et stykke kød!</SoldMyLovedOne.stages.0.description>
+  <SoldMyLovedOne.stages.0.labelSocial>solgte en som jeg holder af</SoldMyLovedOne.stages.0.labelSocial>
+  <SoldMyLovedOne.stages.0.description>Nogen jeg holder af blev solgt til en forhandler som var de et stykke kød!</SoldMyLovedOne.stages.0.description>
 
   <SoldMyBondedAnimal.stages.0.label>kæledyr solgt</SoldMyBondedAnimal.stages.0.label>
   <SoldMyBondedAnimal.stages.0.labelSocial>solgte mit kæledyr</SoldMyBondedAnimal.stages.0.labelSocial>
@@ -47,7 +47,7 @@
 
   <!-- Romance -->
 
-  <RebuffedMyRomanceAttempt.stages.0.label>afvist mig</RebuffedMyRomanceAttempt.stages.0.label>
+  <RebuffedMyRomanceAttempt.stages.0.label>afviste mig</RebuffedMyRomanceAttempt.stages.0.label>
 
   <RebuffedMyRomanceAttemptMood.stages.0.label>afvist af {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
   <RebuffedMyRomanceAttemptMood.stages.0.description>Jeg har forsøgt at bejle, men jeg fik den kolde skulder. Føles skidt.</RebuffedMyRomanceAttemptMood.stages.0.description>
@@ -69,13 +69,13 @@
 
   <DivorcedMe.stages.0.label>fraskilte sig fra mig</DivorcedMe.stages.0.label>
 
-  <DivorcedMeMood.stages.0.label>fraskilt pågrund af {0}</DivorcedMeMood.stages.0.label>
+  <DivorcedMeMood.stages.0.label>fraskilt på grund af {0}</DivorcedMeMood.stages.0.label>
   <DivorcedMeMood.stages.0.description>Vi gjorde en forpligtelse, og de rev bare det fra hinanden.</DivorcedMeMood.stages.0.description>
 
   <RejectedMyProposal.stages.0.label>afviste mit frieri</RejectedMyProposal.stages.0.label>
 
   <RejectedMyProposalMood.stages.0.label>mit frieri blev afvist af {0}</RejectedMyProposalMood.stages.0.label>
-  <RejectedMyProposalMood.stages.0.description>Jeg troede vi skulle gifte os. Men jeg blev bare skudt ned.</RejectedMyProposalMood.stages.0.description>
+  <RejectedMyProposalMood.stages.0.description>Jeg troede vi skulle giftes. Men jeg blev bare skudt ned.</RejectedMyProposalMood.stages.0.description>
 
   <IRejectedTheirProposal.stages.0.label>Jeg afviste deres frieri</IRejectedTheirProposal.stages.0.label>
 
@@ -94,13 +94,13 @@
   <KilledMyLover.stages.0.label>dræbte min elsker</KilledMyLover.stages.0.label>
   <KilledMyFiance.stages.0.label>dræbte min forlovede</KilledMyFiance.stages.0.label>
   <KilledMySpouse.stages.0.label>dræbte min ægtefælle</KilledMySpouse.stages.0.label>
-  <KilledMyFather.stages.0.label>dræbte min far</KilledMyFather.stages.0.label>
-  <KilledMyMother.stages.0.label>dræbte min mor</KilledMyMother.stages.0.label>
+  <KilledMyFather.stages.0.label>dræbte min fader</KilledMyFather.stages.0.label>
+  <KilledMyMother.stages.0.label>dræbte min moder</KilledMyMother.stages.0.label>
   <KilledMySon.stages.0.label>dræbte min søn</KilledMySon.stages.0.label>
   <KilledMyDaughter.stages.0.label>dræbte min datter</KilledMyDaughter.stages.0.label>
   <KilledMyBrother.stages.0.label>dræbte min bror</KilledMyBrother.stages.0.label>
   <KilledMySister.stages.0.label>dræbte min søster</KilledMySister.stages.0.label>
-  <KilledMyKin.stages.0.label>dræbte mine pårørende</KilledMyKin.stages.0.label>
+  <KilledMyKin.stages.0.label>dræbte en af mine pårørende</KilledMyKin.stages.0.label>
 
 
 </LanguageData>

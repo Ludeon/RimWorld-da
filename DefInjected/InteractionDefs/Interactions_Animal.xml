@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <AnimalChat.label>Dyre snak</AnimalChat.label>
+    <AnimalChat.label>Dyresnak</AnimalChat.label>
 	<AnimalChat.logRulesInitiator.rulesStrings>
 		<li>logentry-&gt;Kommunikerede med [other_nameShortIndef], prøvede at lære den at kende.</li>
 	</AnimalChat.logRulesInitiator.rulesStrings>
 	<AnimalChat.logRulesRecipient.rulesStrings>
-		<li>logentry-&gt;reagerede på [other_nameShortIndef]'s venligsindede kommunikation.</li>
+		<li>logentry-&gt;reagerede på [other_nameShortIndef]s venligsindede kommunikation.</li>
 	</AnimalChat.logRulesRecipient.rulesStrings>
 
-    <TrainAttempt.label>trænings forsøg</TrainAttempt.label>
+    <TrainAttempt.label>forsøg på at træne</TrainAttempt.label>
 	<TrainAttempt.logRulesInitiator.rulesStrings>
 		<li>logentry-&gt;Trænede [other_nameShortIndef].</li>
 	</TrainAttempt.logRulesInitiator.rulesStrings>
 	<TrainAttempt.logRulesRecipient.rulesStrings>
-		<li>logentry-&gt;var trænet af [other_nameShortIndef].</li>
+		<li>logentry-&gt;blev trænet af [other_nameShortIndef].</li>
 	</TrainAttempt.logRulesRecipient.rulesStrings>
 
-    <TameAttempt.label>tame attempt</TameAttempt.label>
+    <TameAttempt.label>forsøg på at tæmme</TameAttempt.label>
 	<TameAttempt.logRulesInitiator.rulesStrings>
 		<li>logentry-&gt;Forsøgte at tæmme [other_nameShortIndef].</li>
 	</TameAttempt.logRulesInitiator.rulesStrings>
@@ -24,7 +24,7 @@
 		<li>logentry-&gt;Så at [other_nameShortIndef] forsøgte at tæmme mig.</li>
 	</TameAttempt.logRulesRecipient.rulesStrings>
 
-    <Nuzzle.label>nuzzle</Nuzzle.label>
+    <Nuzzle.label>nus</Nuzzle.label>
 	<Nuzzle.logRulesInitiator.rulesStrings>
 		<li>logentry-&gt;Nussede [other_nameShortIndef].</li>
 	</Nuzzle.logRulesInitiator.rulesStrings>

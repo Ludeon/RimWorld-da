@@ -1,8 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MechanicalCentipede.label>mechanical centipede</MechanicalCentipede.label>
+  <MechanicalCentipede.label>mekanisk tusindben</MechanicalCentipede.label>
+  <MechanicalCentipede.corePart.parts.0.parts.1.customLabel>venstre synssensor</MechanicalCentipede.corePart.parts.0.parts.1.customLabel>
+  <MechanicalCentipede.corePart.parts.0.parts.2.customLabel>højre synssensor</MechanicalCentipede.corePart.parts.0.parts.2.customLabel>
+  <MechanicalCentipede.corePart.parts.0.parts.3.customLabel>venstre hørelsessensor</MechanicalCentipede.corePart.parts.0.parts.3.customLabel>
+  <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>højre hørelsessensor</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
+
+  <Lancer.label>lancer</Lancer.label>
+  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>venstre synssensor</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>højre synssensor</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>venstre hørelsessensor</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>højre hørelsessensor</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Lancer.corePart.parts.1.customLabel>venstre skulder</Lancer.corePart.parts.1.customLabel>
+  <Lancer.corePart.parts.1.parts.0.customLabel>venstre arm</Lancer.corePart.parts.1.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>venstre hånd</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>venstre lillefinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>venstre langefinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>venstre pegefinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>venstre tommelfinger</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.2.customLabel>højre mekaniske skulder</Lancer.corePart.parts.2.customLabel>
+  <Lancer.corePart.parts.2.parts.0.customLabel>højre arm</Lancer.corePart.parts.2.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>højre hånd</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>højre lillefinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>højre langefinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>højre pegefinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>højre tommelfinger</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <Lancer.corePart.parts.3.customLabel>venstre ben</Lancer.corePart.parts.3.customLabel>
+  <Lancer.corePart.parts.3.parts.0.customLabel>venstre fod</Lancer.corePart.parts.3.parts.0.customLabel>
+  <Lancer.corePart.parts.4.customLabel>højre ben</Lancer.corePart.parts.4.customLabel>
+  <Lancer.corePart.parts.4.parts.0.customLabel>højre fod</Lancer.corePart.parts.4.parts.0.customLabel>
+
   <Scyther.label>scyther</Scyther.label>
+  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>venstre synssensor</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>højre synssensor</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>venstre hørelsessensor</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>højre hørelsessensor</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Scyther.corePart.parts.1.customLabel>venstre skulder</Scyther.corePart.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.customLabel>venstre arm</Scyther.corePart.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>venstre klinge</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>venstre hånd</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>venstre lillefinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>venstre langefinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>venstre pegefinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>venstre tommelfinger</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
+  <Scyther.corePart.parts.2.customLabel>højre skulder</Scyther.corePart.parts.2.customLabel>
+  <Scyther.corePart.parts.2.parts.0.customLabel>højre arm</Scyther.corePart.parts.2.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>højre klinge</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>højre hånd</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>højre lillefinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>højre langefinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>højre pegefinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>højre tommelfinger</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
+  <Scyther.corePart.parts.3.customLabel>venstre ben</Scyther.corePart.parts.3.customLabel>
+  <Scyther.corePart.parts.3.parts.0.customLabel>venstre fod</Scyther.corePart.parts.3.parts.0.customLabel>
+  <Scyther.corePart.parts.4.customLabel>højre ben</Scyther.corePart.parts.4.customLabel>
+  <Scyther.corePart.parts.4.parts.0.customLabel>højre fod</Scyther.corePart.parts.4.parts.0.customLabel>
 
 
 </LanguageData>

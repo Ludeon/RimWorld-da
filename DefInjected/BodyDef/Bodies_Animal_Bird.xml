@@ -1,7 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bird.label>bird</Bird.label>
+  <Bird.label>fugl</Bird.label>
+  <Bird.corePart.parts.4.customLabel>venstre lunge</Bird.corePart.parts.4.customLabel>
+  <Bird.corePart.parts.5.customLabel>højre lunge</Bird.corePart.parts.5.customLabel>
+  <Bird.corePart.parts.6.customLabel>venstre nyre</Bird.corePart.parts.6.customLabel>
+  <Bird.corePart.parts.7.customLabel>højre nyre</Bird.corePart.parts.7.customLabel>
+  <Bird.corePart.parts.9.parts.0.parts.1.customLabel>venstre øje</Bird.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Bird.corePart.parts.9.parts.0.parts.2.customLabel>højre øje</Bird.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Bird.corePart.parts.10.customLabel>venstre ben</Bird.corePart.parts.10.customLabel>
+  <Bird.corePart.parts.10.parts.0.customLabel>venstre fod</Bird.corePart.parts.10.parts.0.customLabel>
+  <Bird.corePart.parts.11.customLabel>højre ben</Bird.corePart.parts.11.customLabel>
+  <Bird.corePart.parts.11.parts.0.customLabel>højre fod</Bird.corePart.parts.11.parts.0.customLabel>
 
 
 </LanguageData>

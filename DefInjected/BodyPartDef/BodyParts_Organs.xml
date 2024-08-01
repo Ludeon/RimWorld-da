@@ -1,18 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Heart.label>hjerte</Heart.label>
-  
-  <LeftLung.label>venstre lunge</LeftLung.label>
-  
-  <RightLung.label>højre lunge</RightLung.label>
-  
-  <LeftKidney.label>venstre nyre</LeftKidney.label>
-  
-  <RightKidney.label>højre nyre</RightKidney.label>
-  
+  <Lung.label>lunge</Lung.label>
+  <Kidney.label>nyre</Kidney.label>
   <Liver.label>lever</Liver.label>
-  
   <Stomach.label>mave</Stomach.label>
+
 
 </LanguageData>

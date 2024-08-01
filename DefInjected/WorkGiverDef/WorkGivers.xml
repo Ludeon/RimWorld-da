@@ -82,23 +82,23 @@
 
   <!-- Warden -->
 
-  <DoExecution.label>henret fanger</DoExecution.label>
+  <DoExecution.label>henret fange</DoExecution.label>
   <DoExecution.verb>udfør henrettelse på</DoExecution.verb>
   <DoExecution.gerund>at udføre henrettelse på</DoExecution.gerund>
 
-  <ReleasePrisoner.label>frigiv fanger</ReleasePrisoner.label>
-  <ReleasePrisoner.verb>frigiv</ReleasePrisoner.verb>
-  <ReleasePrisoner.gerund>at frigive</ReleasePrisoner.gerund>
+  <ReleasePrisoner.label>løslad fanger</ReleasePrisoner.label>
+  <ReleasePrisoner.verb>løslad</ReleasePrisoner.verb>
+  <ReleasePrisoner.gerund>at løslade</ReleasePrisoner.gerund>
 
-  <TakePrisonerToBed.label>tag fanger til seng</TakePrisonerToBed.label>
+  <TakePrisonerToBed.label>tag fange til seng</TakePrisonerToBed.label>
   <TakePrisonerToBed.verb>tag til seng</TakePrisonerToBed.verb>
   <TakePrisonerToBed.gerund>at tage til seng</TakePrisonerToBed.gerund>
 
-  <FeedPrisoner.label>fodr fanger</FeedPrisoner.label>
+  <FeedPrisoner.label>fodr fange</FeedPrisoner.label>
   <FeedPrisoner.verb>fodr</FeedPrisoner.verb>
   <FeedPrisoner.gerund>at fodre</FeedPrisoner.gerund>
 
-  <DeliverFoodToPrisoner.label>lever mad til fanger</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>lever mad til fange</DeliverFoodToPrisoner.label>
   <DeliverFoodToPrisoner.verb>lever mad til</DeliverFoodToPrisoner.verb>
   <DeliverFoodToPrisoner.gerund>at levere mad til</DeliverFoodToPrisoner.gerund>
 
@@ -231,9 +231,9 @@
 
   <!-- PlantCutting -->
 
-  <PlantsCut.label>skær planter</PlantsCut.label>
-  <PlantsCut.verb>skær</PlantsCut.verb>
-  <PlantsCut.gerund>skære</PlantsCut.gerund>
+  <PlantsCut.label>besær planter</PlantsCut.label>
+  <PlantsCut.verb>beskær</PlantsCut.verb>
+  <PlantsCut.gerund>beskære</PlantsCut.gerund>
 
 
   <!-- Smithing -->
@@ -246,7 +246,7 @@
   <DoBillsMachiningTable.verb>arbejd</DoBillsMachiningTable.verb>
   <DoBillsMachiningTable.gerund>arbejder ved</DoBillsMachiningTable.gerund>
 
-  <DoBillsComponentAssemblyBench.label>sammel komponenter</DoBillsComponentAssemblyBench.label>
+  <DoBillsComponentAssemblyBench.label>saml komponenter</DoBillsComponentAssemblyBench.label>
   <DoBillsComponentAssemblyBench.verb>producer komponenter</DoBillsComponentAssemblyBench.verb>
   <DoBillsComponentAssemblyBench.gerund>producere komponenter ved</DoBillsComponentAssemblyBench.gerund>
 
@@ -314,8 +314,8 @@
   <HaulCorpses.verb>slæb</HaulCorpses.verb>
   <HaulCorpses.gerund>slæber</HaulCorpses.gerund>
 
-  <Open.label>åben beholder</Open.label>
-  <Open.verb>åben</Open.verb>
+  <Open.label>åbn beholder</Open.label>
+  <Open.verb>åbn</Open.verb>
   <Open.gerund>åbner</Open.gerund>
 
   <Refuel.label>tanke op tankbare bygninger</Refuel.label>
@@ -353,7 +353,7 @@
   <CleanClearSnow.verb>ryd sne</CleanClearSnow.verb>
   <CleanClearSnow.gerund>at rydde sne</CleanClearSnow.gerund>
 
-  <CleanFilth.label>rens skidt</CleanFilth.label>
+  <CleanFilth.label>fjern skidt</CleanFilth.label>
   <CleanFilth.verb>gør rent</CleanFilth.verb>
   <CleanFilth.gerund>at rengøre</CleanFilth.gerund>
 

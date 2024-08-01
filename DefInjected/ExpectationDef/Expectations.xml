@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ExtremelyLow.label>ekstremt lav</ExtremelyLow.label>
+  <VeryLow.label>meget lav</VeryLow.label>
+  <Low.label>lav</Low.label>
+  <Moderate.label>moderat</Moderate.label>
+  <High.label>høj</High.label>
+  <SkyHigh.label>skyhøj</SkyHigh.label>
+
+
+</LanguageData>

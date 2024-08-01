@@ -1,84 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Torso.label>overkrop</Torso.label>
-  
-  <LeftShoulder.label>venstre skulder</LeftShoulder.label>
-  
-  <LeftArm.label>venstre arm</LeftArm.label>
-  
-  <LeftHand.label>venstre hånd</LeftHand.label>
-  
-  <LeftHandPinky.label>venstre lillefinger</LeftHandPinky.label>
-  
-  <LeftHandRingFinger.label>venstre ringfinger</LeftHandRingFinger.label>
-  
-  <LeftHandMiddleFinger.label>venstre langefinger</LeftHandMiddleFinger.label>
-  
-  <LeftHandIndexFinger.label>venstre pegefinger</LeftHandIndexFinger.label>
-  
-  <LeftHandThumb.label>venstre tommelfinger</LeftHandThumb.label>
-  
-  <RightShoulder.label>højre skulder</RightShoulder.label>
-  
-  <RightArm.label>højre arm</RightArm.label>
-  
-  <RightHand.label>højre hånd</RightHand.label>
-  
-  <RightHandPinky.label>højre lillefinger</RightHandPinky.label>
-  
-  <RightHandRingFinger.label>højre ringfinger</RightHandRingFinger.label>
-  
-  <RightHandMiddleFinger.label> højre langefinger</RightHandMiddleFinger.label>
-  
-  <RightHandIndexFinger.label>højre pegefinger</RightHandIndexFinger.label>
-  
-  <RightHandThumb.label>højre tommelfinger</RightHandThumb.label>
-  
-  <LeftFootLittleToe.label>venstre lilletå</LeftFootLittleToe.label>
-  
-  <LeftFootFourthToe.label>venstre fjedre tå</LeftFootFourthToe.label>
-  
-  <LeftFootMiddleToe.label>venstre midter tå</LeftFootMiddleToe.label>
-  
-  <LeftFootSecondToe.label>venstre anden tå</LeftFootSecondToe.label>
-  
-  <LeftFootBigToe.label>venstre storetå</LeftFootBigToe.label>
-  
-  <RightFootLittleToe.label>højre lilletå</RightFootLittleToe.label>
-  
-  <RightFootFourthToe.label>højre fjerde tå</RightFootFourthToe.label>
-  
-  <RightFootMiddleToe.label>højre midter tå</RightFootMiddleToe.label>
-  
-  <RightFootSecondToe.label>højre anden tå</RightFootSecondToe.label>
-  
-  <RightFootBigToe.label>højre storetå</RightFootBigToe.label>
+  <Torso.label>torso</Torso.label>
+  <Shoulder.label>skulder</Shoulder.label>
+  <Arm.label>arm</Arm.label>
+  <Hand.label>hånd</Hand.label>
+  <Finger.label>finger</Finger.label>
+  <Waist.label>talje</Waist.label>
+  <Toe.label>tå</Toe.label>
+
 
   <!-- Bones -->
 
-  <LeftClavicle.label>venstre kraveben</LeftClavicle.label>
-  
-  <RightClavicle.label>højre kraveben</RightClavicle.label>
-  
+  <Clavicle.label>kraveben</Clavicle.label>
   <Sternum.label>brystben</Sternum.label>
-  
-  <LeftHumerus.label>venstre humerus</LeftHumerus.label>
-  
-  <RightHumerus.label>højre humerus</RightHumerus.label>
-  
-  <LeftRadius.label>venstre radius knogle</LeftRadius.label>
-  
-  <RightRadius.label>højre radius knogle</RightRadius.label>
-  
-  <Pelvis.label>bækkenbenet</Pelvis.label>
-  
-  <LeftFemur.label>venstre lårknogle</LeftFemur.label>
-  
-  <RightFemur.label>højre lårknogle</RightFemur.label>
-  
-  <LeftTibia.label>venstre skinben</LeftTibia.label>
-  
-  <RightTibia.label>højre skinben</RightTibia.label>
+  <Humerus.label>overarmsknogle</Humerus.label>
+  <Radius.label>underarmsknogle</Radius.label>
+  <Pelvis.label>bækken</Pelvis.label>
+  <Femur.label>lårben</Femur.label>
+  <Tibia.label>skinneben</Tibia.label>
+
 
 </LanguageData>

@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Slaughter.headerTip>Slaughter</Slaughter.headerTip>
-  <FollowDrafted.headerTip>Follow master while the master is drafted.</FollowDrafted.headerTip>
-  <FollowFieldwork.headerTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldwork.headerTip>
+  <FollowDrafted.headerTip>Følg din herre mens vedkommende er drafted.</FollowDrafted.headerTip>
+  <FollowFieldwork.headerTip>Følg din herre mens vedkommende udfører arbejde udenfor (jager eller tæmmer dyr).</FollowFieldwork.headerTip>
+  <Hunt.headerTip>Markér dyr til at blive jagtet af dine jægere. Mark animals to be hunted by your hunters.</Hunt.headerTip>
+  <Tame.headerTip>Tæm et vildt dyr.</Tame.headerTip>
 
 
 </LanguageData>

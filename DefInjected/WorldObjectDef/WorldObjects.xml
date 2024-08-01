@@ -14,7 +14,7 @@
   <DestroyedFactionBase.description>En ødelagt fraktionsbase.</DestroyedFactionBase.description>
 
   <EscapeShip.label>landet rumskib</EscapeShip.label>
-  <EscapeShip.description>Beliggenhedenen af et skjult rumskib, som kan hjælpe dig med at slippe væk fra planeten.</EscapeShip.description>
+  <EscapeShip.description>Beliggenheden af et skjult rumskib, som kan hjælpe dig med at slippe væk fra planeten.</EscapeShip.description>
 
   <AttackedCaravan.label>angrebet karavane</AttackedCaravan.label>
   <AttackedCaravan.description>En karavane under angreb.</AttackedCaravan.description>

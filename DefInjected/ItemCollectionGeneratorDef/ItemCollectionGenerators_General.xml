@@ -2,9 +2,9 @@
 <LanguageData>
 
   <RandomGeneralGoods.label>general goods</RandomGeneralGoods.label>
-  <Apparel.label>apparel</Apparel.label>
-  <Weapons.label>weapons</Weapons.label>
-  <Artifacts.label>artifacts</Artifacts.label>
+  <Apparel.label>tøj</Apparel.label>
+  <Weapons.label>våben</Weapons.label>
+  <Artifacts.label>artefakter</Artifacts.label>
   <RawResources.label>raw resources</RawResources.label>
   <AIPersonaCores.label>AI persona cores</AIPersonaCores.label>
   <Neurotrainers.label>neurotrainers</Neurotrainers.label>

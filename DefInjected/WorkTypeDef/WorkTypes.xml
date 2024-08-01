@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Firefighter.label>Brandslukning</Firefighter.label>
-  <Firefighter.description>Sluk koloniens brande.</Firefighter.description>
+  <Firefighter.description>Sluk koloniens brande.</Firefighter.description>dyretræner
   <Firefighter.labelShort>Slukning af ild</Firefighter.labelShort>
   <Firefighter.pawnLabel>Brandslukker</Firefighter.pawnLabel>
   <Firefighter.gerundLabel>slukning af branden</Firefighter.gerundLabel>
@@ -43,15 +43,15 @@
   <Warden.gerundLabel>at vogte</Warden.gerundLabel>
   <Warden.verb>Vogt</Warden.verb>
 
-  <Handling.label>Dyretræner</Handling.label>
-  <Handling.description>Tæm, træn, og høst ressourcer fra, og slagt dyr.</Handling.description>
-  <Handling.labelShort>Dyretræner</Handling.labelShort>
-  <Handling.pawnLabel>dyretræning</Handling.pawnLabel>
-  <Handling.gerundLabel>at træne dyr</Handling.gerundLabel>
-  <Handling.verb>Dyretræner</Handling.verb>
+  <Handling.label>Dyrepasser</Handling.label>
+  <Handling.description>Tæm, træn, høst ressourcer fra, og slagt dyr.</Handling.description>
+  <Handling.labelShort>Dyrepasser</Handling.labelShort>
+  <Handling.pawnLabel>dyrepasning</Handling.pawnLabel>
+  <Handling.gerundLabel>at passe på dyr</Handling.gerundLabel>
+  <Handling.verb>Dyrepasser</Handling.verb>
 
   <Cooking.label>Madlavning</Cooking.label>
-  <Cooking.description>Forbered måltider og slagt kød.</Cooking.description>
+  <Cooking.description>Forbered måltider og slagt dyr.</Cooking.description>
   <Cooking.labelShort>Madlavning</Cooking.labelShort>
   <Cooking.pawnLabel>Kok</Cooking.pawnLabel>
   <Cooking.gerundLabel>at lave mad</Cooking.gerundLabel>
@@ -65,14 +65,14 @@
   <Hunting.verb>Jag</Hunting.verb>
 
   <Construction.label>Byg</Construction.label>
-  <Construction.description>Byg ting som du har udpeget, og reparer beskadigede eller nedbrudte bygninger.</Construction.description>
+  <Construction.description>Byg ting som du har udpeget og reparer beskadigede eller nedbrudte bygninger.</Construction.description>
   <Construction.labelShort>Byg</Construction.labelShort>
   <Construction.pawnLabel>Konstruktør</Construction.pawnLabel>
   <Construction.gerundLabel>at bygge</Construction.gerundLabel>
   <Construction.verb>Byg</Construction.verb>
 
   <Growing.label>Jordbrug</Growing.label>
-  <Growing.description>Plant frø, og høst de færdige afgrøder.</Growing.description>
+  <Growing.description>Plant frø og høst de færdige afgrøder.</Growing.description>
   <Growing.labelShort>Jordbrug</Growing.labelShort>
   <Growing.pawnLabel>Gartner</Growing.pawnLabel>
   <Growing.gerundLabel>at dyrke jorden</Growing.gerundLabel>
@@ -85,12 +85,12 @@
   <Mining.gerundLabel>at grave</Mining.gerundLabel>
   <Mining.verb>Udgrav mine</Mining.verb>
 
-  <PlantCutting.label>Klip planter</PlantCutting.label>
-  <PlantCutting.description>Klip eller høst planter som udpeget.</PlantCutting.description>
-  <PlantCutting.labelShort>Klip planter</PlantCutting.labelShort>
-  <PlantCutting.pawnLabel>Planteklipper</PlantCutting.pawnLabel>
-  <PlantCutting.gerundLabel>at klippe planter</PlantCutting.gerundLabel>
-  <PlantCutting.verb>Klip</PlantCutting.verb>
+  <PlantCutting.label>Beskær planter</PlantCutting.label>
+  <PlantCutting.description>Beskær eller høst planter som udpeget.</PlantCutting.description>
+  <PlantCutting.labelShort>Beskær planter</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Plantebeskærer</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>at beskære planter</PlantCutting.gerundLabel>
+  <PlantCutting.verb>Beskær</PlantCutting.verb>
 
   <Smithing.label>Smede</Smithing.label>
   <Smithing.description>Lav våben og redskaber fra råvarer, enten som en smed eller ved maskinbearbejdnin.</Smithing.description>

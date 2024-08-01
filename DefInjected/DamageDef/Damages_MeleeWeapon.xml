@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Cut.label>snit</Cut.label>
+  <Cut.deathMessage>{0} er blevet skåret til døde.</Cut.deathMessage>
+
+  <Crush.label>knusning</Crush.label>
+  <Crush.deathMessage>{0} er blevet knust til døde.</Crush.deathMessage>
+
+  <Blunt.label>stumpet</Blunt.label>
+  <Blunt.deathMessage>{0} er blevet tævet til døde.</Blunt.deathMessage>
+
+
+  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
+
+  <Poke.label>stumpet</Poke.label>
+  <Poke.deathMessage>{0} er blevet tævet til døde.</Poke.deathMessage>
+
+  <Stab.label>stukket</Stab.label>
+  <Stab.deathMessage>{0} er blevet stukket til døde.</Stab.deathMessage>
+
+  <Scratch.label>skramme</Scratch.label>
+  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+
+  <Bite.label>bid</Bite.label>
+  <Bite.deathMessage>{0} er blevet bidt til døde.</Bite.deathMessage>
+
+  <ToxicBite.label>giftigt bid</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} er blevet bidt til døde.</ToxicBite.deathMessage>
+
+
+</LanguageData>

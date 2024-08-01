@@ -6,7 +6,7 @@ aftensmad
 mad
 frokost
 madvaner
-saltet mad
+salt mad
 sød mad
 savory foods
 bitter mad
@@ -20,12 +20,12 @@ skæg
 facial hair
 
 odd jobs
-kids' games
+børnelege
 underholdning
 spil
 fødselsdage
 balloner
-drunkenness
+fuldskab
 at drikke sig fuld
 fester
 ferie
@@ -52,22 +52,22 @@ at svede
 
 hauling
 at gøre rent
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
-pemmican
-horseshoes
+at spise uden borde
+behangelige møbler
+fine måltider
+overdådige måltider
+pemmikan
+hestesko
 recreation
-lovers
+elskere
 lovin'
 healroot
 botched surgeries
-vomiting
+at kaste op
 brætspil
 computerspil
 TV
 poker
-billiards
-spaceships
-xenohumans
+billiard
+rumskibe
+xenomennesker

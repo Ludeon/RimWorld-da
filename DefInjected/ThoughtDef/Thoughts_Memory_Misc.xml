@@ -5,16 +5,16 @@
   <AteWithoutTable.stages.0.description>Jeg var nødt til at spise et måltid fra jorden. Kan vi ikke anskaffe et bord her?</AteWithoutTable.stages.0.description>
 
   <SleepDisturbed.stages.0.label>forstyrret søvn</SleepDisturbed.stages.0.label>
-  <SleepDisturbed.stages.0.description>Jeg blev forstyrret imens jeg sov, af folk der bevægede sig rundt i nærheden. Et privat værelse ville løse dette.</SleepDisturbed.stages.0.description>
+  <SleepDisturbed.stages.0.description>Min søvn blev forstyrret af folk der bevægede sig rundt i nærheden. Et privat værelse ville løse dette.</SleepDisturbed.stages.0.description>
 
   <NewColonyOptimism.stages.0.label>ny koloni optimisme</NewColonyOptimism.stages.0.label>
   <NewColonyOptimism.stages.0.description>Vi er lige landet her. Det er en hård situation, men jeg er spændt over at være stifteren af en ny koloni.</NewColonyOptimism.stages.0.description>
 
   <NewColonyHope.stages.0.label>ny koloni håb</NewColonyHope.stages.0.label>
-  <NewColonyHope.stages.0.description>Jeg er ved at vænne mig til dette, men det er stadig en spændende ny situation. Jeg håber, at dette virker ...</NewColonyHope.stages.0.description>
+  <NewColonyHope.stages.0.description>Jeg er ved at vænne mig til dette, men det er stadig en spændende ny situation. Jeg håber, at dette virker...</NewColonyHope.stages.0.description>
 
   <SleptOutside.stages.0.label>sov udenfor</SleptOutside.stages.0.label>
-  <SleptOutside.stages.0.description>Jeg var nødt til at sove udendørs uden beskyttelse mod elementerne.</SleptOutside.stages.0.description>
+  <SleptOutside.stages.0.description>Jeg var nødt til at sove udendørs uden ly fra naturens elementer.</SleptOutside.stages.0.description>
 
   <SleptOnGround.stages.0.label>sov på jorden</SleptOnGround.stages.0.label>
   <SleptOnGround.stages.0.description>Jeg var nødt til at sove på jorden som et dyr.</SleptOnGround.stages.0.description>
@@ -44,7 +44,7 @@
   <GreenThumbHappy.stages.0.description>Hvad verden har brug for, er flere planter!</GreenThumbHappy.stages.0.description>
 
   <Catharsis.stages.0.label>katarsis</Catharsis.stages.0.label>
-  <Catharsis.stages.0.description>Det føltes godt at endelig give udtryk for mine følelser.</Catharsis.stages.0.description>
+  <Catharsis.stages.0.description>Det føltes godt endelig at have givet udtryk for mine følelser.</Catharsis.stages.0.description>
 
   <Nuzzled.stages.0.label>nusset</Nuzzled.stages.0.label>
   <Nuzzled.stages.0.description>Et sødt dyr nussede mig.</Nuzzled.stages.0.description>
@@ -98,10 +98,10 @@
   <ColonistAbandoned.stages.0.description>Vi efterlod nogen. Jeg håber at de vil klare sig, men jeg er bekymret.</ColonistAbandoned.stages.0.description>
 
   <ColonistAbandonedToDie.stages.0.label>kolonist forladt til at dø</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>Vi efterlod nogen en sådan måde, at der er næsten ingen måde de vil overleve.</ColonistAbandonedToDie.stages.0.description>
+  <ColonistAbandonedToDie.stages.0.description>Vi efterlod nogen på en sådan måde, at der næsten er ingen måde, de vil kunne overleve på.</ColonistAbandonedToDie.stages.0.description>
 
   <PrisonerAbandonedToDie.stages.0.label>fange efterladt til at dø</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>Vi eftrerlod en fange på en sådan måde, at der er næsten ingen måde de vil overleve.</PrisonerAbandonedToDie.stages.0.description>
+  <PrisonerAbandonedToDie.stages.0.description>Vi eftrerlod en fange på en sådan måde, at der næsten er ingen måde, de vil kunne overleve på.</PrisonerAbandonedToDie.stages.0.description>
 
   <BondedAnimalAbandoned.stages.0.label>kæledyret {0} efterlad</BondedAnimalAbandoned.stages.0.label>
   <BondedAnimalAbandoned.stages.0.description>Mit kæledyr blev efterladt i midten af ingenting!</BondedAnimalAbandoned.stages.0.description>

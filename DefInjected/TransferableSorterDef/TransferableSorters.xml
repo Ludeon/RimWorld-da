@@ -5,7 +5,7 @@
   <Name.label>navn</Name.label>
   <MarketValue.label>markedsværdig</MarketValue.label>
   <Category.label>kategori</Category.label>
-  <Quality.label>kvaitet</Quality.label>
+  <Quality.label>kvalitet</Quality.label>
   <HitPointsPercentage.label>helbreds points procenter</HitPointsPercentage.label>
 
 </LanguageData>

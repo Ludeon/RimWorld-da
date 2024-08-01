@@ -1,7 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Human.label>human</Human.label>
+  <Human.label>menneske</Human.label>
+  <Human.corePart.parts.6.customLabel>venstre lunge</Human.corePart.parts.6.customLabel>
+  <Human.corePart.parts.7.customLabel>højre lunge</Human.corePart.parts.7.customLabel>
+  <Human.corePart.parts.8.customLabel>venstre nyre</Human.corePart.parts.8.customLabel>
+  <Human.corePart.parts.9.customLabel>højre nyre</Human.corePart.parts.9.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.1.customLabel>venstre øje</Human.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.2.customLabel>højre øje</Human.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.3.customLabel>venstre øre</Human.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Human.corePart.parts.11.parts.0.parts.4.customLabel>højre øre</Human.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Human.corePart.parts.12.customLabel>venstre skulder</Human.corePart.parts.12.customLabel>
+  <Human.corePart.parts.12.parts.0.customLabel>venstre kraveben</Human.corePart.parts.12.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.customLabel>venstre arm</Human.corePart.parts.12.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.0.customLabel>venstre overarmsknogle</Human.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.1.customLabel>venstre underarmsknogle</Human.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.customLabel>venstre hånd</Human.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>venstre lillefinger</Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>venstre ringfinger</Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>venstre langefinger</Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>venstre pegefinger</Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>venstre tommelfinger</Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.13.customLabel>højre skulder</Human.corePart.parts.13.customLabel>
+  <Human.corePart.parts.13.parts.0.customLabel>højre kraveben</Human.corePart.parts.13.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.customLabel>højre arm</Human.corePart.parts.13.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.0.customLabel>højre overarmsknogle</Human.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.1.customLabel>højre underarmsknogle</Human.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.customLabel>højre hånd</Human.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>højre lillefinger</Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>højre ringfinger</Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>højre langefinger</Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>højre pegefinger</Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>højre tommelfinger</Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.15.customLabel>venstre ben</Human.corePart.parts.15.customLabel>
+  <Human.corePart.parts.15.parts.0.customLabel>venstre lårben</Human.corePart.parts.15.parts.0.customLabel>
+  <Human.corePart.parts.15.parts.1.customLabel>venstre skinneben</Human.corePart.parts.15.parts.1.customLabel>
+  <Human.corePart.parts.15.parts.2.customLabel>venstre fod</Human.corePart.parts.15.parts.2.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.0.customLabel>venstre lilletå</Human.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.1.customLabel>venstre fjerde tå</Human.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.2.customLabel>venstre tredje tå</Human.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.3.customLabel>venstre anden tå</Human.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.15.parts.2.parts.4.customLabel>venstre storetå</Human.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.16.customLabel>højre ben</Human.corePart.parts.16.customLabel>
+  <Human.corePart.parts.16.parts.0.customLabel>højre lårben</Human.corePart.parts.16.parts.0.customLabel>
+  <Human.corePart.parts.16.parts.1.customLabel>højre skinneben</Human.corePart.parts.16.parts.1.customLabel>
+  <Human.corePart.parts.16.parts.2.customLabel>højre fod</Human.corePart.parts.16.parts.2.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.0.customLabel>højre lilletå</Human.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.1.customLabel>højre fjerde tå</Human.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.2.customLabel>højre tredje tå</Human.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.3.customLabel>højre anden tå</Human.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.16.parts.2.parts.4.customLabel>højre storetå</Human.corePart.parts.16.parts.2.parts.4.customLabel>
 
 
 </LanguageData>

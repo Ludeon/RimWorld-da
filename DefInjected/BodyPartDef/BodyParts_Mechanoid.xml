@@ -1,98 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MechanicalThorax.label>brystkasse</MechanicalThorax.label>
-	
-	<LeftBlade.label>venstre klinge</LeftBlade.label>
+  <!--======== Common to various mechanoids ========-->
 
-    	<RightBlade.label>højre klinge</RightBlade.label>
-	
-	<MechanicalNeck.label>nakke</MechanicalNeck.label>
-	
-	<MechanicalHead.label>hoved</MechanicalHead.label>
-	
-	<LeftSightSensor.label>venstre synssensor</LeftSightSensor.label>
-	
-	<RightSightSensor.label>højre synssensor</RightSightSensor.label>
-	
-	<LeftHearingSensor.label>venstre høresensor</LeftHearingSensor.label>
-	
-	<RightHearingSensor.label>højre høresensor</RightHearingSensor.label>
-	
-	<SmellSensor.label>lugtesesnor</SmellSensor.label>
-	
-	<LeftMechanicalShoulder.label>venstre skulder</LeftMechanicalShoulder.label>
-	
-	<LeftMechanicalArm.label>venstre arm</LeftMechanicalArm.label>
-	
-	<LeftMechanicalHand.label>venstre hånd</LeftMechanicalHand.label>
-	
-	<LeftHandMechanicalPinky.label>venstre lillefinger</LeftHandMechanicalPinky.label>
-	
-	<LeftHandMechanicalRingFinger.label>venstre ringfinger</LeftHandMechanicalRingFinger.label>
-	
-	<LeftHandMechanicalMiddleFinger.label>venstre langefinger</LeftHandMechanicalMiddleFinger.label>
-	
-	<LeftHandMechanicalIndexFinger.label>venstre pegefinger</LeftHandMechanicalIndexFinger.label>
-	
-	<LeftHandMechanicalThumb.label>venstre tommeltot</LeftHandMechanicalThumb.label>
-	
-	<RightMechanicalShoulder.label>højre skulder</RightMechanicalShoulder.label>
-	
-	<RightMechanicalArm.label>højre arm</RightMechanicalArm.label>
-	
-	<RightMechanicalHand.label>højre hånd</RightMechanicalHand.label>
-	
-	<RightHandMechanicalPinky.label>højre lillefinger</RightHandMechanicalPinky.label>
-	
-	<RightHandMechanicalRingFinger.label>højre ringfinger finger</RightHandMechanicalRingFinger.label>
-	
-	<RightHandMechanicalMiddleFinger.label>højre langefinger</RightHandMechanicalMiddleFinger.label>
-	
-	<RightHandMechanicalIndexFinger.label>højre pegefinger</RightHandMechanicalIndexFinger.label>
-	
-	<RightHandMechanicalThumb.label>højre tommelfinger</RightHandMechanicalThumb.label>
-	
-	<LeftMechanicalLeg.label>venstre ben</LeftMechanicalLeg.label>
-	
-	<LeftMechanicalFoot.label>venstre fod</LeftMechanicalFoot.label>
-	
-	<LeftFootMechanicalLittleToe.label>venstre lilletå</LeftFootMechanicalLittleToe.label>
-	
-	<LeftFootMechanicalFourthToe.label>venstre fjerde tå</LeftFootMechanicalFourthToe.label>
-	
-	<LeftFootMechanicalMiddleToe.label>venstre miderste tå</LeftFootMechanicalMiddleToe.label>
-	
-	<LeftFootMechanicalSecondToe.label>venstre fods anden tå</LeftFootMechanicalSecondToe.label>
-	
-	<LeftFootMechanicalBigToe.label>venstre fods storetå</LeftFootMechanicalBigToe.label>
-	
-	<RightMechanicalLeg.label>højre ben</RightMechanicalLeg.label>
-	
-	<RightMechanicalFoot.label>højre fod</RightMechanicalFoot.label>
-	
-	<RightFootMechanicalLittleToe.label>højre fods lilletå</RightFootMechanicalLittleToe.label>
-	
-	<RightFootMechanicalFourthToe.label>højre fods fjerde tå</RightFootMechanicalFourthToe.label>
-	
-	<RightFootMechanicalMiddleToe.label>højre fods miderste tå</RightFootMechanicalMiddleToe.label>
-	
-	<RightFootMechanicalSecondToe.label>højre fods anden tå</RightFootMechanicalSecondToe.label>
-	
-	<RightFootMechanicalBigToe.label>højre fods storetå</RightFootMechanicalBigToe.label>
-	
-	<MechanicalCentipedeBodyFirstRing.label>første kropsring</MechanicalCentipedeBodyFirstRing.label>
-	
-	<MechanicalCentipedeBodySecondRing.label>anden kropsring</MechanicalCentipedeBodySecondRing.label>
-	
-	<MechanicalCentipedeBodyThirdRing.label>trejde kropsring</MechanicalCentipedeBodyThirdRing.label>
-	
-	<MechanicalCentipedeBodyFourthRing.label>fjerde kropsring</MechanicalCentipedeBodyFourthRing.label>
-	
-	<MechanicalCentipedeBodyFifthRing.label>femte kropsring</MechanicalCentipedeBodyFifthRing.label>
-	
-	<MechanicalCentipedeBodySixthRing.label>sjette kropsring</MechanicalCentipedeBodySixthRing.label>
-	
-	<ArtificialBrain.label>kunstig hjerne</ArtificialBrain.label>
+  <MechanicalNeck.label>hals</MechanicalNeck.label>
+  <MechanicalHead.label>hoved</MechanicalHead.label>
+  <ArtificialBrain.label>kunstig hjerne</ArtificialBrain.label>
+  <SightSensor.label>synssensor</SightSensor.label>
+  <HearingSensor.label>hørelsessensor</HearingSensor.label>
+  <SmellSensor.label>lugtesensor</SmellSensor.label>
+  <MechanicalShoulder.label>skulder</MechanicalShoulder.label>
+  <MechanicalArm.label>arm</MechanicalArm.label>
+  <MechanicalHand.label>hånd</MechanicalHand.label>
+  <MechanicalFinger.label>finger</MechanicalFinger.label>
+  <MechanicalLeg.label>ben</MechanicalLeg.label>
+  <MechanicalFoot.label>fod</MechanicalFoot.label>
+
+
+  <!--===================== Human-like specific (lancer, scyther) ====================-->
+
+  <MechanicalThorax.label>brystkasse</MechanicalThorax.label>
+
+
+  <!--===================== Scyther specific ====================-->
+
+  <Blade.label>klinge</Blade.label>
+
+  <MechanicalCentipedeBodyFirstRing.label>første kropsring</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.labelShort>kropsring</MechanicalCentipedeBodyFirstRing.labelShort>
+
+  <MechanicalCentipedeBodySecondRing.label>anden kropsring</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.labelShort>kropsring</MechanicalCentipedeBodySecondRing.labelShort>
+
+  <MechanicalCentipedeBodyThirdRing.label>tredje kropsring</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.labelShort>kropsring</MechanicalCentipedeBodyThirdRing.labelShort>
+
+  <MechanicalCentipedeBodyFourthRing.label>fjerde kropsring</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.labelShort>kropsring</MechanicalCentipedeBodyFourthRing.labelShort>
+
+  <MechanicalCentipedeBodyFifthRing.label>femte kropsring</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.labelShort>kropsring</MechanicalCentipedeBodyFifthRing.labelShort>
+
+  <MechanicalCentipedeBodySixthRing.label>sjette kropsring</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.labelShort>kropsring</MechanicalCentipedeBodySixthRing.labelShort>
+
 
 </LanguageData>

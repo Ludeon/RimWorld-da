@@ -1,24 +1,26 @@
-﻿hat
-bluse
+﻿bluse
+button-down shirt
+selskabsbluse
 jakke
-høj hat
 regnjakke
-jock strap
-belte
-slips
 jakkesæt
-rumdragt
 selskabskjole
 parka
 lang frakke
-sko
-et par bukser
-suit of power armor
-et par seler
+rumdragt
+power armor suit
+
 butterfly
+slips
+belte
+jock strap
+
+hat
 bowlerhat
 kasket
 hue
-selskabsbluse
+høj hat
 
-
+sko
+støvle
+sandal
