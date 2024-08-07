@@ -2,40 +2,40 @@
 <LanguageData>
 
   <LetterDay>d</LetterDay>
-  <LetterHour>h</LetterHour>
+  <LetterHour>t</LetterHour>
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
 
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>dage</DaysLower>
+  <SecondsLower>sekunder</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
+  <SeasonSpring>forår</SeasonSpring>
+  <SeasonSummer>sommer</SeasonSummer>
+  <SeasonFall>efterår</SeasonFall>
+  <SeasonWinter>vinter</SeasonWinter>
 
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
+  <QuadrumAprimay>Aprimaj</QuadrumAprimay>
   <QuadrumJugust>Jugust</QuadrumJugust>
   <QuadrumSeptober>Septober</QuadrumSeptober>
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <QuadrumDecembary>Decembunar</QuadrumDecembary>
 
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} quadrums, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} quadrums, {2} days</AgeBiological>
+  <Born>Født: {0}</Born>
+  <AgeChronological>Kronologisk alder: {0} år, {1} kvartaler, {2} dage</AgeChronological>
+  <AgeBiological>Biologisk alder: {0} år, {1} kvartaler, {2} dage</AgeBiological>
 
   <!-- Date periods -->
-  <Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
-  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+  <Period1Year>1 år</Period1Year>
+  <PeriodYears>{0} år</PeriodYears>
+  <Period1Quadrum>1 kvartal</Period1Quadrum>
+  <PeriodQuadrums>{0} kvartaler</PeriodQuadrums>
+  <Period1Day>1 dag</Period1Day>
+  <PeriodDays>{0} dage</PeriodDays>
+  <Period1Hour>1 time</Period1Hour>
+  <PeriodHours>{0} timer</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Started>Begyndte</Started>
+  <Lasted>Varede</Lasted>
+  <OccurredTimeAgo>fandt sted for {0} tid siden</OccurredTimeAgo>
 
 </LanguageData>

@@ -9,7 +9,7 @@
   <LetterLabelCropBlight>Plantepest</LetterLabelCropBlight>
   <CropBlight>En mystisk plantepest har ødelagt dine afgrøder.</CropBlight>
 
-  <LetterLabelMiracleHeal>Mirakle</LetterLabelMiracleHeal>
+  <LetterLabelMiracleHeal>Mirakel</LetterLabelMiracleHeal>
   <MiracleHeal>{0} har oplevet en mirakuløs bedring!</MiracleHeal>
 
   <!-- Enemy raids -->
@@ -35,10 +35,10 @@
   <ShortCircuitWasLarge>Denne store mængde strøm har skabt en eksplosion af betydelig størrelse.</ShortCircuitWasLarge>
   <ShortCircuitWasHuge>Det er virkelig en enorm eksplosion. Wow.</ShortCircuitWasHuge>
 
-  <TraderArrival>Et handesl skib passerer i nærheden.\n\nDe er kendt som {0}. De er en {1}.</TraderArrival>
+  <TraderArrival>Et handelsskib passerer i nærheden.\n\nDe er kendt som {0}. De er en {1}.</TraderArrival>
 
-  <SingleTravelerPassing>En {0} fra {1} passerer igennem. [PAWN_pronoun] er kaldt {2}.</SingleTravelerPassing>
-  <GroupTravelersPassing>En gruppe af rejsende fra {0} passerer igennem.</GroupTravelersPassing>
+  <SingleTravelerPassing>En {0} fra {1} passerer igennem området. [PAWN_pronoun] er kaldt {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>En gruppe af rejsende fra {0} passerer igennem området.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Besøgende</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>En {0} fra {1} besøger kolonien.\n\n[PAWN_pronoun] er kaldt {2}.{3}{4}</SingleVisitorArrives>
@@ -46,27 +46,27 @@
   <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] er leder af den fraktion.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Besøgende</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>En gruppe fra {0} besøger kolonien.{1}{2}</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>\n\nDe ser ud til at have et par ting at handle med.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveTraderInfo>\n\nDe ser ud til at have et par ting til salg.</GroupVisitorsArriveTraderInfo>
   <GroupVisitorsArriveLeaderInfo>\n\nEn af de besøgende - {0}, er lederen af den fraktion.</GroupVisitorsArriveLeaderInfo>
-  <VisitorsLeaving>De besøgende fra {0} rejser.</VisitorsLeaving>
+  <VisitorsLeaving>De besøgende fra {0} rejser videre.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>vandrer slutter sig til</LetterLabelWandererJoin>
-  <WandererJoin>En {0} kaldet [PAWN_nameDef] er ankommet, og slutter sig til kolonien. [PAWN_pronoun] er en {1}.</WandererJoin>
+  <WandererJoin>En {0} kaldet [PAWN_nameDef] er ankommet og slutter sig til kolonien. [PAWN_pronoun] er en {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Menneskejæger flok</LetterLabelManhunterPackArrived>
   <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke passere døre, så hvis du bliver bag mure vil du være i sikker. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Den ældgamle struktur har udsendt en psykisk puls, der har drevet nærliggende dyr fra forstanden.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Den nedstyrtede skibs del har udsendt en fokuseret psykisk puls, der har drevet kolonister {0} sindssyg.</LetterShipPartDroveColonistInsane>
+  <MessageAnimalInsanityPulse>Den ældgammel struktur har udsendt en psykisk puls, der har drevet nærliggende dyr fra forstanden.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Den nedstyrtede skibsdel har udsendt en psykisk puls, der har drevet kolonister {0} sindssyge.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vågnede for {0} dage siden</AwokeDaysAgo>
-  <PsychicDroneLevel>Psykisk pulse niveau: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>Den psykiske puls' styrke: {0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>Lav</PsychicDroneLevelLow>
   <PsychicDroneLevelMedium>Medium</PsychicDroneLevelMedium>
   <PsychicDroneLevelHigh>Høj</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Ektreme</PsychicDroneLevelExtreme>
-  <LetterLabelPsychicDroneLevelIncreased>Pulse intensiverer</LetterLabelPsychicDroneLevelIncreased>
-  <LetterPsychicDroneLevelIncreased>Den nedstyrtede skibs del udsender nu en mere kraftfuld form for psykisk puls. Hver menneskelignende i området føler sig nu mere forstyrret, rædselsslagen, og paranoid.</LetterPsychicDroneLevelIncreased>
+  <PsychicDroneLevelExtreme>Ektrem</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Pulsen intensiverer</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Den nedstyrtede skibsdel udsender nu en mere kraftfuld form for psykisk puls. Hver menneskelignende i området føler sig nu mere forstyrret, rædselsslagen og paranoid.</LetterPsychicDroneLevelIncreased>
 
   <!-- Agent revealed -->
   <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
