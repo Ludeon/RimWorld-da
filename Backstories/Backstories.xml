@@ -174,7 +174,7 @@ HECAP got to know the kitchens and basements of HIS master's mansion well, but n
 	<Bodyguard22>
 		<title>Bodyguard</title>
 		<titleShort>Bodyguard</titleShort>
-		<desc>NAME fandt arbejde på en midword hvor HE beskyttede enhver der betalte HIM. HECAP gained proficiency in many different combat forms, and was known for HIS ruthlessness against those who crossed HIM.</desc>
+		<desc>NAME fandt arbejde på en midworld hvor HE beskyttede enhver der betalte HIM. HECAP gained proficiency in many different combat forms, and was known for HIS ruthlessness against those who crossed HIM.</desc>
 	</Bodyguard22>
 	<Novelist96>
 		<title>Novelist</title>
@@ -3931,9 +3931,9 @@ NAME did try to use a gun one time, but it went very poorly, as the loud noise m
 One day, HE left the stove on, and accidentally burned down the whole building. This event shook HIM so much that HE swore to never touch a stove again.</desc>
 	</FearfulChef79>
 	<PetKeeper10>
-		<title>Pet keeper</title>
-		<titleShort>Pet keeper</titleShort>
-		<desc>NAME spent most of HIS childhood tending the dyr HE had bought or rescued.
+		<title>Kæledyrspasser</title>
+		<titleShort>Dyrepasser</titleShort>
+		<desc>NAME brugte det meste af sin barndom på at pleje de dyr som HE havde købt eller reddet.
 
 HECAP saw beauty in natural things more than fabricated objects, and chose the company of HIS dyr over that of HIS peers.</desc>
 	</PetKeeper10>
@@ -3945,11 +3945,11 @@ HECAP saw beauty in natural things more than fabricated objects, and chose the c
 HECAP hoped to leave HIS past behind and find long-lived companions. HECAP knew the pain of loss too well.</desc>
 	</Herpetologist38>
 	<ShipChild6>
-		<title>Ship child</title>
-		<titleShort>Ship child</titleShort>
-		<desc>NAME's family were space traders. One day, NAME's cryptosleep pod failed in transit. HECAP had to spend years awake on the ship as the other slept.
+		<title>Skibsbarn</title>
+		<titleShort>Skibsbarn</titleShort>
+		<desc>NAMEs familie var rumhandlere. En dag brød NAMEs cryptosleep pod sammen i transit. HECAP var tvunget til at tilbringe flere år vågen på skibet mens de andre sov.
 
-HECAP filled HIS days creating beautiful contraptions from the ship's cargo - but HE didn't learn a lot of basic planetary living skills.</desc>
+HECAP filled HIS days creating beautiful contraptions fra skibets last - men HE lærte ikke mange basale færdigheder til at kunne leve på planeter.</desc>
 	</ShipChild6>
 	<ArtifactHunter88>
 		<title>Artifact hunter</title>
@@ -3959,46 +3959,46 @@ HECAP filled HIS days creating beautiful contraptions from the ship's cargo - bu
 A steady trigger finger and careful planning kept NAME alive.</desc>
 	</ArtifactHunter88>
 	<ChildResearcher33>
-		<title>Child researcher</title>
-		<titleShort>Researcher</titleShort>
-		<desc>A frightfully intelligent child, NAME was kidnapped by a glitterworld corporation and forced to research technologies for weaponizing anti-matter.
+		<title>Børneforsker</title>
+		<titleShort>Forsker</titleShort>
+		<desc>NAME, et skræmmende intelligent barn, blev kidnappet af en glitterworld-virksomhed og tvunget til at forske i teknologier der våbenliggør antistof.
 
-HECAP vowed never to invent anything again.</desc>
+HECAP svor at HE aldrig ville opfinde noget nogensinde igen.</desc>
 	</ChildResearcher33>
 	<Fugitive94>
-		<title>Fugitive</title>
-		<titleShort>Fugitive</titleShort>
-		<desc>NAME rebelled against the corporation HE worked for. HECAP failed, and was forced him to go on the run.
+		<title>Flygtning</title>
+		<titleShort>Flygtning</titleShort>
+		<desc>NAME gjorde oprør mod den virksomhed, HE arbejdede for. HECAP mislykkedes og var tvunget til at flygte.
 
-HECAP was always on the move, always leaving everything behind. HECAP tried to gain supporters for HIS cause, but failed due to HIS poor social skills.</desc>
+HECAP var hele tiden på farten og efterlod altid alting bag sig. HECAP forsøgte at skaffe tilhængere til sin sag, men mislykkedes på grund af sine dårlige sociale færdigheder.</desc>
 	</Fugitive94>
 	<VidtubeStar2>
 		<title>Vidtube star</title>
 		<titleShort>Vidtuber</titleShort>
 		<desc>NAME's hobby was making videos for the popular video sharing service Vidtube. HECAP made everything from video game reviews to pasta cooking guides.
 
-HECAP gained a over a million followers.</desc>
+HECAP fik over en million følgere.</desc>
 	</VidtubeStar2>
 	<GunDealer81>
-		<title>Gun dealer</title>
-		<titleShort>Gun dealer</titleShort>
-		<desc>NAME traded high-tech firearms between warring factions.
+		<title>Våbenhandler</title>
+		<titleShort>Våbenhandler</titleShort>
+		<desc>NAME traded højteknologiske skydevåben between warring factions.
 
 Over time, HE became very skilled at conducting product demonstrations and negotiating profitable deals.</desc>
 	</GunDealer81>
 	<AspiringPhysicist7>
-		<title>Aspiring physicist</title>
-		<titleShort>Student</titleShort>
-		<desc>The daughter of an engineer and doctor, NAME's early life was intellectually rich. After visiting a physics lab, she decided she wanted to be a quantum physicist.
+		<title>AAspirerende fysiker</title>
+		<titleShort>Elev</titleShort>
+		<desc>Som datter til en ingeniør og en doktor var NAMEs første del af livet intellektuelt rigt. Efter et besøg på et fysiklaboratorium, besluttede hun sig for at hun ville være kvantefysiker.
 
-Bitten by a kamel, kicked off a hest, and chased by dogs, NAME developed a fear of dyr.</desc>
+Efter at være blevet bidt af en kamel, smidt af en hest og jagtet af hunde, udviklede NAME en frygt for dyr.</desc>
 	</AspiringPhysicist7>
 	<DeepSpaceSurveor17>
-		<title>Deep space surveor</title>
-		<titleShort>Surveyor</titleShort>
-		<desc>NAME was a deep space surveyor. She studied which worlds were the most suitable for colonization.
+		<title>Inspektør af det dybe rum</title>
+		<titleShort>Inspektør</titleShort>
+		<desc>NAME var en inspektør af det dybe rum. was a deep space surveyor. Hun undersøgte hvilke verdener der var bedst egnet til kolonisering.
 
-Her expeditions were met by hostile natives, green-painted space-women, and wannabe Greek gods. Surviving many firefights, she learned to build rudimentary lathes and rock cannons to fend off enemies.</desc>
+Under sine ekspeditioner blev hun mødt af fjendtlige indfødte, rumkvinder som var malet grønne og wannabe græske guder. Efter at have overlevet mange ildkampe, lærte hun at bygge rudimentære drejebænke og stenkanoner til at afværge fjender.</desc>
 	</DeepSpaceSurveor17>
 	<Punk70>
 		<title>Punk</title>
