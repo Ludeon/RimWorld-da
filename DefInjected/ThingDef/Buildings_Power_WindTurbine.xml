@@ -2,7 +2,7 @@
 <LanguageData>
 
   <WindTurbine.label>vindturbine</WindTurbine.label>
-  <WindTurbine.description>En vind drevet elektrisk generator. Kræver et stort åbent område foran og bag sig for optimalt flow.</WindTurbine.description>
+  <WindTurbine.description>En vinddrevet elektrisk generator. Kræver et stort åbent område foran og bag sig for optimalt flow.</WindTurbine.description>
   <WindTurbine_Blueprint.label>vindturbine (plan)</WindTurbine_Blueprint.label>
   <WindTurbine_Frame.label>vindturbine (bygger)</WindTurbine_Frame.label>
 

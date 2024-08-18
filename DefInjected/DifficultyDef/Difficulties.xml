@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Peaceful.label>Peaceful</Peaceful.label>
-  <Peaceful.description>Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
+  <Peaceful.label>Fredelig</Peaceful.label>
+  <Peaceful.description>Build a community in sandbox environment.\n\nAnbefalet til: Spillere som gerne vil fokusere på det samfundsbyggende aspekt af RimWorld.\n\nStore truende begivenheder er slået fra på dette niveau, men udfordringer som sygdom, mentale nedbrud og sindssyge dyr kan stadig forekomme.</Peaceful.description>
 
-  <Easy.label>Builder</Easy.label>
-  <Easy.description>Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to relax.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled.</Easy.description>
+  <Easy.label>Byggeri</Easy.label>
+  <Easy.description>Byg en koloni mens du stadig bliver udsat for en smule fare.\n\nAnbefalet til: Spillere som ikke har prøvet denne type spil før, eller spillere som gerne vil kunne slappe lidt mere af.\n\nStore trusler er slået til, men de er svagere end på de andre niveauer. Nogle ekstremt farlige begivenheder er slået fra.</Easy.description>
 
   <Medium.label>Medium</Medium.label>
-  <Medium.description>Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.</Medium.description>
+  <Medium.description>Byg et samfund mens du bliver udsat for farlige trusler.\n\nAnbefalet til: Spillere med erfaring i strategispil som prøver RimWorld for første gang, eller RimWorld-spillere som gerne vil have tid og råderum til at forfølge sjove eller anderledes mål.</Medium.description>
 
-  <Hard.label>Hard</Hard.label>
-  <Hard.description>Struggle to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play an intense story requiring significant skill to survive.\n\nThere is no perfect game here - some challenges will be impossible to overcome without losses, so you'll have to fight wounded, sacrifice to survive, and recover.</Hard.description>
+  <Hard.label>Svær</Hard.label>
+  <Hard.description>Kæmp for at overleve på en vanskelig, rå planet.\n\nAnbefalet til: Spillere med erfaring i RimWorld som gerne vil prøve kræfter med en intens historie, som kræver gode færdigheder for at overleve.\n\nDet perfekte spil findes ikke her - nogle udfordringer vil være umulige at klare uden tab, så du vil være nødt til at slås mens du er såret, ofre for at overleve, og genvinde dine kræfter.</Hard.description>
 
-  <ExtraHard.label>Extra hard</ExtraHard.label>
-  <ExtraHard.description>Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Players with a lot of experience who want to push themselves beyond Hard mode.\n\nSucceeding at this level requires a well-rounded understanding of diverse strategies, an eye towards preparation, and some luck. Threats can spike and combine in vicious ways, so sometimes you'll have to accept serious losses to survive.</ExtraHard.description>
+  <ExtraHard.label>Ekstra svær</ExtraHard.label>
+  <ExtraHard.description>Oplev brutale overlevelsesudfordringer. Prisen for at overleve er blodig.\n\nAnbefalet til: Spillere med meget erfaring som gerne vil udfordres på et endnu højere niveau end "svær".\n\nFor at klare sig på dette niveau, kræver det en god forståelse af forskellige strategier, evnen til at planlægge frem i tiden, og lidt held. Trusler kan stige ud af det blå og komme samtidig på utilgivelige måder, så nogle gange bliver du nødt til at acceptere store tab for at overleve.</ExtraHard.description>
 
-  <Extreme.label>Extreme</Extreme.label>
-  <Extreme.description>Apply mastery of every RimWorld skill to survive a harrowing trial against a cruel, unfair world.\n\nRecommended for: Players who want to face brutal, unfair situations that require the deployment of fluent and well-rounded skills just to avoid losing everything.\n\nThere is no clean game here. You'll spend a lot of time fighting wounded and recovering, you'll need to prepare carefully, and you'll need to sacrifice things you love to avoid death.</Extreme.description>
+  <Extreme.label>Ekstrem</Extreme.label>
+  <Extreme.description>Apply mastery of every RimWorld skill to survive a harrowing trial mod en ondskabsfuld, uretfærdig verden.\n\nAnbefalet til: Spillere som gerne vil opleve brutale, uretfærdige situationer som kræver anvendelse af en bred række af veludviklede færdigheder for at undgå at miste alt.\n\nDer er ikke noget fejlfrit spil her. Du vil bruge rigtig meget tid på både at slås mens du er såret og genvinde dine kræfter, og du vil være nødt til at planlægge omhyggeligt og ofre ting som du holder af for at overleve.</Extreme.description>
 
 
 </LanguageData>

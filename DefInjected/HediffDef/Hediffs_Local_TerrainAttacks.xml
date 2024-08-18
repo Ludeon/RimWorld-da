@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SandInEyes.label>sand</SandInEyes.label>
+  <SandInEyes.battleStateLabel>blind</SandInEyes.battleStateLabel>
+  <SandInEyes.labelNoun>sand</SandInEyes.labelNoun>
+
+  <DirtInEyes.label>jord</DirtInEyes.label>
+  <DirtInEyes.battleStateLabel>blind</DirtInEyes.battleStateLabel>
+  <DirtInEyes.labelNoun>jord</DirtInEyes.labelNoun>
+
+  <MudInEyes.label>mudder</MudInEyes.label>
+  <MudInEyes.battleStateLabel>blind</MudInEyes.battleStateLabel>
+  <MudInEyes.labelNoun>mudder</MudInEyes.labelNoun>
+
+  <GravelInEyes.label>grus</GravelInEyes.label>
+  <GravelInEyes.battleStateLabel>blind</GravelInEyes.battleStateLabel>
+  <GravelInEyes.labelNoun>grus</GravelInEyes.labelNoun>
+
+  <WaterInEyes.label>vand</WaterInEyes.label>
+  <WaterInEyes.battleStateLabel>blind</WaterInEyes.battleStateLabel>
+  <WaterInEyes.labelNoun>vand</WaterInEyes.labelNoun>
+
+
+</LanguageData>

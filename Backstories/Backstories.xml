@@ -3241,15 +3241,15 @@ HECAP was very good at convincing others to do his physical work, and made it a 
 		<desc>NAME was a research chemist. HECAP worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments.</desc>
 	</Chemist38>
 	<SuperSoldier19>
-		<title>Super soldier</title>
-		<titleShort>Soldier</titleShort>
-		<desc>NAME's government ran an experimental super-soldier development program. They kidnapped thousands of infants, conditioned their minds with drugs and machines, and trained them to fight.
+		<title>Supersoldat</title>
+		<titleShort>Soldat</titleShort>
+		<desc>NAME's government ran an experimental super-soldier development program. De kidnappede tusindvis af spædbørn, udsatte deres hjerner for  conditioned their minds with drugs and machines, and trained them to fight.
 
-Most infants died, but NAME did not. He killed his first man at age six, and was fighting in field operations not long after.</desc>
+De fleste spædbørn døde, men NAME gjorde ikke. HE slog sin første mand ihjel i en alder af seks år, og .... kort tid efter. and was fighting in field operations not long after.</desc>
 	</SuperSoldier19>
 	<SuperSoldier81>
-		<title>Super soldier</title>
-		<titleShort>Soldier</titleShort>
+		<title>Supersoldat</title>
+		<titleShort>Soldat</titleShort>
 		<desc>Product of a super-soldier program run by a now-deposed government, NAME was lost. HECAP survived the final suicide attack on the enemy mothership. What now?
 
 For the first time in his life, HE had no orders, no objectives. HECAP rose from wreckage and strove towards uncertainty, towards freedom.</desc>
@@ -3369,7 +3369,7 @@ HECAP learned early on that it wasn't always what HE knew, but who HE knew that 
 	</StreetPeddler62>
 	<PrivateDetective57>
 		<title>Private detective</title>
-		<titleShort>Detective</titleShort>
+		<titleShort>Detektiv</titleShort>
 		<desc>As a private eye, sharp wits and a silver tongue were NAME's greatest tools. HECAP often spent HIS nights working cases that ranged from uncovering affairs and learning trade secrets to solving murder cases and infiltrating criminal organizations. There wasn't a case HE wouldn't accept for the right price.</desc>
 	</PrivateDetective57>
 	<BodyguardTrainee27>
@@ -3380,21 +3380,21 @@ HECAP learned early on that it wasn't always what HE knew, but who HE knew that 
 NAME was taught about many herbs and natural poisons to help HIM prevent clients from being poisoned.</desc>
 	</BodyguardTrainee27>
 	<SpaceBartender52>
-		<title>Space bartender</title>
+		<title>Rumbartender</title>
 		<titleShort>Bartender</titleShort>
-		<desc>NAME became a bartender on a space station. HECAP interacted with and befriended many strangers.
+		<desc>NAME blev bartender på en rumstation. HECAP interagerede og blev venner med mange fremmede.
 
 As time went on, NAME used HIS knowledge of herbs to craft HIS own strange concoctions for HIS customers.</desc>
 	</SpaceBartender52>
 	<SpoiledChild65>
-		<title>Spoiled child</title>
-		<titleShort>Spoiled</titleShort>
+		<title>Forkælet barn</title>
+		<titleShort>Forkælet</titleShort>
 		<desc>NAME was the child of an industrious space engineer. HISCAP parents forbade most manual and dangerous tasks, so HE learned art and music instead.
 
 HECAP loved dyr, but HIS parents never let HIM have a pet - though HE played with other people's pets a lot.</desc>
 	</SpoiledChild65>
 	<CosmeticSurgeon52>
-		<title>Cosmetic kirurg</title>
+		<title>Kosmetisk kirurg</title>
 		<titleShort>Kirurg</titleShort>
 		<desc>NAME had a terrible bedside manner due to HIS abrasiveness. HECAP often bullied HIS patients into getting cosmetic surgery. HECAP made a lot of money this way.
 
@@ -3415,11 +3415,11 @@ HECAP always maintained a distance from these events, being continuously surpris
 HECAP hoped to end the endless wars, until HIS consularship, the St. Anthem, was attacked by a raider fleet.</desc>
 	</UprightDiplomat83>
 	<CaveChild67>
-		<title>Cave child</title>
-		<titleShort>Cave kid</titleShort>
-		<desc>NAME grew up in a cave on an tundra planet, and was adopted by a traveling group of entertainers known only as the Wizards. Once a starfaring crew, the Wizards told HIM wondrous stories about the universe.
+		<title>Hulebarn</title>
+		<titleShort>Hulebarn</titleShort>
+		<desc>NAME voksede op i en hule på en tundraplanet og blev adopteret af en gruppe rejsende entertainers kendt kun som Troldmændene. Once a starfaring crew, the Wizards told HIM wondrous stories about the universe.
 
-One day, the Wizards did not return from scavenging. After years of waiting, NAME set off into space to find them.</desc>
+En dag kom Troldmændende ikke tilbage fra scavenging. Efter at have ventet på dem i flere år, NAME rejste ud i rummet for at finde dem.</desc>
 	</CaveChild67>
 	<VideoProducer97>
 		<title>Video producer</title>
@@ -3464,11 +3464,11 @@ After participating in a failed rebellion, she fled her hjemmeplanet to travel w
 HECAP learned some medicine from watching the plague doctors, but was mentally scarred by the ordeal.</desc>
 	</PlagueSurvivor48>
 	<UnethicalDoctor97>
-		<title>Unethical doctor</title>
-		<titleShort>Doctor</titleShort>
-		<desc>NAME became a doctor to save lives and research medicine. HECAP soon realized the only way to make progress on HIS research was to perform experiments on human patients.
+		<title>Uetisk læge</title>
+		<titleShort>Læge</titleShort>
+		<desc>NAME blev læge for at redde liv og forske i medicin. HECAP indså hurtigt at den eneste måde HE kunne gøre fremskridt på, var ved at eksperimentere på menneskelige patienter.
 
-HECAP often used patients for HIS experiments - whether they were willing or not.</desc>
+HECAP brugte ofte patienter til sine eksperimenter - uanset om de ville det eller ej.</desc>
 	</UnethicalDoctor97>
 	<OffworldRecruit22>
 		<title>Offworld recruit</title>
@@ -3602,25 +3602,25 @@ One day, he had a mental break and went on a long rampage, destroying several to
 A polite child, most fighters accepted HIS requests for training - but moving around often without finishing a tutelage made HIM lazy.</desc>
 	</NewAgeDuelist36>
 	<PirateDoctor33>
-		<title>Pirate doctor</title>
-		<titleShort>Bad doc</titleShort>
+		<title>Piratlæge</title>
+		<titleShort>Dårlig læge</titleShort>
 		<desc>NAME had a passion for medicine, but never bothered to get a medical degree. Only underfunded pirates and terrorists were desperate enough to hire HIS services, and HIS surgical patients had about a 50% survival rate.
 
 Despite this, HIS optimistic attitude drove HIM to keep trying to heal those in need. As long as they paid up front.</desc>
 	</PirateDoctor33>
 	<SpoiledBrat84>
-		<title>Spoiled brat</title>
-		<titleShort>Brat</titleShort>
-		<desc>Born in a rich family, NAME was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.
+		<title>Forkælet møgunge</title>
+		<titleShort>Møgunge</titleShort>
+		<desc>Født ind i en rig familie, HE fik alt foræret, og udviklede aldrig en grundlæggende arbejdsmorale ................ and never developed basic work ethic or the foundations of a non-dependent personality.
 
-HECAP was expected to become one of the best doctors in the world.</desc>
+Man forventede at HE ville blive en af de bedste læger i verdenen.</desc>
 	</SpoiledBrat84>
 	<BloodyDentist33>
-		<title>Bloody dentist</title>
-		<titleShort>Dentist</titleShort>
-		<desc>After studying at a famous college, NAME's weak personality eventually snapped under the strain of angry administrators and whining patients. HECAP went on a secret murder spree, killing many of those under HIS care.
+		<title>Blodig tandlæge</title>
+		<titleShort>Tandlæge</titleShort>
+		<desc>Efter at have studeret på et kendt universitet, After studying at a famous college, NAME's weak personality eventually snapped under the strain of angry administrators and whining patients. HECAP went on a secret murder spree, killing many of those under HIS care.
 
-After a pursuit, HE managed to escape HIS planet and travel to a new world.</desc>
+After a pursuit, HE formåede at forlade sin planet og rejse til en ny verden.</desc>
 	</BloodyDentist33>
 	<CowFarmer93>
 		<title>Cow farmer</title>
@@ -3632,7 +3632,7 @@ One day, when the trade ship was overhead, HE stowed away among the goods in the
 	<MasterChef6>
 		<title>Mesterkok</title>
 		<titleShort>Kok</titleShort>
-		<desc>On a glitterworld, NAME found a job washing dishes at a famous restaurant and worked HIS way up the ranks.
+		<desc>På en glitterworld, NAME found a job washing dishes at a famous restaurant and worked HIS way up the ranks.
 
 A few years later, HIS career came to an end when someone poisoned the meal HE was preparing for the mayor. Jobless, HE and left to explore the stars once again.</desc>
 	</MasterChef6>
@@ -3742,18 +3742,18 @@ HECAP got used to the cold. HECAP never got used to dealing with those strange g
 	<Tinkerer86>
 		<title>Tinkerer</title>
 		<titleShort>Tinkerer</titleShort>
-		<desc>"How does this work?
+		<desc>"Hvordan virker det her?
 
-Why does this move?
+Hvorfor bevæger denne her sig?
 
-Maybe if I change this... oops, I hope it works better... or maybe I broke it..."</desc>
+Måske hvis jeg ændrer på det her... hov, jeg håber at det hjalp... eller måske har jeg ødelagt den..."</desc>
 	</Tinkerer86>
 	<TragicLoner16>
 		<title>Tragic loner</title>
 		<titleShort>Loner</titleShort>
-		<desc>NAME was involved in a traumatic accident that resulted in HIM killing HIS own family.
+		<desc>NAME var involveret i en traumatisk ulykke som resulterede i at HE slog sin egen familie ihjel.
 
-Cast out from society, HE was left with only HIS animal companions and several engineering textbooks to keep HIM company.</desc>
+Udstødt af samfundet, HE var efterladt med kun sine dyreledsagere og ingeniørfagbøger til at holde HIM med selskab.</desc>
 	</TragicLoner16>
 	<RocketPioneer19>
 		<title>Rocket pioneer</title>
@@ -3763,11 +3763,11 @@ Cast out from society, HE was left with only HIS animal companions and several e
 HECAP later spent years of his life on several worlds, helping less-developed planets develop rocket technology.</desc>
 	</RocketPioneer19>
 	<AntisocialChild27>
-		<title>Antisocial child</title>
+		<title>Antisocialt barn</title>
 		<titleShort>Antisocial</titleShort>
-		<desc>NAME lacked typical social skills, and avoided social interaction.
+		<desc>NAME manglede grundlæggende sociale færdigheder og undgik sociale interaktioner.
 
-HECAP gained satisfaction only from steady work. HECAP especially disliked speaking with overly creative or outgoing individuals.</desc>
+HECAP gained satisfaction kun fra stabilt arbejde. HECAP brød sig især ikke om at tale med overkreative eller ekstroverte individer.</desc>
 	</AntisocialChild27>
 	<ArmySergeant81>
 		<title>Army sergeant</title>
@@ -3777,16 +3777,16 @@ HECAP gained satisfaction only from steady work. HECAP especially disliked speak
 HECAP excelled creating tactically sound plans despite difficult circumstances.</desc>
 	</ArmySergeant81>
 	<YoungPirate59>
-		<title>Young pirate</title>
-		<titleShort>Pirate</titleShort>
-		<desc>NAME was born to pirates, in a dirty metal room that smelled of motor oil.
+		<title>Ung pirat</title>
+		<titleShort>Pirat</titleShort>
+		<desc>NAME blev født hos pirater, i et snavset metalrum som lugtede af benzin.
 
-HECAP was never exactly taught anything, but HE still learned the ways of survival, barter, and combat.</desc>
+HECAP blev aldrig rigtig lært noget, men HE lærte dog stadig was never exactly taught anything, but HE still learned the ways of survival, barter, and combat.</desc>
 	</YoungPirate59>
 	<StellarPirate14>
 		<title>Stellar pirate</title>
 		<titleShort>Pirate</titleShort>
-		<desc>NAME was captain of a pirate ship. HECAP and his crew made their living capturing traders who wandered off-course.
+		<desc>NAME var kaptajn på et piratskib. HECAP and his crew made their living capturing traders who wandered off-course.
 
 HECAP was known for HIS balanced approach to problems, building, fighting, or negotiating as needed.</desc>
 	</StellarPirate14>
@@ -3812,11 +3812,11 @@ NAME eventually found solace in physically demanding work. HECAP especially like
 A revolution brought his father's businesses under state control. Penniless, NAME worked hard to complete HIS education.</desc>
 	</DedicatedStudent61>
 	<LanguageAnalyst65>
-		<title>Language analyst</title>
-		<titleShort>Linguist</titleShort>
-		<desc>After war broke out on HIS hjemmeplanet, NAME was conscripted as a linguist. HECAP spent HIS days in a space station, decoding enemy communications and tending the hydroponic crops.
+		<title>Sproganalytiker</title>
+		<titleShort>Lingvist</titleShort>
+		<desc>Efter at der udbrød krig på HIS hjemmeplanet, NAME was conscripted as a linguist. HECAP tilbragte sine dage på en rumstation hvor HE afkodede fjendens kommunikation og decoding enemy communications and tending the hydroponic crops.
 
-After a meteorite damaged the station, HE was forced to enter cryptosleep and hope for rescue.</desc>
+Efter at en meteorit skadede stationen, var HE tvunget til at gå i cryptosleep og håbe på at blive reddet.</desc>
 	</LanguageAnalyst65>
 	<Infantry36>
 		<title>Infantry</title>
@@ -3833,11 +3833,11 @@ At an early age, she was shown how to use guns and cruelty to project her will. 
 Fortunately for her, someone cut the power to her cell block. Riots ignited. Guards and trained wargs were deployed to quell the uprising. Organizing a few other inmates, NAME escaped in a small spacecraft.</desc>
 	</PrisonerOfWar83>
 	<AngryStudent39>
-		<title>Angry student</title>
-		<titleShort>Student</titleShort>
+		<title>Vred studerende</title>
+		<titleShort>Studerende</titleShort>
 		<desc>NAME trained towards HIS dream of working for his hometown's local council.
 
-For reasons he never quite understood, HE was bullied relentlessly by his classmates. HECAP chose to repress his rage.</desc>
+Af uforklarlige grunde som HE aldrig helt kunne forstå, blev HE nådesløst mobbet af sine klassekammerater. HECAP valgte at undertrykke sin vrede.</desc>
 	</AngryStudent39>
 	<MadAccountant34>
 		<title>Mad accountant</title>
@@ -3851,14 +3851,14 @@ One day, NAME discovered a corruption racket run by some of HIS bosses. After re
 		<titleShort>Student</titleShort>
 		<desc>A midworld child, NAME's wealthy parents sent HIM to a nearby glitterworld to receive a better education.
 
-NAME was a talented student. However, due to his family's wealth, HE never had to do dumb labor.</desc>
+NAME var en talentfuld elev. However, due to his family's wealth, HE never had to do dumb labor.</desc>
 	</TransferStudent80>
 	<Politician92>
-		<title>Politician</title>
-		<titleShort>Politician</titleShort>
-		<desc>NAME was an activist in a powerful political faction. There HE learned the art of persuasion and speech.
+		<title>Politiker</title>
+		<titleShort>Politiker</titleShort>
+		<desc>NAME var en aktivist i en magtfuld politisk faktion. Der lærte HE lærte overtalelse- og talekunsten.
 
-HECAP had many enemies, so HE took secret courses in shooting and hand-to-hand combat.</desc>
+HECAP havde mange fjender, så HE tog hemmelige kurser i skydning og nærkamp.</desc>
 	</Politician92>
 	<DesertRat57>
 		<title>Desert rat</title>
@@ -3903,9 +3903,9 @@ An irrepressibly curious child, NAME caused a religious crisis for HIS tribe whe
 Working as an assembler on a midworld, NAME built an experimental prototype casket from discarded parts. Unfortunately, while HE was searching for the final component, HIS home was leveled by a bomb.</desc>
 	</CasketBuilder57>
 	<JunkyardMechanic0>
-		<title>Junkyard mechanic</title>
-		<titleShort>Mechanic</titleShort>
-		<desc>Left for dead at a young age, NAME was rescued by an old man who ran an urbworld junkyard. The old man forced NAME to do dangerous, demanding work. 
+		<title>Skrotpladsmekaniker</title>
+		<titleShort>Mekaniker</titleShort>
+		<desc>Efterladt til at dø i en ung alder, NAME blev reddet af en gammel mand som ejede en urbworld skrotplads. Den gamle mand tvang NAME til at udføre farligt, krævende arbejde. 
 
 NAME became very familiar with machines, but HE grew up with almost no other experiences.</desc>
 	</JunkyardMechanic0>
@@ -3917,25 +3917,25 @@ NAME became very familiar with machines, but HE grew up with almost no other exp
 HECAP was trained in advanced combat and survival skills. While HE excelled in HIS studies, NAME was a loner and never cared about HIS crewmates.</desc>
 	</MilitaryOfficer12>
 	<Empath28>
-		<title>Empath</title>
-		<titleShort>Empath</titleShort>
-		<desc>NAME was an incredibly empathetic child, so much that HE was totally overwhelmed by simple social interactions. Once, HE stepped on a bug and felt so guilty HE cried for an hour.
+		<title>Empat</title>
+		<titleShort>Empat</titleShort>
+		<desc>NAME var et utroligt empatisk barn - i så stor en grad at HE blev totalt overvældet af simple sociale interaktioner. Engang trådte HE på et insekt og fik så stor skyldfølelse, at HE græd i en time.
 
-NAME did try to use a gun one time, but it went very poorly, as the loud noise made HIM flinch uncontrollably.</desc>
+NAME prøvede at bruge en pistol en enkelt gang, men det gik langt fra godt, da den høje lyd fik HE til at ryste ukontrolleret.</desc>
 	</Empath28>
 	<FearfulChef79>
-		<title>Fearful kok</title>
+		<title>Frygtsom kok</title>
 		<titleShort>Kok</titleShort>
-		<desc>NAME was a excellent kok who worked in a high-end restaurant.
+		<desc>NAME var en fremragende kok som arbejdede på en eksklusiv restaurant.
 
-One day, HE left the stove on, and accidentally burned down the whole building. This event shook HIM so much that HE swore to never touch a stove again.</desc>
+En dag lod HE komfuret stå tændt og brændte ved et uheld hele bygningen ned. Denne hændelse rystede HIM så meget at HE svor, at HE aldrig ville røre et komfur igen.</desc>
 	</FearfulChef79>
 	<PetKeeper10>
 		<title>Kæledyrspasser</title>
 		<titleShort>Dyrepasser</titleShort>
 		<desc>NAME brugte det meste af sin barndom på at pleje de dyr som HE havde købt eller reddet.
 
-HECAP saw beauty in natural things more than fabricated objects, and chose the company of HIS dyr over that of HIS peers.</desc>
+HECAP så skønheden i de naturlige ting mere end de fremstillede genstande, og valgte sine dyrs selskab over sine jævnaldrendes.</desc>
 	</PetKeeper10>
 	<Herpetologist38>
 		<title>Herpetologist</title>

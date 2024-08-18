@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Spacer.label>Rumrejsende</Spacer.label>
-  <Spacer.description>Folk som bor langt borte i rummet.</Spacer.description>
-  <Spacer.pawnsPlural>Rumrejsende</Spacer.pawnsPlural>
-  <Spacer.fixedName>Rumrejsende</Spacer.fixedName>
+  <Ancients.label>ancients</Ancients.label>
+  <Ancients.fixedName>Ancients</Ancients.fixedName>
+  <Ancients.leaderTitle>leder</Ancients.leaderTitle>
+  <Ancients.pawnSingular>ancient</Ancients.pawnSingular>
+  <Ancients.pawnsPlural>ancients</Ancients.pawnsPlural>
 
-  <SpacerHostile.label>Rumrejsende</SpacerHostile.label>
-  <SpacerHostile.description>Folk fra de mørkeste kroge af rummet.</SpacerHostile.description>
-  <SpacerHostile.pawnsPlural>Rumrejsende</SpacerHostile.pawnsPlural>
-  <SpacerHostile.fixedName>Rumrejsende</SpacerHostile.fixedName>
+  <AncientsHostile.label>ancients</AncientsHostile.label>
+  <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
+  <AncientsHostile.leaderTitle>leder</AncientsHostile.leaderTitle>
+  <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnsPlural>ancients</AncientsHostile.pawnsPlural>
 
-  <!-- Special sub-humanlike factions -->
-
-  <Mechanoid.label>Maskinit</Mechanoid.label>
-  <Mechanoid.description>en sværm af urgamle selv-reparende maskiner.</Mechanoid.description>
-  <Mechanoid.pawnsPlural>Maskinitter</Mechanoid.pawnsPlural>
-  <Mechanoid.fixedName>en maskinit cube</Mechanoid.fixedName>
+  <Mechanoid.label>maskinitsværm</Mechanoid.label>
+  <Mechanoid.fixedName>en maskinitsværm</Mechanoid.fixedName>
+  <Mechanoid.leaderTitle>leder</Mechanoid.leaderTitle>
+  <Mechanoid.pawnSingular>maskinit</Mechanoid.pawnSingular>
+  <Mechanoid.pawnsPlural>maskinitter</Mechanoid.pawnsPlural>
   
-  <Insect.label>Insekt</Insect.label>
-  <Insect.description>Som regel aggressive og indtrængende insekter.</Insect.description>
-  <Insect.pawnsPlural>Insekter</Insect.pawnsPlural>
-  <Insect.fixedName>Insekter</Insect.fixedName>
+  <Insect.label>insekter</Insect.label>
+  <Insect.fixedName>insekter</Insect.fixedName>
+  <Insect.leaderTitle>leder</Insect.leaderTitle>
+  <Insect.pawnSingular>insekt</Insect.pawnSingular>
+  <Insect.pawnsPlural>insekter</Insect.pawnsPlural>
 
 </LanguageData>

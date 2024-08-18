@@ -1,19 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Heatstroke.label>heatstroke</Heatstroke.label>
-  <Heatstroke.stages.0.label>initial-hidden</Heatstroke.stages.0.label>
-  <Heatstroke.stages.1.label>initial</Heatstroke.stages.1.label>
-  <Heatstroke.stages.2.label>minor</Heatstroke.stages.2.label>
-  <Heatstroke.stages.3.label>serious</Heatstroke.stages.3.label>
-  <Heatstroke.stages.4.label>extreme</Heatstroke.stages.4.label>
+  <Heatstroke.label>hedeslag</Heatstroke.label>
+  <Heatstroke.stages.0.label>indledende</Heatstroke.stages.0.label>
+  <Heatstroke.stages.1.label>indledende</Heatstroke.stages.1.label>
+  <Heatstroke.stages.2.label>begyndende</Heatstroke.stages.2.label>
+  <Heatstroke.stages.3.label>seriøs</Heatstroke.stages.3.label>
+  <Heatstroke.stages.4.label>ekstrem</Heatstroke.stages.4.label>
 
-  <Hypothermia.label>hypothermia</Hypothermia.label>
-  <Hypothermia.stages.0.label>shivering-hidden</Hypothermia.stages.0.label>
-  <Hypothermia.stages.1.label>shivering</Hypothermia.stages.1.label>
-  <Hypothermia.stages.2.label>minor</Hypothermia.stages.2.label>
-  <Hypothermia.stages.3.label>serious</Hypothermia.stages.3.label>
-  <Hypothermia.stages.4.label>extreme</Hypothermia.stages.4.label>
+  <Hypothermia.label>hypotermi</Hypothermia.label>
+  <Hypothermia.stages.0.label>ryster</Hypothermia.stages.0.label>
+  <Hypothermia.stages.1.label>ryster</Hypothermia.stages.1.label>
+  <Hypothermia.stages.2.label>begyndende</Hypothermia.stages.2.label>
+  <Hypothermia.stages.3.label>seriøs</Hypothermia.stages.3.label>
+  <Hypothermia.stages.4.label>ekstrem</Hypothermia.stages.4.label>
+
+  <HypothermicSlowdown.label>hypothermic slowdown</HypothermicSlowdown.label>
+  <HypothermicSlowdown.stages.0.label>begyndende</HypothermicSlowdown.stages.0.label>
+  <HypothermicSlowdown.stages.1.label>begyndende</HypothermicSlowdown.stages.1.label>
+  <HypothermicSlowdown.stages.2.label>moderat</HypothermicSlowdown.stages.2.label>
+  <HypothermicSlowdown.stages.3.label>seriøs</HypothermicSlowdown.stages.3.label>
+  <HypothermicSlowdown.stages.4.label>ekstrem</HypothermicSlowdown.stages.4.label>
 
 
 </LanguageData>

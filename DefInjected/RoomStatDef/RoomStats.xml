@@ -1,60 +1,65 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Impressiveness.label>impressiveness</Impressiveness.label>
-  <Impressiveness.scoreStages.0.label>awful</Impressiveness.scoreStages.0.label>
-  <Impressiveness.scoreStages.1.label>dull</Impressiveness.scoreStages.1.label>
-  <Impressiveness.scoreStages.2.label>mediocre</Impressiveness.scoreStages.2.label>
-  <Impressiveness.scoreStages.3.label>decent</Impressiveness.scoreStages.3.label>
-  <Impressiveness.scoreStages.4.label>slightly impressive</Impressiveness.scoreStages.4.label>
-  <Impressiveness.scoreStages.5.label>somewhat impressive</Impressiveness.scoreStages.5.label>
-  <Impressiveness.scoreStages.6.label>very impressive</Impressiveness.scoreStages.6.label>
-  <Impressiveness.scoreStages.7.label>extremely impressive</Impressiveness.scoreStages.7.label>
-  <Impressiveness.scoreStages.8.label>unbelievably impressive</Impressiveness.scoreStages.8.label>
-  <Impressiveness.scoreStages.9.label>wondrously impressive</Impressiveness.scoreStages.9.label>
+  <!--======= Primary stats (calcualated from physical conditions) =======-->
 
-  <Wealth.label>wealth</Wealth.label>
-  <Wealth.scoreStages.0.label>impoverished</Wealth.scoreStages.0.label>
-  <Wealth.scoreStages.1.label>somewhat poor</Wealth.scoreStages.1.label>
-  <Wealth.scoreStages.2.label>mediocre</Wealth.scoreStages.2.label>
-  <Wealth.scoreStages.3.label>somewhat rich</Wealth.scoreStages.3.label>
-  <Wealth.scoreStages.4.label>rich</Wealth.scoreStages.4.label>
-  <Wealth.scoreStages.5.label>luxurious</Wealth.scoreStages.5.label>
-  <Wealth.scoreStages.6.label>very luxurious</Wealth.scoreStages.6.label>
-  <Wealth.scoreStages.7.label>extremely luxurious</Wealth.scoreStages.7.label>
-  <Wealth.scoreStages.8.label>unbelievably luxurious</Wealth.scoreStages.8.label>
+  <Impressiveness.label>bemærkelsesværdighed</Impressiveness.label>
+  <Impressiveness.scoreStages.0.label>forfærdeligt</Impressiveness.scoreStages.0.label>
+  <Impressiveness.scoreStages.1.label>kedeligt</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.2.label>gennemsnitligt</Impressiveness.scoreStages.2.label>
+  <Impressiveness.scoreStages.3.label>passende</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>en smule imponerende</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>imponerende</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.6.label>meget imponerende</Impressiveness.scoreStages.6.label>
+  <Impressiveness.scoreStages.7.label>ekstremt imponerende</Impressiveness.scoreStages.7.label>
+  <Impressiveness.scoreStages.8.label>utroligt imponerende</Impressiveness.scoreStages.8.label>
+  <Impressiveness.scoreStages.9.label>vidunderligt imponerende</Impressiveness.scoreStages.9.label>
 
-  <Space.label>space</Space.label>
-  <Space.scoreStages.0.label>cramped</Space.scoreStages.0.label>
-  <Space.scoreStages.1.label>rather tight</Space.scoreStages.1.label>
-  <Space.scoreStages.2.label>average-sized</Space.scoreStages.2.label>
-  <Space.scoreStages.3.label>somewhat spacious</Space.scoreStages.3.label>
-  <Space.scoreStages.4.label>quite spacious</Space.scoreStages.4.label>
-  <Space.scoreStages.5.label>very spacious</Space.scoreStages.5.label>
-  <Space.scoreStages.6.label>extremely spacious</Space.scoreStages.6.label>
+  <Wealth.label>værdi</Wealth.label>
+  <Wealth.scoreStages.0.label>fattigt</Wealth.scoreStages.0.label>
+  <Wealth.scoreStages.1.label>en smule fattigt</Wealth.scoreStages.1.label>
+  <Wealth.scoreStages.2.label>gennemsnitligt</Wealth.scoreStages.2.label>
+  <Wealth.scoreStages.3.label>en smule rigt</Wealth.scoreStages.3.label>
+  <Wealth.scoreStages.4.label>rigt</Wealth.scoreStages.4.label>
+  <Wealth.scoreStages.5.label>luksuriøst</Wealth.scoreStages.5.label>
+  <Wealth.scoreStages.6.label>meget luksuriøst</Wealth.scoreStages.6.label>
+  <Wealth.scoreStages.7.label>ekstremt luksuriøst</Wealth.scoreStages.7.label>
+  <Wealth.scoreStages.8.label>utroligt luksuriøst</Wealth.scoreStages.8.label>
 
-  <Beauty.label>beauty</Beauty.label>
-  <Beauty.scoreStages.0.label>hideous</Beauty.scoreStages.0.label>
-  <Beauty.scoreStages.1.label>ugly</Beauty.scoreStages.1.label>
-  <Beauty.scoreStages.2.label>neutral</Beauty.scoreStages.2.label>
-  <Beauty.scoreStages.3.label>pretty</Beauty.scoreStages.3.label>
-  <Beauty.scoreStages.4.label>beautiful</Beauty.scoreStages.4.label>
-  <Beauty.scoreStages.5.label>very beautiful</Beauty.scoreStages.5.label>
-  <Beauty.scoreStages.6.label>extremely beautiful</Beauty.scoreStages.6.label>
-  <Beauty.scoreStages.7.label>unbelievably beautiful</Beauty.scoreStages.7.label>
+  <Space.label>rummelighed</Space.label>
+  <Space.scoreStages.0.label>meget trangt</Space.scoreStages.0.label>
+  <Space.scoreStages.1.label>trangt</Space.scoreStages.1.label>
+  <Space.scoreStages.2.label>gennemsnitligt</Space.scoreStages.2.label>
+  <Space.scoreStages.3.label>en smule rummeligt</Space.scoreStages.3.label>
+  <Space.scoreStages.4.label>ret rummeligt</Space.scoreStages.4.label>
+  <Space.scoreStages.5.label>meget rummeligt</Space.scoreStages.5.label>
+  <Space.scoreStages.6.label>ekstremt rummeligt</Space.scoreStages.6.label>
 
-  <Cleanliness.label>cleanliness</Cleanliness.label>
-  <Cleanliness.scoreStages.0.label>very dirty</Cleanliness.scoreStages.0.label>
-  <Cleanliness.scoreStages.1.label>dirty</Cleanliness.scoreStages.1.label>
-  <Cleanliness.scoreStages.2.label>slightly dirty</Cleanliness.scoreStages.2.label>
-  <Cleanliness.scoreStages.3.label>clean</Cleanliness.scoreStages.3.label>
-  <Cleanliness.scoreStages.4.label>sterile</Cleanliness.scoreStages.4.label>
+  <Beauty.label>skønhed</Beauty.label>
+  <Beauty.scoreStages.0.label>hæsligt</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>grimt</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>neutralt</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.3.label>pænt</Beauty.scoreStages.3.label>
+  <Beauty.scoreStages.4.label>smukt</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.5.label>meget smukt</Beauty.scoreStages.5.label>
+  <Beauty.scoreStages.6.label>ekstremt smukt</Beauty.scoreStages.6.label>
+  <Beauty.scoreStages.7.label>utroligt smukt</Beauty.scoreStages.7.label>
+
+  <Cleanliness.label>renlighed</Cleanliness.label>
+  <Cleanliness.scoreStages.0.label>meget snavset</Cleanliness.scoreStages.0.label>
+  <Cleanliness.scoreStages.1.label>snavset</Cleanliness.scoreStages.1.label>
+  <Cleanliness.scoreStages.2.label>en smule snavset</Cleanliness.scoreStages.2.label>
+  <Cleanliness.scoreStages.3.label>rent</Cleanliness.scoreStages.3.label>
+  <Cleanliness.scoreStages.4.label>sterilt</Cleanliness.scoreStages.4.label>
+
+
+  <!--======= Dependent stats (calculated from other stats) =======-->
 
   <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
-  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance renlighed factor</SurgerySuccessChanceCleanlinessFactor.label>
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <GraveVisitingJoyGainFactor.label>grave visiting joy gain factor</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChanceFactor.label>food poison chance factor</FoodPoisonChanceFactor.label>
+  <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
+  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
 
 
 </LanguageData>

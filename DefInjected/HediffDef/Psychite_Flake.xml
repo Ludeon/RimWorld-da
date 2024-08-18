@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FlakeHigh.label>high on flake</FlakeHigh.label>
+  <FlakeHigh.label>høj på flake</FlakeHigh.label>
+  <FlakeHigh.labelNoun>en flake rus</FlakeHigh.labelNoun>
 
 
 </LanguageData>

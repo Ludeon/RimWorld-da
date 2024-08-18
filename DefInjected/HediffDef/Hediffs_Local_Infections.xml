@@ -1,49 +1,63 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <GutWorms.label>gut worms</GutWorms.label>
-  <MuscleParasites.label>muscle parasites</MuscleParasites.label>
+  <GutWorms.label>bændelorm</GutWorms.label>
+  <MuscleParasites.label>muskelparasitter</MuscleParasites.label>
 
-  <FibrousMechanites.label>fibrous mechanites</FibrousMechanites.label>
-  <FibrousMechanites.stages.0.label>mild pain</FibrousMechanites.stages.0.label>
-  <FibrousMechanites.stages.1.label>intense pain</FibrousMechanites.stages.1.label>
+  <FibrousMechanites.label>fibermekanitter</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>mild smerte</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>intens smerte</FibrousMechanites.stages.1.label>
 
-  <SensoryMechanites.label>sensory mechanites</SensoryMechanites.label>
-  <SensoryMechanites.stages.0.label>mild pain</SensoryMechanites.stages.0.label>
-  <SensoryMechanites.stages.1.label>intense pain</SensoryMechanites.stages.1.label>
+  <SensoryMechanites.label>sansemekanitter</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>mild smerte</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>intens smerte</SensoryMechanites.stages.1.label>
 
-  <WoundInfection.label>infection</WoundInfection.label>
-  <WoundInfection.stages.0.label>minor</WoundInfection.stages.0.label>
-  <WoundInfection.stages.1.label>major</WoundInfection.stages.1.label>
-  <WoundInfection.stages.2.label>extreme</WoundInfection.stages.2.label>
-  <WoundInfection.stages.3.label>extreme</WoundInfection.stages.3.label>
+  <WoundInfection.label>infektion</WoundInfection.label>
+  <WoundInfection.labelNoun>en infektion</WoundInfection.labelNoun>
+  <WoundInfection.stages.0.label>begyndende</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>alvorlig</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>ekstrem</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>ekstrem</WoundInfection.stages.3.label>
 
-  <Flu.label>flu</Flu.label>
-  <Flu.stages.0.label>minor-hidden</Flu.stages.0.label>
-  <Flu.stages.1.label>minor</Flu.stages.1.label>
-  <Flu.stages.2.label>major</Flu.stages.2.label>
-  <Flu.stages.3.label>extreme</Flu.stages.3.label>
+  <Flu.label>forkølelse</Flu.label>
+  <Flu.stages.0.label>begyndende</Flu.stages.0.label>
+  <Flu.stages.1.label>begyndende</Flu.stages.1.label>
+  <Flu.stages.2.label>alvorlig</Flu.stages.2.label>
+  <Flu.stages.3.label>ekstrem</Flu.stages.3.label>
 
-  <Plague.label>plague</Plague.label>
-  <Plague.stages.0.label>minor</Plague.stages.0.label>
-  <Plague.stages.1.label>minor</Plague.stages.1.label>
-  <Plague.stages.2.label>major</Plague.stages.2.label>
-  <Plague.stages.3.label>extreme</Plague.stages.3.label>
-  <Plague.stages.4.label>extreme</Plague.stages.4.label>
+  <Animal_Flu.label>forkølelse</Animal_Flu.label>
+  <Animal_Flu.stages.0.label>begyndende</Animal_Flu.stages.0.label>
+  <Animal_Flu.stages.1.label>begyndende</Animal_Flu.stages.1.label>
+  <Animal_Flu.stages.2.label>alvorlig</Animal_Flu.stages.2.label>
+  <Animal_Flu.stages.3.label>ekstrem</Animal_Flu.stages.3.label>
+
+  <Plague.label>pest</Plague.label>
+  <Plague.stages.0.label>begyndende</Plague.stages.0.label>
+  <Plague.stages.1.label>begyndende</Plague.stages.1.label>
+  <Plague.stages.2.label>alvorlig</Plague.stages.2.label>
+  <Plague.stages.3.label>ekstrem</Plague.stages.3.label>
+  <Plague.stages.4.label>ekstrem</Plague.stages.4.label>
+
+  <Animal_Plague.label>pest</Animal_Plague.label>
+  <Animal_Plague.stages.0.label>begyndende</Animal_Plague.stages.0.label>
+  <Animal_Plague.stages.1.label>begyndende</Animal_Plague.stages.1.label>
+  <Animal_Plague.stages.2.label>alvorlig</Animal_Plague.stages.2.label>
+  <Animal_Plague.stages.3.label>ekstrem</Animal_Plague.stages.3.label>
+  <Animal_Plague.stages.4.label>ekstrem</Animal_Plague.stages.4.label>
 
   <Malaria.label>malaria</Malaria.label>
-  <Malaria.stages.0.label>hidden</Malaria.stages.0.label>
-  <Malaria.stages.1.label>minor</Malaria.stages.1.label>
-  <Malaria.stages.2.label>major</Malaria.stages.2.label>
-  <Malaria.stages.3.label>extreme</Malaria.stages.3.label>
+  <Malaria.stages.0.label>begyndende</Malaria.stages.0.label>
+  <Malaria.stages.1.label>begyndende</Malaria.stages.1.label>
+  <Malaria.stages.2.label>alvorlig</Malaria.stages.2.label>
+  <Malaria.stages.3.label>ekstrem</Malaria.stages.3.label>
 
-  <SleepingSickness.label>sleeping sickness</SleepingSickness.label>
-  <SleepingSickness.stages.0.label>minor-hidden</SleepingSickness.stages.0.label>
-  <SleepingSickness.stages.1.label>minor</SleepingSickness.stages.1.label>
-  <SleepingSickness.stages.2.label>minor</SleepingSickness.stages.2.label>
-  <SleepingSickness.stages.3.label>major</SleepingSickness.stages.3.label>
-  <SleepingSickness.stages.4.label>extreme</SleepingSickness.stages.4.label>
-  <SleepingSickness.stages.5.label>extreme</SleepingSickness.stages.5.label>
+  <SleepingSickness.label>sovesyge</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>begyndende</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>begyndende</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>begyndende</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>alvorlig</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>ekstrem</SleepingSickness.stages.4.label>
+  <SleepingSickness.stages.5.label>ekstrem</SleepingSickness.stages.5.label>
 
 
 </LanguageData>

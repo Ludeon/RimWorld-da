@@ -2,11 +2,15 @@
 <LanguageData>
 
   <PlayerColony.label>Nyankomne</PlayerColony.label>
-  <PlayerColony.description>dit eget samfund.</PlayerColony.description>
+  <PlayerColony.description>En koloni af nyankomne fra en anden planet.</PlayerColony.description>
+  <PlayerColony.leaderTitle>leder</PlayerColony.leaderTitle>
+  <PlayerColony.pawnSingular>kolonist</PlayerColony.pawnSingular>
   <PlayerColony.pawnsPlural>kolonister</PlayerColony.pawnsPlural>
 
-  <PlayerTribe.label>ny stamme</PlayerTribe.label>
-  <PlayerTribe.description>din egen stamme.</PlayerTribe.description>
+  <PlayerTribe.label>Ny Stamme</PlayerTribe.label>
+  <PlayerTribe.description>En lille stamme.</PlayerTribe.description>
+  <PlayerTribe.leaderTitle>leder</PlayerTribe.leaderTitle>
+  <PlayerTribe.pawnSingular>stammefolk</PlayerTribe.pawnSingular>
   <PlayerTribe.pawnsPlural>stammefolk</PlayerTribe.pawnsPlural>
 
 </LanguageData>

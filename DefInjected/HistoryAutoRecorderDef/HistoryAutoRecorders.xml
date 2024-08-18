@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-    
-    <WealthTotal.label>rigdom (total)</WealthTotal.label>
-    
-    <WealthItems.label>rigdom (ting)</WealthItems.label>
-    
-    <WealthBuildings.label>rigdom (bygninger)</WealthBuildings.label>
-    
-    <FreeColonists.label>frie kolonister</FreeColonists.label>
-    
-    <Prisoners.label>fanger</Prisoners.label>
-    
-    <ColonistMood.label>humør</ColonistMood.label>
-    
+
+  <Wealth_Total.label>værdi (total)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Mængde</Wealth_Total.graphLabelY>
+
+  <Wealth_Items.label>værdi (genstande)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Mængde</Wealth_Items.graphLabelY>
+
+  <Wealth_Buildings.label>værdi (bygninger)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Mængde</Wealth_Buildings.graphLabelY>
+
+  <Wealth_TameAnimals.label>værdi (dyr)</Wealth_TameAnimals.label>
+  <Wealth_TameAnimals.graphLabelY>Mængde</Wealth_TameAnimals.graphLabelY>
+
+  <FreeColonists.label>frie kolonister</FreeColonists.label>
+  <FreeColonists.graphLabelY>Kolonister</FreeColonists.graphLabelY>
+
+  <Prisoners.label>fanger</Prisoners.label>
+  <Prisoners.graphLabelY>Fanger</Prisoners.graphLabelY>
+
+  <ColonistMood.label>humør</ColonistMood.label>
+  <ColonistMood.graphLabelY>Procent</ColonistMood.graphLabelY>
+
+
+  <!-- Dev mode recorders -->
+
+  <RampUp.label>Øg</RampUp.label>
+  <RampUp.graphLabelY>Dage</RampUp.graphLabelY>
+
+
 </LanguageData>

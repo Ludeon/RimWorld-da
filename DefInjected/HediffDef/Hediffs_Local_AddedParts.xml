@@ -1,17 +1,63 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Added body parts -->
+  <PegLeg.label>træben</PegLeg.label>
+  <PegLeg.labelNoun>et træben</PegLeg.labelNoun>
 
-  <PegLeg.label>peg leg</PegLeg.label>
-  <Denture.label>denture</Denture.label>
-  <SimpleProstheticLeg.label>simple prosthetic leg</SimpleProstheticLeg.label>
-  <SimpleProstheticArm.label>simple prosthetic arm</SimpleProstheticArm.label>
-  <BionicEye.label>bionic eye</BionicEye.label>
-  <BionicArm.label>bionic arm</BionicArm.label>
-  <BionicLeg.label>bionic leg</BionicLeg.label>
-  <PowerClaw.label>power claw</PowerClaw.label>
-  <ScytherBlade.label>scyther blade</ScytherBlade.label>
+  <WoodenFoot.label>træfod</WoodenFoot.label>
+  <WoodenFoot.labelNoun>en træfod</WoodenFoot.labelNoun>
+
+  <Denture.label>tandprotese</Denture.label>
+  <Denture.labelNoun>en tandprotese</Denture.labelNoun>
+
+  <SimpleProstheticLeg.label>benprotese</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>en benprotese</SimpleProstheticLeg.labelNoun>
+
+  <SimpleProstheticArm.label>armprotese</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>næve</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>en armprotese</SimpleProstheticArm.labelNoun>
+
+  <SimpleProstheticHeart.label>hjerteprotese</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>en hjerteprotese</SimpleProstheticHeart.labelNoun>
+
+  <CochlearImplant.label>cochleaimplantat</CochlearImplant.label>
+  <CochlearImplant.labelNoun>et cochleaimplantat</CochlearImplant.labelNoun>
+
+  <BionicEye.label>bionisk øje</BionicEye.label>
+  <BionicEye.labelNoun>et bionisk øje</BionicEye.labelNoun>
+
+  <BionicArm.label>bionisk arm</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>næve</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>et bionisk arm</BionicArm.labelNoun>
+
+  <BionicLeg.label>bionisk ben</BionicLeg.label>
+  <BionicLeg.labelNoun>et bionisk ben</BionicLeg.labelNoun>
+
+  <BionicSpine.label>bionisk rygsøjle</BionicSpine.label>
+  <BionicSpine.labelNoun>en bionisk rygsøjle</BionicSpine.labelNoun>
+
+  <BionicHeart.label>bionisk hjerte</BionicHeart.label>
+  <BionicHeart.labelNoun>et bionisk hjerte</BionicHeart.labelNoun>
+
+  <BionicStomach.label>bionisk mave</BionicStomach.label>
+  <BionicStomach.labelNoun>en bionisk mave</BionicStomach.labelNoun>
+
+  <BionicEar.label>bionisk øre</BionicEar.label>
+  <BionicEar.labelNoun>et bionisk øre</BionicEar.labelNoun>
+
+  <PowerClaw.label>kraftklo</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>klo</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>en kraftklo</PowerClaw.labelNoun>
+
+  <ArchotechEye.label>archotech øje</ArchotechEye.label>
+  <ArchotechEye.labelNoun>et archotech øje</ArchotechEye.labelNoun>
+
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>næve</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>en archotech arm</ArchotechArm.labelNoun>
+
+  <ArchotechLeg.label>archotech ben</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>et archotech ben</ArchotechLeg.labelNoun>
 
 
 </LanguageData>

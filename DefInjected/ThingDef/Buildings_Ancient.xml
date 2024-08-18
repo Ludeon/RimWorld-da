@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AncientConcreteBarrier.label>ancient concrete barrier</AncientConcreteBarrier.label>
-  <AncientConcreteBarrier.description>A traffic management solution from long ago.</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.label>Oldgammel betonbarriere</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.description>En løsning til at styre trafikken for mange år siden.</AncientConcreteBarrier.description>
 
-  <AncientLamppost.label>ancient lamppost</AncientLamppost.label>
+  <AncientLamppost.label>Oldgammel lygtepæl</AncientLamppost.label>
   <AncientLamppost.description>Road lighting from long ago. No longer functional.</AncientLamppost.description>
 
 

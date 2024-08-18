@@ -1,20 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-  <None.label>none</None.label>
-  <Room.label>room</Room.label>
-  <Bedroom.label>bedroom</Bedroom.label>
-  <PrisonCell.label>prison cell</PrisonCell.label>
-  <DiningRoom.label>dining room</DiningRoom.label>
-  <RecRoom.label>rec room</RecRoom.label>
-  <Hospital.label>hospital</Hospital.label>
-  <Laboratory.label>laboratory</Laboratory.label>
-  <Workshop.label>workshop</Workshop.label>
-  <Barracks.label>barracks</Barracks.label>
-  <PrisonBarracks.label>prison barracks</PrisonBarracks.label>
-  <Kitchen.label>kitchen</Kitchen.label>
-  <Tomb.label>tomb</Tomb.label>
-  <Barn.label>barn</Barn.label>
-
+    <None.label>ingen</None.label>
+    <Room.label>rum</Room.label>
+    <Bedroom.label>soveværelse</Bedroom.label>
+    <PrisonCell.label>fængelscelle</PrisonCell.label>
+    <DiningRoom.label>spisestue</DiningRoom.label>
+    <RecRoom.label>hobbyrum</RecRoom.label>
+    <Hospital.label>hospital</Hospital.label>
+    <Laboratory.label>laboratorium</Laboratory.label>
+    <Workshop.label>værksted</Workshop.label>
+    <Barracks.label>kaserne</Barracks.label>
+    <PrisonBarracks.label>fængselskaserne</PrisonBarracks.label>
+    <Kitchen.label>køkken</Kitchen.label>
+    <Tomb.label>grav</Tomb.label>
+    <Barn.label>lade</Barn.label>
 
 </LanguageData>

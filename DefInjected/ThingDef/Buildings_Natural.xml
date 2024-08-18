@@ -3,8 +3,8 @@
 
   <!-- Simple mineables -->
 
-  <CollapsedRocks.label>Kollapsed klippe</CollapsedRocks.label>
-  <CollapsedRocks.description>Kollapsede klipper, pakket tæt nok tuk at kunne holde et tag oppe.</CollapsedRocks.description>
+  <CollapsedRocks.label>Kollapset klippe</CollapsedRocks.label>
+  <CollapsedRocks.description>Kollapsede klipper som er pakket tæt nok til at kunne holde et tag oppe.</CollapsedRocks.description>
 
 
   <!-- Resource rocks -->
@@ -27,10 +27,10 @@
   <MineableJade.label>jade</MineableJade.label>
   <MineableJade.description>Klipper der indeholder stykker af jade.</MineableJade.description>
 
-  <MineableComponents.label>kompakt maskenri</MineableComponents.label>
-  <MineableComponents.description>Ældgammelt maskenri, der er blevet komprimeret med tiden. Kan blive udgravet for brugbare komponenter.</MineableComponents.description>
+  <MineableComponents.label>kompakte komponenter</MineableComponents.label>
+  <MineableComponents.description>Ældgamle komponenter der er blevet komprimeret med tiden. Kan blive udgravet for brugbare komponenter.</MineableComponents.description>
 
-  <SteamGeyser.label>damp gejser</SteamGeyser.label>
+  <SteamGeyser.label>dampgejser</SteamGeyser.label>
   <SteamGeyser.description>Naturlig dampkilde.</SteamGeyser.description>
 
   <Hive.label>kube</Hive.label>

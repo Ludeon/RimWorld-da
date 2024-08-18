@@ -3,18 +3,18 @@
 <LanguageData>
 
 	<BorealForest.label>nordlig skov</BorealForest.label>
-	<BorealForest.description>Nordlige skove af nåletræer. På trods af barske vintre kan skovene her understøtte en bred mængde af både små og store dyr.</BorealForest.description>
+	<BorealForest.description>Nordlige skove af nåletræer. På trods af barske vintre, kan skovene her understøtte en bred mængde af både små og store dyr, og sommerperioderne er varme.</BorealForest.description>
 
     <Tundra.label>tundra</Tundra.label>
-	<Tundra.description>Disse for det meste, frosne sletter har ikke mange træer og beplantning. Der er få dyr og store flokke af vandrende planteædere - samt kødæderne der følger efter dem.</Tundra.description>
+	<Tundra.description>Disse, for det meste, frosne sletter har ikke mange træer og beplantning. Der er få små dyr og store flokke af vandrende planteædere - og kødæderne der følger efter dem.</Tundra.description>
 
 	<ColdBog.label>cold bog</ColdBog.label>
   	<ColdBog.description>A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem.</ColdBog.description>
 	
-	<IceSheet.label>Iskappe</IceSheet.label>
+	<IceSheet.label>iskappe</IceSheet.label>
 	<IceSheet.description>Overfladen er dækket af en iskappe, der kan være flere kilometer tyk. Der er ingen adgang til jord, så der er ingen planter. De eneste dyr der ses her migrerer andre steder hen - eller er kommet på afveje.</IceSheet.description>
 	
 	<SeaIce.label>havis</SeaIce.label>
-	<SeaIce.description>Permanent kapper af is flyder over vandet. Der er ingen jord, ingen planter, ingen mineraler at mine, og meget få dyr. At rejse går meget langsomt pågrund af den dybe sne mange sprækker.</SeaIce.description>
+	<SeaIce.description>Permanente kapper af is flyder over vandet. Der er ingen jord, ingen planter, ingen mineraler at mine og næsten intet dyreliv.</SeaIce.description>
 	
 </LanguageData>

@@ -1,61 +1,120 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Mental breaks: extreme -->
 
-  <Berserk.label>berserk</Berserk.label>
-  <Berserk.beginLetter>{0} has gone berserk!</Berserk.beginLetter>
-  <Berserk.beginLetterLabel>berserk</Berserk.beginLetterLabel>
-  <Berserk.recoveryMessage>{0}'s berserk rage has come to an end.</Berserk.recoveryMessage>
-  <Berserk.baseInspectLine>Mental state: Berserk</Berserk.baseInspectLine>
+  <Berserk.label>bersærk</Berserk.label>
+  <Berserk.baseInspectLine>Mental tilstand: Bersærk</Berserk.baseInspectLine>
+  <Berserk.beginLetter>{0} er gået bersærk.\n\n[PAWN_pronoun] vil angribe enhver som [PAWN_pronoun] ser.</Berserk.beginLetter>
+  <Berserk.beginLetterLabel>bersærk</Berserk.beginLetterLabel>
+  <Berserk.recoveryMessage>{0} går ikke længere besærk.</Berserk.recoveryMessage>
 
   <FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
-  <FireStartingSpree.beginLetter>{0} is on a fire starting spree.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.baseInspectLine>Mental tilstand: Fire starting spree</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.beginLetter>{0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires.</FireStartingSpree.beginLetter>
   <FireStartingSpree.beginLetterLabel>fire starting spree</FireStartingSpree.beginLetterLabel>
   <FireStartingSpree.recoveryMessage>{0} is no longer on a fire starting spree.</FireStartingSpree.recoveryMessage>
-  <FireStartingSpree.baseInspectLine>Mental state: Fire starting spree</FireStartingSpree.baseInspectLine>
 
-  <GiveUpExit.label>giving up and leaving</GiveUpExit.label>
-  <GiveUpExit.beginLetter>{0} is leaving the colony.</GiveUpExit.beginLetter>
-  <GiveUpExit.beginLetterLabel>gave up</GiveUpExit.beginLetterLabel>
-  <GiveUpExit.recoveryMessage>{0} has had a change of heart and is coming back to the colony.</GiveUpExit.recoveryMessage>
-  <GiveUpExit.baseInspectLine>Mental state: Given up and leaving</GiveUpExit.baseInspectLine>
+  <Binging_DrugExtreme.label>binging on drug</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.baseInspectLine>Mental tilstand: Binging on {0}</Binging_DrugExtreme.baseInspectLine>
 
-  <BingingDrugExtreme.label>binging on drug</BingingDrugExtreme.label>
-  <BingingDrugExtreme.baseInspectLine>Mental state: Binging on {0}</BingingDrugExtreme.baseInspectLine>
+  <Jailbreaker.label>inducing prisoner to escape</Jailbreaker.label>
+  <Jailbreaker.baseInspectLine>Mental tilstand: Jailbreaker</Jailbreaker.baseInspectLine>
+  <Jailbreaker.beginLetter>{0} has a mental breakdown and is going to induce prisoners to escape.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetterLabel>jailbreaker</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.recoveryMessage>{0} is no longer inducing prisoners to escape.</Jailbreaker.recoveryMessage>
+
+  <Slaughterer.label>slaughterer</Slaughterer.label>
+  <Slaughterer.baseInspectLine>Mental tilstand: Slaughterer</Slaughterer.baseInspectLine>
+  <Slaughterer.beginLetter>{0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetterLabel>slaughterer</Slaughterer.beginLetterLabel>
+  <Slaughterer.recoveryMessage>{0} slagter ikke længere tilfældige dyr.</Slaughterer.recoveryMessage>
+
+  <MurderousRage.label>murderous rage</MurderousRage.label>
+  <MurderousRage.baseInspectLine>Mental tilstand: Murderous rage</MurderousRage.baseInspectLine>
+  <MurderousRage.beginLetter>{0} has flown into a murderous rage.\n\n[PAWN_pronoun] har besluttet at slå {1} ihjel.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>murderous rage</MurderousRage.beginLetterLabel>
+  <MurderousRage.recoveryMessage>{0} is no longer in a murderous rage.</MurderousRage.recoveryMessage>
+
+  <GiveUpExit.label>giver op og smutter</GiveUpExit.label>
+  <GiveUpExit.baseInspectLine>Mental tilstand: Har givet op og smutter</GiveUpExit.baseInspectLine>
+  <GiveUpExit.beginLetter>{0} hr opgivet dette samfund.\n\n[PAWN_pronoun] har besluttet af forlade kolonien og vil forfølge et bedre liv andetsteds. Du kan forsøge at arrestere [PAWN_objective] mens [PAWN_pronoun] er på vej væk. Ellers vil du måske møde [PAWN_objective] igen engang i fremtiden.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetterLabel>gav op</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.recoveryMessage>{0} har ændret mening og kommer tilbage til kolonien.</GiveUpExit.recoveryMessage>
 
 
   <!-- Mental breaks: major -->
 
-  <BingingDrugMajor.label>binging on drug</BingingDrugMajor.label>
-  <BingingDrugMajor.baseInspectLine>Mental state: Binging on {0}</BingingDrugMajor.baseInspectLine>
+  <Binging_DrugMajor.label>Stoffråseri</Binging_DrugMajor.label>
+  <Binging_DrugMajor.baseInspectLine>Mental tilstand: Binging on {0}</Binging_DrugMajor.baseInspectLine>
 
-  <WanderPsychotic.label>wandering in psychosis</WanderPsychotic.label>
-  <WanderPsychotic.beginLetter>{0} is wandering around in a psychotic state.</WanderPsychotic.beginLetter>
-  <WanderPsychotic.beginLetterLabel>daze</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.baseInspectLine>Mental state: Psychotic wandering</WanderPsychotic.baseInspectLine>
+  <Wander_Psychotic.label>psykotisk vandren</Wander_Psychotic.label>
+  <Wander_Psychotic.baseInspectLine>Mental tilstand: Psychotic wandering</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.beginLetter>{0} is wandering around in a psychotic state.</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetterLabel>daze</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</Wander_Psychotic.recoveryMessage>
+
+  <Tantrum.label>rasarianfald</Tantrum.label>
+  <Tantrum.baseInspectLine>Mental tilstand: Rasarianfald</Tantrum.baseInspectLine>
+  <Tantrum.beginLetter>{0} har et rasarianfald.\n\n[PAWN_pronoun] vil ødelægge tilfældige møbler, genstande og bygninger.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>rasarianfald</Tantrum.beginLetterLabel>
+  <Tantrum.recoveryMessage>{0} har ikke længere et rasarianfald.</Tantrum.recoveryMessage>
+
+  <TargetedTantrum.label>rasarianfald</TargetedTantrum.label>
+  <TargetedTantrum.baseInspectLine>Mental tilstand: Rasarianfald</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.beginLetter>{0} har et rasarianfald.\n\n[PAWN_pronoun] is going to destroy {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>rasarianfald</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.recoveryMessage>{0} har ikke længere et rasarianfald.</TargetedTantrum.recoveryMessage>
+
+  <BedroomTantrum.label>rasarianfald</BedroomTantrum.label>
+  <BedroomTantrum.baseInspectLine>Mental tilstand: Rasarianfald</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.beginLetter>{0} har et rasarianfald.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>rasarianfald</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.recoveryMessage>{0} har ikke længere et rasarianfald.</BedroomTantrum.recoveryMessage>
+
+  <SadisticRage.label>sadistic rage</SadisticRage.label>
+  <SadisticRage.baseInspectLine>Mental tilstand: Sadistic rage</SadisticRage.baseInspectLine>
+  <SadisticRage.beginLetter>{0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>sadistic rage</SadisticRage.beginLetterLabel>
+  <SadisticRage.recoveryMessage>{0} is no longer in a sadistic rage.</SadisticRage.recoveryMessage>
+
+  <CorpseObsession.label>corpse obsession</CorpseObsession.label>
+  <CorpseObsession.baseInspectLine>Mental tilstand: Corpse obsession</CorpseObsession.baseInspectLine>
+  <CorpseObsession.beginLetter>{0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetterLabel>corpse obsession</CorpseObsession.beginLetterLabel>
+  <CorpseObsession.recoveryMessage>{0} har ikke længere et corpse obsession.</CorpseObsession.recoveryMessage>
 
 
   <!-- Mental breaks: minor -->
 
-  <BingingFood.label>binging on food</BingingFood.label>
-  <BingingFood.beginLetter>{0} is pigging out on food.</BingingFood.beginLetter>
-  <BingingFood.beginLetterLabel>food binge</BingingFood.beginLetterLabel>
-  <BingingFood.recoveryMessage>{0} is no longer pigging out on food.</BingingFood.recoveryMessage>
-  <BingingFood.baseInspectLine>Mental state: Pigging out</BingingFood.baseInspectLine>
+  <Binging_Food.label>ædegilde</Binging_Food.label>
+  <Binging_Food.baseInspectLine>Mental tilstand: Pigging out</Binging_Food.baseInspectLine>
+  <Binging_Food.beginLetter>{0} is pigging out on food.</Binging_Food.beginLetter>
+  <Binging_Food.beginLetterLabel>ædegilde</Binging_Food.beginLetterLabel>
+  <Binging_Food.recoveryMessage>{0} is no longer pigging out on food.</Binging_Food.recoveryMessage>
 
-  <WanderSad.label>sad wandering</WanderSad.label>
-  <WanderSad.beginLetter>{0} is wandering around in sadness.</WanderSad.beginLetter>
-  <WanderSad.beginLetterLabel>sad wander</WanderSad.beginLetterLabel>
-  <WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</WanderSad.recoveryMessage>
-  <WanderSad.baseInspectLine>Mental state: Sad wandering</WanderSad.baseInspectLine>
+  <Wander_Sad.label>bedrøvet vandren</Wander_Sad.label>
+  <Wander_Sad.baseInspectLine>Mental tilstand: Bedrøvet vandren</Wander_Sad.baseInspectLine>
+  <Wander_Sad.beginLetter>{0} er brudt sammen og vandrer bedrøvet rundt.</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetterLabel>Bedrøvet vandrer</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.recoveryMessage>{0} vandrer ikke længere bedrøvet rundt.</Wander_Sad.recoveryMessage>
 
-  <WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
-  <WanderOwnRoom.beginLetter>{0} is hiding in [PAWN_possessive] room.</WanderOwnRoom.beginLetter>
-  <WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
-  <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in [PAWN_possessive] room.</WanderOwnRoom.recoveryMessage>
-  <WanderOwnRoom.baseInspectLine>Mental state: Hiding in room</WanderOwnRoom.baseInspectLine>
+  <Wander_OwnRoom.label>sidder alene</Wander_OwnRoom.label>
+  <Wander_OwnRoom.baseInspectLine>Mental tilstand: Gemmer sig på værelset.</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.beginLetter>{0} gemmer sig på [PAWN_possessive] værelse.</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetterLabel>gemme sig på værelset</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.recoveryMessage>{0} gemmer sig ikke længere på [PAWN_possessive] værelse.</Wander_OwnRoom.recoveryMessage>
+
+  <InsultingSpree.label>insulting spree</InsultingSpree.label>
+  <InsultingSpree.baseInspectLine>Mental tilstand: Insulting spree</InsultingSpree.baseInspectLine>
+  <InsultingSpree.beginLetter>{0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetterLabel>insulting spree</InsultingSpree.beginLetterLabel>
+  <InsultingSpree.recoveryMessage>{0} is no longer on an insulting spree.</InsultingSpree.recoveryMessage>
+
+  <TargetedInsultingSpree.label>insulting spree</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.baseInspectLine>Mental tilstand: Insulting spree against {0}</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.beginLetter>{0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetterLabel>insulting spree</TargetedInsultingSpree.beginLetterLabel>
 
 
 </LanguageData>

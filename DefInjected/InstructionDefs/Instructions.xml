@@ -110,7 +110,7 @@
 
     <UndraftAll.text>Succes! Nu skal du AFINKALDE alle dine kolonister ved at bruge samme kommando som før.\n\nDet vil lade dem komme tilbage til deres skema.</UndraftAll.text>
 
-    <ChooseStoryteller.text>Dette er slutningen på vejledningen!\n\nDer er stadig meget at lære, indklusiv fanger, jagt, handel, dyretæmning, og meget mere. Men nu har du en forståelse for det basiske.\n\nTilfældige hændelser var slået fra i denne vejledning. For at starte et rigtigt spil:\n\n1. Åben MENU fanen i nederst til højre.\n2. Vælg INSTILLINGER.\n3. Klik VÆLG HISTORIEFORTÆLLER.\n4. Vælg en historiefortæller og en sværdhedsgrad der appellerer til dig.\n\nHeld og lykke og have det sjovt.</ChooseStoryteller.text>
+    <ChooseStoryteller.text>Dette er slutningen på vejledningen!\n\nDer er stadig meget at lære, inklusiv fangetagning, jagt, handel, dyretæmning, og meget mere. Men nu har du en forståelse for det basiske.\n\nTilfældige hændelser var slået fra i denne vejledning. For at starte et rigtigt spil:\n\n1. Åbn MENU-fanen nederst til højre.\n2. Vælg INDSTILLINGER.\n3. Klik VÆLG HISTORIEFORTÆLLER.\n4. Vælg en historiefortæller og en sværdhedsgrad der appellerer til dig.\n\nHeld og lykke og have det sjovt.</ChooseStoryteller.text>
     <ChooseStoryteller.rejectInputMessage>Vær venlig at ændre til en normal historiefortæller for at afslutte vejledningen.</ChooseStoryteller.rejectInputMessage>
 
 </LanguageData>

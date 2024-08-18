@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <CrashedPsychicEmanatorShipPart.label>nedstyrtet skibsdel</CrashedPsychicEmanatorShipPart.label>
-    <CrashedPsychicEmanatorShipPart.description>Et mystisk vragdel fra et rumskib er styrtet ned. Måske indeholder det eksotiske varer, computere eller AI personas. Denne teknologi kan også være farlig..</CrashedPsychicEmanatorShipPart.description>
+    <CrashedPsychicEmanatorShipPart.label>nedstyrtet skibsdel (psykisk)</CrashedPsychicEmanatorShipPart.label>
+    <CrashedPsychicEmanatorShipPart.description>En mystisk del af et vrag fra et rumskib er styrtet ned. Det kan indeholde et dødbringende forsvar og eksotiske materialer. Denne skibdsel ser ud til at udsende psykiske bølger.</CrashedPsychicEmanatorShipPart.description>
 
-    <CrashedPoisonShipPart.label>nedstyrtet giftig skibsdel</CrashedPoisonShipPart.label>
-    <CrashedPoisonShipPart.description>En mystisk vragdel fra et rumskib er styrtet ned. Måske indeholder det eksotiske varer, computere eller AI personas. Denne ser ud til at forgifte jorden omkring sig.</CrashedPoisonShipPart.description>
+    <CrashedPoisonShipPart.label>nedstyrtet skibsdel (giftig)</CrashedPoisonShipPart.label>
+    <CrashedPoisonShipPart.description>En mystisk del af et vrag fra et rumskib er styrtet ned. Det kan indeholde et dødbringende forsvar og eksotiske materialer. Denne skibsdel ser ud til at forgifte jorden omkring sig.</CrashedPoisonShipPart.description>
 
-    <ShipChunk.label>rumskibs stykke</ShipChunk.label>
-    <ShipChunk.description>Et stykke af et rumskib. Kan blive dekonstrueret til stål og komponenter.</ShipChunk.description>
+    <ShipChunk.label>skibsdel</ShipChunk.label>
+    <ShipChunk.description>En del af et rumskib. Kan blive skilt ad til brugbare materialer.</ShipChunk.description>
     
 </LanguageData>

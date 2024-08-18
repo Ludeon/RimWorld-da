@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Malnutrition.label>malnutrition</Malnutrition.label>
-  <Malnutrition.stages.0.label>trivial</Malnutrition.stages.0.label>
-  <Malnutrition.stages.1.label>minor</Malnutrition.stages.1.label>
-  <Malnutrition.stages.2.label>moderate</Malnutrition.stages.2.label>
-  <Malnutrition.stages.3.label>severe</Malnutrition.stages.3.label>
-  <Malnutrition.stages.4.label>extreme</Malnutrition.stages.4.label>
+  <Malnutrition.label>underernæret</Malnutrition.label>
+  <Malnutrition.stages.0.label>triviel</Malnutrition.stages.0.label>
+  <Malnutrition.stages.1.label>begyndende</Malnutrition.stages.1.label>
+  <Malnutrition.stages.2.label>moderat</Malnutrition.stages.2.label>
+  <Malnutrition.stages.3.label>alvorlig</Malnutrition.stages.3.label>
+  <Malnutrition.stages.4.label>ekstrem</Malnutrition.stages.4.label>
 
 
 </LanguageData>

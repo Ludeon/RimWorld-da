@@ -6,7 +6,7 @@
   <OrbitalTradeBeacon_Blueprint.label>kredsløbs handelsfyr (plan)</OrbitalTradeBeacon_Blueprint.label>
   <OrbitalTradeBeacon_Frame.label>kredsløbs handelsfyr (bygger)</OrbitalTradeBeacon_Frame.label>
     
-  <CommsConsole.label>komm konsol</CommsConsole.label>
+  <CommsConsole.label>kommunikationskonsol</CommsConsole.label>
   <CommsConsole.description>Skaber radio kontakt med handelsfolk og andre faktioner til at lave handel eller diplomati.</CommsConsole.description>
   <CommsConsole_Blueprint.label>komm konsol (plan)</CommsConsole_Blueprint.label>
   <CommsConsole_Frame.label>komm konsol (bygger)</CommsConsole_Frame.label>
