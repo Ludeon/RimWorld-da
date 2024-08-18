@@ -1,7 +1,7 @@
 ﻿sad
 despairing
 depressed
-empty
+tom
 solitary
 distant
 contemplative
@@ -17,13 +17,13 @@ destroyed
 devastated
 exhausted
 defeated
-dead
+død
 desirous
-seductive
+forførende
 needy
 indebted
 hard
-helpless
+hjælpeløs
 scarce
-thirsty
-hungry
+tørstig
+sulten
