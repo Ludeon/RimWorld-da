@@ -1,34 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
+  
+  <ScenPart_PlayerFaction>Din faktion vil være {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
-
-  <ScenPart_StartWithPawns>Start med {0} mennesker.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns>Start med {0} folk som er udvalgt fra {1}.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>udvalgt fra</ScenPart_StartWithPawns_OutOf>
   <RandomPet>tilfældigt kæledyr</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Start med forskning: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
+  
+  <ScenPart_ArriveInDropPods>Ankom i drop pods.</ScenPart_ArriveInDropPods>
 
-  <ScenPart_ArriveInDropPods>Ankom i transportkapsler.</ScenPart_ArriveInDropPods>
-
-  <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>Færdigheden "{0}" vil blive ganget universelt med {1}.</ScenPart_StatFactor>
 
 
   <!-- Pawn modifiers -->
-  <ScenPart_PawnsHaveHediff>{0} have a {1} chance to start with {2}.</ScenPart_PawnsHaveHediff>
-  <ConfigurableSeverity>severity: {0}</ConfigurableSeverity>
+  <ScenPart_PawnsHaveHediff>{0} har en {1} chance for at starte med {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>sværhed: {0}</ConfigurableSeverity>
 
-  <ScenPart_SetNeed>{0} have a {1} chance to have their {2} set between {3} and {4}.</ScenPart_SetNeed>
+  <ScenPart_SetNeed>{0} har en {1} chance for at have deres {2} sat til at være mellem {3} og {4}.</ScenPart_SetNeed>
   <ConfigurableLevel>level: {0}</ConfigurableLevel>
 
-  <ScenPart_PawnsHaveTrait>{0} have a {1} chance to start with trait: {2}</ScenPart_PawnsHaveTrait>
-  <ScenPart_OnPawnDeathExplode>Characters and creatures explode on death ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsHaveTrait>{0} har en {1} chance for at starte med egenskaben: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Karakterer og væsener eksploderer, når de dør ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsAreNaked>{0} starter nøgen.</ScenPart_PawnsAreNaked>
 
   <!-- Pawn filters -->
-  <ScenPart_StartingPawnAgeMin>Your people will be at least {0} years old.</ScenPart_StartingPawnAgeMin>
-  <ScenPart_StartingPawnAgeMax>Your people will be at most {0} years old.</ScenPart_StartingPawnAgeMax>
-  <ScenPart_StartingPawnAgeRange>Your people will be between {0} and {1} years old.</ScenPart_StartingPawnAgeRange>
+  <ScenPart_StartingPawnAgeMin>Dit folk vil være mindst {0} år gamle.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Dit folk vil højst være {0} år gamle.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Dit folk vil være mellem {0} og {1} år gamle.</ScenPart_StartingPawnAgeRange>
 
 
   <!-- ======================== Grouped ========================-->

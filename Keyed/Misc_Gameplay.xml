@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Various -->
@@ -6,42 +6,48 @@
   <WorkLeft>Work left</WorkLeft>
   <Contents>Contents</Contents>
   <ContainedResources>Contained resources</ContainedResources>
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
-  <ForColonistUse>For colonist use</ForColonistUse>
-  <MedicalBed>Medicinsk</MedicalBed>
+  <ForPrisonerUse>Til fanger</ForPrisonerUse>
+  <InPrisonCell>I fængselscelle: Til fanger</InPrisonCell>
+  <ForColonistUse>Til kolonister</ForColonistUse>
+  <MedicalBed>Medical</MedicalBed>
   <Owner>Ejer</Owner>
   <Owners>Ejere</Owners>
-  <AssignedColonist>Tildelt kolonist</AssignedColonist>
-  <Nobody>Ingen</Nobody>
-  <Unowned>Ingen ejer</Unowned>
-  <DeadTime>Har været død i {0}</DeadTime>
+  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <DiedOn>Died on the {0}</DiedOn>
+  <Nobody>Nobody</Nobody>
+  <Unowned>Unowned</Unowned>
+  <DeadTime>Dead for {0}</DeadTime>
   <WalkSpeed>walk speed {0}</WalkSpeed>
   <FertShort>fert.</FertShort>
-  <DyingLower>døende</DyingLower>
+  <DyingLower>dying</DyingLower>
   <FilthOnFeet>Filth on feet:</FilthOnFeet>
   <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
-  <NothingLower>ingenting</NothingLower>
+  <NothingLower>nothing</NothingLower>
   <Adapted>Adapted</Adapted>
-  <FreshMissingBodyPart>frisk</FreshMissingBodyPart>
-  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
+  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
+  <DevelopedImmunityLower>developed immunitet</DevelopedImmunityLower>
   <NeedsTendingNow>Needs tending now</NeedsTendingNow>
-  <NextTendIn>Will need tending in {0}</NextTendIn>
-  <MissingMedicalBillIngredient>ingen {0}</MissingMedicalBillIngredient>
-  <Immunity>immunitet</Immunity>
+  <CanTendNow>Can tend now</CanTendNow>
+  <TreatmentExpiresIn>Tending expires in {0}</TreatmentExpiresIn>
+  <NextTendIn>Can be tended in {0}</NextTendIn>
+  <TendQuality>Tend quality</TendQuality>
+  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
+  <Immunity>Immunitet</Immunity>
   <Race>Race</Race>
-  <Description>Beskrivelse</Description>
+  <Description>Description</Description>
   <Equipment>Equipment</Equipment>
   <Apparel>Apparel</Apparel>
   <Inventory>Inventory</Inventory>
   <ThingInfo>Information</ThingInfo>
   <DropThing>Drop</DropThing>
   <Rename>Rename</Rename>
+  <RenameAnimal>Rename dyr</RenameAnimal>
   <RenameColonist>Rename colonist</RenameColonist>
-  <UnknownLower>ukendt</UnknownLower>
+  <UnknownLower>unknown</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
   <PowerSwitch_Power>Power</PowerSwitch_Power>
-  <JoyTolerances>Joy tolerances</JoyTolerances>
+  <JoyTolerances>Recreation type tolerances</JoyTolerances>
   <MilkFullness>Milk fullness</MilkFullness>
   <WoolGrowth>Wool growth</WoolGrowth>
   <EggProgress>Egg progress</EggProgress>
@@ -50,12 +56,14 @@
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
   <Freezing>Freezing</Freezing>
   <Overheating>Overheating</Overheating>
-  <RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
+  <RuinedByTemperature>Ruined by temperatur.</RuinedByTemperature>
   <CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
   <HiveReproducesIn>Reproduces in</HiveReproducesIn>
+  <DormantHiveNotReproducing>Dormant: Not reproducing.</DormantHiveNotReproducing>
+  <NextSpawnedItemIn>Next {0} in</NextSpawnedItemIn>
   <BrokenDown>Broken down</BrokenDown>
   <BondBrackets>(bond)</BondBrackets>
-  <Fuel>Brændstof</Fuel>
+  <Fuel>Fuel</Fuel>
   <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
   <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
   <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
@@ -65,71 +73,115 @@
   <CurrentRadius>current radius</CurrentRadius>
   <RadiusExpandsIn>radius expands in</RadiusExpandsIn>
   <Permanent>permanent</Permanent>
-  <CaravanResting>Hviler.</CaravanResting>
+  <CaravanResting>Hviler</CaravanResting>
+  <UsingBedroll>using 1 bedroll</UsingBedroll>
+  <UsingBedrolls>using {0} bedrolls</UsingBedrolls>
   <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
-  <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
-  <CaravanOutOfFood>Løbet tør for mad.</CaravanOutOfFood>
-  <CaravanDaysOfFood>Mad til antal dage: {0}</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>Mad til antal dage: {0}, rådner om {1} dage</CaravanDaysOfFoodRot>
-  <CaravanMemberMentalBreak>Stoppede fordi: {0} har et psykisk sammenbrud.</CaravanMemberMentalBreak>
-  <AllCaravanMembersDowned>Stoppede fordi: everyone is downed.</AllCaravanMembersDowned>
-  <AllCaravanMembersMentalBreak>Stoppede fordi: alle har et psykisk sammenbrud.</AllCaravanMembersMentalBreak>
+  <CaravanEstimatedDaysToDestination>Estimated days to arrive: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanImmobilizedByMass>Immobilized: Too much weight.</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
+  <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Days of food: {0} (rot in {1} days)</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>Stopped because: Everyone is downed.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Stopped because: Everyone has a mental break.</AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanAnimal>1 dyr</CaravanAnimal>
+  <CaravanAnimalsCount>{0} dyr</CaravanAnimalsCount>
+  <CaravanPrisoner>1 prisoner</CaravanPrisoner>
+  <CaravanPrisonersCount>{0} prisoners</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>{0} in mental state</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>{0} downed</CaravanPawnsDowned>
   <CaravanTraveling>Traveling.</CaravanTraveling>
-  <CaravanWaiting>Waiting.</CaravanWaiting>
-  <CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
+  <CaravanPaused>Hviler.</CaravanPaused>
+  <CaravanWaiting>Venter.</CaravanWaiting>
+  <BeingCarriedDueToIllness>Being carried due to illness</BeingCarriedDueToIllness>
+  <UsingBedrollsDueToIllness>Using bedrolls due to illness</UsingBedrollsDueToIllness>
   <CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
-  <Temperature>Temperatur</Temperature>
-  <BadTemperature>bad temperature</BadTemperature>
-  <IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
+  <Visibility>Visibility</Visibility>
+  <Temperature>Temperature</Temperature>
+  <BadTemperature>dårlig temperatur</BadTemperature>
+  <IdealFermentingTemperature>Ideel temperatur til fermentering</IdealFermentingTemperature>
   <DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>
   <CaravanVisiting>Besøger {0}.</CaravanVisiting>
   <CaravanEntering>Entering {0}.</CaravanEntering>
   <CaravanAttacking>Angriber {0}.</CaravanAttacking>
-  <WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
-  <WornByCorpseChar>D</WornByCorpseChar>
-  <DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
+  <CaravanOfferingGifts>Offering gifts to {0}.</CaravanOfferingGifts>
+  <WasWornByCorpse>Tainted from being worn by a corpse.</WasWornByCorpse>
+  <WornByCorpseChar>T</WornByCorpseChar>
+  <DeterioratingUnroofed>unroofed</DeterioratingUnroofed>
+  <DeterioratingOutdoors>outdoors</DeterioratingOutdoors>
+  <DeterioratingBecauseOf>Deteriorating because of</DeterioratingBecauseOf>
   <Map>Kort</Map>
   <ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0}.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform the caravan and leave this area in {0}.</ForceExitAndRemoveMapCountdownTip>
   <Room>Room</Room>
   <BeautyHere>Beauty here</BeautyHere>
-  <NoPower>Ingen strøm</NoPower>
+  <NoPower>Igen strøm</NoPower>
   <WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
   <DisabledCommand>SLÅET FRA</DisabledCommand>
   <ReadyForLaunch>Ready for launch.</ReadyForLaunch>
   <NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
   <NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ingen brændstof</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
   <TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
   <SettlementTrader>{0} of {1}</SettlementTrader>
-  <RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
-  <RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
-  <VentClosed>Lukket</VentClosed>
+  <RoomSurgerySuccessChanceFactor>Surgery success chance multiplier from room</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>Infection chance multiplier from room</RoomInfectionChanceFactor>
+  <VentClosed>Closed</VentClosed>
   <WornBy>worn by {0}</WornBy>
   <EquippedBy>equipped by {0}</EquippedBy>
   <QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
   <LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
-  <ItemStashContents>Contents: {0}.</ItemStashContents>
-  <SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+  <ItemStashContents>Contents: {0}</ItemStashContents>
   <ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
   <WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
   <WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
   <AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
   <CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
-  <KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
-  <KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
-  <KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
+  <KnownSiteThreat>Known threat: {0}</KnownSiteThreat>
+  <KnownSiteThreats>Known threats: {0}</KnownSiteThreats>
+  <KnownSiteThreatsNone>Known threats: None</KnownSiteThreatsNone>
+  <SkillRequirements>Skill Requirements</SkillRequirements>
+  <Products>Products</Products>
+  <Relationship>{0} of {1}</Relationship>
+  <Prisoner>Prisoner</Prisoner>
+  <Refugee>Refugee</Refugee>
+  <TileMovementDifficulty>Terrain movement difficulty</TileMovementDifficulty>
+  <Impassable>Impassable</Impassable>
+  <CaravanMovementSpeedFull>Caravan movement speed</CaravanMovementSpeedFull>
+  <DownedLower>downed</DownedLower>
+  <Carried>carried</Carried>
+  <AverageCaravanMemberMoveSpeed>Avg. person move speed</AverageCaravanMemberMoveSpeed>
+  <MultiplierForCarriedMass>Multiplier for carried mass: {0}</MultiplierForCarriedMass>
+  <FinalCaravanPawnsMovementSpeed>Caravan members speed</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>Final speed</FinalCaravanMovementSpeed>
+  <Winter>Vinter</Winter>
+  <MovementDifficultyOffsetInWinter>{0} in winter</MovementDifficultyOffsetInWinter>
+  <RangeTo>to</RangeTo>
+  <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
+  <ExpiresIn>Expires in</ExpiresIn>
+  <CaravanLeaderCaravanName>{0}'s caravan</CaravanLeaderCaravanName>
+  <Reason>Reason</Reason>
+  <RelationsWith>Relations with {0}</RelationsWith>
+  <capturedBy>captured by {0}</capturedBy>
+  <yourCaravan>your caravan</yourCaravan>
+  <CreatureWildness>{0} wildness</CreatureWildness>
+  <CreatureTrainability>{0} trainability</CreatureTrainability>
+  <ProximitySingleGoodwillChange>{0} with {1}</ProximitySingleGoodwillChange>
+  <EnterCooldown>You can't re-enter for another {0} days.</EnterCooldown>
+  <Caravan>Caravan</Caravan>
+  <HiddenOrNoSitePartDescription>there may be danger there</HiddenOrNoSitePartDescription>
+  <PreciousLumpLabel>lump of {0}</PreciousLumpLabel>
 
   <!-- Fermentation barrel -->
-  <ContainsWort>Contains {0} / {1} wort.</ContainsWort>
-  <ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
-  <Fermented>Fermented</Fermented>
+  <ContainsWort>Indeholder {0} / {1} wort.</ContainsWort>
+  <ContainsBeer>Indeholder {0} / {1} øl.</ContainsBeer>
+  <Fermented>Fermenteret</Fermented>
   <FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
-  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Non-ideal temperatur. Fermenteringshastighed: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!--TextMotes-->
   <Headshot>Headshot</Headshot>
@@ -149,15 +201,15 @@
   <TextMote_Tended>{0} tended</TextMote_Tended>
 
   <!-- Areas -->
-  <Home>Home</Home>
-  <BuildRoof>Build roof</BuildRoof>
-  <NoRoof>No roof</NoRoof>
+  <Home>Hjem</Home>
+  <BuildRoof>Byg tag</BuildRoof>
+  <NoRoof>Intet tag</NoRoof>
   <SnowClear>Snow clear</SnowClear>
-  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
-  <AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
+  <AreaDefaultLabel>Område {0}</AreaDefaultLabel>
+  <AreaAnimalDefaultLabel>Dyreområde {0}</AreaAnimalDefaultLabel>
   <NoAreaAllowed>Unrestricted</NoAreaAllowed>
-  <NewArea>New area</NewArea>
-  <NewAreaAnimal>New animal area</NewAreaAnimal>
+  <NewArea>Nyt område</NewArea>
+  <NewAreaAnimal>Nyt dyreområde</NewAreaAnimal>
   <InvertArea>Invert</InvertArea>
 
   <!-- Control -->
@@ -167,17 +219,19 @@
   <IsNotDrafted>{0} is not drafted.</IsNotDrafted>
 
   <!-- Snow -->
-  <SnowNone>No snow</SnowNone>
-  <SnowDusting>Snow (dusting)</SnowDusting>
-  <SnowThin>Snow (thin)</SnowThin>
-  <SnowMedium>Snow (medium)</SnowMedium>
-  <SnowThick>Snow (thick)</SnowThick>
+  <SnowNone>Ingen sne</SnowNone>
+  <SnowDusting>Sne (dusting)</SnowDusting>
+  <SnowThin>Sne (tyndt lag)</SnowThin>
+  <SnowMedium>Sne (medium)</SnowMedium>
+  <SnowThick>Sne (tykt lag)</SnowThick>
 
   <!-- Turrets -->
   <GunInstalled>Installed</GunInstalled>
   <MinimumRange>Minimum range</MinimumRange>
   <CanFireIn>Can fire in</CanFireIn>
-  <ShellLoaded>Shell loaded</ShellLoaded>
+  <CannotFire>Cannot fire</CannotFire>
+  <Roofed>roofed</Roofed>
+  <ShellLoaded>Shell loaded: {0}</ShellLoaded>
   <ShellNotLoaded>Not loaded</ShellNotLoaded>
 
   <!-- Job reports -->
@@ -196,6 +250,7 @@
   <ReportStanding>standing.</ReportStanding>
   <ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
   <ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>digging up corpse.</ReportDiggingUpCorpse>
 
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
@@ -246,6 +301,9 @@
   <InRestraints>In restraints (slowed)</InRestraints>
   <Carrying>Carrying</Carrying>
   <AffectedBy>Affected by:</AffectedBy>
+  <Queued>Queued</Queued>
+  <State>State</State>
+  <StunLower>stun</StunLower>
 
   <!-- Inspector general stuff -->
   <SelectNextInSquareTip>Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again.</SelectNextInSquareTip>
@@ -267,7 +325,7 @@
   <PowerBatteryEfficiency>Efficiency</PowerBatteryEfficiency>
 
   <!-- Temperature control -->
-  <TargetTemperature>Target temperature</TargetTemperature>
+  <TargetTemperature>Target temperatur</TargetTemperature>
   <PowerConsumptionMode>Current power use</PowerConsumptionMode>
   <PowerConsumptionHigh>high</PowerConsumptionHigh>
   <PowerConsumptionLow>low</PowerConsumptionLow>
@@ -283,15 +341,15 @@
   <RotStateDessicated>Dessicated</RotStateDessicated>
 
   <!-- Shooting tooltip -->
-  <ShotBy>Shot by {0}</ShotBy>
-  <CannotHit>Cannot hit target.</CannotHit>
+  <ShotBy>Skudt af {0}</ShotBy>
+  <CannotHit>Kan ikke ramme målet.</CannotHit>
 
   <!-- Rotting -->
   <CurrentlyFrozen>Frozen (won't spoil)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Refrigerated (spoils in {0})</CurrentlyRefrigerated>
   <NotRefrigerated>Not refrigerated (spoils in {0})</NotRefrigerated>
-  <OverADecade>over a decade</OverADecade>
-  <LessThanADay>less than a day</LessThanADay>
+  <OverADecade>over et årti</OverADecade>
+  <LessThanADay>mindre end en dag</LessThanADay>
 
   <!-- Meal -->
   <Ingredients>Ingredienser</Ingredients>
@@ -301,16 +359,16 @@
   <GrowthRate>Growth rate</GrowthRate>
   <FullyGrownIn>Fully grown in {0} of growth.</FullyGrownIn>
   <PlantNeedsLightLevel>Needs light level</PlantNeedsLightLevel>
-  <PlantResting>Resting</PlantResting>
-  <OutOfIdealTemperatureRange>Non-ideal temperature. Temperature growth multiplier: {0}%</OutOfIdealTemperatureRange>
-  <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperature. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
+  <PlantResting>Hviler</PlantResting>
+  <OutOfIdealTemperatureRange>Non-ideal temperatur. Temperature growth multiplier: {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>Non-ideal temperatur. Not growing.</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>Ready to harvest.</ReadyToHarvest>
   <Mature>Mature.</Mature>
   <OutdoorGrowingPeriod>Growing period</OutdoorGrowingPeriod>
   <NoGrowingPeriod>Never</NoGrowingPeriod>
   <GrowYearRound>Year-round</GrowYearRound>
   <GrowSeasonHereNow>Growing season here now.</GrowSeasonHereNow>
-  <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperatur).</CannotGrowBadSeasonTemperature>
 
   <!-- Zones -->
   <Zone>Zone</Zone>
@@ -332,15 +390,18 @@
   <!-- Buttons -->
   <ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
   <ZoneVisibilityToggleButton>Toggle visiblity of zones.</ZoneVisibilityToggleButton>
-  <ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
-  <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
+  <ShowBeautyToggleButton>Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them.</ShowColonistBarToggleButton>
   <AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
+  <AutoRebuildButton>Toggle automatic rebuild of destroyed structures.</AutoRebuildButton>
   <CategorizedResourceReadoutToggleButton>Toggle categorized mode on the resource readout.</CategorizedResourceReadoutToggleButton>
-  <ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Toggle displaying dyr names for tame named dyr.</ShowAnimalNamesToggleButton>
   <ShowRoofOverlayToggleButton>Toggle visibility of roofs.</ShowRoofOverlayToggleButton>
   <LockNorthUpToggleButton>Lock the rotation of the camera so the north pole is always up.</LockNorthUpToggleButton>
   <UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
-  <ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>Toggle visibility of names of landforms.</ShowWorldFeaturesToggleButton>
 
   <!-- Fire -->
   <Fire>Fire</Fire>
@@ -368,38 +429,48 @@
   <MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
 
   <!-- Wind Turbine -->
-  <WindTurbine_WindPathIsBlockedBy>Blocked by</WindTurbine_WindPathIsBlockedBy>
-  <WindTurbine_WindPathIsBlockedByRoof>Blocked by roof</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedBy>Blokeret af</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blokeret af tag</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <Watermill_WaterUsedTwice>Flow reduced: Turbulence from other watermill</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <CasketContains>Indeholder</CasketContains>
-  <CasketWarning>Warning!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
+  <CasketWarning>Advarsel!\n\n[PAWN_nameDef] is your last free-standing colonist! If you let [PAWN_objective] step into that casket, you may not be able to continue playing. Are you sure you want to proceed?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Cannot launch.</ShipReportCannotLaunch>
   <ShipReportCanLaunch>Ready for launch.</ShipReportCanLaunch>
   <ShipReportMissingPart>Missing critical component</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>requires</ShipReportMissingPartRequires>
   <ShipReportNoFullPods>No full cryptosleep caskets</ShipReportNoFullPods>
+  <ShipReportHibernating>Hibernating component</ShipReportHibernating>
+  <ShipReportNotReady>Component not yet ready</ShipReportNotReady>
+  <HibernateWarning>Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</HibernateWarning>
+  <HibernateWarningStandalone>The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first.</HibernateWarningStandalone>
+  <HibernateWarningPacifist>Charlon Whitestone is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days.</HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>The reactor is ready to power up. The process will take about 15 days.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <NeurotrainerUsed>{0} used {1} neurotrainer to go from level {2} to level {3}.</NeurotrainerUsed>
+  <NeurotrainerUsed>{0} brugte {1} neurotrainer til at stige fra level {2} til level {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
   <Installed>Installeret</Installed>
   <NotInstalled>Ikke installeret</NotInstalled>
 
   <!-- Art -->
-  <Title>Title</Title>
-  <Untitled>Untitled</Untitled>
+  <Title>Titel</Title>
+  <Untitled>Uden titel</Untitled>
 
   <!-- Unfinished thing -->
-  <UnfinishedItem>Unfinished {0}</UnfinishedItem>
-  <UnfinishedItemWithStuff>Unfinished {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItem>Ufærdig {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>Ufærdig {0} {1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
-  <Quality>Quality</Quality>
+  <Quality>Kvalitet</Quality>
   <QualityDescription>An item's quality is how well-made it is.</QualityDescription>
-  <QualityIs>Quality: {0}</QualityIs>
+  <QualityIs>Kvalitet: {0}</QualityIs>
 
   <!-- Mood descriptions -->
   <Mood_MentalState>mental tilstand</Mood_MentalState>
@@ -416,10 +487,10 @@
   <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
   <GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
   <GameOverKeepPlaying>Fortsæt med at spille</GameOverKeepPlaying>
-  <GameOverMainMenu>Main menu</GameOverMainMenu>
+  <GameOverMainMenu>Hovedmenu</GameOverMainMenu>
 
   <!-- Generic lifespan -->
-  <LifespanExpiry>Expires in:</LifespanExpiry>
+  <LifespanExpiry>Udløber om:</LifespanExpiry>
 
   <!-- Traps -->
   <TrapArmed>Armed</TrapArmed>
@@ -440,18 +511,19 @@
   <MarriageSpotNotStandable>blokeret</MarriageSpotNotStandable>
   <MarriageSpotDangerous>for farligt for {0}</MarriageSpotDangerous>
   <MarriageSpotForbidden>forbudt for {0}</MarriageSpotForbidden>
-  <MarriageSpotReserved>reservet</MarriageSpotReserved>
+  <MarriageSpotReserved>reserveret</MarriageSpotReserved>
   <MarriageSpotUnreachable>utilgængelig for {0}</MarriageSpotUnreachable>
   <MarriageSpotInPrisonCell>i fængselscelle</MarriageSpotInPrisonCell>
-  <NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>ubehagelig temperatur</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
   <ActivityIconSleeping>Sover</ActivityIconSleeping>
   <ActivityIconFleeing>Flygter</ActivityIconFleeing>
-  <ActivityIconAttacking>Fighting</ActivityIconAttacking>
+  <ActivityIconAttacking>Slåsser</ActivityIconAttacking>
   <ActivityIconIdle>Idle</ActivityIconIdle>
   <ActivityIconBurning>Brænder</ActivityIconBurning>
+  <ActivityIconFormingCaravan>Forming a caravan</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <DueForMaintenance>Due for maintenance.</DueForMaintenance>
@@ -460,17 +532,21 @@
   <!-- Deep drill -->
   <ProgressToNextLump>Progress to next lump</ProgressToNextLump>
   <ResourceBelow>Resource below</ResourceBelow>
+  <ProgressToNextPortion>Progress to next portion</ProgressToNextPortion>
+  <DeepDrillNoResources>No resources below.</DeepDrillNoResources>
+  <DeepDrillExhausted>Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}.</DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>Deep drill resources exhausted.</DeepDrillExhaustedNoFallback>
 
   <!-- Learning helper -->
   <LearningHelper>Learning helper</LearningHelper>
-  <MarkLearned>Mark as learned</MarkLearned>
-  <AlreadyLearned>Already learned</AlreadyLearned>
-  <Filter>Filter</Filter>
+  <MarkLearned>Markér som lært</MarkLearned>
+  <AlreadyLearned>Allerede lært</AlreadyLearned>
+  <Filter>Filtrér</Filter>
 
   <!-- Compass -->
-  <CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
+  <CompassTip>Viser hvilken vej der er nord. Klik for at dreje kameraet så den nordlige pol peger opad.</CompassTip>
 
-  <!-- Distance measure -->
+  <!-- World route planner -->
   <RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
   <RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
   <RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
@@ -480,13 +556,23 @@
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
-  <EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+  <EstimatedTimeToWaypoint>Est. travel time: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>Est. travel time (from previous waypoint): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>Est. travel time: {0}</EstimatedTimeToTile>
+  <ForagedFoodAmount>Foraged food amount</ForagedFoodAmount>
 
   <!-- Outfits -->
   <OutfitAnything>Hvad som helst</OutfitAnything>
   <OutfitWorker>Arbejder</OutfitWorker>
   <OutfitSoldier>Soldat</OutfitSoldier>
   <OutfitNudist>Nudist</OutfitNudist>
+
+    <!-- Hibernatable -->
+  <HibernatableHibernating>Hibernating</HibernatableHibernating>
+  <HibernatableStartingUp>Starting up</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: See available orders...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>See available orders...</ClickToSeeAvailableOrders_Empty>
 
 </LanguageData>

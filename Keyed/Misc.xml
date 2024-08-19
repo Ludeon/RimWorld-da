@@ -1,36 +1,83 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <GameStartDialog>I tre vågner op i jeres cryosøvns The three of you awake in your cryptosleep enhed til lyden af sirener og flænsende metal. I når knapt nok til redningskapslerne, før skibet bliver revet i stykker.\n\nNoget tid senere, lander i på denne ukendte verden.\n\nMens stykker af flænset rumskib falder ned om jer, begynder i at planlægge hvordan i overlever.</GameStartDialog>
-
+  <Autosaving>Gemmer automatisk</Autosaving>
+ <GameStartDialog>I tre vågner op i jeres cryosøvns The three of you awake in your cryptosleep enhed til lyden af sirener og flænsende metal. I når knapt nok til redningskapslerne, før skibet bliver revet i stykker.\n\nNoget tid senere, lander i på denne ukendte verden.\n\nMens stykker af flænset rumskib falder ned om jer, begynder i at planlægge hvordan i overlever.</GameStartDialog>
   <Colony>Koloni</Colony>
-  
-  <ChangeLanguageFromMainMenu>Du kan kun ændre sprog fra indstilllings menuen på hovedmenuen.</ChangeLanguageFromMainMenu>
-
+  <ChangeLanguageFromMainMenu>Du kan kun skifte sproget under Instillinger i hovedmenuen.</ChangeLanguageFromMainMenu>
   <AndLower>og</AndLower>
   <DisabledLower>slået fra</DisabledLower>
-
-  <CloseButton>Luk</CloseButton>
 
 
   <VersionIndicator>Version {0}</VersionIndicator>
   <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Kompileret {0}</CompiledOn>
+  <CompiledOn>Compiled {0}</CompiledOn>
+  <LoggedIntoSteamAs>Loggede på Steam som {0}</LoggedIntoSteamAs>
 
+  <!-- General-use words -->
+  <Yes>Ja</Yes>
+  <No>Nej</No>
+  <min>min.</min>
+  <max>maks.</max>
+  <chance>chance</chance>
+  <context>kontekst</context>
+  <multiplier>multiplier</multiplier>
+  <damage>skade</damage>
+  <radius>radius</radius>
+  <durationDays>varighed (dage)</durationDays>
+  <intervalDays>interval (dage)</intervalDays>
+  <repeat>gentag</repeat>
+	<default>standard</default>
+	<distance>afstand</distance>
+  <YesUppercase>JA</YesUppercase>
+  <NoUppercase>NEJ</NoUppercase>
+  <kg>kg</kg>
+  <Day>Dag</Day>
+  <day>dag</day>
+  <Default>Standard</Default>
+  <Average>Average</Average>
+
+  <!-- Content generation-->
+  
 	<MeatLabel>{0} kød</MeatLabel>
-  <MeatDesc>Råt kød fra {0}.</MeatDesc>
+  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+  <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
+  <MeatHumanDesc>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</MeatHumanDesc>
 
-	<CorpseLabel>{0} lig</CorpseLabel>
-	<CorpseDesc>Lig af {0}.</CorpseDesc>
+  <CorpseLabel>{0} lig</CorpseLabel>
+	<CorpseDesc>Liget af en/et {0}.</CorpseDesc>
+  <DeadLabel>{0} (død)</DeadLabel>
 
+  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
 
-	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (plan)</BlueprintLabelExtra>
   <FrameLabelExtra> (building)</FrameLabelExtra>
+
+  <FactionUnaffiliated>Ingen tilknytning</FactionUnaffiliated>
+
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{0}s {1}</SomeonesRoom>
+  <CouplesRoom>{0} og {1}s {2}</CouplesRoom>
   
-  
+  <VariousLabel>(various)</VariousLabel>
+
   <!-- History events -->
   <ColonistDied>Kolonist døde</ColonistDied>
   
+  <!-- Rotation -->
+  <North>Nord</North>
+  <South>Syd</South>
+  <West>Vest</West>
+  <East>Øst</East>
   
   
 </LanguageData>

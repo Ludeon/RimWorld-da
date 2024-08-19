@@ -2,36 +2,45 @@
 <LanguageData>
 
   <!-- WITab titles -->
-  <TabTerrain>Terrain</TabTerrain>
+  <TabTerrain>Terræn</TabTerrain>
   <TabPlanet>Planet</TabPlanet>
   <TabCaravanSocial>Social</TabCaravanSocial>
-  <TabCaravanHealth>Health</TabCaravanHealth>
-  <TabCaravanNeeds>Needs</TabCaravanNeeds>
-  <TabCaravanGear>Gear</TabCaravanGear>
-  <TabCaravanItems>Items</TabCaravanItems>
+  <TabCaravanHealth>Liv</TabCaravanHealth>
+  <TabCaravanNeeds>Behov</TabCaravanNeeds>
+  <TabCaravanGear>Udstyr</TabCaravanGear>
+  <TabCaravanItems>Genstande</TabCaravanItems>
 
   <!-- Misc -->
-  <AbandonSliderText>Abandon {{0}}x {0}</AbandonSliderText>
-  <ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
-  <AbandonTip>Abandon</AbandonTip>
-  <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
-  <AbandonAllTip>Abandon (all)</AbandonAllTip>
-  <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
-  <AbandonTipWillDie>{0} will most likely die.</AbandonTipWillDie>
+  <AbandonSliderText>Efterlad {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Er du sikker på at du ønsker at efterlade {0}?\n\nEfterladte genstande vil forsvinde og kan ikke blive samlet op igen.</ConfirmAbandonItemDialog>
+  <AbandonTip>Efterlad</AbandonTip>
+  <BanishTip>Forvis</BanishTip>
+  <AbandonSpecificCountTip>Efterlad en bestemt mængde</AbandonSpecificCountTip>
+  <AbandonAllTip>Efterlad (alt)</AbandonAllTip>
+  <AbandonItemTipExtraText>Efterladte genstande vil forsvinde og kan ikke blive samlet op igen.</AbandonItemTipExtraText>
+  <BanishTipWillDie>{0} vil højst sandsynligvis dø.</BanishTipWillDie>
 
   <!-- Caravan inspect -->
-  <CaravanColonists>Colonists</CaravanColonists>
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
+  <CaravanColonists>Kolonister</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Fanger og dyr</CaravanPrisonersAndAnimals>
   <CaravanItems>Inventory</CaravanItems>
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
+  <OpenSpecificTabButtonTip>Klik for at åbne en fane med flere detaljer.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Fanger</CaravanPrisoners>
   <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+  <NoneCapable>Ingen er egnet</NoneCapable>
+  <GainingJoyBecauseCaravanNotMoving>Karavanen bevæger sig ikke</GainingJoyBecauseCaravanNotMoving>
 
   <!-- Caravan gear -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
+  <DragToRearrange>Træk for at omarrangere</DragToRearrange>
+
+    <!-- Caravan items -->
+  <AssignDrugPolicies>Assign drug policies</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <BeCarriedIfSickTip>Hvorvidt denne person eller dyr skal bæres af andre karavanemedlemmer hvis de er syge.\n\nBårede karavanemedlemmer kan hvile sig selv når karavanen bevæger sig, men de sænker farten på den.</BeCarriedIfSickTip>
 
   <!-- Planet -->
-  <PlanetSeed>Seed</PlanetSeed>
+  <PlanetSeed>Frø</PlanetSeed>
   <PlanetCoverageShort>Coverage</PlanetCoverageShort>
 
 </LanguageData>

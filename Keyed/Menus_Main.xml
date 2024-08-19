@@ -18,8 +18,8 @@
   <FictionPrimer>Intro til fiktion</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
   <Forums>Forum</Forums>
-  <OfficialWiki>Officel wiki</OfficialWiki>
-  <TynansTwitter>Tynans twitter</TynansTwitter>
+  <OfficialWiki>Officiel wiki</OfficialWiki>
+  <TynansTwitter>Tynans Twitter</TynansTwitter>
   <TynansDesignBook>Tynans designbog</TynansDesignBook>
   <HelpTranslate>Hjælp med at oversætte RimWorld</HelpTranslate>
   <BuySoundtrack>Køb lydspor</BuySoundtrack>
@@ -40,7 +40,7 @@
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
   <PlanetTemperature_High>Høj</PlanetTemperature_High>
   <WorldSeed>Frø</WorldSeed>
-  <RandomizeSeed>Tilfældig frø</RandomizeSeed>
+  <RandomizeSeed>Tilfældigt frø</RandomizeSeed>
   <PlanetCoverageTip>Planeten er altid den samme diameter, men da det er langt større end nødvendigt for at spille, skaber vi ikke hele overfladen, da det kan tage meget lang tid. Dette er den procentdel af overfladen, som du ønsker skabt.</PlanetCoverageTip>
 
   <!--=========== Select world ===================-->
@@ -95,8 +95,8 @@
   <TextFieldsMustBeFilled>Alle tekstfelter skal udfyldes.</TextFieldsMustBeFilled>
   <ConfirmSteamWorkshopUpload>Er du sikker på du ønsker at uploade dette til Steam Værkstedet?\n\nDu skal acceptere Steam Værkstedets servicevilkår. Find de fuldstændige vilkår her:\n\nhttp: //steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <ConfirmContentAuthor>Naturligvis bør du kun uploade indhold, som du selv har skabt.\n\nHar du selv lavet dette indhold?</ConfirmContentAuthor>
-  <Incompatible>Ukompatible</Incompatible>
-  <TooMany>For mange (max {0}): </TooMany>
+  <Incompatible>Ukompatibel</Incompatible>
+  <TooMany>For mange (maks {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Kan blive opdateret på Værksted, da du er forfatteren.</CanBeUpdatedOnWorkshop>
 
   <!--=========== Select storyteller ==========-->
@@ -167,7 +167,7 @@
   <ConfirmQuit>Vil du virkelig afslutte? Du mister alle fremskridt, som ikke er gemt.</ConfirmQuit>
   <EveryoneNeedsValidName>Hver person har brug for et gyldigt navn.</EveryoneNeedsValidName>
   <Quit>Afslut</Quit>
-  <Ignore>Ignorer</Ignore>
+  <Ignore>Ignorér</Ignore>
 
   <!--============ Progress bar==============-->
   <GeneratingWorld>Skaber verden</GeneratingWorld>

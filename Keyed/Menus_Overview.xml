@@ -34,7 +34,7 @@
   <NumEnemyRaids>Fjendtlige overfald</NumEnemyRaids>
   <DamageTaken>Skade modtaget</DamageTaken>
   <ColonistsKilled>Kolonister dræbt</ColonistsKilled>
-  <ColonistsLaunched>Kolonister affyret via rumskib</ColonistsLaunched>
+  <ColonistsLaunched>Kolonister sendt afsted via rumskib</ColonistsLaunched>
 
 
   <!-- History tab -->
