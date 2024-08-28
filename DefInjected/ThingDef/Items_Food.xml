@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MealSurvivalPack.label>overlevelses madpakke</MealSurvivalPack.label>
-  <MealSurvivalPack.description>En høj kvalitets pakket måltid, fremstillet til brug i overlevelse situationer.</MealSurvivalPack.description>
+  <MealSurvivalPack.label>overlevelsesmåltid</MealSurvivalPack.label>
+  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can stilll deteriorate if left outside. Great for traveling.</MealSurvivalPack.description>
 
-  <MealNutrientPaste.label>ernæringspurè måltid</MealNutrientPaste.label>
-  <MealNutrientPaste.description>En syntetisk blanding af proteiner, kulhydrater og vitaminer, aminosyrer og mineraler. Alt kroppen har brug for, og smager absolut modbydeligt.</MealNutrientPaste.description>
+  <MealNutrientPaste.label>næringspurè måltid</MealNutrientPaste.label>
+  <MealNutrientPaste.description>En syntetisk blanding af proteiner, kulhydrater og vitaminer, aminosyrer og mineraler. Alt kroppen har brug for, men smager helt modbydeligt.</MealNutrientPaste.description>
 
   <MealSimple.label>simpelt måltid</MealSimple.label>
-  <MealSimple.description>Et simpelt måltid der er hurtigt tilberedt fra et par ingredienser.</MealSimple.description>
+  <MealSimple.description>Et simpelt måltid der er hurtigt tilberedt med én hovedingrediens.</MealSimple.description>
 
   <MealFine.label>fint måltid</MealFine.label>
-  <MealFine.description>En kompleks ret sammensat med omhu fra et bredt udvalg af ingredienser.</MealFine.description>
+  <MealFine.description>En kompleks ret sammensat med omhu af et bredt udvalg af ingredienser.</MealFine.description>
 
   <MealLavish.label>overdådigt måltid</MealLavish.label>
   <MealLavish.description>Et mesterværk af den kulinariske kunst, dette måltid nærer krop, sind og sjæl.</MealLavish.description>

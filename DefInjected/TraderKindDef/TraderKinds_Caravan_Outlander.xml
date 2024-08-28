@@ -3,8 +3,8 @@
 
   <Caravan_Outlander_BulkGoods.label>industriel forhandler</Caravan_Outlander_BulkGoods.label>
   <Caravan_Outlander_CombatSupplier.label>militaristisk forhandler</Caravan_Outlander_CombatSupplier.label>
-  <Caravan_Outlander_Exotic.label>forhandler af eksotiske varer</Caravan_Outlander_Exotic.label>
   <Caravan_Outlander_PirateMerchant.label>handlende pirat</Caravan_Outlander_PirateMerchant.label>
+    <Caravan_Outlander_Exotic.label>forhandler af eksotiske varer</Caravan_Outlander_Exotic.label>
 
 
 </LanguageData>

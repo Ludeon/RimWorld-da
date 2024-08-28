@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <RectTrigger.label>RectTrigger</RectTrigger.label>
+  <ActiveDropPod.label>drop pod</ActiveDropPod.label>
+  <Fire.label>ild</Fire.label>
+  <Spark.label>gnist</Spark.label>
 
-    <DropPodIncoming.label>falde kapsel (påvej)</DropPodIncoming.label>
 
-    <DropPod.label>falde kapsel</DropPod.label>
-
-    <Fire.label>ildebrand</Fire.label>
-
-    <Spark.label>gnist</Spark.label>
-
-    <TemporaryRegionBarrier.label>midlertidig regions barriere</TemporaryRegionBarrier.label>
-      
 </LanguageData>

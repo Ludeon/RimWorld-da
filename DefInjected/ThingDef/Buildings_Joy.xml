@@ -5,25 +5,25 @@
   <HorseshoesPin.description>Et simpelt, gammelt spil, der er spillet med nogle heskesko og en stor pløk i jorden. Spillerne kaster hestesko fra en afstand og forsøger at få dem til at lande så tæt på eller omkring pløkken. Det er afslappende og træner enda hånd-øje koordination.</HorseshoesPin.description>
   <HorseshoesPin_Blueprint.label>hesteskoes pløk (plan)</HorseshoesPin_Blueprint.label>
   <HorseshoesPin_Blueprint_Install.label>hesteskoes pløk (plan)</HorseshoesPin_Blueprint_Install.label>
-  <HorseshoesPin_Frame.label>hesteskoes pløk (bygger)</HorseshoesPin_Frame.label>
+  <HorseshoesPin_Frame.label>hesteskoes pløk (bygning)</HorseshoesPin_Frame.label>
 
   <ChessTable.label>skakbord</ChessTable.label>
   <ChessTable.description>Det ældgamle konge spil. Sjovt i et par timer her og der. Det er enda sjovt at spille alene.</ChessTable.description>
   <ChessTable_Blueprint.label>skakbord (plan)</ChessTable_Blueprint.label>
   <ChessTable_Blueprint_Install.label>skakbord (plan)</ChessTable_Blueprint_Install.label>
-  <ChessTable_Frame.label>skakbord (bygger)</ChessTable_Frame.label>
+  <ChessTable_Frame.label>skakbord (bygning)</ChessTable_Frame.label>
 
   <BilliardsTable.label>billardbord</BilliardsTable.label>
   <BilliardsTable.description>Et bord med en blød top til at spille forskellige billard spil.</BilliardsTable.description>
   <BilliardsTable_Blueprint.label>billardbord (plan)</BilliardsTable_Blueprint.label>
   <BilliardsTable_Blueprint_Install.label>billardbord (plan)</BilliardsTable_Blueprint_Install.label>
-  <BilliardsTable_Frame.label>billardbord (bygger)</BilliardsTable_Frame.label>
+  <BilliardsTable_Frame.label>billardbord (bygning)</BilliardsTable_Frame.label>
 
   <TubeTelevision.label>billedrørs TV</TubeTelevision.label>
   <TubeTelevision.description>Et billedrørs display til at vise bevægelige billeder med lyd. Selv på udkants verdnerne, er der ofte en gammel sender der køre et sted der viser noget der mindst er marginalt interessant.</TubeTelevision.description>
   <TubeTelevision_Blueprint.label>billedrørs TV (plan)</TubeTelevision_Blueprint.label>
   <TubeTelevision_Blueprint_Install.label>billedrørs (plan)</TubeTelevision_Blueprint_Install.label>
-  <TubeTelevision_Frame.label>billedrørs (bygger)</TubeTelevision_Frame.label>
+  <TubeTelevision_Frame.label>billedrørs (bygning)</TubeTelevision_Frame.label>
 
   <FlatscreenTelevision.label>fladskærms TV</FlatscreenTelevision.label>
   <FlatscreenTelevision.description>Et højteknologisk fladskærms fjernsyn med krystalklare billeder og rige farver. Mere underholdende end et billedrørs TV.</FlatscreenTelevision.description>

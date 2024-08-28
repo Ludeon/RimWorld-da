@@ -1,8 +1,8 @@
 ﻿poker
-chess
-cards
+skak
+kortspil
 backgammon
-dice
+terninger
 craps
 roulette
 blackjack

@@ -4,7 +4,7 @@
   <!-- AI persona core -->
 
   <AIPersonaCore.label>AI persona kerne</AIPersonaCore.label>
-  <AIPersonaCore.description>En hyper-avancerede computer kerne, der huser en supermenneskeligende kunstig intelligens. I sin isolerede tilstand, hviler kernen. Installeret i en ordentlig støtte struktur, kan den dog blive et sind af skræmmende kraft.</AIPersonaCore.description>
+  <AIPersonaCore.description>En hyper-avancerede computer kerne, der huser en supermenneskeligende kunstig intelligens. I sin isolerede tilstand hviler kernen. Installeret i en ordentlig støttestruktur, kan den dog blive et sind af skræmmende kraft.</AIPersonaCore.description>
 
 
   <!-- Neurotrainer -->
@@ -16,13 +16,13 @@
 
   <!-- Thrumbo horn -->
 
-  <ThrumboHorn.label>thrumbo horn</ThrumboHorn.label>
-  <ThrumboHorn.description>En thrumbos horn. Det er knivskarp, meget hårdt og uvurderlige på de fleste markeder. Dette e i sandheden et trofæ.</ThrumboHorn.description>
+  <ThrumboHorn.label>thrumbohorn</ThrumboHorn.label>
+  <ThrumboHorn.description>Hornet fra en thrumbo. Det er knivskarpt, meget hårdt og uvurderligt på de fleste markeder. Dette er i sandheden et trofæ.</ThrumboHorn.description>
 
 
   <!-- Elephant tusk -->
 
-  <ElephantTusk.label>elefant stødtand</ElephantTusk.label>
+  <ElephantTusk.label>stødtand fra en elefant</ElephantTusk.label>
   <ElephantTusk.description>En elefants stødtand. Meget holdbare og værdifulde. Dødbringende men noget uhåndterlig som et våben.</ElephantTusk.description>
 
 

@@ -23,12 +23,12 @@
   <Man.stages.0.label>mand</Man.stages.0.label>
   <Woman.stages.0.label>kvinde</Woman.stages.0.label>
   <ButcheredHumanlikeCorpseOpinion.stages.0.label>slagtede menneskelignende lig</ButcheredHumanlikeCorpseOpinion.stages.0.label>
-  <AteRawHumanlikeMeat.stages.0.label>spiste rå menneskelignende kød</AteRawHumanlikeMeat.stages.0.label>
+  <AteRawHumanlikeMeat.stages.0.label>spiste råt menneskelignende kød</AteRawHumanlikeMeat.stages.0.label>
   <SoldPrisoner.stages.0.label>solgte fange til slaveri</SoldPrisoner.stages.0.label>
   <ExecutedPrisoner.stages.0.label>henrettet fange</ExecutedPrisoner.stages.0.label>
   <KilledColonist.stages.0.label>dræbt kolonist</KilledColonist.stages.0.label>
-  <KilledColonyAnimal.stages.0.label>dræbt koloni dyr</KilledColonyAnimal.stages.0.label>
-  <KilledMajorColonyEnemy.stages.0.label>dræbt betydelig fjende</KilledMajorColonyEnemy.stages.0.label>
+  <KilledColonyAnimal.stages.0.label>dræbt kolonidyr</KilledColonyAnimal.stages.0.label>
+  <KilledMajorColonyEnemy.stages.0.label>dræbt vigtig fjende</KilledMajorColonyEnemy.stages.0.label>
 
 
   <!-- affecting mood -->
@@ -36,10 +36,10 @@
   <OpinionOfMyLover.stages.0.label>opfattelse af min {0} {1}</OpinionOfMyLover.stages.0.label>
   <OpinionOfMyLover.stages.0.description>At være sammen med min kæreste får mig til at føle det sådan her.</OpinionOfMyLover.stages.0.description>
 
-  <BondedAnimalMaster.stages.0.label>{0}'s herrer</BondedAnimalMaster.stages.0.label>
+  <BondedAnimalMaster.stages.0.label>{0}s herre</BondedAnimalMaster.stages.0.label>
   <BondedAnimalMaster.stages.0.description>At være sammen med mit kæledyr får mig til at have det bedre.</BondedAnimalMaster.stages.0.description>
 
-  <NotBondedAnimalMaster.stages.0.label>ikke {0}'s herrer</NotBondedAnimalMaster.stages.0.label>
+  <NotBondedAnimalMaster.stages.0.label>ikke {0}s herre</NotBondedAnimalMaster.stages.0.label>
   <NotBondedAnimalMaster.stages.0.description>Jeg burde være sammen med mit kæledyr.</NotBondedAnimalMaster.stages.0.description>
 
   <WantToSleepWithSpouseOrLover.stages.0.label>ønsker at sove med {0}</WantToSleepWithSpouseOrLover.stages.0.label>

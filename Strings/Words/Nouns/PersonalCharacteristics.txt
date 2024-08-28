@@ -1,102 +1,102 @@
-clothes
-clothing choices
-fashion knowledge
+tøj
+tøjvalg
+viden om mode
 stylishness
 
-looks
-appearance
-height
-weight
-hair
-hairstyle
+udseende
+udseende
+højde
+vægt
+hår
+frisure
 body hair
 pubic hair
 facial hair
 leg hair
-face
-eyes
-nose
-ears
+ansigt
+øjne
+næse
+ører
 jawline
-forehead
-hands
-genitals
-body
-muscles
+pande
+hænder
+kønsdele
+krop
+muskler
 
-voice
-way of speaking
+stemme
+talemåde
 accent
 
-shooting skills
-melee fighting skills
-social skills
-plant growing skills
-medical skill
+skydefærdigheder
+nærkampsfærdigheder
+sociale færdigheder
+plantegroningsfærdigheder
+medicinfærdighed
 animal taming ability
-cooking skill
-construction skill
-mining skill
-artistic skills
-crafting skills
-intellectual skills
+madlavningsfærdighed
+byggefærdighed
+minefærdighed
+kunstneriske færdigheder
+crafting færdigheder
+intellektuelle færdigheder
 
-skills
-abilities
-intelligence
-judgment
+færdigheder
+evner
+intelligens
+dømmekraft
 brainpower
-emotional stability
+følelsesmæssig stabilitet
 self-control
-usefulness
+brugbarhed
 attitude
 way of walking
-way of thinking
+tænkemåde
 fighting methods
 learning ability
-diet
-eating habits
-food preferences
+diæt
+madvaner
+madpræferencer
 relationship status
-age
-value as a human
-sense of responsibility
+alder
+værdi som menneske
+ansvarsfølelse
 sense of duty
-honor
-honesty
-courageousness
-opinions
-beliefs
-ideas
-hopes and dreams
-ambitions
-personal habits
-personal hygiene
-toilet habits
+ære
+ærlighed
+mod
+meninger
+overbevisninger
+ideer
+håb og drømme
+ambitioner
+personlige vaner
+personlig hygiejne
+toiletvaner
 sexual prowess
-sexual preferences
-sexual experience
-hardiness
-personality
-class
-culture
-recreational preferences
-punctuality
-generosity
-bravery
-loyalty
-honesty
+seksuelle præferencer
+seksuel erfaring
+hårdførhed
+personlighed
+klasse
+kultur
+fritidsinteresser
+punktlighed
+generøsitet
+tapperhed
+loyalitet
+ærlighed
 kindness
 eloquence
 broad-mindedness
-charm
-sincerity
+charme
+oprigtighed
 open-mindedness
 
-origins
-parents
-grandparents
-friends
-family
-family background
-lovers
+oprindelser
+forældre
+bedsteforældre
+venner
+familie
+familiebaggrund
+elskere

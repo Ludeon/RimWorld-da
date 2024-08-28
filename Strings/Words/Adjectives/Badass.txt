@@ -2,7 +2,7 @@
 dødelig
 dyb
 gift
-jagged
+kantet
 loyal
 ustoppelig
 dyr
@@ -25,7 +25,7 @@ furious
 gal
 savage
 blank
-emotionless
+følelsesløs
 mindless
 awesome
 episk

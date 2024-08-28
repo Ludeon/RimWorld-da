@@ -1,34 +1,34 @@
-﻿killer
-murderer
-butcher
-hunter
-slayer
-exterminator
+﻿morder
+morder
+slagter
+jægter
+dræber
+udrydder
 
 deadbeat
 convict
-criminal
-crook
+kriminel
+svindler
 lawbreaker
 offender
-thug
+bølle
 gangster
-thief
-soldier
-assassin
+tyv
+soldat
+snigmorder
 banger
 deplorable
-outlaw
+fredløs
 jailbird
 desperado
 deuce
 hustler
 malefactor
-sinner
+synder
 transgressor
 trespasser
 betrayer
-pirate
+pirat
 
 shanker
 slicer
@@ -42,26 +42,26 @@ slicer
 shooter
 
 merchant
-owner
+ejer
 reaper
 executioner
 
-cannibal
+kannibal
 violator
 deflier
 despoiler
-attacker
+angriber
 ravager
 
 champion
-victor
-winner
+sejrherre
+vinder
 dominator
 conqueror
 vanquisher
 
-knight
+ridder
 samurai
-hero
-king
-queen
+helt
+konge
+dronning

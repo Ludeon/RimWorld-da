@@ -4,14 +4,14 @@
   <Caravan.label>karavane</Caravan.label>
   <Caravan.description>En gruppe af rejsende folk.</Caravan.description>
 
-  <FactionBase.label>fraktionsbase</FactionBase.label>
+  <FactionBase.label>koloni</FactionBase.label>
   <FactionBase.description>En af fraktionernes baser.</FactionBase.description>
 
-  <AbandonedFactionBase.label>forladt fraktionsbase</AbandonedFactionBase.label>
-  <AbandonedFactionBase.description>En forladt fraktionsbase.</AbandonedFactionBase.description>
+  <AbandonedFactionBase.label>forladt koloni</AbandonedFactionBase.label>
+  <AbandonedFactionBase.description>En forladt koloni.</AbandonedFactionBase.description>
 
-  <DestroyedFactionBase.label>ødelagt fraktionsbase</DestroyedFactionBase.label>
-  <DestroyedFactionBase.description>En ødelagt fraktionsbase.</DestroyedFactionBase.description>
+  <DestroyedFactionBase.label>ødelagt koloni</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>En ødelagt koloni.</DestroyedFactionBase.description>
 
   <EscapeShip.label>landet rumskib</EscapeShip.label>
   <EscapeShip.description>Beliggenheden af et skjult rumskib, som kan hjælpe dig med at slippe væk fra planeten.</EscapeShip.description>
@@ -26,7 +26,7 @@
   <RoutePlannerWaypoint.description>En midlertidig markør.</RoutePlannerWaypoint.description>
   
   <PeaceTalks.label>fredsforhandlinger</PeaceTalks.label>
-  <PeaceTalks.description>En beliggenhed som er udpeget til fredsforhandlinger</PeaceTalks.description>
+  <PeaceTalks.description>Et sted som er udpeget til fredsforhandlinger.</PeaceTalks.description>
 
 
 </LanguageData>

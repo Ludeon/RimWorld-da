@@ -6,50 +6,50 @@
     <SleepingSpot.label>sovested</SleepingSpot.label>
     <SleepingSpot.description>Sætter et område på jorden hvor folk skal sove. Ikke komfortabelt.</SleepingSpot.description>
     <SleepingSpot_Blueprint.label>sovested (plan)</SleepingSpot_Blueprint.label>
-    <SleepingSpot_Frame.label>sovested (bygger)</SleepingSpot_Frame.label>
+    <SleepingSpot_Frame.label>sovested (bygning)</SleepingSpot_Frame.label>
     
     <Bed.label>seng</Bed.label>
     <Bed.description>En behagelig madras med lagen på en sengeramme til at sove på.</Bed.description>
     <Bed_Blueprint.label>seng (plan)</Bed_Blueprint.label>
     <Bed_Blueprint_Install.label>seng (plan)</Bed_Blueprint_Install.label>
-    <Bed_Frame.label>seng (bygger)</Bed_Frame.label>
+    <Bed_Frame.label>seng (bygning)</Bed_Frame.label>
     
     <DoubleBed.label>dobbeltseng</DoubleBed.label>
     <DoubleBed.description>En simpel dobbeltbred seng der passer til to personer.</DoubleBed.description>
     <DoubleBed_Blueprint.label>dobbeltseng (plan)</DoubleBed_Blueprint.label>
     <DoubleBed_Blueprint_Install.label>dobbeltseng (plan)</DoubleBed_Blueprint_Install.label>
-    <DoubleBed_Frame.label>dobbeltseng (bygger)</DoubleBed_Frame.label>
+    <DoubleBed_Frame.label>dobbeltseng (bygning)</DoubleBed_Frame.label>
     
     <RoyalBed.label>royal seng</RoyalBed.label>
     <RoyalBed.description>En luksuriøs guld-indlagt seng der passer til de kongelige. Meget komfortabel og smuk. Stor nok til to.</RoyalBed.description>
     <RoyalBed_Blueprint.label>royal seng (plan)</RoyalBed_Blueprint.label>
     <RoyalBed_Blueprint_Install.label>royal seng (plan)</RoyalBed_Blueprint_Install.label>
-    <RoyalBed_Frame.label>royal seng (bygger)</RoyalBed_Frame.label>
+    <RoyalBed_Frame.label>royal seng (bygning)</RoyalBed_Frame.label>
     
     <HospitalBed.label>hospitalsseng</HospitalBed.label>
     <HospitalBed.description>En seng specielt designet til tilskadekomne mennesker. Forbedrer chance for successfuldt medicinsk arbejde.</HospitalBed.description>
     <HospitalBed_Blueprint.label>hospitalsseng (plan)</HospitalBed_Blueprint.label>
     <HospitalBed_Blueprint_Install.label>hospitalsseng (plan)</HospitalBed_Blueprint_Install.label>
-    <HospitalBed_Frame.label>hospitalsseng (bygger)</HospitalBed_Frame.label>
+    <HospitalBed_Frame.label>hospitalsseng (bygning)</HospitalBed_Frame.label>
     
     <!-- Animal beds -->
     
     <AnimalSleepingSpot.label>Dyre soveplads</AnimalSleepingSpot.label>
     <AnimalSleepingSpot.description>Udvælg en plads på jorden hvor dyr bør sove.</AnimalSleepingSpot.description>
     <AnimalSleepingSpot_Blueprint.label>Dyre soveplads (plan)</AnimalSleepingSpot_Blueprint.label>
-    <AnimalSleepingSpot_Frame.label>Dyre soveplads (bygger)</AnimalSleepingSpot_Frame.label>
+    <AnimalSleepingSpot_Frame.label>Dyre soveplads (bygning)</AnimalSleepingSpot_Frame.label>
 
     <AnimalSleepingBox.label>Dyre sovekasse</AnimalSleepingBox.label>
     <AnimalSleepingBox.description>En lille kasse til dyr at sove i. Passer til mindre dyr som høns, katte og små hunde.</AnimalSleepingBox.description>
     <AnimalSleepingBox_Blueprint.label>Dyre sovekasse (plan)</AnimalSleepingBox_Blueprint.label>
     <AnimalSleepingBox_Blueprint_Install.label>Dyre sovekasse (plan)</AnimalSleepingBox_Blueprint_Install.label>
-    <AnimalSleepingBox_Frame.label>Dyre sovekasse (bygger)</AnimalSleepingBox_Frame.label>
+    <AnimalSleepingBox_Frame.label>Dyre sovekasse (bygning)</AnimalSleepingBox_Frame.label>
 
     <AnimalBed.label>Dyreseng</AnimalBed.label>
     <AnimalBed.description>En blød seng til dyr at sove på. Passer til alle dyr.</AnimalBed.description>
     <AnimalBed_Blueprint.label>Dyreseng (plan)</AnimalBed_Blueprint.label>
     <AnimalBed_Blueprint_Install.label>Dyreseng (plan)</AnimalBed_Blueprint_Install.label>
-    <AnimalBed_Frame.label>Dyreseng (bygger)</AnimalBed_Frame.label>
+    <AnimalBed_Frame.label>Dyreseng (bygning)</AnimalBed_Frame.label>
     
     <!-- Basic domestic furniture -->
     
@@ -57,19 +57,19 @@
     <Stool.description>En simpel platform til at side på.</Stool.description>
     <Stool_Blueprint.label>skammel (plan)</Stool_Blueprint.label>
     <Stool_Blueprint_Install.label>skammel (plan)</Stool_Blueprint_Install.label>
-    <Stool_Frame.label>skammel (bygger)</Stool_Frame.label>
+    <Stool_Frame.label>skammel (bygning)</Stool_Frame.label>
 
     <DiningChair.label>spisebordsstol</DiningChair.label>
     <DiningChair.description>En komfortabel og attraktiv stol til at side på ved et bord.</DiningChair.description>
     <DiningChair_Blueprint.label>spisebordsstol (plan)</DiningChair_Blueprint.label>
     <DiningChair_Blueprint_Install.label>spisebordsstol (plan)</DiningChair_Blueprint_Install.label>
-    <DiningChair_Frame.label>spisebordsstol (bygger)</DiningChair_Frame.label>
+    <DiningChair_Frame.label>spisebordsstol (bygning)</DiningChair_Frame.label>
     
     <Armchair.label>lænestol</Armchair.label>
     <Armchair.description>En stor, blød, behagelig stol. God til afslapning.</Armchair.description>
     <Armchair_Blueprint.label>lænestol (plan)</Armchair_Blueprint.label>
     <Armchair_Blueprint_Install.label>lænestol (plan)</Armchair_Blueprint_Install.label>
-    <Armchair_Frame.label>lænestol (bygger)</Armchair_Frame.label>
+    <Armchair_Frame.label>lænestol (bygning)</Armchair_Frame.label>
     
     <!-- Table base -->
     
@@ -77,56 +77,56 @@
     <TableShort.description>Folk spiser ved bordene, når der er stole placeret ved dem.</TableShort.description>
     <TableShort_Blueprint.label>bord (kort) (plan)</TableShort_Blueprint.label>
     <TableShort_Blueprint_Install.label>bord (kort) (plan)</TableShort_Blueprint_Install.label>
-    <TableShort_Frame.label>bord (kort) (bygger)</TableShort_Frame.label>
+    <TableShort_Frame.label>bord (kort) (bygning)</TableShort_Frame.label>
     
     <TableLong.label>bord (langt)</TableLong.label>
     <TableLong.description>Folk spiser ved bordene, når der er stole placeret ved dem.</TableLong.description>
     <TableLong_Blueprint.label>bord (langt) (plan)</TableLong_Blueprint.label>
     <TableLong_Blueprint_Install.label>bord (langt) (plan)</TableLong_Blueprint_Install.label>
-    <TableLong_Frame.label>bord (langt) (bygger)</TableLong_Frame.label>
+    <TableLong_Frame.label>bord (langt) (bygning)</TableLong_Frame.label>
     
     <PlantPot.label>urtepotte</PlantPot.label>
     <PlantPot.description>Plant dekorative blomster her for at forbedre dem i nærhedens humør.</PlantPot.description>
     <PlantPot_Blueprint.label>urtepotte (plan)</PlantPot_Blueprint.label>
     <PlantPot_Blueprint_Install.label>urtepotte (plan)</PlantPot_Blueprint_Install.label>
-    <PlantPot_Frame.label>urtepotte (bygger)</PlantPot_Frame.label>
+    <PlantPot_Frame.label>urtepotte (bygning)</PlantPot_Frame.label>
     
     <!-- Lighting -->
     
     <TorchLamp.label>fakkellampe</TorchLamp.label>
     <TorchLamp.description>En træfakkel til at oplyse et område. Kan automatisk blive genfyldt med træ. Afgiver en smule varme.</TorchLamp.description>
     <TorchLamp_Blueprint.label>fakkellampe (plan)</TorchLamp_Blueprint.label>
-    <TorchLamp_Frame.label>fakkellampe (bygger)</TorchLamp_Frame.label>
+    <TorchLamp_Frame.label>fakkellampe (bygning)</TorchLamp_Frame.label>
     
     <StandingLamp.label>standerlampe</StandingLamp.label>
     <StandingLamp.description>Standerlampe der oplyser et område.</StandingLamp.description>
     <StandingLamp_Blueprint.label>standerlampe (plan)</StandingLamp_Blueprint.label>
     <StandingLamp_Blueprint_Install.label>standerlampe (plan)</StandingLamp_Blueprint_Install.label>
-    <StandingLamp_Frame.label>standerlampe (bygger)</StandingLamp_Frame.label>
+    <StandingLamp_Frame.label>standerlampe (bygning)</StandingLamp_Frame.label>
     
     <StandingLamp_Red.label>standerlampe (rød)</StandingLamp_Red.label>
     <StandingLamp_Red.description>Standerlampe der oplyser et område med rødt.</StandingLamp_Red.description>
     <StandingLamp_Red_Blueprint.label>standerlampe (rød) (plan)</StandingLamp_Red_Blueprint.label>
     <StandingLamp_Red_Blueprint_Install.label>standerlampe (rød) (plan)</StandingLamp_Red_Blueprint_Install.label>
-    <StandingLamp_Red_Frame.label>standerlampe (rød) (bygger)</StandingLamp_Red_Frame.label>
+    <StandingLamp_Red_Frame.label>standerlampe (rød) (bygning)</StandingLamp_Red_Frame.label>
     
     <StandingLamp_Green.label>standerlampe (grøn)</StandingLamp_Green.label>
     <StandingLamp_Green.description>Standerlampe der oplyser et område med grønt.</StandingLamp_Green.description>
     <StandingLamp_Green_Blueprint.label>standerlampe (grøn) (plan)</StandingLamp_Green_Blueprint.label>
     <StandingLamp_Green_Blueprint_Install.label>standerlampe (grøn) (plan)</StandingLamp_Green_Blueprint_Install.label>
-    <StandingLamp_Green_Frame.label>standerlampe (grøn) (bygger)</StandingLamp_Green_Frame.label>
+    <StandingLamp_Green_Frame.label>standerlampe (grøn) (bygning)</StandingLamp_Green_Frame.label>
     
     <StandingLamp_Blue.label>standerlampe (blå)</StandingLamp_Blue.label>
     <StandingLamp_Blue.description>Standerlampe der oplyser et område med blåt.</StandingLamp_Blue.description>
     <StandingLamp_Blue_Blueprint.label>standerlampe (blå) (plan)</StandingLamp_Blue_Blueprint.label>
     <StandingLamp_Blue_Blueprint_Install.label>standerlampe (blå) (plan)</StandingLamp_Blue_Blueprint_Install.label>
-    <StandingLamp_Blue_Frame.label>standerlampe (blå) (bygger)</StandingLamp_Blue_Frame.label>
+    <StandingLamp_Blue_Frame.label>standerlampe (blå) (bygning)</StandingLamp_Blue_Frame.label>
     
     <SunLamp.label>sollamp</SunLamp.label>
     <SunLamp.description>Oplyser et område nok til at dyrke afgrøder, men bruger en enorm mængde strøm.</SunLamp.description>
     <SunLamp_Blueprint.label>sollamp (plan)</SunLamp_Blueprint.label>
     <SunLamp_Blueprint_Install.label>sollamp (plan)</SunLamp_Blueprint_Install.label>
-    <SunLamp_Frame.label>sollamp (bygger)</SunLamp_Frame.label>
+    <SunLamp_Frame.label>sollamp (bygning)</SunLamp_Frame.label>
     
     <!-- Storage -->
     
@@ -134,6 +134,6 @@
     <EquipmentRack.description>Genstande opbevaret i disse vil ikke forringes, selv udenfor.</EquipmentRack.description>
     <EquipmentRack_Blueprint.label>redskabs stativ (plan)</EquipmentRack_Blueprint.label>
     <EquipmentRack_Blueprint_Install.label>redskabs stativ (plan)</EquipmentRack_Blueprint_Install.label>
-    <EquipmentRack_Frame.label>redskabs stativ (bygger)</EquipmentRack_Frame.label>
+    <EquipmentRack_Frame.label>redskabs stativ (bygning)</EquipmentRack_Frame.label>
     
 </LanguageData>

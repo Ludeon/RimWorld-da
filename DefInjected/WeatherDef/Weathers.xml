@@ -2,28 +2,28 @@
 <LanguageData>
 
   <Clear.label>klar</Clear.label>
-  <Clear.description>En klar dag. Ingen minuser eller modifikatorer.</Clear.description>
+  <Clear.description>En klar dag. Ingen minusser eller modifikationer.</Clear.description>
 
   <Fog.label>tåget</Fog.label>
-  <Fog.description>tåge mindsker nøjagtigheden af skydevåben.</Fog.description>
+  <Fog.description>tåge mindsker træfsikkerheden med skydevåben.</Fog.description>
 
   <Rain.label>regn</Rain.label>
-  <Rain.description>Regn mindsker nøjagtigheden af skydevåben, slukker ild, og sløver folks ned.</Rain.description>
+  <Rain.description>Regn mindsker træfsikkerheden med skydevåben, slukker ild, og sænker folks fart.</Rain.description>
 
   <DryThunderstorm.label>tørt tordenvejr</DryThunderstorm.label>
   <DryThunderstorm.description>Tørt tordenvejr er farligt, fordi lyn kan starte brande, og der er ingen regn til at slukke dem.</DryThunderstorm.description>
 
-  <RainyThunderstorm.label>tordenvejr med regn</RainyThunderstorm.label>
+  <RainyThunderstorm.label>regn og torden</RainyThunderstorm.label>
   <RainyThunderstorm.description>Lynene vil starte brande, men regnen vil slukke dem. Regnen mindsker også bevægelseshastighed og træfsikkerhed.</RainyThunderstorm.description>
 
   <FoggyRain.label>tåget regn</FoggyRain.label>
   <FoggyRain.description>Mindsker træfsikkerhed og bevægelseshastighed.</FoggyRain.description>
 
   <SnowHard.label>hård sne</SnowHard.label>
-  <SnowHard.description>Sne mindsker træfsikkerheden af skydevåben, slukker ild, og sløver folk ned.</SnowHard.description>
+  <SnowHard.description>Sne mindsker træfsikkerheden med skydevåben, slukker ild, og sænker folks fart.</SnowHard.description>
 
-  <SnowGentle.label>blid sne</SnowGentle.label>
-  <SnowGentle.description>Sne mindsker træfsikkerheden af skydevåben, slukker ild, og sløver folk ned.</SnowGentle.description>
+  <SnowGentle.label>mild sne</SnowGentle.label>
+  <SnowGentle.description>Sne mindsker træfsikkerheden med skydevåben, slukker ild, og sænker folks fart.</SnowGentle.description>
 
 
 </LanguageData>

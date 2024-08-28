@@ -9,7 +9,7 @@
   <NeedFood.stages.2.description>Det er så lang tid siden jeg har spist. Det krippler og det er svært at fokusere.</NeedFood.stages.2.description>
   <NeedFood.stages.3.label>sultende (mindre)</NeedFood.stages.3.label>
   <NeedFood.stages.3.description>Jeg kan mærke min krop svinder ind. Min mave gør ondt som aldrig før.</NeedFood.stages.3.description>
-  <NeedFood.stages.4.label>sultende (moderate)</NeedFood.stages.4.label>
+  <NeedFood.stages.4.label>sultende (moderat)</NeedFood.stages.4.label>
   <NeedFood.stages.4.description>Jeg kan næsten ikke tænke andet end mad. Min hud strækker sig over mine knogler. Skal jeg dø?</NeedFood.stages.4.description>
   <NeedFood.stages.5.label>sultende (alvorligt)</NeedFood.stages.5.label>
   <NeedFood.stages.5.description>Jeg kan næsten ikke bevæge mig eller tænke på andet end mad. Min mave gør ondt som aldrig før. Jeg føler at jeg skal til at besvime.</NeedFood.stages.5.description>
@@ -30,7 +30,7 @@
   <NeedJoy.stages.2.label>glæde-berøvet</NeedJoy.stages.2.label>
   <NeedJoy.stages.2.description>Jeg kunne virkelig bruge en pause til noget sjovt.</NeedJoy.stages.2.description>
   <NeedJoy.stages.3.label>glæde-fyldt</NeedJoy.stages.3.label>
-  <NeedJoy.stages.3.description>Jeg har haft en fantastisk tid her for nylig.</NeedJoy.stages.3.description>
+  <NeedJoy.stages.3.description>Jeg har haft en fantastisk tid her for nyligt.</NeedJoy.stages.3.description>
   <NeedJoy.stages.4.label>tonsvis af glæde</NeedJoy.stages.4.label>
   <NeedJoy.stages.4.description>Jeg har hygget mig så meget, jeg elsker det!</NeedJoy.stages.4.description>
 
@@ -58,11 +58,11 @@
   <NeedBeauty.stages.5.label>smukke omgivelser</NeedBeauty.stages.5.label>
   <NeedBeauty.stages.5.description>Dette sted er smukt. Det løfter mig op og får mig til at elske livet.</NeedBeauty.stages.5.description>
 
-  <NeedSpace.stages.0.label>meget trangt interiør</NeedSpace.stages.0.label>
+  <NeedSpace.stages.0.label>meget trangt rum</NeedSpace.stages.0.label>
   <NeedSpace.stages.0.description>Jeg føler mig som en rotte i et lille bur.</NeedSpace.stages.0.description>
-  <NeedSpace.stages.1.label>trangt interiør</NeedSpace.stages.1.label>
+  <NeedSpace.stages.1.label>trangt rum</NeedSpace.stages.1.label>
   <NeedSpace.stages.1.description>Jeg ville ønske, jeg havde mere plads til at bevæge mig rundt og få vejret.</NeedSpace.stages.1.description>
-  <NeedSpace.stages.2.label>rummeligt interiør</NeedSpace.stages.2.label>
+  <NeedSpace.stages.2.label>rummeligt rum</NeedSpace.stages.2.label>
   <NeedSpace.stages.2.description>Dette er et virkeligt behageligt, åbent indendørsrum.</NeedSpace.stages.2.description>
 
 

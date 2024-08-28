@@ -11,7 +11,7 @@
   <Rescue.description>Dyret vil redde sårede allierede og trække dem i sikkerhed.</Rescue.description>
 
   <Haul.label>slæbe</Haul.label>
-  <Haul.description>Dyret vil tilfældigt slæbe genstande fra tid til anden (det kan dog ikke sættes til at trække bestemte genstande).</Haul.description>
+  <Haul.description>Dyret vil slæbe genstande fra tid til anden (det kan dog ikke sættes til at trække bestemte genstande).</Haul.description>
 
   <Tameness.label>tamhed</Tameness.label>
   <Tameness.description>Dyret kan lære at føle sig som en del af din koloni.</Tameness.description>

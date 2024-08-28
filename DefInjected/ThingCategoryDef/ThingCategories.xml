@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Root.label>root</Root.label>
+  <Root.label>rod</Root.label>
 
 
   <!-- Foods -->
 
-  <Foods.label>madvare</Foods.label>
+  <Foods.label>madvarer</Foods.label>
   <FoodMeals.label>måltider</FoodMeals.label>
-  <FoodRaw.label>rå madvare</FoodRaw.label>
+  <FoodRaw.label>rå madvarer</FoodRaw.label>
   <MeatRaw.label>kød</MeatRaw.label>
-  <PlantFoodRaw.label>vegetar</PlantFoodRaw.label>
+  <PlantFoodRaw.label>vegetarisk</PlantFoodRaw.label>
   <AnimalProductRaw.label>animalske produkter</AnimalProductRaw.label>
-  <EggsUnfertilized.label>æg (ubef.)</EggsUnfertilized.label>
-  <EggsFertilized.label>æg (bef.)</EggsFertilized.label>
+  <EggsUnfertilized.label>æg (ubfr.)</EggsUnfertilized.label>
+  <EggsFertilized.label>æg (befr.)</EggsFertilized.label>
 
 
   <!-- Manufactured -->
@@ -23,6 +23,7 @@
   <Leathers.label>læder</Leathers.label>
   <Medicine.label>medicin</Medicine.label>
   <Drugs.label>narkotika</Drugs.label>
+  <MortarShells.label>mortar shells</MortarShells.label>
 
 
   <!-- Raw resources -->
@@ -35,9 +36,7 @@
   <!-- Items -->
 
   <Items.label>genstande</Items.label>
-  <Art.label>kunst</Art.label>
-  <Furniture.label>møbler</Furniture.label>
-  <Unfinished.label>unfinished</Unfinished.label>
+  <Unfinished.label>ufærdig</Unfinished.label>
   <Artifacts.label>artefakter</Artifacts.label>
   <BodyParts.label>kropsdele</BodyParts.label>
   <BodyPartsNatural.label>naturlig</BodyPartsNatural.label>
@@ -48,7 +47,7 @@
 
   <Weapons.label>våben</Weapons.label>
   <WeaponsMelee.label>nærkampsvåben</WeaponsMelee.label>
-  <WeaponsRanged.label>distancevåben</WeaponsRanged.label>
+  <WeaponsRanged.label>skydevåben</WeaponsRanged.label>
   <Grenades.label>granater</Grenades.label>
 
 
@@ -56,6 +55,20 @@
 
   <Apparel.label>beklædning</Apparel.label>
   <Headgear.label>hovedbeklædning</Headgear.label>
+
+
+  <!-- Buildings -->
+
+  <Buildings.label>bygninger</Buildings.label>
+  <BuildingsArt.label>kunst</BuildingsArt.label>
+  <BuildingsProduction.label>produktion</BuildingsProduction.label>
+  <BuildingsFurniture.label>møbler</BuildingsFurniture.label>
+  <BuildingsPower.label>strøm</BuildingsPower.label>
+  <BuildingsSecurity.label>sikkerhed</BuildingsSecurity.label>
+  <BuildingsMisc.label>diverse</BuildingsMisc.label>
+  <BuildingsJoy.label>fritid</BuildingsJoy.label>
+  <BuildingsTemperature.label>temperatur</BuildingsTemperature.label>
+  <BuildingsSpecial.label>specielle</BuildingsSpecial.label>
 
 
   <!-- Chunks -->
@@ -68,9 +81,9 @@
 
   <Corpses.label>lig</Corpses.label>
   <CorpsesHumanlike.label>menneskelignende lig</CorpsesHumanlike.label>
-  <CorpsesAnimal.label>dyre lig</CorpsesAnimal.label>
-  <CorpsesInsect.label>insekt lig</CorpsesInsect.label>
-  <CorpsesMechanoid.label>mekanit lig</CorpsesMechanoid.label>
+  <CorpsesAnimal.label>dyrelig</CorpsesAnimal.label>
+  <CorpsesInsect.label>insektlig</CorpsesInsect.label>
+  <CorpsesMechanoid.label>mekanitlig</CorpsesMechanoid.label>
 
 
 </LanguageData>

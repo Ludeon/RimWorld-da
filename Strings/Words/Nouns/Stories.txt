@@ -67,7 +67,7 @@ incident
 jeopardy
 occurrence
 peril
-speculation
+spekulation
 undertaking
 venture
 

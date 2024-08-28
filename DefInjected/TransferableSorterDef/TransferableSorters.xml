@@ -6,6 +6,7 @@
   <MarketValue.label>markedsværdig</MarketValue.label>
   <Category.label>kategori</Category.label>
   <Quality.label>kvalitet</Quality.label>
-  <HitPointsPercentage.label>helbreds points procenter</HitPointsPercentage.label>
+  <Mass.label>masse</Mass.label>
+  <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
 
 </LanguageData>

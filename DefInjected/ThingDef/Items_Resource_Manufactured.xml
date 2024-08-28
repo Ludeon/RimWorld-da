@@ -11,15 +11,14 @@
     <GlitterworldMedicine.label>glitterverden medicin</GlitterworldMedicine.label>
     <GlitterworldMedicine.description>Avancerede medicinske forsyninger fra en højteknologisk glitterverden.</GlitterworldMedicine.description>
 
-	<!-- Shells -->
-	
-    <ArtilleryShell.label>artillerikugle</ArtilleryShell.label>
-    <ArtilleryShell.description>Affyres fra artilleri kanoner.</ArtilleryShell.description>
 
 	<!-- Component -->
 	
     <Component.label>Komponent</Component.label>
     <Component.description>Diverse gear, kondensatorer, printkort, rør, hjul, sensorer, ledninger, chips, processorer og andre elektroniske og industrielle dele. Nødvendigt for at samle komplekse maskiner eller elektronik.</Component.description>
+
+  <ComponentSpacer.label>advanced component</ComponentSpacer.label>
+  <ComponentSpacer.description>Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications.</ComponentSpacer.description>
 
 	<!-- Neutroamine -->
 	
@@ -27,6 +26,6 @@
     <Neutroamine.description>En syntetisk forløber kemikalie. Ubrugligt for sig selv, men mange lægemidler kræver neutroamine som ingrediens.</Neutroamine.description>
 	
 	<Chemfuel.label>kemzin</Chemfuel.label>
-	<Chemfuel.description>En ustabil kemisk væske mixtur. Bruges til at starte raketter og andre maskiner.</Chemfuel.description>
+	<Chemfuel.description>En ustabil kemisk væske mixtur. Bruges til at starte raketter og andre maskiner op.</Chemfuel.description>
 
 </LanguageData>

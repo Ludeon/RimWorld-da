@@ -31,24 +31,24 @@
   <SterileTile_Frame.label>sterile tile (building)</SterileTile_Frame.label>
   <SterileTile_Frame.description>Terrain building in progress.</SterileTile_Frame.description>
 
-  <CarpetRed_Blueprint.label>red carpet (blueprint)</CarpetRed_Blueprint.label>
-  <CarpetRed_Frame.label>red carpet (building)</CarpetRed_Frame.label>
-  <CarpetRed_Frame.description>Terrain building in progress.</CarpetRed_Frame.description>
+  <Carpetrødt_Blueprint.label>rødt gulvtæppe (blueprint)</Carpetrødt_Blueprint.label>
+  <Carpetrødt_Frame.label>rødt gulvtæppe (building)</Carpetrødt_Frame.label>
+  <Carpetrødt_Frame.description>Terrain building in progress.</Carpetrødt_Frame.description>
 
-  <CarpetGreen_Blueprint.label>green carpet (blueprint)</CarpetGreen_Blueprint.label>
-  <CarpetGreen_Frame.label>green carpet (building)</CarpetGreen_Frame.label>
+  <CarpetGreen_Blueprint.label>green gulvtæppe (blueprint)</CarpetGreen_Blueprint.label>
+  <CarpetGreen_Frame.label>green gulvtæppe (building)</CarpetGreen_Frame.label>
   <CarpetGreen_Frame.description>Terrain building in progress.</CarpetGreen_Frame.description>
 
-  <CarpetBlue_Blueprint.label>blue carpet (blueprint)</CarpetBlue_Blueprint.label>
-  <CarpetBlue_Frame.label>blue carpet (building)</CarpetBlue_Frame.label>
+  <CarpetBlue_Blueprint.label>blue gulvtæppe (blueprint)</CarpetBlue_Blueprint.label>
+  <CarpetBlue_Frame.label>blue gulvtæppe (building)</CarpetBlue_Frame.label>
   <CarpetBlue_Frame.description>Terrain building in progress.</CarpetBlue_Frame.description>
 
-  <CarpetCream_Blueprint.label>cream carpet (blueprint)</CarpetCream_Blueprint.label>
-  <CarpetCream_Frame.label>cream carpet (building)</CarpetCream_Frame.label>
+  <CarpetCream_Blueprint.label>cream gulvtæppe (blueprint)</CarpetCream_Blueprint.label>
+  <CarpetCream_Frame.label>cream gulvtæppe (building)</CarpetCream_Frame.label>
   <CarpetCream_Frame.description>Terrain building in progress.</CarpetCream_Frame.description>
 
-  <CarpetDark_Blueprint.label>dark carpet (blueprint)</CarpetDark_Blueprint.label>
-  <CarpetDark_Frame.label>dark carpet (building)</CarpetDark_Frame.label>
+  <CarpetDark_Blueprint.label>dark gulvtæppe (blueprint)</CarpetDark_Blueprint.label>
+  <CarpetDark_Frame.label>dark gulvtæppe (building)</CarpetDark_Frame.label>
   <CarpetDark_Frame.description>Terrain building in progress.</CarpetDark_Frame.description>
 
   <TileSandstone_Blueprint.label>sandstone tile (blueprint)</TileSandstone_Blueprint.label>

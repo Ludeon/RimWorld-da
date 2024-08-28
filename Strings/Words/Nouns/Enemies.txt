@@ -1,14 +1,14 @@
 bandit
-criminal
+kriminel
 raider
-outlaw
+fredløs
 pirat
-robber
-brigand
-crook
+tyv
+landevejsrøver
+svindler
 rogue
-burglar
-mugger
+indbrudstyv
+røver
 terrorist
 barbar
 kannibal
@@ -20,5 +20,5 @@ monster
 vampyr
 fiend
 goblin
-imp
+lille djævel
 drage

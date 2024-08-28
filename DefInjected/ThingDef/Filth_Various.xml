@@ -2,10 +2,13 @@
 <LanguageData>
 
   <FilthDirt.label>skidt</FilthDirt.label>
-  <FilthAnimalFilth.label>dyre skidt</FilthAnimalFilth.label>
-  <FilthSand.label>sand</FilthSand.label>
-  <RockRubble.label>sten grus</RockRubble.label>
-  <BuildingRubble.label>bygnings murbrokker</BuildingRubble.label>
+  <FilthAnimalFilth.label>skidt fra dyr</FilthAnimalFilth.label>
+  <Filth_HumanFilth.label>skidt fra mennesker</Filth_HumanFilth.label>
+  <Filth_Trash.label>skrald</Filth_Trash.label>
+  <Filth_Sand.label>sand</Filth_Sand.label>
+  <Filth_RubbleRock.label>rock rubble</Filth_RubbleRock.label>
+  <Filth_RubbleBuilding.label>murbrok</Filth_RubbleBuilding.label>
+  <SlagRubble.label>spredt slagger</SlagRubble.label>
   <SandbagRubble.label>spredte sandsække</SandbagRubble.label>
 
 
@@ -18,8 +21,11 @@
   <FilthVomit.label>bræk</FilthVomit.label>
   <FilthFireFoam.label>ildskum</FilthFireFoam.label>
 
-  <FilthFuel.label>brændstofs pyt</FilthFuel.label>
-  <FilthFuel.description>Brænder på jorden.</FilthFuel.description>
+  <Filth_Fuel.label>chemfuel puddle</Filth_Fuel.label>
+  <Filth_Fuel.description>A puddle of flammable chemfuel.</Filth_Fuel.description>
+
+    <Filth_CorpseBile.label>corpse bile</Filth_CorpseBile.label>
+  <Filth_Ash.label>aske</Filth_Ash.label>
 
 
 </LanguageData>

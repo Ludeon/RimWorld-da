@@ -4,32 +4,32 @@
   <PowerConduit.label>strømkabel</PowerConduit.label>
   <PowerConduit.description>Et sæt elektriske ledninger som bruges til at transportere strøm rundt. Kan placeres under vægge og andre bygninger.</PowerConduit.description>
   <PowerConduit_Blueprint.label>strømkabel (plan)</PowerConduit_Blueprint.label>
-  <PowerConduit_Frame.label>strømkabel (bygger)</PowerConduit_Frame.label>
+  <PowerConduit_Frame.label>strømkabel (bygning)</PowerConduit_Frame.label>
 
   <PowerSwitch.label>strømafbryder</PowerSwitch.label>
   <PowerSwitch.description>Tænder og slukker for strøm.</PowerSwitch.description>
   <PowerSwitch_Blueprint.label>strømafbryder (plan)</PowerSwitch_Blueprint.label>
-  <PowerSwitch_Frame.label>strømafbryder (bygger)</PowerSwitch_Frame.label>
+  <PowerSwitch_Frame.label>strømafbryder (bygning)</PowerSwitch_Frame.label>
 
   <FueledGenerator.label>generator</FueledGenerator.label>
   <FueledGenerator.description>Producerer strøm ved at brænde træ. Skal genopfyldes manuelt.</FueledGenerator.description>
   <FueledGenerator_Blueprint.label>generator (plan)</FueledGenerator_Blueprint.label>
-  <FueledGenerator_Frame.label>generator (bygger)</FueledGenerator_Frame.label>
+  <FueledGenerator_Frame.label>generator (bygning)</FueledGenerator_Frame.label>
 
   <Battery.label>batteri</Battery.label>
   <Battery.description>Opmagasinerer elektricitet når der produceres overskydende strøm og aflader når der er for lidt. Advarsel - batterier kan overophede når de er varme eller bliver våde.</Battery.description>
   <Battery_Blueprint.label>batteri (plan)</Battery_Blueprint.label>
   <Battery_Blueprint_Install.label>batteri (plan)</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>batteri (bygger)</Battery_Frame.label>
+  <Battery_Frame.label>batteri (bygning)</Battery_Frame.label>
 
   <SolarGenerator.label>solcellegenerator</SolarGenerator.label>
   <SolarGenerator.description>Producerer elektricitet fra sollys. Virker ikke i mørke.</SolarGenerator.description>
   <SolarGenerator_Blueprint.label>solcellegenerator (plan)</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>solcellegenerator (bygger)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.label>solcellegenerator (bygning)</SolarGenerator_Frame.label>
 
   <GeothermalGenerator.label>geotermisk generator</GeothermalGenerator.label>
   <GeothermalGenerator.description>Producerer elektricitet fra geotermiske dampgejsere. Skal placeres på en gejser.</GeothermalGenerator.description>
   <GeothermalGenerator_Blueprint.label>geotermisk generator (plan)</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>geotermisk generator (bygger)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.label>geotermisk generator (bygning)</GeothermalGenerator_Frame.label>
 
 </LanguageData>

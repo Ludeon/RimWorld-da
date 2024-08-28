@@ -3,11 +3,11 @@
 
   <!-- Basic quality thoughts -->
 
-  <AteLavishMeal.stages.0.label>spiste overdådigt måltid</AteLavishMeal.stages.0.label>
-  <AteLavishMeal.stages.0.description>Det overdådige måltid var forbløffende. Det nærede min krop og min sjæl.</AteLavishMeal.stages.0.description>
+  <AteLavishMeal.stages.0.label>spiste et overdådigt måltid</AteLavishMeal.stages.0.label>
+  <AteLavishMeal.stages.0.description>Det overdådige måltid var forbløffende godt. Det nærede min krop og min sjæl.</AteLavishMeal.stages.0.description>
 
-  <AteFineMeal.stages.0.label>spiste fint måltid</AteFineMeal.stages.0.label>
-  <AteFineMeal.stages.0.description>Jeg spiste et virkelig velsmagende fint måltid. Mums!</AteFineMeal.stages.0.description>
+  <AteFineMeal.stages.0.label>spiste et fint måltid</AteFineMeal.stages.0.label>
+  <AteFineMeal.stages.0.description>Jeg spiste et virkelig velsmagende, fint måltid. Mums!</AteFineMeal.stages.0.description>
 
   <AteAwfulMeal.stages.0.label>spiste et forfærdeligt måltid</AteAwfulMeal.stages.0.label>
   <AteAwfulMeal.stages.0.description>Jeg var nødt til at spise et ulækkert, smagsløst måltid. Jeg ved godt at det holder en i live, men ingen har lyst til at spise det stads.</AteAwfulMeal.stages.0.description>
@@ -25,7 +25,7 @@
   <!-- Special nature thoughts -->
 
   <AteHumanlikeMeatDirectCannibal.stages.0.label>rå kannibalisme</AteHumanlikeMeatDirectCannibal.stages.0.label>
-  <AteHumanlikeMeatDirectCannibal.stages.0.description>Jeg spiste kødet fra et andet menneske, rå, som et dyr. Det var så ... saftige.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+  <AteHumanlikeMeatDirectCannibal.stages.0.description>Jeg spiste kødet fra et andet menneske, rå, som et dyr. Det var så... saftigt.</AteHumanlikeMeatDirectCannibal.stages.0.description>
 
   <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>tilberedt kannibalisme</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
   <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>Jeg spiste et måltid lavet af kød fra et andet menneske. Så behagelig. Hvis bare jeg havde nogle fava bønner og en dejlig chianti.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>

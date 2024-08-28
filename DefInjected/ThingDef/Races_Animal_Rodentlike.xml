@@ -8,18 +8,18 @@
   <Squirrel_Leather.stuffProps.stuffAdjective>egernskin</Squirrel_Leather.stuffProps.stuffAdjective>
   <Squirrel_Meat.label>egernkød</Squirrel_Meat.label>
   <Squirrel_Meat.description>egernkød</Squirrel_Meat.description>
-  <Squirrel_Corpse.label>egern lig</Squirrel_Corpse.label>
-  <Squirrel_Corpse.description>egern lig</Squirrel_Corpse.description>
+  <Squirrel_Corpse.label>lig af egern</Squirrel_Corpse.label>
+  <Squirrel_Corpse.description>lig af egern</Squirrel_Corpse.description>
 
-  <Alphabeaver.label>alphabæver</Alphabeaver.label>
+  <Alphabeaver.label>alfabæver</Alphabeaver.label>
   <Alphabeaver.description>En stor bæver afledt genetisk manipuleret til at høste træ med maskine-lignende effektivitet. I mangel af specialiseret foder, vil disse dyr gå i en manisk tilstand der får dem til at spise træer hele.</Alphabeaver.description>
   <Alphabeaver_Leather.label>bæverskin</Alphabeaver_Leather.label>
   <Alphabeaver_Leather.description>bæverskin</Alphabeaver_Leather.description>
   <Alphabeaver_Leather.stuffProps.stuffAdjective>bæverskin</Alphabeaver_Leather.stuffProps.stuffAdjective>
-  <Alphabeaver_Meat.label>alphabæverkød</Alphabeaver_Meat.label>
-  <Alphabeaver_Meat.description>alphabæverkød</Alphabeaver_Meat.description>
-  <Alphabeaver_Corpse.label>alphabæver lig</Alphabeaver_Corpse.label>
-  <Alphabeaver_Corpse.description>alphabæver lig</Alphabeaver_Corpse.description>
+  <Alphabeaver_Meat.label>alfabæverkød</Alphabeaver_Meat.label>
+  <Alphabeaver_Meat.description>alfabæverkød</Alphabeaver_Meat.description>
+  <Alphabeaver_Corpse.label>lig af alfabæver</Alphabeaver_Corpse.label>
+  <Alphabeaver_Corpse.description>lig af alfabæver</Alphabeaver_Corpse.description>
 
   <Capybara.label>Kapivar</Capybara.label>
   <Capybara.description>Den største naturlige gnaver, kapivaren er godt tilpasset til dampende jungle.</Capybara.description>
@@ -38,8 +38,8 @@
   <Chinchilla_Leather.stuffProps.stuffAdjective>chinchillapels</Chinchilla_Leather.stuffProps.stuffAdjective>
   <Chinchilla_Meat.label>chinchillakød</Chinchilla_Meat.label>
   <Chinchilla_Meat.description>chinchillakød</Chinchilla_Meat.description>
-  <Chinchilla_Corpse.label>chinchilla lig</Chinchilla_Corpse.label>
-  <Chinchilla_Corpse.description>chinchilla lig</Chinchilla_Corpse.description>
+  <Chinchilla_Corpse.label>lig af chinchilla</Chinchilla_Corpse.label>
+  <Chinchilla_Corpse.description>lig af chinchilla</Chinchilla_Corpse.description>
 
   <Boomrat.label>boomrotte</Boomrat.label>
   <Boomrat.description>Enten ved bevidst genetisk bevæbning, eller som en usædvanlig forsvarsmekanisme, disse gnaver-lignende skabninger skaber en kraftig brand-startende eksplosion når dræbt.</Boomrat.description>
@@ -48,8 +48,8 @@
   <Boomrat_Leather.stuffProps.stuffAdjective>boomrottelæder</Boomrat_Leather.stuffProps.stuffAdjective>
   <Boomrat_Meat.label>boomrottekød</Boomrat_Meat.label>
   <Boomrat_Meat.description>boomrottekød</Boomrat_Meat.description>
-  <Boomrat_Corpse.label>boomrotte lig</Boomrat_Corpse.label>
-  <Boomrat_Corpse.description>boomrotte lig</Boomrat_Corpse.description>
+  <Boomrat_Corpse.label>lig af boomrotte</Boomrat_Corpse.label>
+  <Boomrat_Corpse.description>lig af boomrotte</Boomrat_Corpse.description>
 
   <Raccoon.label>Vaskebjørn</Raccoon.label>
   <Raccoon.description>A small, hardy animal that ranges wide across forests and shrubland. Eats almost anything.</Raccoon.description>
@@ -59,7 +59,7 @@
   <Raccoon_Meat.label>Vaskebjørnekød</Raccoon_Meat.label>
   <Raccoon_Meat.description>Vaskebjørnkød</Raccoon_Meat.description>
   <Raccoon_Corpse.label>Vaskebjørn lig</Raccoon_Corpse.label>
-  <Raccoon_Corpse.description>Vaskebjørn lig</Raccoon_Corpse.description>
+  <Raccoon_Corpse.description>lig af vaskebjørn</Raccoon_Corpse.description>
 
   <Rat.label>rotte</Rat.label>
   <Rat.description>En gnaver berømt for at tilsmudse køkkener og spredning af sygdomme. Spiser næsten alt; lever næsten overalt.</Rat.description>
@@ -68,8 +68,8 @@
   <Rat_Leather.stuffProps.stuffAdjective>rottelæder</Rat_Leather.stuffProps.stuffAdjective>
   <Rat_Meat.label>rottekød</Rat_Meat.label>
   <Rat_Meat.description>rottekød</Rat_Meat.description>
-  <Rat_Corpse.label>rotte lig</Rat_Corpse.label>
-  <Rat_Corpse.description>rotte lig</Rat_Corpse.description>
+  <Rat_Corpse.label>lig af rotte</Rat_Corpse.label>
+  <Rat_Corpse.description>lig af rotte</Rat_Corpse.description>
 
 
 </LanguageData>

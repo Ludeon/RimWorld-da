@@ -4,29 +4,29 @@
   <OrbitalTradeBeacon.label>kredsløbs handelsfyr</OrbitalTradeBeacon.label>
   <OrbitalTradeBeacon.description>Nødvendig til kredsløbshandel. Du kan kun sælge varer som er tæt på kredsløbs handelsfyr. Kan placeres indendørs.</OrbitalTradeBeacon.description>
   <OrbitalTradeBeacon_Blueprint.label>kredsløbs handelsfyr (plan)</OrbitalTradeBeacon_Blueprint.label>
-  <OrbitalTradeBeacon_Frame.label>kredsløbs handelsfyr (bygger)</OrbitalTradeBeacon_Frame.label>
+  <OrbitalTradeBeacon_Frame.label>kredsløbs handelsfyr (bygning)</OrbitalTradeBeacon_Frame.label>
     
   <CommsConsole.label>kommunikationskonsol</CommsConsole.label>
   <CommsConsole.description>Skaber radio kontakt med handelsfolk og andre faktioner til at lave handel eller diplomati.</CommsConsole.description>
   <CommsConsole_Blueprint.label>komm konsol (plan)</CommsConsole_Blueprint.label>
-  <CommsConsole_Frame.label>komm konsol (bygger)</CommsConsole_Frame.label>
+  <CommsConsole_Frame.label>komm konsol (bygning)</CommsConsole_Frame.label>
 
   <FirefoamPopper.label>ildskums popper</FirefoamPopper.label>
   <FirefoamPopper.description>Når rørt at ild eller manuelt aktiveret, spærnger denne og sprayer en ildslukkende skum i et cirkulær felt omkring sig selv.</FirefoamPopper.description>
   <FirefoamPopper.comps.1.useLabel>Aktiver ildskums popper</FirefoamPopper.comps.1.useLabel>
   <FirefoamPopper_Blueprint.label>ildskums popper (plan)</FirefoamPopper_Blueprint.label>
   <FirefoamPopper_Blueprint_Install.label>ildskums popper (plan)</FirefoamPopper_Blueprint_Install.label>
-  <FirefoamPopper_Frame.label>ildskums popper (bygger)</FirefoamPopper_Frame.label>
+  <FirefoamPopper_Frame.label>ildskums popper (bygning)</FirefoamPopper_Frame.label>
 
   <MoisturePump.label>fugtpumpe</MoisturePump.label>
   <MoisturePump.description>Fjerner meget langsomt fugt fra terræn i nærheden og konventere marsk og lavt vand til tør jord. Påvirker ikke dybt vand.</MoisturePump.description>
   <MoisturePump_Blueprint.label>fugtpumpe (plan)</MoisturePump_Blueprint.label>
-  <MoisturePump_Frame.label>fugtpumpe (bygger)</MoisturePump_Frame.label>
+  <MoisturePump_Frame.label>fugtpumpe (bygning)</MoisturePump_Frame.label>
   
   <GroundPenetratingScanner.label>jord scanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>En nedadvendt, gennemtrængende radar, der kombinere sonar og magnetisk billeddannere, der lader dig opdage (men ikke identifisere) mineraler begravet dybt under overfladen. Kræver en enorm mængde strøm.</GroundPenetratingScanner.description>
   <GroundPenetratingScanner_Blueprint.label>jord scanner (plan)</GroundPenetratingScanner_Blueprint.label>
-  <GroundPenetratingScanner_Frame.label>jord scanner (bygger)</GroundPenetratingScanner_Frame.label>
+  <GroundPenetratingScanner_Frame.label>jord scanner (bygning)</GroundPenetratingScanner_Frame.label>
 
   
   <!-- Transport pods -->
@@ -34,12 +34,12 @@
   <PodLauncher.label>kapsel rampe</PodLauncher.label>
   <PodLauncher.description>En fyldnings port til at affyre en transport kapsel. Kapsels affyringsramper kan affyres i grupper - men ramperne skal placeres vedsiden af hinanden.</PodLauncher.description>
   <PodLauncher_Blueprint.label>kapsel rampe (plan)</PodLauncher_Blueprint.label>
-  <PodLauncher_Frame.label>kapsel rampe (bygger)</PodLauncher_Frame.label>
+  <PodLauncher_Frame.label>kapsel rampe (bygning)</PodLauncher_Frame.label>
 
   <TransportPod.label>transport kapsel</TransportPod.label>
   <TransportPod.description>En affyringsbar suborbitalevandrings fragtkapsel som er istand til at transportere mennesker, genstande, eller dyr. Kan blive brugt til transport, overraskelsesangreb, er til at sende forstærkninger i kamp.</TransportPod.description>
   <TransportPod_Blueprint.label>transport kapsel (plan)</TransportPod_Blueprint.label>
-  <TransportPod_Frame.label>transport kapsel (bygger)</TransportPod_Frame.label>
+  <TransportPod_Frame.label>transport kapsel (bygning)</TransportPod_Frame.label>
 
 
   <!-- Facilities -->
@@ -48,19 +48,19 @@
   <MultiAnalyzer.description>Gør forskningshastigheden hurtigere. Skal placeres tæt ved en højteknologisk forskningsbænk. En forskningsbænk kan kun være knyttet til en multi-analysator.</MultiAnalyzer.description>
   <MultiAnalyzer_Blueprint.label>multi analysator (plan)</MultiAnalyzer_Blueprint.label>
   <MultiAnalyzer_Blueprint_Install.label>multi analysator (plan)</MultiAnalyzer_Blueprint_Install.label>
-  <MultiAnalyzer_Frame.label>multi analysator (bygger)</MultiAnalyzer_Frame.label>
+  <MultiAnalyzer_Frame.label>multi analysator (bygning)</MultiAnalyzer_Frame.label>
 
   <VitalsMonitor.label>livstegns monitor</VitalsMonitor.label>
   <VitalsMonitor.description>Forøger patientens behandlings kvalitet. Skal placeres vedsiden af en hospitalsseng. En hospitalsseng kan kun være knyttet en livstegns monitor.</VitalsMonitor.description>
   <VitalsMonitor_Blueprint.label>livstegns monitor (plan)</VitalsMonitor_Blueprint.label>
   <VitalsMonitor_Blueprint_Install.label>livstegns monitor (plan)</VitalsMonitor_Blueprint_Install.label>
-  <VitalsMonitor_Frame.label>livstegns monitor (bygger)</VitalsMonitor_Frame.label>
+  <VitalsMonitor_Frame.label>livstegns monitor (bygning)</VitalsMonitor_Frame.label>
 
   <ToolCabinet.label>værktøjsskab</ToolCabinet.label>
   <ToolCabinet.description>Forøger arbejdshastigheden. Skal placeres tæt ved en arbejdsbænk. En arbejdsbænk kan være knyttet til optil to værktøjsskabe på samme tid..</ToolCabinet.description>
   <ToolCabinet_Blueprint.label>værktøjsskab (plan)</ToolCabinet_Blueprint.label>
   <ToolCabinet_Blueprint_Install.label>værktøjsskab (plan)</ToolCabinet_Blueprint_Install.label>
-  <ToolCabinet_Frame.label>værktøjsskab (bygger)</ToolCabinet_Frame.label>
+  <ToolCabinet_Frame.label>værktøjsskab (bygning)</ToolCabinet_Frame.label>
 
 
   <!-- Graves -->
@@ -68,19 +68,19 @@
   <Grave.label>grav</Grave.label>
   <Grave.description>Put de døde i grave for at give dem et anstændigt sidste hvilested. Kolonister vil besøge grave for at få meditativ glæde.</Grave.description>
   <Grave_Blueprint.label>grav (plan)</Grave_Blueprint.label>
-  <Grave_Frame.label>grav (bygger)</Grave_Frame.label>
+  <Grave_Frame.label>grav (bygning)</Grave_Frame.label>
 
   <Sarcophagus.label>sarkofag</Sarcophagus.label>
   <Sarcophagus.description>En dekoreret begravelse beholder for de beæret døde.</Sarcophagus.description>
   <Sarcophagus_Blueprint.label>sarkofag (plan)</Sarcophagus_Blueprint.label>
-  <Sarcophagus_Frame.label>sarkofag (bygger)</Sarcophagus_Frame.label>
+  <Sarcophagus_Frame.label>sarkofag (bygning)</Sarcophagus_Frame.label>
 
   <!-- Cryptosleep caskets -->
 
   <CryptosleepCasket.label>cryptosøvns kiste</CryptosleepCasket.label>
   <CryptosleepCasket.description>En selvstændig drevet sarkofag designet til at holde en person i en tilstand af suspenderet animation i mange år.</CryptosleepCasket.description>
   <CryptosleepCasket_Blueprint.label>cryptosøvns kiste (plan)</CryptosleepCasket_Blueprint.label>
-  <CryptosleepCasket_Frame.label>cryptosøvns kiste (bygger)</CryptosleepCasket_Frame.label>
+  <CryptosleepCasket_Frame.label>cryptosøvns kiste (bygning)</CryptosleepCasket_Frame.label>
 
   <AncientCryptosleepCasket.label>gammel cryptosøvns kiste</AncientCryptosleepCasket.label>
   <AncientCryptosleepCasket.description>Denne cryptosøvns kiste ser ud som om den har været her i meget lang tid. Hvem ved hvad den kunne indeholde?</AncientCryptosleepCasket.description>
@@ -91,12 +91,12 @@
   <MarriageSpot.label>vielsesplads</MarriageSpot.label>
   <MarriageSpot.description>Vælg et sted hvor vielser finder sted. Tilskuere kan se fra begge sider.</MarriageSpot.description>
   <MarriageSpot_Blueprint.label>marvielsespladsriage (plan)</MarriageSpot_Blueprint.label>
-  <MarriageSpot_Frame.label>vielsesplads (bygger)</MarriageSpot_Frame.label>
+  <MarriageSpot_Frame.label>vielsesplads (bygning)</MarriageSpot_Frame.label>
 
   <PartySpot.label>festplads</PartySpot.label>
   <PartySpot.description>Vælg et sted hvor fester vil have deres centrum. Fester bruger området omkring dette punkt.</PartySpot.description>
   <PartySpot_Blueprint.label>festplads (plan)</PartySpot_Blueprint.label>
-  <PartySpot_Frame.label>festplads (bygger)</PartySpot_Frame.label>
+  <PartySpot_Frame.label>festplads (bygning)</PartySpot_Frame.label>
 
 
 </LanguageData>

@@ -55,10 +55,10 @@
 
   <!-- Human corpse butchering -->
 
-  <ButcheredHumanlikeCorpse.stages.0.label>Jeg slagtet menneskelignende</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.label>Jeg slagtede noget menneskelignende</ButcheredHumanlikeCorpse.stages.0.label>
   <ButcheredHumanlikeCorpse.stages.0.description>Jeg slagtede en person som et dyr.</ButcheredHumanlikeCorpse.stages.0.description>
 
-  <KnowButcheredHumanlikeCorpse.stages.0.label>Vi slagtede menneskelignende</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.label>Vi slagtede noget menneskelignende</KnowButcheredHumanlikeCorpse.stages.0.label>
   <KnowButcheredHumanlikeCorpse.stages.0.description>Vi slagtede en person som et dyr.</KnowButcheredHumanlikeCorpse.stages.0.description>
 
 
@@ -67,8 +67,8 @@
   <ObservedLayingCorpse.stages.0.label>Så et lig</ObservedLayingCorpse.stages.0.label>
   <ObservedLayingCorpse.stages.0.description>Jeg så et lig ligge på jorden. Det var foruroligende.</ObservedLayingCorpse.stages.0.description>
 
-  <ObservedLayingRottingCorpse.stages.0.label>Så rådnende lig</ObservedLayingRottingCorpse.stages.0.label>
-  <ObservedLayingRottingCorpse.stages.0.description>Jeg så et rådnende lig ligge på jorden. Det var ulækkert.</ObservedLayingRottingCorpse.stages.0.description>
+  <ObservedLayingRottingCorpse.stages.0.label>Så rådddent lig</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>Jeg så et råddent lig ligge på jorden. Det var ulækkert.</ObservedLayingRottingCorpse.stages.0.description>
 
   <WitnessedDeathAlly.stages.0.label>bevidnede allierets død</WitnessedDeathAlly.stages.0.label>
   <WitnessedDeathAlly.stages.0.description>Jeg så en af mine folk dø. De var i live et øjeblik, og døde den næste.</WitnessedDeathAlly.stages.0.description>
@@ -77,7 +77,7 @@
   <WitnessedDeathNonAlly.stages.0.description>Jeg så en person dør. De var i live et øjeblik, og døde den næste.</WitnessedDeathNonAlly.stages.0.description>
 
   <WitnessedDeathFamily.stages.0.label>bevidnet familiemedlems død</WitnessedDeathFamily.stages.0.label>
-  <WitnessedDeathFamily.stages.0.description>Jeg så et medlem af min familie dø. Mit eget kød og blod ...</WitnessedDeathFamily.stages.0.description>
+  <WitnessedDeathFamily.stages.0.description>Jeg så et medlem af min familie dø. Mit eget kød og blod...</WitnessedDeathFamily.stages.0.description>
 
   <WitnessedDeathBloodlust.stages.0.label>bevidnede død med blodtørst</WitnessedDeathBloodlust.stages.0.label>
   <WitnessedDeathBloodlust.stages.0.description>Jeg så en person dø! Det var intens!</WitnessedDeathBloodlust.stages.0.description>
@@ -94,16 +94,16 @@
 
   <!-- Abandoning pawns -->
 
-  <ColonistAbandoned.stages.0.label>kolonist forladt</ColonistAbandoned.stages.0.label>
+  <ColonistAbandoned.stages.0.label>kolonist efterladt</ColonistAbandoned.stages.0.label>
   <ColonistAbandoned.stages.0.description>Vi efterlod nogen. Jeg håber at de vil klare sig, men jeg er bekymret.</ColonistAbandoned.stages.0.description>
 
-  <ColonistAbandonedToDie.stages.0.label>kolonist forladt til at dø</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>Vi efterlod nogen på en sådan måde, at der næsten er ingen måde, de vil kunne overleve på.</ColonistAbandonedToDie.stages.0.description>
+  <ColonistAbandonedToDie.stages.0.label>kolonist efterladt til at dø</ColonistAbandonedToDie.stages.0.label>
+  <ColonistAbandonedToDie.stages.0.description>Vi efterlod nogen på en sådan måde, at der næsten ikke er nogen måde, de vil kunne overleve på.</ColonistAbandonedToDie.stages.0.description>
 
   <PrisonerAbandonedToDie.stages.0.label>fange efterladt til at dø</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>Vi eftrerlod en fange på en sådan måde, at der næsten er ingen måde, de vil kunne overleve på.</PrisonerAbandonedToDie.stages.0.description>
+  <PrisonerAbandonedToDie.stages.0.description>Vi eftrerlod en fange på en sådan måde, at der næsten ikke er nogen måde, de vil kunne overleve på.</PrisonerAbandonedToDie.stages.0.description>
 
-  <BondedAnimalAbandoned.stages.0.label>kæledyret {0} efterlad</BondedAnimalAbandoned.stages.0.label>
+  <BondedAnimalAbandoned.stages.0.label>kæledyret {0} efterladt</BondedAnimalAbandoned.stages.0.label>
   <BondedAnimalAbandoned.stages.0.description>Mit kæledyr blev efterladt i midten af ingenting!</BondedAnimalAbandoned.stages.0.description>
 
 

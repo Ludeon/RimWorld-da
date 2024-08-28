@@ -4,17 +4,20 @@
 	<RawPotatoes.label>kartofler</RawPotatoes.label>
 	<RawPotatoes.description>Rå kartofler.</RawPotatoes.description>
 
+  <RawFungus.label>rå svmap</RawFungus.label>
+  <RawFungus.description>Rå svamp.</RawFungus.description>
+
     	<RawRice.label>ris</RawRice.label>
     	<RawRice.description>Rå ris.</RawRice.description>
 
-    	<RawAgave.label>agave frugt</RawAgave.label>
-    	<RawAgave.description>Rå agave frugt.</RawAgave.description>
+    	<RawAgave.label>agavefrugt</RawAgave.label>
+    	<RawAgave.description>Rå agavefrugt.</RawAgave.description>
 
 	<RawCorn.label>majs</RawCorn.label>
     	<RawCorn.description>Rå majs.</RawCorn.description>
 
     	<RawBerries.label>bær</RawBerries.label>
-    	<RawBerries.description>Diverse bær. Dejligt at spise, selv når de er åå.</RawBerries.description>
+    	<RawBerries.description>Diverse bær. Dejlige at spise, selv når de er utilberedte.</RawBerries.description>
 
 	<!-- Plant matter (inedible by people) -->
 	
@@ -22,12 +25,12 @@
     	<Hay.description>Næringsrige græsser og skud, der er høstet og komprimeret til opbevaring. Hø er god som dyrefoder, men uspiselige for mennesker.</Hay.description>
 
     	<RawHops.label>humle</RawHops.label>
-    	<RawHops.description>Rå humle. Et aroma- og konserveringsmiddel, der er nødvendig for fremstillingen af øl.</RawHops.description>
+    	<RawHops.description>Rå humle. Et aroma- og konserveringsmiddel der er nødvendig for fremstillingen af øl.</RawHops.description>
 
-    	<PsychoidLeaves.label>psychid blade</PsychoidLeaves.label>
-    	<PsychoidLeaves.description>Rå, afskåret blade af en psychid plante.</PsychoidLeaves.description>
+    	<PsychoidLeaves.label>psykidblade</PsychoidLeaves.label>
+    	<PsychoidLeaves.description>Rå, afskårede blade af en psykidplante. Can be refined into various form of the stimulant drug psychite</PsychoidLeaves.description>
 
-    	<SmokeleafLeaves.label>røgblads blade</SmokeleafLeaves.label>
-    	<SmokeleafLeaves.description>Rå afskåret blade af en røgblads plante. Kan be rullet til rygbare cigaretter ved en byggeplads.</SmokeleafLeaves.description>
+    	<SmokeleafLeaves.label>røgbladsblade</SmokeleafLeaves.label>
+    	<SmokeleafLeaves.description>Rå afskårede blade af en røgbladsplante. Kan blive rullet til rygbare cigaretter ved en arbejdsstation.</SmokeleafLeaves.description>
 
 </LanguageData>

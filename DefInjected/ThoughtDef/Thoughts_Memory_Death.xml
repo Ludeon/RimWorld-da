@@ -9,16 +9,16 @@
   <KnowGuestExecuted.stages.1.description>En fange eller gæst blev aflivet. Det var humant, men stadig trist.</KnowGuestExecuted.stages.1.description>
   <KnowGuestExecuted.stages.2.label>nogen blev henrettet</KnowGuestExecuted.stages.2.label>
   <KnowGuestExecuted.stages.2.description>En fange eller gæst blev dræbt i koldt blod. Det virkede lidt ondt.</KnowGuestExecuted.stages.2.description>
-  <KnowGuestExecuted.stages.3.label>nogen blev organ-høstet</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.label>nogen fik høstet sine organer</KnowGuestExecuted.stages.3.label>
   <KnowGuestExecuted.stages.3.description>En fange eller gæst døde fordi kolonien tog kropsdele fra ham. Det er forfærdeligt.</KnowGuestExecuted.stages.3.description>
 
   <KnowColonistExecuted.stages.0.label>begrundet henrettelse af kolonist</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>En skyldig kolonist blev henrettet. Det var begrundet men stadig trist.</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.0.description>En skyldig kolonist blev henrettet. Det var begrundet, men stadig trist.</KnowColonistExecuted.stages.0.description>
   <KnowColonistExecuted.stages.1.label>kolonist aflivet</KnowColonistExecuted.stages.1.label>
   <KnowColonistExecuted.stages.1.description>En kolonist blev aflivet. Det var humant, men stadig trist.</KnowColonistExecuted.stages.1.description>
   <KnowColonistExecuted.stages.2.label>kolonist henrettet</KnowColonistExecuted.stages.2.label>
   <KnowColonistExecuted.stages.2.description>En kolonist blev dræbt i koldt blod. Det virkede lidt ondt.</KnowColonistExecuted.stages.2.description>
-  <KnowColonistExecuted.stages.3.label>kolonist blev organ-høstet</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.3.label>kolonist fik høstet sine organer</KnowColonistExecuted.stages.3.label>
   <KnowColonistExecuted.stages.3.description>En kolonist døde fordi nogen tog kropsdele fra ham. Det er forfærdeligt.</KnowColonistExecuted.stages.3.description>
 
   <KnowPrisonerDiedInnocent.stages.0.label>uskyldig fange døde</KnowPrisonerDiedInnocent.stages.0.label>
@@ -46,16 +46,16 @@
   <!-- Family member died thoughts -->
 
   <MySonDied.stages.0.label>min søn {0} døde</MySonDied.stages.0.label>
-  <MySonDied.stages.0.description>Min søn er død. Mit eget kød og blod...</MySonDied.stages.0.description>
+  <MySonDied.stages.0.description>Min søn døde. Mit eget kød og blod...</MySonDied.stages.0.description>
 
   <MyDaughterDied.stages.0.label>min datter {0} døde</MyDaughterDied.stages.0.label>
-  <MyDaughterDied.stages.0.description>Min søn er død. Mit eget kød og blod...</MyDaughterDied.stages.0.description>
+  <MyDaughterDied.stages.0.description>Min datter døde. Mit eget kød og blod...</MyDaughterDied.stages.0.description>
 
   <MyHusbandDied.stages.0.label>min ægtemand {0} døde</MyHusbandDied.stages.0.label>
-  <MyHusbandDied.stages.0.description>Min ægtemand er død. Jeg er alene.</MyHusbandDied.stages.0.description>
+  <MyHusbandDied.stages.0.description>Min ægtemand døde. Jeg er alene.</MyHusbandDied.stages.0.description>
 
   <MyWifeDied.stages.0.label>min hustru {0} døde</MyWifeDied.stages.0.label>
-  <MyWifeDied.stages.0.description>Min hustru er død. Jeg er alene..</MyWifeDied.stages.0.description>
+  <MyWifeDied.stages.0.description>Min hustru døde. Jeg er alene..</MyWifeDied.stages.0.description>
 
   <MyFianceDied.stages.0.label>min forlovede {0} døde</MyFianceDied.stages.0.label>
   <MyFianceDied.stages.0.description>Min forlovede døde. Sikke en mand... min fremtid er væk.</MyFianceDied.stages.0.description>
@@ -64,7 +64,7 @@
   <MyFianceeDied.stages.0.description>Min forlovede døde. Sikke en kvinde ... min fremtid er væk.</MyFianceeDied.stages.0.description>
 
   <MyLoverDied.stages.0.label>min elsker {0} døde</MyLoverDied.stages.0.label>
-  <MyLoverDied.stages.0.description>Min elsker er død. Jeg er alene.</MyLoverDied.stages.0.description>
+  <MyLoverDied.stages.0.description>Min elsker døde. Jeg er alene.</MyLoverDied.stages.0.description>
 
   <MyBrotherDied.stages.0.label>min bror {0} døde</MyBrotherDied.stages.0.label>
   <MyBrotherDied.stages.0.description>Min bror døde. Mit eget kød og blod...</MyBrotherDied.stages.0.description>
@@ -88,7 +88,7 @@
   <MyNephewDied.stages.0.description>Min nevø døde. Sådan et vidunderligt barn.</MyNephewDied.stages.0.description>
 
   <MyHalfSiblingDied.stages.0.label>min halv-søsken {0} døde</MyHalfSiblingDied.stages.0.label>
-  <MyHalfSiblingDied.stages.0.description>Min halvsøsken døde. Mit eget kød og blod ...</MyHalfSiblingDied.stages.0.description>
+  <MyHalfSiblingDied.stages.0.description>Min halvsøsken døde. Mit eget kød og blod...</MyHalfSiblingDied.stages.0.description>
 
   <MyAuntDied.stages.0.label>min tante {0} døde</MyAuntDied.stages.0.label>
   <MyAuntDied.stages.0.description>Min tante døde.</MyAuntDied.stages.0.description>

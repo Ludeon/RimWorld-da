@@ -1,46 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- natural -->
-
   <Heart.label>hjerte</Heart.label>
-  <Heart.description>Pumper blod og oxygen rundt i alle kroppens del. Klar til at finde en ny ejer..</Heart.description>
+  <Heart.description>Et biologisk menneskehjerte. Pumper blod og oxygen rundt i alle kroppens dele.</Heart.description>
 
   <Lung.label>lunge</Lung.label>
-  <Lung.description>Essentiel del af luftvejssystemet.</Lung.description>
+  <Lung.description>En biologisk menneskelunge. Essentiel del af luftvejssystemet.</Lung.description>
 
   <Kidney.label>nyre</Kidney.label>
-  <Kidney.description>Filtrere og fjerner affaldsprodukter fra blodet.</Kidney.description>
+  <Kidney.description>En biologisk menneskenyre. Filtrerer og fjerner affaldsstoffer fra blodet.</Kidney.description>
 
-  <Liver.label>Lever</Liver.label>
-  <Liver.description>Spiller en vigtig rolle i stofskifte.</Liver.description>
+  <Liver.label>lever</Liver.label>
+  <Liver.description>En biologisk menneskelever. Spiller en vigtig rolle i stofskiftet.</Liver.description>
 
+  <SimpleProstheticLeg.label>benprotese</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>En benprotese. While it lacks a neutral interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Det er dog stadig ringe i forhold til et rigtigt ben.</SimpleProstheticLeg.description>
 
-  <!-- artificial - simple prosthetics -->
+  <SimpleProstheticArm.label>armprotese</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>En armprotese. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Den er dog stadig ringe i forhold til en rigtig arm.</SimpleProstheticArm.description>
 
-  <SimpleProstheticLeg.label>simpel benprotese</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>En simpel benprotese til at erstatte et manglende ben. Ikke komfortabelt, men effektivt.</SimpleProstheticLeg.description>
+  <SimpleProstheticHeart.label>hjerteprotese</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>En hjerteprotese. Den indeholder en elektrisk motor som let pumper blodet rundt i kroppen. Users often report feeling tired, men det er bedre end alternativet.</SimpleProstheticHeart.description>
 
-  <SimpleProstheticArm.label>simpel armprotese</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>En simpel men solid armprotese.</SimpleProstheticArm.description>
-
-
-  <!-- artificial - bionics -->
+  <CochlearImplant.label>cochleaimplantat</CochlearImplant.label>
+  <CochlearImplant.description>Et implantat som erstatter normal hørelse. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf.</CochlearImplant.description>
 
   <BionicEye.label>bionisk øje</BionicEye.label>
-  <BionicEye.description>Avdanceret stykke teknologi som ikke kun erstatte naturligt øje, men som også giver supernaturligt syn.</BionicEye.description>
+  <BionicEye.description>Et avanceret, kunstigt øje. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage.</BionicEye.description>
 
   <BionicArm.label>bionisk arm</BionicArm.label>
-  <BionicArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</BionicArm.description>
+  <BionicArm.description>En avanceret, kunstig arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicArm.description>
 
   <BionicLeg.label>bionisk ben</BionicLeg.label>
-  <BionicLeg.description>Et bionisk ben er med den nyste teknologi medvirkende til at give ejeren ekstrem gå-komfort og styrke.</BionicLeg.description>
+  <BionicLeg.description>Et avanceret, kunstigt ben. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way.</BionicLeg.description>
 
-  <PowerClaw.label>kraft klo</PowerClaw.label>
-  <PowerClaw.description>En stærk hånd erstatning som giver brugeren tre dødelige klør.</PowerClaw.description>
+  <BionicSpine.label>bionisk rygsøjle</BionicSpine.label>
+  <BionicSpine.description>En avanceret, kunstig rygsøjle. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine.</BionicSpine.description>
 
-  <ScytherBlade.label>scyther klinge</ScytherBlade.label>
-  <ScytherBlade.description>Hånd erstatning med en teleskopisk klinge. Taget fra en død scyther mekanit. Ikke specielt komfortabel, men ganske effektiv som en nærkampsvåben.</ScytherBlade.description>
+  <BionicHeart.label>bionisk hjerte</BionicHeart.label>
+  <BionicHeart.description>Et avanceret, kunstigt hjerte. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way.</BionicHeart.description>
+
+  <BionicStomach.label>bionisk mave</BionicStomach.label>
+  <BionicStomach.description>En avanceret, kunstig mave. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way.</BionicStomach.description>
+
+  <BionicEar.label>bionisk øre</BionicEar.label>
+  <BionicEar.description>Et avanceret, kunstigt øreimplantat. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments.</BionicEar.description>
+
+
+  <!-- bionic non-makeable -->
+
+  <PowerClaw.label>kraftklo</PowerClaw.label>
+  <PowerClaw.description>A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks.</PowerClaw.description>
+
+  <ArchotechEye.label>archotech øje</ArchotechEye.label>
+  <ArchotechEye.description>Et kunstigt øje bygget af en archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Hvordan den er skruet sammen, er et mysterie for mennesket.</ArchotechEye.description>
+
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.description>En kunstig arm bygget af en archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. Den ligner og føles som ægte hud, men den er sværere at beskadige en plastål. Selvom den bliver beskadiget, kan den reparere sig selv med tiden. Hvordan den er skruet sammen, er et mysterie for mennesket.</ArchotechArm.description>
+
+  <ArchotechLeg.label>archotech ben</ArchotechLeg.label>
+  <ArchotechLeg.description>Et kunstigt ben bygget af en archotech. Det ligner og føles som ægte hud, men et sæt af disse kan bevæge brugeren lige så hurtigt som en god bil, og det er sværere at beskadige en plastål. but a pair of these can move the user as fast as a decent car,  Even if it is harmed, it repairs itself over time. Hvordan den er skruet sammen, er et mysterie for mennesket.</ArchotechLeg.description>
 
 
 </LanguageData>
