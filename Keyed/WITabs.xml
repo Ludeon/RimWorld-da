@@ -37,7 +37,7 @@
   <AssignDrugPolicies>Assign drug policies</AssignDrugPolicies>
 
   <!-- Caravan health -->
-  <BeCarriedIfSickTip>Hvorvidt denne person eller dyr skal bæres af andre karavanemedlemmer hvis de er syge.\n\nBårede karavanemedlemmer kan hvile sig selv når karavanen bevæger sig, men de sænker farten på den.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>Hvorvidt denne person eller dyr skal bæres af andre karavanemedlemmer, hvis de er syge.\n\nBårede karavanemedlemmer kan hvile når karavanen bevæger sig, men de sænker farten på den.</BeCarriedIfSickTip>
 
   <!-- Planet -->
   <PlanetSeed>Frø</PlanetSeed>

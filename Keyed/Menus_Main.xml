@@ -5,7 +5,7 @@
   <Tutorial>Læreprogram</Tutorial>
   <NewColony>Ny koloni</NewColony>
   <BackToGame>Tilbage til spillet</BackToGame>
-  <ReviewScenario>Vurder scenarie</ReviewScenario>
+  <ReviewScenario>Review scenarie</ReviewScenario>
   <Save>Gem</Save>
   <LoadGame>Indlæs spil</LoadGame>
   <Options>Indstillinger</Options>
@@ -26,7 +26,7 @@
   <CreateWorld>Opret verden</CreateWorld>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Vurder verden</ReviewWorld>
+  <ReviewWorld>Review verden</ReviewWorld>
   <WorldGenerate>Skab</WorldGenerate>
   <WorldSaveAndFinish>Gem og afslut</WorldSaveAndFinish>
   <Reset>Nulstil</Reset>
@@ -52,7 +52,7 @@
   <BuildNowAvailable>Version {0} er nu tilgængelig. Tjek ludeon.com for mere info.</BuildNowAvailable>
   <BuildUpToDate>Dette er den nyeste version.</BuildUpToDate>
   <ErrorGettingVersionInfo>Fejl ved hentning af versionsinfo: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Indlæser versionsinfo ...</LoadingVersionInfo>
+  <LoadingVersionInfo>Indlæser versionsinfo...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Skab verden</GenerateWorld>

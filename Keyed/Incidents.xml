@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterLabelAnimalInsanitySingle>Gal dyr</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>En lokal {0} er blevet sindsyg. Det vil angribe alle den ser.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>Galt dyr</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>En lokal {0} er blevet sindssyg. Det vil angribe alle, den ser.</AnimalInsanitySingle>
   <LetterLabelAnimalInsanityMultiple>Gale dyr!</LetterLabelAnimalInsanityMultiple>
-  <AnimalInsanityMultiple>Eller anden form for psykisk bølge har fejet over landskabet. Dine kolonister er okay, men ...\n\nDet ser ud til mange {0}er i området er blevet drevet sindssyg.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Eller anden form for psykisk bølge har fejet over landskabet. Dine kolonister er okay, men ...\n\nDet ser ud til mange {0}er i området er blevet drevet sindssyge.</AnimalInsanityMultiple>
 
   <LetterLabelCropBlight>Plantepest</LetterLabelCropBlight>
   <CropBlight>En mystisk plantepest har ødelagt dine afgrøder.</CropBlight>
@@ -43,21 +43,21 @@
   <LetterLabelSingleVisitorArrives>Besøgende</LetterLabelSingleVisitorArrives>
   <SingleVisitorArrives>En {0} fra {1} besøger kolonien.\n\n[PAWN_pronoun] er kaldt {2}.{3}{4}</SingleVisitorArrives>
   <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] har tilsyneladende et par ting til salg.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] er leder af den fraktion.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] er leder af fraktionen.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Besøgende</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>En gruppe fra {0} besøger kolonien.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nDe ser ud til at have et par ting til salg.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\nEn af de besøgende - {0}, er lederen af den fraktion.</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nEn af de besøgende, {0}, er lederen af fraktionen.</GroupVisitorsArriveLeaderInfo>
   <VisitorsLeaving>De besøgende fra {0} rejser videre.</VisitorsLeaving>
 
   <LetterLabelWandererJoin>vandrer slutter sig til</LetterLabelWandererJoin>
   <WandererJoin>En {0} kaldet [PAWN_nameDef] er ankommet og slutter sig til kolonien. [PAWN_pronoun] er en {1}.</WandererJoin>
 
-  <LetterLabelManhunterPackArrived>Menneskejæger flok</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke passere døre, så hvis du bliver bag mure vil du være i sikker. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>Flok af menneskejægere</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke passere døre, så hvis du bliver bag mure, vil du være i sikkerhed. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Den ældgammel struktur har udsendt en psykisk puls, der har drevet nærliggende dyr fra forstanden.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>Den ældgamle struktur har udsendt en psykisk puls, der har drevet nærliggende dyr fra forstanden.</MessageAnimalInsanityPulse>
   <LetterShipPartDroveColonistInsane>Den nedstyrtede skibsdel har udsendt en psykisk puls, der har drevet kolonister {0} sindssyge.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vågnede for {0} dage siden</AwokeDaysAgo>
   <PsychicDroneLevel>Den psykiske puls' styrke: {0}</PsychicDroneLevel>
@@ -81,7 +81,7 @@
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Bævere!</LetterLabelBeaversArrived>
-  <BeaversArrived>En gruppe af sultne alphabæere er netop ankommet.\n\ nPrøv at eliminer dem før de decimere hver enetste træ i regionen.</BeaversArrived>
+  <BeaversArrived>En gruppe af sultne alfabæere er netop ankommet.\n\ nPrøv at eliminere dem før de decimerer hvert eneste træ i regionen.</BeaversArrived>
 
   <!-- Refugee chased -->
   <RefugeeChasedInitial>En {1} der hedder {0} kalder dig fra nærliggende. [PAWN_pronoun] bliver jagtet af {2} fra {3}!\n\n[PAWN_pronoun] tigger om sikkerhed og tilbyder at slutte sig til din koloni. Biologisk, [PAWN_pronoun] er {4} år gammel.\n\NVær advarede - hvis du accepterer, er du nødt til at bekæmp  {2} som er i hælen på ham.</RefugeeChasedInitial>
@@ -121,7 +121,7 @@
 
   <!-- Caravan meeting -->
   <CaravanMeeting>Din karavane har mødt fredeligt med en karavane fra {0}. Den anden karavane er sammensat af:\n\n{1}</CaravanMeeting>
-  <CaravanMeeting_Trade>Handel</CaravanMeeting_Trade>
+  <CaravanMeeting_Trade>Handl</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>Angrib</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>Drag videre</CaravanMeeting_MoveOn>
 

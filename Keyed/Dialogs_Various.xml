@@ -4,6 +4,7 @@
   <Confirm>Bekræft</Confirm>
   <GoBack>Gå tilbage</GoBack>
   <OK>O.K.</OK>
+  <Close>Luk</Close>
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>RimWorld er blevet opdateret fra version {0} til version {1}.</GameUpdatedToNewVersionInitial>
@@ -14,16 +15,16 @@
 
   <!-- Recovered from errors caused by mods -->
   <RecoveredFromErrorsDialogTitle>Genvundet fra inkompatibel eller beskadigede mod-fejl</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>Det lader til, at nogle af de aktive mods forårsagede fejl.\n\nDe var uforenelige med hinanden, der er designet til en anden version af RimWorld eller beskadiget.\n\nAlle mods er blevet deaktiveret og kan aktiveres igen i dialogboksen mods.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>Det lader til at nogle af de aktive mods forårsagede fejl.\n\nDe var uforenelige med hinanden, der er designet til en anden version af RimWorld eller beskadiget.\n\nAlle mods er blevet deaktiveret og kan aktiveres igen i dialogboksen mods.</RecoveredFromErrorsText>
 
   <!-- Errors during loading -->
   <ErrorWhileLoadingAssetsTitle>Fejl under indlæsning af aktiver</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>er opstod en fejl under indlæsning spilaktiver. Se fejlloggen for yderligere information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>Der opstod en fejl under indlæsning spilaktiver. Se fejlloggen for flere informationer.</ErrorWhileLoadingAssets>
   <ErrorWhileLoadingAssets_ModsInfo>Spillet kører i øjeblikket med brugerskabte mods - de kan muligvis forårsage disse problemer.</ErrorWhileLoadingAssets_ModsInfo>
   <ErrorWhileGeneratingMapTitle>Fejl ved skabning af kortet</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>Der opstod en fejl under skabning af et nyt kort. Se fejlloggen for yderligere information.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>Der opstod en fejl under skabning af et nyt kort. Se fejlloggen for flere informationer.</ErrorWhileGeneratingMap>
   <ErrorWhileLoadingMapTitle>Fejl ved indlæsning af et kort</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>Der opstod en fejl under indlæsning af et kort. Se fejlloggen for yderligere information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>Der opstod en fejl under indlæsning af et kort. Se fejlloggen for flere informationer.</ErrorWhileLoadingMap>
 
   <!-- Unloaded mod with an assembly -->
   <ModsChanged>Listen af mods er ændret. Spillet genstarter automatisk nu.</ModsChanged>
@@ -43,7 +44,7 @@
   <LoadingWorld>Indlæser verdenen</LoadingWorld>
   <LoadingMap>Indlæser kortet</LoadingMap>
   <InitializingGame>Initialiserer spillet</InitializingGame>
-  <SpawningAllThings>Indsætter alle tingene</SpawningAllThings>
+  <SpawningAllThings>Indsætter tingene</SpawningAllThings>
   <SpawningColonists>Indsætter kolonisterne</SpawningColonists>
 
   <!-- Save/load -->
@@ -61,30 +62,33 @@
   <SaveIsFromDifferentGameBuild>Vi kører version {0}, men gemmedata fra {1}, som er en anden udgave.\n\nAt prøve indlæse disse data burde stadig fungere.</SaveIsFromDifferentGameBuild>
   <SaveIsFromThisGameBuild>Gemmedata blev gemt med vores spilversion, og bør virke uden problemer.</SaveIsFromThisGameBuild>
   <SaveIsUnknownFormat>Gemmedata i et ukendt format, og vil næsten helt sikkert ikke indlæses korrekt.</SaveIsUnknownFormat>
-  <ProblemSavingFile>Der opstod et problem ved lagringen af filen {0}:\n\n{1}\n\nSe fejlloggen for yderligere information.</ProblemSavingFile>
+  <ProblemSavingFile>Der opstod et problem ved lagringen af filen {0}:\n\n{1}\n\nSe fejlloggen for flere informationer.</ProblemSavingFile>
   <LoadAnyway>Indlæs alligevel</LoadAnyway>
+    <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
+  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
 
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>{0} mener, at du skal give din fraktion et navn. Hvad skal din fraktion hedde?</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>{0} synes at du skal give din fraktion et navn. Hvad skal din fraktion hedde?</NamePlayerFactionMessage>
   <PlayerFactionGainsName>Din fraktion er nu kendt som {0}.</PlayerFactionGainsName>
   <PlayerFactionNameIsInvalid>Dette navn er ikke gyldigt.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>Da det ser ud til, at du kommer til at være her et stykke tid, mener {0}, at du bør give dette samfund et navn. Hvad skal samfundet hedde?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>Da det ser ud til, at du kommer til at være her et stykke tid, synes {0} at du bør give dette samfund et navn. Hvad skal dette lokale samfund hedde?</NamePlayerFactionBaseMessage>
   <PlayerFactionBaseGainsName>Dette samfund er nu kendt som {0}.</PlayerFactionBaseGainsName>
   <PlayerFactionBaseNameIsInvalid>Dette navn er ikke gyldigt.</PlayerFactionBaseNameIsInvalid>
 
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Da det ser ud til, at du kommer til at være her et stykke tid, mener {0} også, at du bør give dette samfund et navn. Hvad skal samfundet hedde?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Da det ser ud til, at du kommer til at være her et stykke tid, synes {0} også, at du bør give dette samfund et navn. Hvad skal dette lokale samfund hedde?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <PlayerFactionAndBaseGainsName>Din fraktion er nu kendt som {0}, og dette samfund er nu kendt som {1}.</PlayerFactionAndBaseGainsName>
 
   <!-- Renaming -->
-  <NameIsInvalid>Vær venlig at angive et gyldigt navn.</NameIsInvalid>
+  <NameIsInvalid>Angiv et gyldigt navn.</NameIsInvalid>
   <NameIsInUse>Navnet er allerede i brug.</NameIsInUse>
-  <ZoneGainsName>Zonen kaldes nu {0}.</ZoneGainsName>
+  <ZoneGainsName>Zonen hedder nu {0}.</ZoneGainsName>
 
   <!-- Pawn naming -->
-  <PawnGainsName>Denne kolonists øgenavn er nu {0}.</PawnGainsName>
+  <PawnGainsName>Denne kolonists kælenavn er nu {0}. [PAWN_possessive] titel er {1}.</PawnGainsName>
+ <AnimalGainsName>Dette dyrs navn er nu {0}.</AnimalGainsName>
 
   <!-- Save game incompatible warning -->
   <VersionMismatch>Forkert version</VersionMismatch>
@@ -95,32 +99,35 @@
   <ModsMismatchWarningText>Denne fil blev gemt med et andet sæt af aktive mods end dem, der i øjeblikket kører. Dette kan muligvis give problemer, afhængig af, hvad disse mods gør.\n\nFilen blev gemt med (i denne rækkefølge):.\n\n{0}\n\nVi kører med (i denne rækkefølge):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>Du har ændret dine skærmindstillinger. Fungerer de nye okay?\n\nFortryder automatisk om {0} ...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>Du har ændret dine skærmindstillinger. Fungerer de nye instillinger?\n\nFortryder automatisk om {0} ...</ConfirmResolutionChange>
   <ResolutionKeep>Behold</ResolutionKeep>
   <ResolutionRevert>Fortryd</ResolutionRevert>
 
+    <!-- Confirm permanently disable dev mode -->
+  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?</ConfirmPermanentlyDisableDevMode>
+
   <!-- Research -->
   <Research>Forskning</Research>
-  <Researched>Udforsket</Researched>
-  <Unresearched>Ej udforsket</Unresearched>
+  <Researched>Forsket</Researched>
+  <Unresearched>Ej forsket</Unresearched>
   <Finished>Færdig</Finished>
   <InProgress>I gang</InProgress>
   <Locked>Låst</Locked>
-  <ResearchMenuWithoutBench>Før du har bygget en FORSKNINGSBÆNK kan dine kolonister ikke udføre forskning.\n\nDu kan dog stadig se på forskningsprojekter.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>Før du har bygget en FORSKNINGSBÆNK, kan dine kolonister ikke udføre forskning.\n\nDu kan dog stadig se på forskningsprojekter.</ResearchMenuWithoutBench>
   <ResearchPrerequisites>Forudsætninger for forskning</ResearchPrerequisites>
   <RequiredResearchBench>Påkrævet forskningsbænk</RequiredResearchBench>
   <RequiredResearchBenchFacilities>Påkrævede faciliteter ved forskningsbænk</RequiredResearchBenchFacilities>
 
   <!-- Advanced game start options -->
-  <MapTemperatureDangerWarning>Advarsel: Du vil blive lande i et frossent miljø. Det kan være svært eller næsten umuligt at overleve. Hvis du ikke har til hensigt at møde en ekstrem udfordring, vælg et andet sted eller årstid.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>Advarsel: Ydelsen kan forringes på større kortstørrelser. Ludeonlig størrelse er uprøvet, og vil næsten helt sikkert ikke spille godt.</MapSizePerformanceWarning>
+  <MapTemperatureDangerWarning>Advarsel: Du vil lande i et frossent miljø. Det kan være svært eller næsten umuligt at overleve. Hvis du ikke har til hensigt at møde en ekstrem udfordring, vælg et andet sted eller årstid.</MapTemperatureDangerWarning>
+ <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
   <MapSize>Kortstørrelse</MapSize>
   <MapSizeDesc>{0}×{0} ({1} celler)</MapSizeDesc>
   <MapSizeSmall>Lille</MapSizeSmall>
   <MapSizeMedium>Mellem</MapSizeMedium>
   <MapSizeLarge>Stort</MapSizeLarge>
-  <MapSizeExtreme>Ludeonlig</MapSizeExtreme>
-  <MapStartSeason>Årstid ved start:</MapStartSeason>
+  <MapSizeExtreme>Ekstrem (test)</MapSizeExtreme>
+  <MapStartSeason>Årstid ved start</MapStartSeason>
   <MapStartSeasonDefault>Automatisk</MapStartSeasonDefault>
   <PermadeathMode>Permadød-tilstand</PermadeathMode>
   <PermadeathModeInfo>I permadøds-tilstand, får du én gemmefil, og kan kun gemme når du lukker spillet. Du kan ikke genindlæse spillet for at rette fejl, og når kolonien dør, er det slut.\n\nDet er denne måde RimWorld var beregnet til at blive spillet på, hvor hver dramatisk drejning - hvorvidt tragisk eller forhåbningsfuld - spilles ud til sin fulde effekt.</PermadeathModeInfo>
@@ -137,44 +144,53 @@
   <CountingProducts>Tæller</CountingProducts>
   <Infinite>Uendeligt</Infinite>
   <AllowedSkillRange>Tilladt {0} færdighed:</AllowedSkillRange>
+  <IncompatibleLower>inkompatibel</IncompatibleLower>
+  <AnyWorker>Any worker</AnyWorker>
+  <Unlimited>Ubegrænset</Unlimited>
 
   <RecipeCannotHaveTargetCount>(Denne opskrift kan ikke have et antal mål, fordi det har flere eller uforudsigelige produkter.)</RecipeCannotHaveTargetCount>
   <WorkAmount>Arbejdsmængde</WorkAmount>
   <MinimumSkills>Minimum færdigheder:</MinimumSkills>
   <BillRequires>Kræver {0} {1}</BillRequires>
   <BillRequiresNutrition>Kræver {0} ernæring</BillRequiresNutrition>
-  <BillRequiresMayVary>Bemærk: små mængde ingredienser som guld kræver {0}× så meget.</BillRequiresMayVary>
-  <ThisIsSmallVolume>Dette er et små mængde ingrediens. Dette betyder, at hver "enhed" er kun 1/{0} så meget som en normal-volumen ingrediens. Så for at fylde det samme krav, skal du bruge {0}× så meget som normalt.</ThisIsSmallVolume>
+  <BillRequiresMayVary>Bemærk: småmængdeingredienser som guld kræver {0}× så meget.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Dette er en småmængdeingrediens. Dette betyder at hver "enhed" kun er 1/{0} så meget som en normal-volumen ingrediens. For at fylde det samme krav, skal du bruge {0}× så meget som normalt.</ThisIsSmallVolume>
   <UsableIngredients>ingredienser</UsableIngredients>
-  <DoXTimes>Gør X antal gange</DoXTimes>
-  <DoUntilYouHaveX>Gentag indtil du har X</DoUntilYouHaveX>
-  <DoForever>Gør for evigt</DoForever>
   <BillRepeatTargetCountShort>Til {0}</BillRepeatTargetCountShort>
-  <BillStoreMode_DropOnFloor>Smid på gulvet</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Tag til bedste lagerplads</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Tag til nærmeste lagerplads</BillStoreMode_NearestStockpileAnyPriority>
 
   <PauseWhenSatisfied>Sæt på pause når opfyldt</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Genoptag når der er</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>Genoptag ved</UnpauseWhenYouHave>
   <Paused>Sat på pause</Paused>
   <Unpause>Genoptag</Unpause>
 
+    <IncludeEquipped>Count equipped</IncludeEquipped>
+  <IncludeTainted>Count tainted</IncludeTainted>
+  <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
+  <IncludeFromAll>Look everywhere</IncludeFromAll>
+  <IncludeSpecific>Look in {0}</IncludeSpecific>
+
   <!-- Info card -->
   <Damage>Skade</Damage>
+   <ArmorPenetration>Armor penetration</ArmorPenetration>
+  <ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
   <Accuracy>Præcision</Accuracy>
   <BurstShotCount>Burst skudtæller</BurstShotCount>
   <WarmupTime>Opvarmning</WarmupTime>
-  <MeleeWarmupTime>Nærkamps opvarmning</MeleeWarmupTime>
+  <MeleeWarmupTime>Opvarmning ved nærkamp</MeleeWarmupTime>
   <CooldownTime>Nedkøling</CooldownTime>
   <BurstShotFireRate>Skudhastighed</BurstShotFireRate>
   <Range>Rækkevidde</Range>
+   <StoppingPower>Stopping power</StoppingPower>
+  <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
+  <DirectHitChance>Direct hit chance</DirectHitChance>
+  <MissRadius>Miss radius</MissRadius>
   <GrowsWild>vokser vildt</GrowsWild>
   <Harvestable>Høstbar</Harvestable>
   <LimitedLifespan>Begrænset livstid</LimitedLifespan>
   <GrowingTime>Voksetid</GrowingTime>
   <GrowingTimeDesc>Planter vokser kun noget af dagen, og kun når oplyst. Denne statistik måler tiden planten har brug for at tilbringe med faktisk at vokse for at nå fuld størrelse. Den reelle vokse tid vil generelt være omkring dobbelt så lang. Lave temperaturer vil også sløve plantevæksten.</GrowingTimeDesc>
   <Days>dage</Days>
-  <MinGrowingSkillToSow>Minimum dyrknings færdighed for at så</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Minimum dyrkningsfærdighed for at så</MinGrowingSkillToSow>
   <FertilityRequirement>Fertilitetskrav</FertilityRequirement>
   <FertilitySensitivity>Fertilitetsfølsomhed</FertilitySensitivity>
   <LightRequirement>Belysningskrav</LightRequirement>
@@ -186,16 +202,19 @@
   <WalkSpeedProperty>Gåhastighed</WalkSpeedProperty>
   <MinFoodQuality>Min. fødevarekvalitet</MinFoodQuality>
   <Diet>Kost</Diet>
-  <BodySize>Kropsstørrelse</BodySize>
+   <LeatherType>Leather type</LeatherType>
   <RecruitDifficulty>Sværhedsgrad for rekruttering</RecruitDifficulty>
   <MarketValue>Basispris</MarketValue>
   <Covers>Dækning</Covers>
+    <Layer>Layer</Layer>
   <CoverEffectiveness>Effektivitet af dækning</CoverEffectiveness>
   <CoverEffectivenessExplanation>Hvor effektivt dette er, når det anvendes som dække i en ildkamp. Højere procentsatser vil blokere flere skud.</CoverEffectivenessExplanation>
   <MedicineXpGainFactor>Erfaringsvækst-faktor</MedicineXpGainFactor>
   <MoodChange>Humørændring</MoodChange>
   <Wildness>Vildskab</Wildness>
   <WildnessExplanation>Vildere væsner er naturligvis sværere at tæmme, træne og håndtere.</WildnessExplanation>
+    <TrainingDecayInterval>Training decay interval</TrainingDecayInterval>
+  <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
   <AnimalFilthRate>Dyresnavs-rate</AnimalFilthRate>
   <AnimalFilthRateExplanation>Dyr producerer snavs når de bevæger sig rundt på gulve. Dette er den gennemsnitlige mængde af snavs der er produceret pr {0} celler vandrede af dette væsen.\n\nStørre eller mindre kæledyr-lignende dyr producere mere snavs.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>Tid</TimeRecordsCategory>
@@ -204,25 +223,41 @@
   <PackAnimal>Flokdyr</PackAnimal>
   <PackAnimalExplanation>Hvorvidt dette dyr er passende at bruge til at bære genstande i en karavane over længere afstande.</PackAnimalExplanation>
 </PackAnimalExplanation>
+  <Skill>Færdighed</Skill>
+  <SurgerySuccessChanceFactor>Success rate multiplier</SurgerySuccessChanceFactor>
+  <SurgeryRequireBed>Requires bed</SurgeryRequireBed>
+  <WorkSpeedStat>Work speed governed by</WorkSpeedStat>
+  <EfficiencyStat>Output quantity governed by</EfficiencyStat>
+  <ConstructionSkillRequired>Construction skill required</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>Requires this level of Construction in order to build.</ConstructionSkillRequiredExplanation>
+  <NuzzleInterval>Nuzzle interval</NuzzleInterval>
+  <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time.</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>Revenge chance on harm</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeing revenge, attack it from rifle range with a slow-firing weapon.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>Revenge chance on tame fail</TameFailedRevengeChance>
+  <TerrainRequirement>Terrain requirement</TerrainRequirement>
+  <Supports>Supports</Supports>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>Positive tal køber.\nNegative tal sælger.</PositiveBuysNegativeSells>
-  <BuyPriceDesc>Prisen du betaler, for at købe dette.</BuyPriceDesc>
-  <SellPriceDesc>Prisen du modtager, for at sælge dette.</SellPriceDesc>
-  <PriceTypeDesc>for denne genstand, er prisen {0}.</PriceTypeDesc>
-  <ColonyCount>Hvor mange af denne genstand kolonien har klar til at sælge.\n\nDu kan kun sælge varer til forhandlere i kredsløb, hvis varende er udendørs og i nærheden af et kredsløbs handelsfyr.</ColonyCount>
+  <BuyPriceDesc>Prisen du betaler for at købe dette.</BuyPriceDesc>
+  <SellPriceDesc>Prisen du modtager for at sælge dette.</SellPriceDesc>
+  <PriceTypeDesc>for denne genstand er prisen {0}.</PriceTypeDesc>
+  <ColonyCount>Hvor mange af denne genstand kolonien har klar til at sælge.\n\nDu kan kun sælge varer til forhandlere i kredsløb, hvis varene er udendørs og i nærheden af et kredsløbshandelsfyr.</ColonyCount>
   <TraderCount>Hvor mange af denne genstand, forhandleren har til at handle med.</TraderCount>
   <AcceptButton>Accepter</AcceptButton>
   <ResetButton>Nulstil</ResetButton>
-  <CancelButton>Annuler</CancelButton>
+  <CancelButton>Annuller</CancelButton>
   <CloseButton>Luk</CloseButton>
   <YourTradeableSilver>Dit omsættelige sølv: {0}</YourTradeableSilver>
-  <YourTradeableSilverTip>Du kan kun handle med sølv, der er i nærheden af et kredsløbs handelsfyr og ikke under et tag.</YourTradeableSilverTip>
-  <TraderHasNoMore>Forhandler har ikke mere</TraderHasNoMore>
+  <YourTradeableSilverTip>Du kan kun handle med sølv, der er i nærheden af et kredsløbshandelsfyr og ikke under et tag.</YourTradeableSilverTip>
+  <TraderHasNoMore>Forhandler har ikke mere.</TraderHasNoMore>
   <ColonyHasNoMore>Ikke mere at sælge.</ColonyHasNoMore>
-  <TraderWillNotTrade>Forhandler er ikke villig til at handle dette.</TraderWillNotTrade>
+  <TraderWillNotTrade>Forhandler er ikke villig til at købe dette.</TraderWillNotTrade>
   <Negotiator>Forhandler</Negotiator>
-  <NegotiatorTalkingImpaired>Din forhandler {0} kan ikke tale ordentligt på grund af dårligt helbred.\n\nDette vil påvirke handelsprisen.\n\nOvervej at bruge en sundere forhandler.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>Din forhandler {0} kan ikke tale ordentligt på grund af dårligt helbred.</NegotiatorTalkingImpaired>
+    <NegotiatorHearingImpaired>Your negotiator {0} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
   <ConfirmTraderShortFunds>Forhandleren har utilstrækkelig sølv til fuldt ud at dække denne transaktion.  Fortsæt alligevel?</ConfirmTraderShortFunds>
   <SortBy>Sorter efter</SortBy>
   <TraderTypePrice>forhandler type</TraderTypePrice>
@@ -235,7 +270,12 @@
   <TradeWithFactionBaseBonus>Handl med fraktion basisbonus</TradeWithFactionBaseBonus>
   <minimum>minimum</minimum>
   <FinalPrice>Endelig pris</FinalPrice>
-  <TradeMassUsageTooltip>Det resulterende masseforbrug og massekapacitet.</TradeMassUsageTooltip>
+  <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
+  <TradeModeTip>Return to trade mode.</TradeModeTip>
+
+    <!-- Sellable items -->
+  <SellableItemsTitle>Genstande som denne forhandler gerne vil købe</SellableItemsTitle>
+  <PawnsTabShort>Creatures</PawnsTabShort>
 
   <!-- Form caravan -->
   <FormCaravan>Dan karavane</FormCaravan>
@@ -282,10 +322,7 @@
   <!-- Split caravan -->
   <SplitCaravan>Opdel karavane</SplitCaravan>
   <SourceCaravanMustHaveAtLeastOneColonist>Du skal efterlade mindst én kolonist som er ved bevidsthed.</SourceCaravanMustHaveAtLeastOneColonist>
-  <CaravanSplitSourceLabel>Nuværende</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>Ny</CaravanSplitDestLabel>
   <SplitCaravanThingCountTip>Hvor mange af disse genstande karavanen har klar til at give den nye karavane.</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Nuværende masseforbrug og -kapacitet.</SplitCaravanMassUsageTooltip>
 
   <!-- Load transporters -->
   <LoadTransporters>Last {0}</LoadTransporters>
@@ -294,7 +331,6 @@
   <PawnCantReachTransporters>{0} kan ikke nå transportkapslerne.</PawnCantReachTransporters>
   <TransporterItemIsUnreachableSingle>Der er ingen bane mellem transportkapslerne og {0}.</TransporterItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>Der er ingen bane mellem transportkapslerne og {0}× {1}.</TransporterItemIsUnreachableMulti>
-  <TransportersMassUsageTooltip>Aktuel masseforbrug og -kapacitet.\n\nDu vil ikke være i stand til at sende transportkapslerne hvis masseforbruget overstiger dens kapacitet.</TransportersMassUsageTooltip>
 
   <!-- Comms -->
   <SocialSkillIs>Social færdighed: {0}</SocialSkillIs>
@@ -327,7 +363,7 @@
   <DrugPolicyInUse>Rusmiddelpolitik er i brug af {0}.</DrugPolicyInUse>
   <SocialDrugs>Rusmidler i selskab</SocialDrugs>
   <NoDrugs>Ingen rusmidler</NoDrugs>
-  <OneDrinkPerDay>Én drik om dagen</OneDrinkPerDay>
+  <OneDrinkPerDay>Én genstand om dagen</OneDrinkPerDay>
   <Unrestricted>Ubegrænset</Unrestricted>
   <NoDrugPolicySelected>Ingen rusmiddelpolitik valgt</NoDrugPolicySelected>
   <AddDrug>Tilføj rusmiddel...</AddDrug>
@@ -383,4 +419,7 @@
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>Kapselgruppe ikke helt lastet. {0} mangler. Affyr alligevel?</ConfirmSendNotCompletelyLoadedPods>
 
+  <!-- Settle near a faction base -->
+  <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
+  
 </LanguageData>

@@ -2,6 +2,41 @@
 
     <Crashlanded.label>Nødlandet</Crashlanded.label>
     <Crashlanded.description>De tre af jer vågner i jeres cryptosøvns sarkofager til lyden af sirener og stål der bliver flået. I når knap nok at nå ud til flugt kapselerne inden rumskibet bliver flået fra hinanden. Noget tid senere lander i på denne ukendt udkandt planets.</Crashlanded.description>
-    <Crashlanded.scenario.summary>Tre nødlandede overlevende - den klassiske Rimworld oplevelse.</Crashlanded.scenario.summary>
+    <Crashlanded.scenario.summary>Tre nødlandede overlevende - den klassiske Rimworld-oplevelse.</Crashlanded.scenario.summary>
+
+  <LostTribe.label>Fortabt Stamme</LostTribe.label>
+    <LostTribe.description>Din stamme var destrueret af en de mægtige blodmaskiner sendt fra guderne. Fem af jer formåede at flygte væk. Nu er det tid til at bygge et nyt hjem. \n\nNote: Da du vil starte fattig og researche langsomt, er dette et svært scenarie.</LostTribe.description>
+    <LostTribe.scenario.parts.14.text>Guderne var meget vrede. Blod maskinerne kom om natten. De fejede igennem jeres landsby, huggede og brændte jeres folk ned med deres klinger og djævelsild.\n\nKun få nåede at slippe væk. Nu, efter en rystende rejse til fods, med ingen nærevenner at søge hjælp hos, bliver i nu nødt til at bygge et nyt hjem i vildnisset. Ligesom jeres forfædre engang gjore.</LostTribe.scenario.parts.14.text>
+    <LostTribe.scenario.summary>Fem fortabte stammefolk forsøger at genopbygge et hjem. Svært.</LostTribe.scenario.summary>
+
+    <TheRichExplorer.label>Den rige opdagelsesrejsende</TheRichExplorer.label>
+    <TheRichExplorer.description>Folk kalder dig skør for at efterlade dit glitterverdens hjem, men du har altid længtes efter at udforske stjernerne - uden neurosimulatorer. Nu er din lange rejse i cryptosøvn ovre og du er landet på en ukendt rimverden for at se hvordan det er.</TheRichExplorer.description>
+    <TheRichExplorer.scenario.parts.12.text>Neurosimulationerne, holo-spil, og de gratis orgier var aldrig nok for dig. Du ville have mere - det rå og konsekvensfulde liv, ligesom de beskriver i historie bøgerne. Du vil gerne vide hvad rigtig udfordring og konsekvens føles som.\n\nNu, efter en årti lang rejse cryptosøvn, er du lanedt på denne ukendte udkandtsverden. Rigtig konsekvenser venter på dig.</TheRichExplorer.scenario.parts.12.text>
+ <TheRichExplorer.scenario.summary>En rig opdagelsesrejsende som ude efter at opleve universet. Ekstra svært.</TheRichExplorer.scenario.summary>
+  
+  <NakedBrutality.label>Naked Brutality</NakedBrutality.label>
+  <NakedBrutality.description>You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason.</NakedBrutality.description>
+  <NakedBrutality.scenario.parts.3.text>Det var meningen at det bare skulle være en lille operation. Bare en time i fuld narkose. Du følte dig helt tryg.\n\nNu er du vågnet op inde i en drop pod som netop penetrerer atmosfæren til en afsides rimverden.
+  \n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive?</NakedBrutality.scenario.parts.3.text>
+  <NakedBrutality.scenario.summary>Nøgen, alene og helt uforberedt. Kan du overleve? Ekstremt svært og uretfærdigt.</NakedBrutality.scenario.summary>
 
 </LanguageData>
+
+ <Crashlanded.label>Crashlanded</Crashlanded.label>
+  <Crashlanded.description>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld.</Crashlanded.description>
+  <Crashlanded.scenario.summary>Three crashlanded survivors - the classic RimWorld experience.</Crashlanded.scenario.summary>
+
+  <LostTribe.label>Lost Tribe</LostTribe.label>
+  <LostTribe.description>Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and research slowly, this is a difficult scenario.</LostTribe.description>
+  <LostTribe.scenario.parts.14.text>The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped. Now, after a harrowing journey on foot, with no close friends to turn to, you must build a new home in the wilderness, like your ancestors did.</LostTribe.scenario.parts.14.text>
+  <LostTribe.scenario.summary>Five lost tribespeople attempt to rebuild. Difficult.</LostTribe.scenario.summary>
+
+  <TheRichExplorer.label>The Rich Explorer</TheRichExplorer.label>
+  <TheRichExplorer.description>People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.</TheRichExplorer.description>
+  <TheRichExplorer.scenario.parts.12.text>The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you.</TheRichExplorer.scenario.parts.12.text>
+  <TheRichExplorer.scenario.summary>One rich explorer out to experience the universe. Extra difficult.</TheRichExplorer.scenario.summary>
+
+    <NakedBrutality.label>Naked Brutality</NakedBrutality.label>
+  <NakedBrutality.description>You went under anasthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason.</NakedBrutality.description>
+  <NakedBrutality.scenario.parts.3.text>It was supposed to be a minor surgery. Just an hour under anasthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rim world.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive?</NakedBrutality.scenario.parts.3.text>
+  <NakedBrutality.scenario.summary>Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair.</NakedBrutality.scenario.summary>

@@ -24,26 +24,27 @@
   <!-- Drafting -->
   <CommandDraftLabel>Indkald</CommandDraftLabel>
   <CommandUndraftLabel>Afindkald</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Skift militær indkaldelse.\n\nIndkaldte folk tage ordrer og kæmper. De vil ikke arbejde, spise, eller hvile.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Skift militær indkaldelse.\n\nIndkaldte folk tage ordrer og kæmper. De vil ikke arbejde, spise eller hvile.</CommandToggleDraftDesc>
   <IsIncapped>{0} kan ikke gå.</IsIncapped>
 
   <CommandAllowFiringLabel>Tillad affyring</CommandAllowFiringLabel>
   <CommandAllowFiringDesc>Skift tillade affyring.\n\nHvis deaktiveret, vil denne karakter ikke automatisk skyde på mål på lang distance. Påvirker ikke nærkamp.</CommandAllowFiringDesc>
 
   <CommandClearPrioritizedWork>Ryd prioriteret arbejde</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>Ryd enhver prioriteret arbejde, du har tildelt. Karaktere vil gå tilbage til deres sædvanlige selvstændige rettet aktiviteter.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>Ryd enhver prioriteret arbejde, du har tildelt. Karakterer vil gå tilbage til deres sædvanlige selvstændige rettet aktiviteter.</CommandClearPrioritizedWorkDesc>
 
-  <CommandCancelConstructionLabel>Annuller</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Annuller denne konstruktion.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionLabel>Annullér</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Annullér denne konstruktion.</CommandCancelConstructionDesc>
 
   <CommandGetOutOfBedLabel>Stig ud af sengen</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Stig ud af nuværebde seng.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedDesc>Stig ud af nuværende seng.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Indstil ejer</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Tildel denne seng at være ejet af en specifik kolonist.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerLabel>Angiv ejer</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
   <CommandGraveAssignColonistLabel>Tildel kolonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Tildel denne Grav til at være ejet af en specifik kolonist.</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Tildel denne grav til at være ejet af en specifik kolonist.</CommandGraveAssignColonistDesc>
   <BuildingAssign>Tildel</BuildingAssign>
+    <BuildingReassign>Reassign</BuildingReassign>
   <BuildingUnassign>Afbenyt</BuildingUnassign>
   <CommandBedSetForPrisonersLabel>Til fanger</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Hvorvidt senge i dette værelse skal bruges af fanger.</CommandBedSetForPrisonersDesc>
@@ -54,7 +55,7 @@
   <TurningOffPrisonerBedWarning>Deaktivering af fange tilstand påvirker hele rummet (da fanger og kolonister kan ikke sove i samme rum).\n\nDisse mennesker vil miste ejerskabet af deres senge:</TurningOffPrisonerBedWarning>
   <AreYouSure>Er du sikker på at du ønsker at gøre dette?</AreYouSure>
 
-  <CommandDetonateLabel>Detonere</CommandDetonateLabel>
+  <CommandDetonateLabel>Detonér</CommandDetonateLabel>
   <CommandDetonateDesc>Start nedtællingen til detonation.</CommandDetonateDesc>
 
   <CommandRenameZoneLabel>Omdøb</CommandRenameZoneLabel>
@@ -67,8 +68,8 @@
   <CommandDeleteZoneLabel>Slet</CommandDeleteZoneLabel>
   <CommandDeleteZoneDesc>Slet denne zone.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Kopier instillinger</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Kopier indstillingerne for denne zone til klippebordet, så du kan indsætte dem på en anden zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Kopiér instillinger</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Kopiér indstillingerne for denne zone til klippebordet, så du kan indsætte dem på en anden zone.</CommandCopyZoneSettingsDesc>
 
   <CommandPasteZoneSettingsLabel>Indsæt instillinger</CommandPasteZoneSettingsLabel>
   <CommandPasteZoneSettingsDesc>Overskriv indstillingerne for denne zone med dem der tidligere er kopieret til udklipsholderen.</CommandPasteZoneSettingsDesc>
@@ -82,14 +83,19 @@
   <CommandStopForceAttack>Stop tvunget angreb</CommandStopForceAttack>
   <CommandStopForceAttackDesc>Stopper et tvunget angreb og tillader tårnet at skyde som den ønsker.</CommandStopForceAttackDesc>
   <CommandStopAttackFailNotForceAttacking>er nuværende ikke igang med et tvunget angreb.</CommandStopAttackFailNotForceAttacking>
+   <CommandExtractShell>Extract shell</CommandExtractShell>
+  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
   <MessageTargetBeyondMaximumRange>Målet over maksimal rækkevidde.</MessageTargetBeyondMaximumRange>
   <MessageTargetBelowMinimumRange>Målet under minimum rækkevidde.</MessageTargetBelowMinimumRange>
+    <MessageTurretWontFireBecauseHoldFire>Warning: The mortar won't fire because it's set to "Hold fire".</MessageTurretWontFireBecauseHoldFire>
 
   <!-- Ship computer core -->
-  <CommandShipLaunch>Opsend rumskib</CommandShipLaunch>
-  <CommandShipLaunchDesc>Starter skibets opsendelses sekvens med den aktuelle konfiguration.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Vis opsendelses rapport</CommandShipLaunchReport>
+  <CommandShipLaunch>Affyr rumskib</CommandShipLaunch>
+  <CommandShipLaunchDesc>Starter skibets affyringssekvens med den aktuelle konfiguration.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Vis affyringsrapport</CommandShipLaunchReport>
   <CommandShipLaunchReportDesc>Vis en paratheds rapport om skibets opsendelseskapacitet.</CommandShipLaunchReportDesc>
+    <CommandShipStartup>Start ship</CommandShipStartup>
+  <CommandShipStartupDesc>Wake up hibernating ship components.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <CommandPodEject>Skub sover ud</CommandPodEject>
@@ -103,13 +109,13 @@
   <CommandToggleDoorHoldOpenDesc>Når aktiv, vil dine kolonister ikke lukke døren efter at have passeret igennem.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
-  <CommandResetTemp>Nulstille</CommandResetTemp>
+  <CommandResetTemp>Nulstil</CommandResetTemp>
   <CommandResetTempDesc>Nulstil måltemperatur til stuetemperatur.</CommandResetTempDesc>
   <CommandRaiseTempDesc>Hæv måltemperaturen.</CommandRaiseTempDesc>
   <CommandLowerTempDesc>Sænk måltemperaturen.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
-  <CommandInstall>Installer</CommandInstall>
+  <CommandInstall>Installér</CommandInstall>
   <CommandInstallDesc>Dette objekt er i øjeblikket pakket op til opbevaring og transport. Brug denne kommando til at installere dette objekt i en endelig placering.</CommandInstallDesc>
   <CommandReinstall>Geninstaller ved...</CommandReinstall>
   <CommandReinstallDesc>Designer at dette objekt skal afinstalleres og geninstalleres et andet sted.</CommandReinstallDesc>
@@ -119,8 +125,8 @@
   <CommandMakeBeaconStockpileDesc>Opret et lager omkring denne bygning der præcis matcher formen af fyret lancerings radius.</CommandMakeBeaconStockpileDesc>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneLabel>Opret dyrke zone</CommandSunLampMakeGrowingZoneLabel>
-  <CommandSunLampMakeGrowingZoneDesc>Opret en dyrke zone omkring denne bygning der præcis matcher formen på lampens lys radius.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Opret dyrkningszone</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneDesc>Opret en dyrkningszone omkring denne bygning der præcis matcher formen på lampens lys radius.</CommandSunLampMakeGrowingZoneDesc>
   
   <!-- Trap -->
   <CommandAutoRearm>Auto Rearmer</CommandAutoRearm>
@@ -133,6 +139,10 @@
   <!-- Squad attack -->
   <CommandSquadAttack>Angrib</CommandSquadAttack>
   <CommandSquadAttackDesc>Beordre den udvalgte kolonist til at angribe et udpeget mål.</CommandSquadAttackDesc>
+
+    <!-- Melee attack -->
+  <CommandMeleeAttack>Melee attack</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Order selected colonists to attack designated target using only fists and melee weapons.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <CommandHoldFire>Instil skydning</CommandHoldFire>
@@ -148,7 +158,7 @@
   <CommandBuildCopyDesc>Byg en kopi af denne bygning.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
-  <CommandFormCaravan>Dan Karavane</CommandFormCaravan>
+  <CommandFormCaravan>Dan karavane</CommandFormCaravan>
   <CommandFormCaravanDesc>Form en gruppe af kolonister der er i stand til at rejse til nye områder. Kolonisterne vil samle alle de tildelte forsyninger og ledsagende dyr, forlade deres nuværende område, og afvente yderligere ordrer.</CommandFormCaravanDesc>
 
   <!-- Reform caravan -->
@@ -165,11 +175,13 @@
   <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
 
   <!-- Settle -->
-  <CommandSettle>bosætte</CommandSettle>
-  <CommandSettleDesc>Bosætte dette område. Dine kolonister træde ind i dette område og du vil være i stand til at begynde at bygge et nyt hjem.</CommandSettleDesc>
+  <CommandSettle>Bosæt</CommandSettle>
+  <CommandSettleDesc>Bosæt dette område. Dine kolonister træde ind i dette område og du vil være i stand til at begynde at bygge et nyt hjem.</CommandSettleDesc>
   <CommandSettleFailOtherWorldObjectsHere>Din karavane skal være det eneste objekt på denne flise for at bosætte området.</CommandSettleFailOtherWorldObjectsHere>
   <CommandSettleFailAlreadyHaveBase>Din fraktion kan kun have én base.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Nået maksimal antal kolonier.</CommandSettleFailReachedMaximumNumberOfBases>
+    <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Der er fjender i dette område.</CommandSettleFailEnemies>
 
   <!-- Abandon home -->
   <CommandAbandonHome>Opgiv</CommandAbandonHome>
@@ -177,17 +189,35 @@
   <CommandAbandonHomeFailAllColonistsThere>Alle dine kolonister er der.</CommandAbandonHomeFailAllColonistsThere>
 
   <!-- Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Annuller karavane</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>Annullér karavane</CommandCancelFormingCaravan>
   <CommandCancelFormingCaravanDesc>Afslut karavane dannelsesprocessen.</CommandCancelFormingCaravanDesc>
+
+    <!-- Remove from caravan -->
+  <CommandRemoveFromCaravan>Remove from caravan</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>Remove this person or animal from the caravan.</CommandRemoveFromCaravanDesc>
+  
+  <!-- Add to caravan -->
+  <CommandAddToCaravan>Add to caravan</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
 
   <!-- Show map -->
   <CommandShowMap>Zoom ind</CommandShowMap>
   <CommandShowMapDesc>Zoom ind på dette område.</CommandShowMapDesc>
 
   <!-- Trade -->
-  <CommandTrade>Handle</CommandTrade>
-  <CommandTradeDesc>Handel med denne fraktion.</CommandTradeDesc>
-  <CommandTradeFailNoNegotiator>Der er ikke nogen bevidst, ikke nedbrudt forhandler.</CommandTradeFailNoNegotiator>
+  <CommandTrade>Handl</CommandTrade>
+  <CommandTradeDesc>Handl med denne fraktion.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>There isn't any conscious and capable negotiator.</CommandTradeFailNoNegotiator>
+
+    <!-- Offer gifts -->
+  <CommandOfferGifts>Tilbyd gaver</CommandOfferGifts>
+  <CommandOfferGiftsDesc>Tilbyd gaver til denne fraktion.</CommandOfferGiftsDesc>
+
+    <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
 
   <!-- Take off -->
   <CommandTakeOff>Afgang</CommandTakeOff>
@@ -199,8 +229,8 @@
   <CommandSetTargetFuelLevelDesc>Sæt mål brændstoffet niveau. Kolonister vil forsøge at fylde dette op til brændstof niveau målet.</CommandSetTargetFuelLevelDesc>
 
   <!-- Cancel load -->
-  <CommandCancelLoad>Annuller lastning</CommandCancelLoad>
-  <CommandCancelLoadDesc>Annuller indlæsningen af dette med mennesker eller genstande og skubbe alt allerede indlæst ud.</CommandCancelLoadDesc>
+  <CommandCancelLoad>Annullér lastning</CommandCancelLoad>
+  <CommandCancelLoadDesc>Annullér indlæsningen af dette med mennesker eller genstande og skubbe alt allerede indlæst ud.</CommandCancelLoadDesc>
 
   <!-- Launch group -->
   <CommandLaunchGroup>Affyr gruppe</CommandLaunchGroup>
@@ -210,7 +240,7 @@
   <CommandLaunchGroupFailUnderRoof>Nogle kapsel ramper er under et tag.</CommandLaunchGroupFailUnderRoof>
 
   <!-- Load transporter -->
-  <CommandLoadTransporter>Læser affyrings gruppe af {0}</CommandLoadTransporter>
+  <CommandLoadTransporter>Læsser affyrings gruppe af {0}</CommandLoadTransporter>
   <CommandLoadTransporterDesc>Definerer den/de valgte transportør (er) som en affyrings gruppe. Åbner læsnings dialogen så du kan bestemme, hvem og hvad der skal indlæses i den.</CommandLoadTransporterDesc>
   <CommandLoadTransporterFailNotConnectedToFuelingPort>Transporten kapselen er ikke forbundet til en tank port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <CommandLoadTransporterFailNoFuel>Kapsel rampen har ingen brændstof.</CommandLoadTransporterFailNoFuel>
@@ -226,5 +256,25 @@
   <!-- Select next transporter -->
   <CommandSelectNextTransporter>Vælg næste i affyrings gruppe</CommandSelectNextTransporter>
   <CommandSelectNextTransporterDesc>Vælg næste transport kapsel i denne affyrings gruppe.</CommandSelectNextTransporterDesc>
+
+    <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+  
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <CommandPauseCaravan>Rest</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>Stop the caravan for a moment. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}\n  - Sick people can rest in bedrolls</CommandToggleCaravanPauseDesc>
+  
+  <!-- Show sellable items -->
+  <CommandShowSellableItems>Show what will buy</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <CommandAttackSettlement>Attack</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
 
 </LanguageData>

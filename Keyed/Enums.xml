@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- glow -->
-  <Dark>Mørk</Dark>
+  <Dark>Mørkt</Dark>
   <Lit>Oplyst</Lit>
   <LitBrightly>Kraftigt oplyst</LitBrightly>
 
@@ -12,14 +12,14 @@
   <Never>Tillad ikke</Never>
 
   <!-- Price types -->
-  <PriceTypeVeryCheap>meget billigt</PriceTypeVeryCheap>
-  <PriceTypeCheap>billigt</PriceTypeCheap>
+  <PriceTypeVeryCheap>meget billig</PriceTypeVeryCheap>
+  <PriceTypeCheap>billig</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
-  <PriceTypeExpensive>dyrt</PriceTypeExpensive>
-  <PriceTypeExorbitant>skyhøje</PriceTypeExorbitant>
+  <PriceTypeExpensive>dyr</PriceTypeExpensive>
+  <PriceTypeExorbitant>skyhøj</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>Ikke lagret</StoragePriorityUnstored>
+  <StoragePriorityUnstored>ikke lagret</StoragePriorityUnstored>
   <StoragePriorityLow>lav</StoragePriorityLow>
   <StoragePriorityNormal>normal</StoragePriorityNormal>
   <StoragePriorityPreferred>foretrukket</StoragePriorityPreferred>
@@ -28,7 +28,7 @@
 
   <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>grønsager</FoodTypeFlags_VegetableOrFruit>
-  <FoodTypeFlags_Meat>rå kød</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Meat>råt kød</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>lig</FoodTypeFlags_Corpse>
   <FoodTypeFlags_Seed>frø</FoodTypeFlags_Seed>
   <FoodTypeFlags_AnimalProduct>animalske produkter</FoodTypeFlags_AnimalProduct>
@@ -41,33 +41,29 @@
 
   <!-- Quality category -->
   <QualityCategory_Awful>frygtelig</QualityCategory_Awful>
-  <QualityCategory_Shoddy>sjusked</QualityCategory_Shoddy>
   <QualityCategory_Poor>dårlig</QualityCategory_Poor>
   <QualityCategory_Normal>normal</QualityCategory_Normal>
   <QualityCategory_Good>god</QualityCategory_Good>
-  <QualityCategory_Superior>overlegen</QualityCategory_Superior>
   <QualityCategory_Excellent>fremragende</QualityCategory_Excellent>
   <QualityCategory_Masterwork>mesterværk</QualityCategory_Masterwork>
   <QualityCategory_Legendary>legendarisk</QualityCategory_Legendary>
-  <QualityCategoryShort_Awful>frgte</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>sjusk</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Awful>frgt</QualityCategoryShort_Awful>
   <QualityCategoryShort_Poor>dårl</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>god</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>ovrlgn</QualityCategoryShort_Superior>
   <QualityCategoryShort_Excellent>frmra</QualityCategoryShort_Excellent>
   <QualityCategoryShort_Masterwork>mest</QualityCategoryShort_Masterwork>
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
 
   <!-- Hunger -->
   <HungerLevel_Starving>Sulter</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Er hårdt sulten</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>Meget sulten</HungerLevel_UrgentlyHungry>
   <HungerLevel_Hungry>Sulten</HungerLevel_Hungry>
-  <HungerLevel_Fed>Fødret</HungerLevel_Fed>
+  <HungerLevel_Fed>Fodret</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <HungerLevel_Exhausted>Udmattet</HungerLevel_Exhausted>
-  <HungerLevel_VeryTired>Meget udmattet</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>Meget træt</HungerLevel_VeryTired>
   <HungerLevel_Tired>Træt</HungerLevel_Tired>
   <HungerLevel_Rested>Udhvilet</HungerLevel_Rested>
 
@@ -81,62 +77,56 @@
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Skaber</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Indsender</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ugyldigt</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ugyldig</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Forbereder konfig data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Forbereder indholds filer</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Forbereder indholdsfiler</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploader indhold</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploader eftersyn fil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Indsætter ændringer</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploader preview-fil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Anvender ændringer</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <ContentSource_LocalFolder>lokal mappe</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
-  <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>ingen</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>simpel</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>mellemliggende</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>advanceret</TrainableIntelligence_Advanced>
-
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>Ingen lægehjælp</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Læge pleje, men ingen medicin</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>Lægehjælp, men ingen medicin</MedicalCareCategory_NoMeds>
   <MedicalCareCategory_HerbalOrWorse>Urtemedicin eller værre</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Normal medicin eller værre</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Bedste kvalitets lægebehandling</MedicalCareCategory_Best>
+  <MedicalCareCategory_NormalOrWorse>Industrial-tech medicin eller værre</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Medicin af den bedste kvalitet</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Ignorere</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>Ignorér</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Angrib</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Flygt</HostilityResponseMode_Flee>
 
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>vosker</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>bedring</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <TechLevel_Animal>dyr</TechLevel_Animal>
-  <TechLevel_Neolithic>neolitiske</TechLevel_Neolithic>
+  <TechLevel_Neolithic>neolitisk</TechLevel_Neolithic>
   <TechLevel_Medieval>middelalder</TechLevel_Medieval>
   <TechLevel_Industrial>industriel</TechLevel_Industrial>
   <TechLevel_Spacer>spacer</TechLevel_Spacer>
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>ophøjet</TechLevel_Transcendent>
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>Stående</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop kapsler</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Dropkapsler</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
-  <PawnGenerationContext_All>alle karaktere</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>spiller starter karaktere</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>ikke-spiller karaktere</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_All>alle karakterer</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>spillerens startkarakterer</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>ikke-spiller karakterer</PawnGenerationContext_NonPlayer>
 
   <!-- Animal name display mode -->
-  <ShowAnimalNames>hvis dyre navne</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tamme (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tamme (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>Vis dyrenavne</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Tamme (kun navngivede)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Tamme (alle)</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
@@ -152,5 +142,33 @@
   <Direction8Way_SouthWest_Short>SV</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>V</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
+
+    <!-- Diet category -->
+  <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <FoodPoisonCause_IncompetentCook>incompetent cook</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>dirty cooking area</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>rotten food</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>dangerous food type</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <PsychicDroneLevel_None>ingen</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>mellem</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>lav</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>mellem</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>høj</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>ekstrem</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>

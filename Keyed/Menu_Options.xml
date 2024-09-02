@@ -22,7 +22,7 @@
   <ResetModsConfigOnCrash>Auto-reset mods Konfig på nedbrud</ResetModsConfigOnCrash>
   <LogVerbose>Detaljeret logføring</LogVerbose>
   <OpenSaveGameDataFolder>Åbn Gem data mappen</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Navne på spiller-skabte karaktere, du ønsker at se:</NamesYouWantToSee>
+  <NamesYouWantToSee>Navne på spiller-skabte karakterer, du ønsker at se:</NamesYouWantToSee>
   <AddName>Tilføj navn</AddName>
   <TypeFirstNickOrLastName>Indtast fornavn, kaldenavn eller efternavn.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>Dette navn er allerede på listen over foretrukne.</MessageAlreadyPreferredName>
@@ -44,4 +44,12 @@
   <ChooseHistoryUploadPref>Gameplay data overførsel pref.</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Brugere gameplay data hjælper udviklerne balancer spillet. Hvis du accepterer, vil dine oplysninger blive sendt hver {0} spil dage (og i nogle andre sjældne tilfælde som i slutningen af spillet) til RimWorld serveren og derefter analyseret. Uploadet gameplay data kun består af statistikker og historie optegnelser relateret til spillet - ingen personlige oplysninger er sendt, bortset fra brugernavn, hvilket betyder, at det er helt anonym.</AboutHistoryUpload>
 
+  <!-- Mods -->
+  <SelectMod>Select mod...</SelectMod>
+  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <RestoreToDefaultSettings>Restore to default settings</RestoreToDefaultSettings>
+  <ResetAndRestart>Your options have been reset. The game will now restart automatically.</ResetAndRestart>
+  
 </LanguageData>

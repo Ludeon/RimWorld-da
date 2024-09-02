@@ -7,20 +7,19 @@
   <LowerPriority>lavere prioritet</LowerPriority>
   <RelevantSkills>Relevante færdigheder: {0} \ gennemsnittet af relevante færdigheder: {1} / {2}</RelevantSkills>
   <ClickToJumpTo>Klik for at springe til:</ClickToJumpTo>
-  <CannotDoThisWork>{0} kan ikke gøre denne form for arbejde.</CannotDoThisWork>
+  <CannotDoThisWork>{0} kan ikke udføre denne type arbejde.</CannotDoThisWork>
   <NoneBrackets>(ingen)</NoneBrackets>
   <IncapableOfWorkTypeBecauseOfCapacities>Denne kolonist er ikke i stand til at gøre noget arbejde af denne type på grund af hans helbredstilstand.</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <EmergencyWorkMarker>N</EmergencyWorkMarker>
+    <SelectedWorkTypeWithVeryBadSkill>Warning: the average of relevant skills is very low.</SelectedWorkTypeWithVeryBadSkill>
 
   <!-- Assign tab -->
-  <CurrentOutfit>Nuværende tøj</CurrentOutfit>
-  <ManageOutfits>Administrer tøj</ManageOutfits>
+  <ManageOutfits>Administrér tøj</ManageOutfits>
   <ClearForcedApparel>Ryd tvunget</ClearForcedApparel>
   <ApparelForcedLower>tvunget</ApparelForcedLower>
-  <ForcedApparel>Tvungen tøj</ForcedApparel>
-  <AssignTabEdit>Redigere...</AssignTabEdit>
-  <CurrentDrugPolicies>Nuværende narkotikapolitik</CurrentDrugPolicies>
-  <ManageDrugPolicies>Administrer narkotikapolitik</ManageDrugPolicies>
+  <ForcedApparel>Tvunget tøj</ForcedApparel>
+  <AssignTabEdit>Redigér...</AssignTabEdit>
+  <ManageDrugPolicies>Administrér narkotikapolitik</ManageDrugPolicies>
 
   <!-- Restrictions tab -->
   <Copy>Kopier</Copy>
@@ -30,23 +29,33 @@
   <!-- Animals tab -->
   <Master>Fører</Master>
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
-  <FollowDraftedTip>Følg fører mens føren er vervet.</FollowDraftedTip>
-  <FollowFieldworkTip>Følg føreren mens føreren gør feltarbejde (jagt eller tæmme dyr).</FollowFieldworkTip>
+  <BondedTo>Bonded to</BondedTo>
+
+    <!-- Wildlife tab -->
+  <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people.</IsPredator>
 
   <!-- Factions tab -->
-  <Hostile>Fjendtlig</Hostile>
-  <DefeatedLower>besejret</DefeatedLower>
-  <HostileTo>Fjende af {0}</HostileTo>
-  <CurrentGoodwill>Nuværende velvilje med denne fraktion.</CurrentGoodwill>
+  <Hostile>Hostile</Hostile>
+  <Ally>Ally</Ally>
+  <DefeatedLower>defeated</DefeatedLower>
+  <HostileTo>Enemy of {0}</HostileTo>
+  <CurrentGoodwillTip>Current goodwill and relations status with this faction.</CurrentGoodwillTip>
+  <CurrentGoodwillTip_PermanentEnemy>This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_NaturalGoodwill>This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day.</CurrentGoodwillTip_NaturalGoodwill>
+
 
   <!-- Social tab -->
   <Friend>Ven</Friend>
   <Rival>Rival</Rival>
-  <Acquaintance>Bekendtskab</Acquaintance>
+  <Acquaintance>Bekendt</Acquaintance>
 
   <!-- History tab - subtabs -->
   <Graph>Graf</Graph>
-  <Statistics>Statistiker</Statistics>
+  <Messages>Beskeder</Messages>
+  <Statistics>Statistik</Statistics>
 
   <!-- History tab - Graphs -->
   <SelectGraph>Vælg graf</SelectGraph>
@@ -54,26 +63,32 @@
   <Last100Days>Sidste 100 dage</Last100Days>
   <Last300Days>Sidste 300 dage</Last300Days>
   <AllDays>Alle</AllDays>
-  <Day>Dag</Day>
   <Value>Værdig</Value>
   <External>Ekstern</External>
 
+    <!-- History tab - Messages -->
+  <ShowLetters>Vis breve</ShowLetters>
+  <ShowMessages>Vis beskeder</ShowMessages>
+  <PinArchivableTip>Pin or unpin denne besked.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages.</PinArchivableTip>
+  <NoMessages>ingen beskeder</NoMessages>
+
   <!-- History tab - Statistics -->
-  <Playtime>Spille tid</Playtime>
+  <Playtime>Spilletid</Playtime>
   <Storyteller>Historiefortæller</Storyteller>
-  <ThisMapColonyWealthTotal>Koloni rigdom (dette kort)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>Koloni rigdom (objekter) (dette kort)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>Koloni rigdom (bygninger) (dette kort)</ThisMapColonyWealthBuildings>
-  <NumThreatBigs>Større trusler</NumThreatBigs>
-  <NumEnemyRaids>fjendtlige togter</NumEnemyRaids>
-  <ThisMapDamageTaken>Skader taget (dette kort)</ThisMapDamageTaken>
+  <ThisMapColonyWealthTotal>Værdi af koloni (dette kort)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Værdi af koloni (genstande) (dette kort)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Værdi af koloni (bygninger) (dette kort)</ThisMapColonyWealthBuildings>
+    <ThisMapColonyWealthTameAnimals>Værdi af koloni (dyr) (dette kort)</ThisMapColonyWealthTameAnimals>
+  <NumThreatBigs>Store trusler</NumThreatBigs>
+  <NumEnemyRaids>Fjendtlige togter</NumEnemyRaids>
+  <ThisMapDamageTaken>Skade taget (dette kort)</ThisMapDamageTaken>
   <ColonistsKilled>Kolonister dræbt</ColonistsKilled>
   <ColonistsLaunched>Kolonister sendt ud i rummet</ColonistsLaunched>
 
   <!-- Research tab -->
-  <ProjectTechLevel>projekt teknologi niveau</ProjectTechLevel>
-  <YourTechLevel>din teknologi-niveau</YourTechLevel>
+  <ProjectTechLevel>projekt teknologiniveau</ProjectTechLevel>
+  <YourTechLevel>dit teknologiniveau</YourTechLevel>
   <ResearchCostMultiplier>kost multiplikator</ResearchCostMultiplier>
-  <ResearchCostComparison>Projekt basis kost {0} bliver {1} for dig på grund af dit teknologi-niveau.</ResearchCostComparison>
+  <ResearchCostComparison>Projekt basis kost {0} bliver {1} for dig på grund af dit teknologiniveau.</ResearchCostComparison>
 
 </LanguageData>

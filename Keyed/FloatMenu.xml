@@ -3,13 +3,13 @@
 
   <CallOnRadio>Ring til {0}</CallOnRadio>
   <CannotUseReason>Kan ikkke bruge ({0})</CannotUseReason>
-  <CannotUseSolarFlare>Kan ikke bruge (solar flare)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Kan ikke bruge (soludbrud)</CannotUseSolarFlare>
   <CannotUseNoPower>Kan ikke bruge (ingen strøm)</CannotUseNoPower>
   <CannotUseNoPath>Kan ikke bruge (ingen rute)</CannotUseNoPath>
   <CannotUseReserved>Kan ikke bruge (reserveret)</CannotUseReserved>
   <CannotUseFull>Kan ikke bruge (fyldt)</CannotUseFull>
   <LeaderUnavailable>leder {0} er ikke tilgængelig</LeaderUnavailable>
-  	<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+  	<LeaderUnavailableNoLeader>leder er ikke tilgængelig</LeaderUnavailableNoLeader>
 
   <FireAt>Brand ved {0}</FireAt>
 
@@ -26,9 +26,9 @@
   <MeleeAttackToDeath>Nærkampsangrib {0} til døde</MeleeAttackToDeath>
   <NoPath>ingen rute</NoPath>
 
-<ForbiddenLower>forbidden</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-	<NotInHomeArea>not in home area</NotInHomeArea>
+<ForbiddenLower>forbudt</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>udenfor tilladte område</ForbiddenOutsideAllowedAreaLower>
+	<NotInHomeArea>ikke i hjemmeområde</NotInHomeArea>
 	<BurningLower>burning</BurningLower>
 	<NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
   <NoMergeTarget>no stack available to merge into</NoMergeTarget>
@@ -56,9 +56,9 @@
   <CannotReach>cannot reach</CannotReach>
   <NotSurgeryReady>not ready for surgery</NotSurgeryReady>
   <SkillDisabled>skill incapable</SkillDisabled>
-  <CantSowCavePlantBecauseOfLight>too bright</CantSowCavePlantBecauseOfLight>
-  <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
-  <IncapableOfDeconstruction>incapable of deconstruction</IncapableOfDeconstruction>
+  <CantSowCavePlantBecauseOfLight>for lyst</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>uden tag</CantSowCavePlantBecauseUnroofed>
+  <IncapableOfDeconstruction>ikke i stand til at dekonstruere</IncapableOfDeconstruction>
 
   <ConsumeThing>Indtag {0}</ConsumeThing>
 
@@ -95,7 +95,7 @@
   <Equip>Udrust {0}</Equip>
   <EquipWarningBrawler>(slagsbror vil blive ulykkelig)</EquipWarningBrawler>
   <CannotEquip>Kan ikke udruste {0}</CannotEquip>
-    <CannotManThing>Cannot man {0}</CannotManThing>
+    <CannotManThing>Kan ikke bemande {0}</CannotManThing>
 
   <ForceWear>Tving til at tage {0} på</ForceWear>
   <CannotWear>kan ikke tage {0} på</CannotWear>
@@ -104,7 +104,7 @@
   <CannotPickUp>kan ikke samle {0} op</CannotPickUp>
   <CannotPickUpAll>kan ikke samle {0} op (alle)</CannotPickUpAll>
   <PickUp>Saml {0} op</PickUp>
-  <PickUpAll>Same {0} op (all)</PickUpAll>
+  <PickUpAll>Saml {0} op (alle)</PickUpAll>
   <PickUpSome>Saml {0} op...</PickUpSome>
   <PickUpCount>Saml {0} x{{0}} op</PickUpCount>
 
@@ -125,7 +125,7 @@
 
   <CannotCarryToExit>Kan ikke bære {0} og forlade området</CannotCarryToExit>
   <CarryToExit>Bær {0} og forlad området</CarryToExit>
-    <CarryToExitAndCapture>Capture {0} and leave the area</CarryToExitAndCapture>
+    <CarryToExitAndCapture>Fang {0} og forlad området</CarryToExitAndCapture>
 
   <Strip>Afklæd {0}</Strip>
   <CannotStrip>Kan ikke afklæde {0}</CannotStrip>
@@ -142,13 +142,13 @@
   <CannotTrade>Kan ikke handle</CannotTrade>
 
   <EnterMap>Gå ind i {0}</EnterMap>
-  <VisitSettlement>Visit {0}</VisitSettlement>
-  <VisitPeaceTalks>Visit {0}</VisitPeaceTalks>
-  <VisitEscapeShip>Visit {0}</VisitEscapeShip>
-  <AttackSettlement>Attack {0}</AttackSettlement>
+  <VisitSettlement>Besøg {0}</VisitSettlement>
+  <VisitPeaceTalks>Besøg {0}</VisitPeaceTalks>
+  <VisitEscapeShip>Besøg {0}</VisitEscapeShip>
+  <AttackSettlement>Angrib {0}</AttackSettlement>
   <ApproachSite>Approach {0}</ApproachSite>
   <ApproachingSite>Approaching {0}</ApproachingSite>
-  <OfferGifts>Offer gifts</OfferGifts>
+  <OfferGifts>Tilbyd gaver</OfferGifts>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Gå ind i cryptosøvnskiste</EnterCryptosleepCasket>
@@ -156,9 +156,9 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan ikke {0} {1}</CannotGenericWork>
-  <CannotGenericWorkCustom>Cannot {0}</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>Kan ikke {0}</CannotGenericWorkCustom>
 
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Kan ikke prioritere (ude af stand til at {0})</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
   <CannotMissingHealthActivities>Kan ikke prioritere (ude af stand til at {0})</CannotMissingHealthActivities>
@@ -167,15 +167,15 @@
 
   <CannotPrioritizeWorkTypeDisabled>Kan ikke prioritere (vil aldrig udføre {0})</CannotPrioritizeWorkTypeDisabled>
 
-  	<CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
-  <WillNever>will never {0}</WillNever>
+  	<CannotPrioritizeWorkGiverDisabled>Kan ikke prioritere (vil aldrig {0})</CannotPrioritizeWorkGiverDisabled>
+  <WillNever>vil aldrig {0}</WillNever>
 
   <CannotPrioritizeNotAssignedToWorkType>Kan ikke prioritere (ikke udpeget som {0})</CannotPrioritizeNotAssignedToWorkType>
 
   <CannotPrioritizeResearch>Kan ikke prioritere (forskning er en langsigtet opgave)</CannotPrioritizeResearch>
 
   <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
-    <CannotPrioritizeCellForbidden>Cannot prioritize (forbidden)</CannotPrioritizeCellForbidden>
+    <CannotPrioritizeCellForbidden>Kan ikke prioritere (forbudt)</CannotPrioritizeCellForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Kan ikke prioritere ({0} er udenfor tiladt område)</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
@@ -183,8 +183,8 @@
 
   <DropAtEdge>Drop på kanten</DropAtEdge>
   <DropInCenter>Drop i centrum</DropInCenter>
-  <AttackAndDropAtEdge>Attack {0}: Drop at edge</AttackAndDropAtEdge>
-  <AttackAndDropInCenter>Attack {0}: Drop in center</AttackAndDropInCenter>
+  <AttackAndDropAtEdge>Angrib {0}: Drop på kanten</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>Angrib {0}: Drop i centrum</AttackAndDropInCenter>
 
   <VomitingLower>vomiting</VomitingLower>
   <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
@@ -197,17 +197,17 @@
   <CountToDesignate>{0} affected</CountToDesignate>
   <ForbidAllItems>Forbid all items</ForbidAllItems>
   <UnforbidAllItems>Unforbid all items</UnforbidAllItems>
-  <RearmAllTraps>Rearm all traps</RearmAllTraps>
+  <RearmAllTraps>Rearm alle fælder</RearmAllTraps>
 
   <!-- Transport pods -->
   <LandInExistingMap>Zoom in and choose a landing spot in {0}</LandInExistingMap>
-  <TransportPodsContentsWillBeLost>The contents will be lost</TransportPodsContentsWillBeLost>
-  <FormCaravanHere>Form caravan here</FormCaravanHere>
-  <GiveToCaravan>Give to {0}</GiveToCaravan>
-  <GiveGiftViaTransportPods>Give as a gift to {0} ({1})</GiveGiftViaTransportPods>
+  <TransportPodsContentsWillBeLost>Indholdet vil gå tabt</TransportPodsContentsWillBeLost>
+  <FormCaravanHere>Dan karavane her</FormCaravanHere>
+  <GiveToCaravan>Giv til {0}</GiveToCaravan>
+  <GiveGiftViaTransportPods>Giv som en gave til {0} ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
-  <FreePrisoner>Free prisoner</FreePrisoner>
-  <OfferHelp>Offer help</OfferHelp>
+  <FreePrisoner>Sæt fange fri</FreePrisoner>
+  <OfferHelp>Tilbyd hjælp</OfferHelp>
   
 </LanguageData>

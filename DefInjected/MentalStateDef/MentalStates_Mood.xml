@@ -18,23 +18,23 @@
   <Binging_DrugExtreme.label>binging on drug</Binging_DrugExtreme.label>
   <Binging_DrugExtreme.baseInspectLine>Mental tilstand: Binging on {0}</Binging_DrugExtreme.baseInspectLine>
 
-  <Jailbreaker.label>inducing prisoner to escape</Jailbreaker.label>
+  <Jailbreaker.label>opfordrer fanger til at flygte</Jailbreaker.label>
   <Jailbreaker.baseInspectLine>Mental tilstand: Jailbreaker</Jailbreaker.baseInspectLine>
-  <Jailbreaker.beginLetter>{0} has a mental breakdown and is going to induce prisoners to escape.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>{0} har et mentalt nedbrud og vil opfordre fanger til at flygte.</Jailbreaker.beginLetter>
   <Jailbreaker.beginLetterLabel>jailbreaker</Jailbreaker.beginLetterLabel>
-  <Jailbreaker.recoveryMessage>{0} is no longer inducing prisoners to escape.</Jailbreaker.recoveryMessage>
+  <Jailbreaker.recoveryMessage>{0} opfordrer ikke længere fanger til at flygte.</Jailbreaker.recoveryMessage>
 
   <Slaughterer.label>slaughterer</Slaughterer.label>
   <Slaughterer.baseInspectLine>Mental tilstand: Slaughterer</Slaughterer.baseInspectLine>
-  <Slaughterer.beginLetter>{0} has a mental breakdown and is going to vent [PAWN_possessive] anger on your animals.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>{0} har et mentalt nedbrud og vil lade sin vrede gå ud over dine dyr.</Slaughterer.beginLetter>
   <Slaughterer.beginLetterLabel>slaughterer</Slaughterer.beginLetterLabel>
   <Slaughterer.recoveryMessage>{0} slagter ikke længere tilfældige dyr.</Slaughterer.recoveryMessage>
 
-  <MurderousRage.label>murderous rage</MurderousRage.label>
-  <MurderousRage.baseInspectLine>Mental tilstand: Murderous rage</MurderousRage.baseInspectLine>
-  <MurderousRage.beginLetter>{0} has flown into a murderous rage.\n\n[PAWN_pronoun] har besluttet at slå {1} ihjel.</MurderousRage.beginLetter>
-  <MurderousRage.beginLetterLabel>murderous rage</MurderousRage.beginLetterLabel>
-  <MurderousRage.recoveryMessage>{0} is no longer in a murderous rage.</MurderousRage.recoveryMessage>
+  <MurderousRage.label>morderisk raserianfald</MurderousRage.label>
+  <MurderousRage.baseInspectLine>Mental tilstand: Morderisk raserianfald</MurderousRage.baseInspectLine>
+  <MurderousRage.beginLetter>{0} has flown into a morderisk raserianfald.\n\n[PAWN_pronoun] har besluttet at slå {1} ihjel.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetterLabel>morderisk raserianfald</MurderousRage.beginLetterLabel>
+  <MurderousRage.recoveryMessage>{0} har ikke længere et morderisk raserianfald.</MurderousRage.recoveryMessage>
 
   <GiveUpExit.label>giver op og smutter</GiveUpExit.label>
   <GiveUpExit.baseInspectLine>Mental tilstand: Har givet op og smutter</GiveUpExit.baseInspectLine>
@@ -54,35 +54,35 @@
   <Wander_Psychotic.beginLetterLabel>daze</Wander_Psychotic.beginLetterLabel>
   <Wander_Psychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</Wander_Psychotic.recoveryMessage>
 
-  <Tantrum.label>rasarianfald</Tantrum.label>
-  <Tantrum.baseInspectLine>Mental tilstand: Rasarianfald</Tantrum.baseInspectLine>
-  <Tantrum.beginLetter>{0} har et rasarianfald.\n\n[PAWN_pronoun] vil ødelægge tilfældige møbler, genstande og bygninger.</Tantrum.beginLetter>
-  <Tantrum.beginLetterLabel>rasarianfald</Tantrum.beginLetterLabel>
-  <Tantrum.recoveryMessage>{0} har ikke længere et rasarianfald.</Tantrum.recoveryMessage>
+  <Tantrum.label>raserianfald</Tantrum.label>
+  <Tantrum.baseInspectLine>Mental tilstand: Raserianfald</Tantrum.baseInspectLine>
+  <Tantrum.beginLetter>{0} har et raserianfald.\n\n[PAWN_pronoun] vil ødelægge tilfældige møbler, genstande og bygninger.</Tantrum.beginLetter>
+  <Tantrum.beginLetterLabel>raserianfald</Tantrum.beginLetterLabel>
+  <Tantrum.recoveryMessage>{0} har ikke længere et raserianfald.</Tantrum.recoveryMessage>
 
-  <TargetedTantrum.label>rasarianfald</TargetedTantrum.label>
-  <TargetedTantrum.baseInspectLine>Mental tilstand: Rasarianfald</TargetedTantrum.baseInspectLine>
-  <TargetedTantrum.beginLetter>{0} har et rasarianfald.\n\n[PAWN_pronoun] is going to destroy {1}.</TargetedTantrum.beginLetter>
-  <TargetedTantrum.beginLetterLabel>rasarianfald</TargetedTantrum.beginLetterLabel>
-  <TargetedTantrum.recoveryMessage>{0} har ikke længere et rasarianfald.</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.label>raserianfald</TargetedTantrum.label>
+  <TargetedTantrum.baseInspectLine>Mental tilstand: Raserianfald</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.beginLetter>{0} har et raserianfald.\n\n[PAWN_pronoun] vil ødelægge {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetterLabel>raserianfald</TargetedTantrum.beginLetterLabel>
+  <TargetedTantrum.recoveryMessage>{0} har ikke længere et raserianfald.</TargetedTantrum.recoveryMessage>
 
-  <BedroomTantrum.label>rasarianfald</BedroomTantrum.label>
-  <BedroomTantrum.baseInspectLine>Mental tilstand: Rasarianfald</BedroomTantrum.baseInspectLine>
-  <BedroomTantrum.beginLetter>{0} har et rasarianfald.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room.</BedroomTantrum.beginLetter>
-  <BedroomTantrum.beginLetterLabel>rasarianfald</BedroomTantrum.beginLetterLabel>
-  <BedroomTantrum.recoveryMessage>{0} har ikke længere et rasarianfald.</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.label>raserianfald</BedroomTantrum.label>
+  <BedroomTantrum.baseInspectLine>Mental tilstand: Raserianfald</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.beginLetter>{0} har et raserianfald.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room.</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetterLabel>raserianfald</BedroomTantrum.beginLetterLabel>
+  <BedroomTantrum.recoveryMessage>{0} har ikke længere et raserianfald.</BedroomTantrum.recoveryMessage>
 
-  <SadisticRage.label>sadistic rage</SadisticRage.label>
-  <SadisticRage.baseInspectLine>Mental tilstand: Sadistic rage</SadisticRage.baseInspectLine>
-  <SadisticRage.beginLetter>{0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners.</SadisticRage.beginLetter>
-  <SadisticRage.beginLetterLabel>sadistic rage</SadisticRage.beginLetterLabel>
-  <SadisticRage.recoveryMessage>{0} is no longer in a sadistic rage.</SadisticRage.recoveryMessage>
+  <SadisticRage.label>sadistisk raserianfald</SadisticRage.label>
+  <SadisticRage.baseInspectLine>Mental tilstand: Sadistisk raserianfald</SadisticRage.baseInspectLine>
+  <SadisticRage.beginLetter>{0} has flown into a sadistisk raserianfald.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetterLabel>sadistisk raserianfald</SadisticRage.beginLetterLabel>
+  <SadisticRage.recoveryMessage>{0} har ikke længere et sadistisk raserianfald.</SadisticRage.recoveryMessage>
 
-  <CorpseObsession.label>corpse obsession</CorpseObsession.label>
-  <CorpseObsession.baseInspectLine>Mental tilstand: Corpse obsession</CorpseObsession.baseInspectLine>
+  <CorpseObsession.label>Besættelse af lig</CorpseObsession.label>
+  <CorpseObsession.baseInspectLine>Mental tilstand: Besættelse af lig</CorpseObsession.baseInspectLine>
   <CorpseObsession.beginLetter>{0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see.</CorpseObsession.beginLetter>
-  <CorpseObsession.beginLetterLabel>corpse obsession</CorpseObsession.beginLetterLabel>
-  <CorpseObsession.recoveryMessage>{0} har ikke længere et corpse obsession.</CorpseObsession.recoveryMessage>
+  <CorpseObsession.beginLetterLabel>besættelse af lig</CorpseObsession.beginLetterLabel>
+  <CorpseObsession.recoveryMessage>{0} er ikke længere besat af lig.</CorpseObsession.recoveryMessage>
 
 
   <!-- Mental breaks: minor -->

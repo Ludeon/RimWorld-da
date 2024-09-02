@@ -74,7 +74,7 @@
 
   <MessageInvoluntarySleep>{0} er kollapset på grund af ekstrem udmattelse.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureMinor>{0} har fejlet på en mindre måde, imens der blev opereret på{1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>{0} har fejlet på en mindre måde, imens der blev opereret på {1}.</MessageMedicalOperationFailureMinor>
   <MessageMedicalOperationFailureCatastrophic>{0} har fejlet katastrofalt imens der blev opereret på {1}.</MessageMedicalOperationFailureCatastrophic>
   <MessageMedicalOperationFailureRidiculous>{0} har feljet på en latterlig måde imens der blev opereret på {1}.</MessageMedicalOperationFailureRidiculous>
 
@@ -93,9 +93,9 @@
   <MessageEatenByPredator>{0} er blevet spist af {1}.</MessageEatenByPredator>
   <MessageAttackedByPredator>{0} bliver angrebet af {1}!</MessageAttackedByPredator>
 
-  <MessageHiveReproduced>En insekt kube har reproduceret sig selv.</MessageHiveReproduced>
+  <MessageHiveReproduced>En insektkube har reproduceret sig selv.</MessageHiveReproduced>
 
-  <MessageTraderCaravanLeaving>Handelskaravanen fra {0} går nu.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>Handelskaravanen fra {0} rejser videre nu.</MessageTraderCaravanLeaving>
 
   <MessageCantSelectDeadPawn>{0} er død.</MessageCantSelectDeadPawn>
   <MessageCantSelectOffMapPawn>{0} er af kortet.</MessageCantSelectOffMapPawn>

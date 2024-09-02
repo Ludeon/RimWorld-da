@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MainPageCredit>A colony simulator by Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>En kolonisimulator af Tynan Sylvester</MainPageCredit>
 
-  <Credits_Developers>Developers</Credits_Developers>
+  <Credits_Developers>Udviklere</Credits_Developers>
   <Credit_DirectionVarious>Direction, design, code, art</Credit_DirectionVarious>
-  <Credit_MusicAndSound>Music and sound</Credit_MusicAndSound>
-  <Credit_Code>Code</Credit_Code>
+  <Credit_MusicAndSound>Musik og lyd</Credit_MusicAndSound>
+  <Credit_Code>Kodning</Credit_Code>
   <Credit_GameArt>Game art</Credit_GameArt>
   <Credit_MenuArt>Menu art</Credit_MenuArt>
   <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
@@ -18,14 +18,14 @@
   <Credit_ModDonation>Mod donor</Credit_ModDonation>
   <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
   <Credit_Moderator>Moderator</Credit_Moderator>
-  <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
+  <Credit_WikiMaster>Wiki mester</Credit_WikiMaster>
 
-  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
+  <Credits_TitleLanguage>{0} sprog</Credits_TitleLanguage>
   <Credit_Writer>Writer</Credit_Writer>
-  <Credit_Translator>Translator</Credit_Translator>
+  <Credit_Translator>Oversætter</Credit_Translator>
   <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
   <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
 
-  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <ThanksForPlaying>Tak for at spille!</ThanksForPlaying>
 
 </LanguageData>
