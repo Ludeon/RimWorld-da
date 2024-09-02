@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--======================= Installér natural parts =========================-->
+
+  <InstallNaturalKidney.label>installér nyre</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>Installér en biologisk nyre.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>Installerer nyre.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalLiver.label>installér lever</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>Installér en biologisk lever.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Installerer lever.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalLung.label>installér lunge</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Installér en lunge.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Installerer lunge.</InstallNaturalLung.jobString>
+
+  <InstallNaturalHeart.label>installér hjerte</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>Installér et biologisk hjerte.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Installerer hjerte.</InstallNaturalHeart.jobString>
+
+
+  <!--==================== Installér artificial parts =======================-->
+
+  <InstallPegLeg.label>installér træben</InstallPegLeg.label>
+  <InstallPegLeg.description>Installér et træben.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Installerer træben.</InstallPegLeg.jobString>
+
+  <InstallWoodenFoot.label>installér træfod</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Installér en træfod.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Installerer træfod.</InstallWoodenFoot.jobString>
+
+  <InstallDenture.label>installér denture</InstallDenture.label>
+  <InstallDenture.description>Installér denture.</InstallDenture.description>
+  <InstallDenture.jobString>Installerer denture.</InstallDenture.jobString>
+
+  <InstallSimpleProstheticLeg.label>installér benprotese</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Installér en benprotese.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Installerer benprotese.</InstallSimpleProstheticLeg.jobString>
+
+  <InstallSimpleProstheticArm.label>installér armprotese</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Installér en armprotese.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Installerer armprotese.</InstallSimpleProstheticArm.jobString>
+
+  <InstallSimpleProstheticHeart.label>installér hjerteprotese</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Installér en hjerteprotese.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Installerer hjerteprotese.</InstallSimpleProstheticHeart.jobString>
+
+  <InstallCochlearImplant.label>installér cochleaimplantat</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Installér et cochleaimplantat.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Installerer cochleaimplantat.</InstallCochlearImplant.jobString>
+
+  <InstallBionicArm.label>installér bionisk arm</InstallBionicArm.label>
+  <InstallBionicArm.description>Installér en bionisk arm.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Installerer bionisk arm.</InstallBionicArm.jobString>
+
+  <InstallBionicLeg.label>installér bionisk ben</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Installér et bionisk ben.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Installerer bionisk ben.</InstallBionicLeg.jobString>
+
+  <InstallBionicSpine.label>installér bionisk rygrad</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Installér en bionisk rygrad.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Installerer bionisk rygrad.</InstallBionicSpine.jobString>
+
+  <InstallBionicHeart.label>installér bionisk hjerte</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Installér et bionisk hjerte.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Installerer bionisk hjerte.</InstallBionicHeart.jobString>
+
+  <InstallBionicStomach.label>installér bionisk mave</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Installér en bionisk mave.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Installerer bionisk mave.</InstallBionicStomach.jobString>
+
+  <InstallBionicEar.label>installér bionisk øre</InstallBionicEar.label>
+  <InstallBionicEar.description>Installér et bionisk øre.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Installerer bionisk øre.</InstallBionicEar.jobString>
+
+  <InstallArchotechArm.label>installér archotek arm</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Installér en archotek arm.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Installerer archotek arm.</InstallArchotechArm.jobString>
+
+  <InstallArchotechLeg.label>installér archotek ben</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Installér et archotek ben.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Installerer archotek ben.</InstallArchotechLeg.jobString>
+
+  <InstallPowerClaw.label>installér kraftklo</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Installér en kraftklo.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Installerer kraftklo.</InstallPowerClaw.jobString>
+
+  <InstallBionicEye.label>installér bionisk øje</InstallBionicEye.label>
+  <InstallBionicEye.description>Installér et bionisk øje.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Installerer bionisk øje.</InstallBionicEye.jobString>
+
+  <InstallArchotechEye.label>installér archotek øje</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Installér et archotek øje.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Installerer archotek øje.</InstallArchotechEye.jobString>
+
+  <InstallJoywire.label>installér joywire</InstallJoywire.label>
+  <InstallJoywire.description>Installér joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Installerer joywire.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>installér smertestopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Installér en smertestopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Installerer smertestopper.</InstallPainstopper.jobString>
+
+
+</LanguageData>

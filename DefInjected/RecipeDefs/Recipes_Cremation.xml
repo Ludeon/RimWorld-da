@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
 
-    <CremateCorpse.label>kremere lig</CremateCorpse.label>
-    <CremateCorpse.description>Kremer et lig for at ødelægge det helt.</CremateCorpse.description>
-    <CremateCorpse.jobString>Kremere.</CremateCorpse.jobString>
+  <CremateCorpse.label>kremér lig</CremateCorpse.label>
+  <CremateCorpse.description>Kremér et lig for at destruere det fuldstændigt.</CremateCorpse.description>
+  <CremateCorpse.jobString>Kremerer.</CremateCorpse.jobString>
 
-    <BurnApparel.label>brænd tøj</BurnApparel.label>
-    <BurnApparel.description>Brænd tøj for at ødelægge det helt.</BurnApparel.description>
-    <BurnApparel.jobString>Brænder tøj.</BurnApparel.jobString>
+  <BurnApparel.label>brænd tøj</BurnApparel.label>
+  <BurnApparel.description>Brænd uønsket tøj for at destruere det fuldstændigt.</BurnApparel.description>
+  <BurnApparel.jobString>Brænder tøj.</BurnApparel.jobString>
+
+  <BurnDrugs.label>brænd stoffer</BurnDrugs.label>
+  <BurnDrugs.description>Brænd uønskede stoffer for at destruere dem fuldstændigt.</BurnDrugs.description>
+  <BurnDrugs.jobString>Brænder stoffer.</BurnDrugs.jobString>
 
 
 </LanguageData>

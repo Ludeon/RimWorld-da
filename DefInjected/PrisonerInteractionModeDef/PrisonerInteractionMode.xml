@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NoInteraction.label>ingen interaktion</NoInteraction.label>
+  <Chat.label>venlig snak</Chat.label>
+  <AttemptRecruit.label>snak med og rekuttér</AttemptRecruit.label>
+  <Release.label>sæt fri</Release.label>
+  <Execution.label>henrettelse</Execution.label>
+
+
+</LanguageData>

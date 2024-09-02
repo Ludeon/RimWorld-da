@@ -37,7 +37,7 @@
     <DrugAddiction.helpText>Du kan inspicere dine kolonisters lyst til at tage rusmidler i deres BEHOV-fane.\n\nSå længe at deres behov er på nul, vil deres misbrug skifte til "tilbagetrækning" stadiet, hvilket kan have forskellige negative bivirkninger.\n\nMen efter der er gået lang nok tid i tilbagetrækning, vil deres misbrug stoppe og behovet for stoffet vil forsvinde.</DrugAddiction.helpText>
 
     <DrugPolicies.label>medicin- og rusmiddelpolitik</DrugPolicies.label>
-    <DrugPolicies.helpText>Du kan bestemme kolonisterne til at tage specifikke rusmidler efter et specifikt skema. For eksempel kan du sætte dem til at tage anti-malaria medicin regelmæssigt, eller til at drikke øl en dag for at holde sig glad.\n\nÅben TILDEL fanen og tryk på 'Håndter stof politik' knappen. Lav en ny stof politik. Derefter kan du tildele politikentil kolonisterne.\n\nKolonister kan stadig tage rusmidler som ikke er i deres politik. Du kan fortælle dem hvad de skal gøre, men de vil også følge deres egne lyster!</DrugPolicies.helpText>
+    <DrugPolicies.helpText>Du kan bestemme kolonisterne til at tage specifikke rusmidler efter et specifikt skema. For eksempel kan du sætte dem til at tage anti-malaria medicin regelmæssigt, eller til at drikke øl en dag for at holde sig glad.\n\nÅbn fanen TILDEL og tryk på 'Håndter stof politik' knappen. Lav en ny stof politik. Derefter kan du tildele politikentil kolonisterne.\n\nKolonister kan stadig tage rusmidler som ikke er i deres politik. Du kan fortælle dem hvad de skal gøre, men de vil også følge deres egne lyster!</DrugPolicies.helpText>
 
     <TVForSickPeople.label>TV til de syge</TVForSickPeople.label>
     <TVForSickPeople.helpText>Syge mennesker kan se TV imens de ligger i sengen.</TVForSickPeople.helpText>

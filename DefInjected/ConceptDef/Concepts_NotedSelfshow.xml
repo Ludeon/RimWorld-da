@@ -54,7 +54,7 @@
     	<InfoCard.helpText>Info kortene hviser dig detaljerede statistiker om genstande, personer, eller konstruktioner.\n\nVælg en person eller et objekt og åben deres info kort med 'i' knappen i inspektions panellet.</InfoCard.helpText>
 
     	<StorageTab.label>Lagerpladsfanen</StorageTab.label>
-    	<StorageTab.helpText>Du kan konfigurere lagerpladser og lagerbygninger ved at vælge dem og åben deres LAGER-fane øverst til venstre på inspektor panellet.\n\nI lager-fanen af en lagerplads, kan du tillade eller forbyde specifike genstande. Klik på trekante til venstre af kategori navnene.\n\nDu kan ændre PRIORITERINGen af din lagerplads. Kolonister vil fylde højere prioriterede genstande først, og flytte lavere prioriterede genstande til højere.</StorageTab.helpText>
+    	<StorageTab.helpText>Du kan konfigurere lagerpladser og lagerbygninger ved at vælge dem og åben deres LAGER-fane øverst til venstre på inspektor panellet.\n\nI fanen LAGER af en lagerplads, kan du tillade eller forbyde specifike genstande. Klik på trekante til venstre af kategori navnene.\n\nDu kan ændre PRIORITERINGen af din lagerplads. Kolonister vil fylde højere prioriterede genstande først, og flytte lavere prioriterede genstande til højere.</StorageTab.helpText>
 
     	<HomeArea.label>Hjemmeområde</HomeArea.label>
     	<HomeArea.helpText>HJEMMEOMRÅDE fortæller dine kolonister hvilke områder der skal gøres rent og hvor der skal slukkes brand.\n\nDefiner et HJEMMEOMRÅDE med Zone kategorien under Arkitekt menuen.</HomeArea.helpText>

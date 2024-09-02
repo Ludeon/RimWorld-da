@@ -4,36 +4,36 @@
   <!-- Sandstone -->
 
   <MakeStoneBlocksSandstone.label>Lav sandstensblokke</MakeStoneBlocksSandstone.label>
-  <MakeStoneBlocksSandstone.description>Skær sandstensklumper til brugbar blokke.</MakeStoneBlocksSandstone.description>
-  <MakeStoneBlocksSandstone.jobString>Skære stenblokke fra klump.</MakeStoneBlocksSandstone.jobString>
+  <MakeStoneBlocksSandstone.description>Skær sandstensklumper til brugbare blokke.</MakeStoneBlocksSandstone.description>
+  <MakeStoneBlocksSandstone.jobString>Skærer stenblokke fra klump.</MakeStoneBlocksSandstone.jobString>
 
 
   <!-- Granite -->
 
   <MakeStoneBlocksGranite.label>lav granitblokke</MakeStoneBlocksGranite.label>
-  <MakeStoneBlocksGranite.description>Skær granit til brugbar blokke.</MakeStoneBlocksGranite.description>
-  <MakeStoneBlocksGranite.jobString>Skære stenblokke fra klump.</MakeStoneBlocksGranite.jobString>
+  <MakeStoneBlocksGranite.description>Skær granit til brugbare blokke.</MakeStoneBlocksGranite.description>
+  <MakeStoneBlocksGranite.jobString>Skærer stenblokke fra klump.</MakeStoneBlocksGranite.jobString>
 
 
   <!-- Limestone -->
 
   <MakeStoneBlocksLimestone.label>lav kalkstensblokke</MakeStoneBlocksLimestone.label>
-  <MakeStoneBlocksLimestone.description>Skær kalksten til brugbar blokke.</MakeStoneBlocksLimestone.description>
-  <MakeStoneBlocksLimestone.jobString>Skære stenblokke fra klump.</MakeStoneBlocksLimestone.jobString>
+  <MakeStoneBlocksLimestone.description>Skær kalksten til brugbare blokke.</MakeStoneBlocksLimestone.description>
+  <MakeStoneBlocksLimestone.jobString>Skærer stenblokke fra klump.</MakeStoneBlocksLimestone.jobString>
 
 
   <!-- Slate -->
 
   <MakeStoneBlocksSlate.label>lav skiferblokke</MakeStoneBlocksSlate.label>
-  <MakeStoneBlocksSlate.description>Skær skifersten til brugbar blokke.</MakeStoneBlocksSlate.description>
-  <MakeStoneBlocksSlate.jobString>Skære stenblokke fra klump.</MakeStoneBlocksSlate.jobString>
+  <MakeStoneBlocksSlate.description>Skær skifersten til brugbare blokke.</MakeStoneBlocksSlate.description>
+  <MakeStoneBlocksSlate.jobString>Skærer stenblokke fra klump.</MakeStoneBlocksSlate.jobString>
 
 
   <!-- Marble -->
 
   <MakeStoneBlocksMarble.label>lav marmorblokke</MakeStoneBlocksMarble.label>
-  <MakeStoneBlocksMarble.description>Skær marmor til brugbar blokke.</MakeStoneBlocksMarble.description>
-  <MakeStoneBlocksMarble.jobString>Skære stenblokke fra klump.</MakeStoneBlocksMarble.jobString>
+  <MakeStoneBlocksMarble.description>Skær marmor til brugbare blokke.</MakeStoneBlocksMarble.description>
+  <MakeStoneBlocksMarble.jobString>Skærer stenblokke fra klump.</MakeStoneBlocksMarble.jobString>
 
 
 </LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <EdgeWalkIn.textEnemy>En gruppe af {0} fra {1} er ankommet i nærheden.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>En gruppe af venlige {0} fra {1} er ankommet i nærheden.</EdgeWalkIn.textFriendly>
+
+  <EdgeDrop.textEnemy>En gruppe af {0} fra {1} er ankommet i transportkapsler i nærheden.</EdgeDrop.textEnemy>
+  <EdgeDrop.textFriendly>En gruppe af venlige {0} fra {1} er ankommet i transportkapsler i nærheden.</EdgeDrop.textFriendly>
+
+  <EdgeWalkInGroups.textEnemy>Flere seperate grupper af {0} fra {1} er ankommet i nærheden.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textFriendly>Flere seperate grupper af venlige {0} fra {1} er ankommet i nærheden.</EdgeWalkInGroups.textFriendly>
+
+  <EdgeDropGroups.textEnemy>Flere seperate grupper af {0} fra {1} er ankommet i transportkapsler i nærheden.</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textFriendly>Flere seperate grupper af venlige {0} fra {1} er ankommet i transportkapsler i nærheden.</EdgeDropGroups.textFriendly>
+
+  <CenterDrop.textEnemy>En gruppe af {0} fra {1} er landet lige på toppen af dig!</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>En gruppe af venlige {0} fra {1} er landet lige på toppen af dig!</CenterDrop.textFriendly>
+
+  <RandomDrop.textEnemy>En gruppe af {0} fra {1} er ankommet i transportkapsler. Deres kapsler gik i kludder og lander spredt ud over hele området!</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>En gruppe af venlige {0} fra {1} er ankommet i transportkapsler. Deres kapsler gik i kludder og lander spredt ud over hele området!</RandomDrop.textFriendly>
+
+
+</LanguageData>

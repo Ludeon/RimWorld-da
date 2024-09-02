@@ -109,11 +109,11 @@
   <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
 
   <NeedWarmClothes>Varmt tøj nødvendigt</NeedWarmClothes>
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1>Mindst {0} af dine kolonister kommer til at mangle varmt tøj når den kolde sæson begynder.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Alle dine kolonister kommer til at mange varmt tøj når den kolde sæson begynder.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
   
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Immobil karavane</ImmobileCaravan>
+  <ImmobileCaravanDesc>En af dine karavaner er immobil fordi den bærer på for meget.\n\nDu kan gøre karavanen mobil igen ved at give afkald på nogle af genstandene i fanen GENSTANDE.</ImmobileCaravanDesc>
   
 </LanguageData>
