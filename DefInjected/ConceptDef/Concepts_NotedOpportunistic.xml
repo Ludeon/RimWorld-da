@@ -3,14 +3,14 @@
 
      <!-- Concepts taught through the learning readout, when opportunities arise -->
 
-    <ReformCaravan.label>Gendan karavane</ReformCaravan.label>
-    <ReformCaravan.helpText>Efter et møde kan du nemt gendanne en karavane ved at bruge GENDAN KARAVANEkommandoen i Verdens Billedet.</ReformCaravan.helpText>
+    <ReformCaravan.label>Gendanner karavaner</ReformCaravan.label>
+    <ReformCaravan.helpText>Efter et møde kan du nemt gendanne en karavane ved at bruge kommandoen GENDAN KARAVANE i Verdensoverblikket.</ReformCaravan.helpText>
 
     <Rescuing.label>Redning</Rescuing.label>
-    <Rescuing.helpText>For at redde en såret person, vælg en rask kolonist og højreklik på den sårede.\n\nHvis du redder en ikke-kolonist, er det ikke sikkert de tilslutter sig i din koloni. Det er muligt de bare går deres vej efter at være blevet helbredt. Hvis du vil sikker på at de tilslutter sig, fang dem og rekruter dem.</Rescuing.helpText>
+    <Rescuing.helpText>For at redde en såret person, skal du vælge en rask kolonist og højreklikke på den sårede kolonist.\n\nHvis du redder en ikke-kolonist, betyder det ikke nødvendigvis at de tilslutter sig din koloni. Det er muligt at de bare går deres vej efter at være blevet helbredt. Hvis du vil sikker på at de tilslutter sig, fang dem og rekrutér dem.</Rescuing.helpText>
 
     <Capturing.label>Indfanging</Capturing.label>
-    <Capturing.helpText>Når en fjende er nede på jorden og ikke død, kan du FANGE dem.\n\nFor at fange dem, vælg en kolonist, højreklik på den invalideret fjende og vælf FANG.\n\nDu vil få brug for en ekstra seng markeret til fange brug.</Capturing.helpText>
+    <Capturing.helpText>Når en fjende er nede på jorden og ikke død, kan du FANGE dem.\n\nFor at fange dem, vælg en kolonist, højreklik på den invalideret fjende og vælg FANG.\n\nDu vil få brug for en ekstra seng som er sat til at blive anvendt af fanger.</Capturing.helpText>
 
     <PersonalShields.label>Personlig barriere</PersonalShields.label>
     <PersonalShields.helpText>personlige barriere stopper langdistanceangreb fra at komme in og ud. De har ingen effekt på nærkamps angreb.\n\nFor at kæmpe mod person barriere kan du enten koncentrere en masse skud på målet, eller slås med ham hånd til hånd.</PersonalShields.helpText>
@@ -27,28 +27,34 @@
     <AnimalsDontAttackDoors.label>Dyr angriber ikke døre</AnimalsDontAttackDoors.label>
     <AnimalsDontAttackDoors.helpText>Menneskejagende dyr vil generelt ikke angribe døre eller inaktive tårne.\n\nDu kan slippe væk fra dem ved at gå inden for eller bag ved en væg. Men de vil vente på dig.</AnimalsDontAttackDoors.helpText>
 
-    <BillsTab.label>Ordre-fanen</BillsTab.label>
-    <BillsTab.helpText>For at få en kolonist til at arbejde ved et bord, vælg bordet og åben Ordrer-fanen. Her kan du for bestemme hvilke retter der skal tilberedes, hvilke ting der skal bygges, hvilke dyr der skal slagtes.</BillsTab.helpText>
+    <BillsTab.label>Bestillinger-fanen</BillsTab.label>
+    <BillsTab.helpText>For at få en kolonist til at arbejde ved et bord, vælg bordet og åben fanen Bestillinger. Her kan du vælge hvilke retter, der skal tilberedes, hvilke ting, der skal bygges, og hvilke dyr, der skal slagtes.</BillsTab.helpText>
 
-    <OpeningComms.label>Brug af komms konsolen</OpeningComms.label>
-    <OpeningComms.helpText>For at kommunikere, vælg en kolonist og højreklik på komms konsolen.</OpeningComms.helpText>
+    <OpeningComms.label>Brug af kommunikationskonsollen</OpeningComms.label>
+    <OpeningComms.helpText>For at kommunikere, vælg en kolonist og højreklik på kommunikationskonsollen.</OpeningComms.helpText>
 
-    <DrugAddiction.label>Stofmisbrug</DrugAddiction.label>
-    <DrugAddiction.helpText>Du kan inspicere dine kolonisters lyst til at tage rusmidler i deres BEHOV-fane.\n\nSå længe at deres behov er på nul, vil deres misbrug skifte til "tilbagetrækning" stadiet, hvilket kan have forskellige negative bivirkninger.\n\nMen efter der er gået lang nok tid i tilbagetrækning, vil deres misbrug stoppe og behovet for stoffet vil forsvinde.</DrugAddiction.helpText>
+    <DrugAddiction.label>Rusmiddelafhængighed</DrugAddiction.label>
+    <DrugAddiction.helpText>Du kan inspicere dine kolonisters lyst til at tage rusmidler i deres BEHOV-fane.\n\nSå længe at deres behov er på nul, vil deres afhængighed skifte til stadiet "abstinenser", hvilket kan have forskellige negative bivirkninger.\n\nMen efter at de har haft abstinenser i lang nok tid, vil deres afhængighed forsvinde og behovet for rusmidlet vil ophøre.</DrugAddiction.helpText>
 
-    <DrugPolicies.label>medicin- og rusmiddelpolitik</DrugPolicies.label>
-    <DrugPolicies.helpText>Du kan bestemme kolonisterne til at tage specifikke rusmidler efter et specifikt skema. For eksempel kan du sætte dem til at tage anti-malaria medicin regelmæssigt, eller til at drikke øl en dag for at holde sig glad.\n\nÅbn fanen TILDEL og tryk på 'Håndter stof politik' knappen. Lav en ny stof politik. Derefter kan du tildele politikentil kolonisterne.\n\nKolonister kan stadig tage rusmidler som ikke er i deres politik. Du kan fortælle dem hvad de skal gøre, men de vil også følge deres egne lyster!</DrugPolicies.helpText>
+    <DrugPolicies.label>Medicin- og rusmiddelpolitik</DrugPolicies.label>
+    <DrugPolicies.helpText>Du kan sætte kolonisterne til at tage bestemte rusmidler efter en specifik dagsplan. For eksempel kan du sætte dem til at tage medicin mod malaria regelmæssigt, eller til at drikke øl en gang om dagen for at holde humøret oppe.\n\nÅbn fanen TILDEL og tryk på knappen 'Angiv medicin- og rusmiddelpolitikker'. Lav en ny medicin- og rusmiddelpolitik. Derefter kan du tildele politikken til kolonisterne.\n\nKolonister kan stadig tage rusmidler, som ikke er i deres politik. Du kan fortælle dem hvad de skal gøre, men de vil også følge deres egne lyster!</DrugPolicies.helpText>
 
     <TVForSickPeople.label>TV til de syge</TVForSickPeople.label>
-    <TVForSickPeople.helpText>Syge mennesker kan se TV imens de ligger i sengen.</TVForSickPeople.helpText>
+    <TVForSickPeople.helpText>Syge folk kan se TV mens de ligger i sengen.</TVForSickPeople.helpText>
 
-    <PrisonerTab.label>Fange fanen</PrisonerTab.label>
-    <PrisonerTab.helpText>Kig i en fanges 'Fange' fane for at se hvordan de bliver behandlet.\n\nDu kan bestemme om de vil blive rekruteret, ignoreret eller henrettet, om de må spise, hvilken slags lægehjælp de får.\n\nKolonister med Opsynsmandens arbjedstypen vil interagere med fangerne.</PrisonerTab.helpText>
+    <PrisonerTab.label>Fange-fanen</PrisonerTab.label>
+    <PrisonerTab.helpText>Kig i en fanges 'Fange'-fane for at vælge, hvordan de skal behandles.\n\nDu kan vælge om de skal rekutteres, ignoreres eller henrettes, om de må spise, og hvilken slags lægehjælp, de må få.\n\nKolonister med arbejdstypen 'Opsynsmand' vil interagerer med fangerne.</PrisonerTab.helpText>
 
-    <SetGrowingZonePlant.label>Vælg hvilken plante der skal såes</SetGrowingZonePlant.label>
-    <SetGrowingZonePlant.helpText>Du kan bestemme hvilke planter der skal såes i en mark. Du kan enda så træer!\n\nBare vælg en mark, åben 'Plant' knappen.</SetGrowingZonePlant.helpText>
+    <SetGrowingZonePlant.label>Vælg hvilken plante, der skal sås</SetGrowingZonePlant.label>
+    <SetGrowingZonePlant.helpText>Du kan bestemme hvilke planter, der skal sås i en grozone. Du kan endda gro træer!\n\nBare vælg grozonen, åbn fanen Groning, og klik på 'plant'-knappen.</SetGrowingZonePlant.helpText>
 
-    <DrugBurning.label>afbrændning af medicin</DrugBurning.label>
-    <DrugBurning.helpText>rusmidler kan være brugbare, men kan også ende med et skadeligt stofmisbrug.\n\nHvis du gerne vil ungå rusmidler i din koloni, har du mulighed for at brænde dem ved et lejrbål.</DrugBurning.helpText>
+    <DrugBurning.label>Afbrændning af rusmidler</DrugBurning.label>
+    <DrugBurning.helpText>Rusmidler kan være brugbare, men kan resultere i et skadeligt stofmisbrug.\n\nHvis du gerne vil ungå rusmidler i din koloni, har du mulighed for at brænde dem ved et lejrbål.</DrugBurning.helpText>
+
+  <DoorOpenSpeed.label>Døråbningshastigheder</DoorOpenSpeed.label>
+  <DoorOpenSpeed.helpText>Døre åbner i forskellige hastigheder afhængig af det materiale, de er lavet ud af.\n\nAdvarsel: Stendøre åbner meget langsomt. Enhver der passerer gennem døren vil have deres fart sænket markant.</DoorOpenSpeed.helpText>
+
+  <QueueOrders.label>Order queueing</QueueOrders.label>
+  <QueueOrders.helpText>When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.</QueueOrders.helpText>
 
 </LanguageData>

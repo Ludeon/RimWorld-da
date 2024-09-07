@@ -3,7 +3,7 @@
 
   <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
 
-  <RangedStab.label>stab</RangedStab.label>
+  <RangedStab.label>stik</RangedStab.label>
   <RangedStab.deathMessage>{0} er blevet stukket til døde.</RangedStab.deathMessage>
 
   <Bullet.label>kugle</Bullet.label>

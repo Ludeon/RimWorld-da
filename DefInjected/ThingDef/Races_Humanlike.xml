@@ -2,7 +2,7 @@
 <LanguageData>
 
     <Human.label>Menneske</Human.label>
-    <Human.description>Et generisk menneske, der for det meste ikke er gen-modiceret og står uforandret fra evolutionære pres, fra andre planeter end Jorden.</Human.description>
+    <Human.description>Et generisk menneske, der for det meste ikke er genmodiceret og står uforandret fra evolutionære pres, fra andre planeter end Jorden.</Human.description>
     <Human_Leather.label>menneskelæder</Human_Leather.label>
     <Human_Leather.description>læder fra et menneske</Human_Leather.description>
     <Human_Leather.stuffProps.stuffAdjective>menneskelæder</Human_Leather.stuffProps.stuffAdjective>

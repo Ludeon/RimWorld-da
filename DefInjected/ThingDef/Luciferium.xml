@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <Luciferium.label>luciferium</Luciferium.label>
-    <Luciferium.description>Et sammenkog mekanitter der dramatisk forbedrer kroppens funktion i alle henseender. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Desværre uden den modererende effekt af en regelmæssige dosering hver fem eller seks dage, vil mekaniterne mister deres samhørighed, hvilket forårsager en kontinuerlig raseri andfald og i sidste ende døden. \ n \ nEfter den første dosis, er der ingen måde at få mekaniterne ud, nogensinde. \ n \ nPå urbverdenerne, kalder de Luciferium »Djævelens Handel«. Mange har været tvunget til at dræbe venner, når der ikke kunne findes flere af de forførende røde piller.</Luciferium.description>
-  <Luciferium.ingestible.ingestCommandString>Tag {0}</Luciferium.ingestible.ingestCommandString>
+    <Luciferium.description>Et sammenkog af mekanitter der drastisk forbedrer kroppens egenskaber på alle fronter. Med tiden kan det heale gamle sår og hjerneskade, men det kan ikke regenerere mistet lemmer.djævlendjæv
+    Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.
+    \n\nEfter den første dosis er der ingen måde at få mekanitterne ud igen - nogensinde.\n\nI urbworlds kalder de Luciferum for 'djævlens handel'. Mange er endt med at være tvunget til at slå venner ihjel, når det ikke længere har været muligt at finde flere af de tillokkende røde piller. </Luciferium.description>
+    <Luciferium.ingestible.ingestCommandString>Tag {0}</Luciferium.ingestible.ingestCommandString>
   <Luciferium.ingestible.ingestReportString>Tager {0}.</Luciferium.ingestible.ingestReportString>
 
 </LanguageData>

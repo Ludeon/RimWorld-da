@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     
-    <WorldCameraMovement.label>Verdenskamerabevægelse</WorldCameraMovement.label>
+    <WorldCameraMovement.label>Kamerabevægelse i verdensoverblikket</WorldCameraMovement.label>
     
-    <WorldCameraMovement.helpText>Zoom med MUSEHJULESKNAPPEN eller {Key:MapZoomIn} og {Key:MapZoomOut} knapper.\n\nFlyt rundt med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} knapperne, eller med MIDT-KLIK og TRÆK.</WorldCameraMovement.helpText>
+    <WorldCameraMovement.helpText>Zoom med MUSEHJULET eller {Key:MapZoomIn} og {Key:MapZoomOut} tasterne.\n\nFlyt rundt med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne, eller ved at  MIDTERKLIKKE og TRÆKKE.</WorldCameraMovement.helpText>
     
 </LanguageData>

@@ -7,109 +7,111 @@
     <ChooseLandingSite.text>Her vælger du, hvor du vil lande.\n\nDer er mange biomer, men lad os i første omgang starte med et venligt et.\n\nKlik på et landingspunkt med tempereret skov og fladt terræn og klik herefter på NÆSTE.\n\nDu kan bruge fanen TERRÆN til at se flere informationer om det valgte felt.</ChooseLandingSite.text>
 
  <ReorderCharacters.rejectInputMessage>Vælg først en karakter.</ReorderCharacters.rejectInputMessage>
-  <ReorderCharacters.text>Nu kan du vælge karakterer! Klik i de venstre område for at vælge fra de Now you can choose characters!\n\nClick in the left area to select from available characters. If you find a character you like, drag them into the top section with the SELECTED label.</ReorderCharacters.text>
+  <ReorderCharacters.text>Nu kan du vælge karakterer!\n\nKlik i det venstre område for at vælge fra mellem de karakterer, der er til rådighed. Hvis du ser en karakter, som du kan lide, træk den over i den øverste sektion der hedder UDVALGTE.</ReorderCharacters.text>
 
-    <RandomizeCharacter.text>Nu vil du skabe karaktere!\n\nPrøv at lave en tilfældig karakter ved at trykke på TILFÆLDIG knappen.</RandomizeCharacter.text>
-    <RandomizeCharacter.rejectInputMessage>Prøv venligst at lave en tilfældig karakter først.</RandomizeCharacter.rejectInputMessage>
+    <RandomizeCharacter.rejectInputMessage>Lave først en tilfældig karakter.</RandomizeCharacter.rejectInputMessage>
+    <RandomizeCharacter.text>Hvis du ikke kan lide en af karaktererne, kan du danne en ny!\n\nPrøv at randomisere en ny karakter ved at klikke på knappen RANDOMISÉR.</RandomizeCharacter.text>
 
-    <AcceptStartingPawns.text>Godt gået!\n\nTilfældigøre flere hvis du vil - men prøv ikke at få den perfekte karakter. Alle har skavanker, og det laver historien mere interessant!\n\nDu kan også omdøbe karakterende ved at klikke på deres navne.\n\nKlik på START når du er klar.</AcceptStartingPawns.text>
-    <MapCameraDolly.text>Så er du på overfladen!\n\nPrøv at bevæg kameraet rundt.\n\nBrug {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne, eller klik og træk midtermus knappen.\n\nPrøv det nu!</MapCameraDolly.text>
+    <AcceptStartingPawns.text>Godt gået!\n\nRearrangér og randomisér gerne flere, hvis du ønsker - men prøv ikke at skabe den perfekte karakter. Alle har skavanker, og det gør fortællingen mere interessant!\n\nDu kan også omdøbe karaktererne ved at klikke på deres navne.\n\nKlik på START, når du er klar.</AcceptStartingPawns.text>
+    <MapCameraDolly.text>Så er du på jordoverfladen!\n\nPrøv nu at bevæge kameraet rundt.\n\nBrug {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne, eller klik og træk med den midterste museknap.\n\nPrøv det nu!</MapCameraDolly.text>
     <MapCameraZoom.text>Glimrende!\n\nDu kan også zoome ind og ud med musehjulet eller med {Key:MapZoomIn} og {Key:MapZoomOut} tasterne. Prøv det nu!</MapCameraZoom.text>
-    <Pause.text>Du kan pause tid.\n\nDette betyder at du aldrig behøver at skynde dig. Du kan altid bare pause spillet og tage lidt til til at give ordrer.\n\nPrøv at pause med {Key:TogglePause} tasten, eller ved at bruge tids kontrollerne nederst til højre.</Pause.text>
-    <TimeControls.text>Du kan også sætte farten op på tiden.\n\nPrøv at ændre farten med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, og {Key:TimeSpeedSuperfast} tasterne, eller med tids kontrollerne nederst til højre.</TimeControls.text>
+    <Pause.text>Du kan pause tiden.\n\nDette betyder at du aldrig behøver at skynde dig. Du kan altid bare pause spillet og tage dig god tid til at afgive ordrer.\n\nPrøv at pause med {Key:TogglePause} tasten, eller ved at bruge tidsinstillingerne nederst til højre.</Pause.text>
+    <TimeControls.text>Du kan også sætte farten op.\n\nPrøv at ændre farten med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, og {Key:TimeSpeedSuperfast} tasterne, eller med tidsinstillingerne nederst til højre.</TimeControls.text>
 
-    <MakeStockpile.text>Godt gået!\n\nNu bør du lave en lagerplads så dine kolonister ved hvor objekter skal opbevares.\n\n1. Klik på fanen ARKITEKT i bunden til venstre.\n2.Klik på ZONE kategorien.\n3. Vælg LAGERPLADS værktøjet.\n4. Klik og træk en firkant som vidst på kortet.</MakeStockpile.text>
-    <MakeStockpile.rejectInputMessage>Vær venlig at lave en lagerplads på det indikerede område.</MakeStockpile.rejectInputMessage>
-    <MakeStockpile.onMapInstruction>Placer lagerpladsen her\n\n(træg fra hjørne-til-hjørne)</MakeStockpile.onMapInstruction>
+<MakeStockpile.onMapInstruction>Placér lagerpladsen her\n\n(træk fra hjørne-til-hjørne)</MakeStockpile.onMapInstruction>
+    <MakeStockpile.rejectInputMessage>Venligst lav en lagerplads på det indikerede område.</MakeStockpile.rejectInputMessage>
+    <MakeStockpile.text>Godt gået!\n\nLav nu en lagerplads så dine kolonister ved, hvor de skal opbevare forskellige genstande.\n\n1. Klik på menuen ARKITEKT i bunden til venstre.\n2.Klik på kategorienområde/OMRÅDE.\n3. Vælg værktøjet LAV LAGERPLADS.\n4. Klik og træk for at skabe en firkant som vist på kortet.</MakeStockpile.text>
+   
+    <EndStockpileDesignating.text>Højreklik for at stoppe med at være i "lav lagerplads"-tilstand.</EndStockpileDesignating.text>
 
-    <EndStockpileDesignating.text>Højreklik for at stoppe med at være i 'placere lagerplads' tilstand.</EndStockpileDesignating.text>
-
-    <UnforbidStartingResources.text>For at dine kolonister kan hente objekter til din lagerplads, skal du tillade objekterne først.\n\n1. Klik på dine start objekter og vælg dem.\n2. Klik på FORBUDT knappen for at tillade dem.\n\n(Pro tip: Dobbeltklik et objekt for at vælge samme objekter på heleskærmen.)</UnforbidStartingResources.text>
-    <UnforbidStartingResources.rejectInputMessage>Vær venlig at tillade dine starter objekter.</UnforbidStartingResources.rejectInputMessage>
     <UnforbidStartingResources.onMapInstruction>Tillad disse</UnforbidStartingResources.onMapInstruction>
+    <UnforbidStartingResources.rejectInputMessage>Venligst tillad dine startgenstande.</UnforbidStartingResources.rejectInputMessage>
+    <UnforbidStartingResources.text>For at dine kolonister kan hente genstande til din lagerplads, skal du tillade genstandene først.\n\n1. Klik på dine startgenstande for at vælge dem.\n2. Click the TOGGLE FORBIDDEN command to unforbid them.\n\n(Tip: Dobbeltklik på et objekt for at vælge samme type af genstand som er synlig på skærmen.)</UnforbidStartingResources.text>
 
-    <BuildRoomWalls.text>Fantastisk! Nu vil vi bygge et rum.\n\n1. Klik ARKITEKT.\n2. Klik KONSTRUKTION.\n3. Vælg VÆG.\n4. Vælg TRÆ som materiale.\n5. Træk fire vægge for at lave en form som indikeret på kortet.</BuildRoomWalls.text>
-    <BuildRoomWalls.rejectInputMessage>Vær venlig at bygge en trævæg på den fremhævede rektangel.</BuildRoomWalls.rejectInputMessage>
     <BuildRoomWalls.onMapInstruction>Byg vægge</BuildRoomWalls.onMapInstruction>
+    <BuildRoomWalls.rejectInputMessage>Venligst byg en væg af træ langs med kanterne på den fremhævede rektangel.</BuildRoomWalls.rejectInputMessage>
+    <BuildRoomWalls.text>Fantastisk! Nu vil vi bygge et rum.\n\n1. Klik ARKITEKT.\n2. Klik KONSTRUKTION.\n3. Vælg VÆG.\n4. Vælg TRÆ som materiale.\n5. Byg fire vægge for at lave den form, som er vist på kortet.</BuildRoomWalls.text>
 
-    <BuildRoomDoor.text>Nu skal du blot placere en DØR over en af siderne af rummets vægge.\n\nDØR er lige ved siden af VÆG i ARKITET menuen.</BuildRoomDoor.text>
-    <BuildRoomDoor.onMapInstruction>Byg en dør over en over en væg</BuildRoomDoor.onMapInstruction>
-    <BuildRoomDoor.rejectInputMessage>Vær venlig at bygge en dør over en af væggende på dit rum.</BuildRoomDoor.rejectInputMessage>
+    <BuildRoomDoor.text>Nu skal du blot placere en DØR over en af siderne af rummets vægge.\n\nDØR er lige ved siden af VÆG i ARKITET-menuen.</BuildRoomDoor.text>
+    <BuildRoomDoor.onMapInstruction>Venligst byg en dør af træ på en af rummets vægge.</BuildRoomDoor.onMapInstruction>
+    <BuildRoomDoor.rejectInputMessage>Byg en dør på en af væggene</BuildRoomDoor.rejectInputMessage>
 
-    <BuildBeds.text>Dine kolonister vil nu bygge rummet!\n\nNu har de brug for et sted at sove. Placer tre SENGE inde i rummet.\n\nDu kan finde dem i MØBEL kategorien.</BuildBeds.text>
-    <BuildBeds.onMapInstruction>Byg tre senge inde i rummet</BuildBeds.onMapInstruction>
-    <BuildBeds.rejectInputMessage>Vær venlig at bygge træsengene inde i rummet.</BuildBeds.rejectInputMessage>
+    <BuildBeds.text>Dine kolonister vil nu bygge rummet!\n\nNu har de brug for et sted at sove. Placér tre SENGE inde i rummet.\n\nDu kan finde dem i menuen MØBLER.\n\nDu kan bruge {Key:Designator_RotateLeft} og {Key:Designator_RotateRight} tasterne til at rotere genstanden.</BuildBeds.text>
+    <BuildBeds.onMapInstruction>Venligst byg tre senge af træ inde i rummet.</BuildBeds.onMapInstruction>
+    <BuildBeds.rejectInputMessage>Byg tre senge inde i rummet</BuildBeds.rejectInputMessage>
 
-    <BuildTorchLamp.text>Det er en god ide at placer lidt lys indenfor, eller bliver dine kolonister muggen i mørket.\n\nByg en FAKKEL LAMPE inde i rummet.</BuildTorchLamp.text>
-    <BuildTorchLamp.onMapInstruction>Byg en fakkel lampe inde i rummet</BuildTorchLamp.onMapInstruction>
-    <BuildTorchLamp.rejectInputMessage>Vær venlig at bygge en fakkel lampe inde i rummet.</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.text>Du skal også have noget lys indenfor, ellers bliver dine kolonister utilfredse i mørket.\n\nByg en FAKKEl inde i rummet.</BuildTorchLamp.text>
+    <BuildTorchLamp.onMapInstruction>Venligst byg en fakkel inde i rummet</BuildTorchLamp.onMapInstruction>
+    <BuildTorchLamp.rejectInputMessage>Byg en fakkel inde i rummet.</BuildTorchLamp.rejectInputMessage>
 
-    <BuildAnimalSleepingSpot.text>For at dit kæledyr kan sove indenfor hos dig, placer en DYRE SOVEPLADS inde i rummet.\n\nSengepladser er ikke rigtige bygninger - de er bare steder på jorden udvalgt til at sove på.</BuildAnimalSleepingSpot.text>
-    <BuildAnimalSleepingSpot.onMapInstruction>Byg en dyre soveplads\ninde i rummet</BuildAnimalSleepingSpot.onMapInstruction>
-    <BuildAnimalSleepingSpot.rejectInputMessage>Vær venlig at placere dyre sovepladsen inde i rummet.</BuildAnimalSleepingSpot.rejectInputMessage>
+ <BuildAnimalSleepingSpot.onMapInstruction>Byg en dyresoveplads\ninde i rummet</BuildAnimalSleepingSpot.onMapInstruction>
+    <BuildAnimalSleepingSpot.rejectInputMessage>Venligst placér en dyresoveplads inde i rummet.</BuildAnimalSleepingSpot.rejectInputMessage>
+    <BuildAnimalSleepingSpot.text>For at dit kæledyr kan sove inden for hos dig, skal du placere en DYRESOVEPLADS inde i rummet.\n\nSovepladser er ikke rigtige bygninger - de er bare steder på jorden som er blevet angivet til at kunne sove på.</BuildAnimalSleepingSpot.text>
 
+-----------------------------------------------------
     <BuildHorseshoesPin.text>Dine kolonister har brug for noget til at gøre dem glade, ellers bliver de triste med tiden.\n\nByg en HESTESKO PLØK udenfor i nærheden af rummet.</BuildHorseshoesPin.text>
     <BuildHorseshoesPin.onMapInstruction>Byg en heskeskos pløl\nudenfor rummet</BuildHorseshoesPin.onMapInstruction>
-    <BuildHorseshoesPin.rejectInputMessage>Vær venlig at placer hesteskos pløkken udenfor i nærheden af rummet.</BuildHorseshoesPin.rejectInputMessage>
+    <BuildHorseshoesPin.rejectInputMessage>Venligst at placer hesteskos pløkken udenfor i nærheden af rummet.</BuildHorseshoesPin.rejectInputMessage>
 
-    <MakeGrowingZone.text>Huset bliver nu bygget!\n\nDine kolonister vil få brug for noget at spise, så placer en MARK zone som indikeret på kortet.\n\nDet er her dine kolonister vil så deres afgrøder.</MakeGrowingZone.text>
-    <MakeGrowingZone.rejectInputMessage>Vær venlig at lave en mark zone på det indikerede område.</MakeGrowingZone.rejectInputMessage>
-    <MakeGrowingZone.onMapInstruction>Placer en mark zone her\n(drag corner-to-corner)</MakeGrowingZone.onMapInstruction>
+    <MakeGrowingZone.onMapInstruction>Placér et dyrkningsområde her\n(træk fra hjørne til hjørne)</MakeGrowingZone.onMapInstruction>
+    <MakeGrowingZone.rejectInputMessage>Venligst lav et dyrkningsområde på det indikerede område.</MakeGrowingZone.rejectInputMessage>
+    <MakeGrowingZone.text>Huset bliver nu bygget!\n\nDine kolonister vil få brug for noget at spise, så placér et dyrkningsområde som vist på kortet.\n\nDet er her hvor dine kolonister vil så afgrøder.</MakeGrowingZone.text>
 
-    <SetToGrowRice.text>Du kan bestemme hvilke planter dine kolonister skal dyrke i en mark zone.\n\n1. Højreklik for at stoppe arkitet tilstand.\n2. Klik på din mark zone for at vælge den.\n3. Klik på "vælg plante" knappen i bunden og vælg ris.</SetToGrowRice.text>
-    <SetToGrowRice.rejectInputMessage>Vær venligt at sætte din mark zone til ris.</SetToGrowRice.rejectInputMessage>
-    <SetToGrowRice.onMapInstruction>Sæt denne mark zone til ris</SetToGrowRice.onMapInstruction>
+    <SetToGrowRice.onMapInstruction>Sæt dette dyrkningsområde til at gro ris</SetToGrowRice.onMapInstruction>
+    <SetToGrowRice.rejectInputMessage>Venligst sæt dit dyrkningsområde til at gro ris.</SetToGrowRice.rejectInputMessage>
+    <SetToGrowRice.text>Du kan bestemme hvilke planter, dine kolonister skal så i et dyrkningsområde.\n\n1. Højreklik for at stoppe arkitekt-tilstand.\n2. Klik på dit dyrkningsområde for at vælge det.\n3. Klik på "Vælg plante"-knappen i bunden og skift det til Ris.</SetToGrowRice.text>
 
-    <EquipWeapons.text>Få dine kolonister til at udruste sig med starter våbene. For at udruste dem med et våben:\n\n1. Klik på en kolonist for at vælge dem.\n2. Højreklik det våben du gerne vil have dem til at samle op.\n3. Klik 'udrust våben' på menuen.\n\nGør dette ved hver kolonist.</EquipWeapons.text>
-    <EquipWeapons.rejectInputMessage>Vær venlig at give hver kolonist et våben.</EquipWeapons.rejectInputMessage>
-    <EquipWeapons.onMapInstruction>sammel disse op</EquipWeapons.onMapInstruction>
+    <EquipWeapons.onMapInstruction>Udrust med dette</EquipWeapons.onMapInstruction>
+    <EquipWeapons.rejectInputMessage>Venligst få dine kolonister til at udruste sig med våben.</EquipWeapons.rejectInputMessage>
+    <EquipWeapons.text>Få dine kolonister til at udruste sig med startvåbene. For at udruste dem med et våben:\n\n1. Klik på en kolonist for at vælge dem.\n2. Højreklik på det våben, du gerne vil have dem til at samle op.\n3. Klik 'udrust med våben' i menuen.\n\nGør dette for hver kolonist.</EquipWeapons.text>
 
-    <BuildFueledStove.text>Fremragende!\n\nNu vil du få brug for en komfur til at lave mad med.\n\nByg et DREVET KOMFUR inde i rummet.</BuildFueledStove.text>
-    <BuildFueledStove.onMapInstruction>Byg et drevet komfur inde i rummet</BuildFueledStove.onMapInstruction>
-    <BuildFueledStove.rejectInputMessage>Vær venlig at bygge et drevet komfur inde i rummet som du byggede tidligere.</BuildFueledStove.rejectInputMessage>
-
-    <AddBillSimpleMeal.text>Kolonister har brug for at vide hvad de skal tilberede.\n\nTilberednigns bestillingen er tilføjet igennem komfuret. Når en bestilling er blevet lavet vil kolonister gå igang med arbejdet automatisk.\n\n1. Vent til komfuret er blevet bygget.\n2. Klik på komfuret for at vælge det.\n3. Åben BESTIL fanen.\n4. Klik TILFØJ BESTILLING.\n5. Vælg TILBERED SIMPELT MÅLTID på menuen.\n6. Klik på + knappen for at tilføje nok bestillinger til 10.\n\nHusk, du kan sætte farten op på tiden hvis det tager for lang tid at bygge.\n\nDu kan også vælge en kolonist og højreklikke på komfuret for at prioritere det højere end andre ting.</AddBillSimpleMeal.text>
-    <AddBillSimpleMeal.rejectInputMessage>Vær venlig at lave en bestilling i dit komfur til at tilberede simple måltider.</AddBillSimpleMeal.rejectInputMessage>
+    <BuildFueledStove.onMapInstruction>Byg et brændekomfur inde i rummet</BuildFueledStove.onMapInstruction>
+    <BuildFueledStove.rejectInputMessage>Venligst byg et brændekomfur inde i det rum, du byggede tidligere.</BuildFueledStove.rejectInputMessage>
+    <BuildFueledStove.text>Fremragende!\n\nNu skal du lave et komfur så du kan tilberede mad.\n\nByg et BRÆNDEKOMFUR inde i rummet.</BuildFueledStove.text>
+  
     <AddBillSimpleMeal.onMapInstruction>Vælg denne</AddBillSimpleMeal.onMapInstruction>
-
-    <MineSteel.text>Nu vil dine kolonister begynde at tilberede mad! Lælkkert!\n\nDet næste du bør gør er at grave efter nogle mineraler. Jeg har skabt nogen stål i nærheden af din base.\n\nVælg MINEDRIFT værktøjet i 'Ordrer' kategorien og klik og træg musen over stålet for at vælge det til minedrift.</MineSteel.text>
-    <MineSteel.rejectInputMessage>Vær venlig at bruge 'minedrift' knappen på det kompakte stål.</MineSteel.rejectInputMessage>
+     <AddBillSimpleMeal.rejectInputMessage>Venligst opret en bestilling på at tilberede simple måltider ved dit komfur.</AddBillSimpleMeal.rejectInputMessage>
+    <AddBillSimpleMeal.text>Kolonister har brug for at få fortalt, hvad de skal tilberede.\n\nBestillinger på tilberedninger bliver oprettet via selve komfuret. Når en bestilling er blevet oprettet, vil kolonister automatisk gå i gang med at udføre arbejdet.\n\n1. Vent på at komfuret er blevet bygget.\n2. Klik på komfuret for at vælge det.\n3. Klik på fanen BESTILLINGER.\n4. Klik på TILFØJ BESTILLING.\n5. Vælg TILBERED SIMPELT MÅLTID fra menuen.\n6. Klik på + knappen for at øge bestilligen til 10.\n\nHusk at du kan sætte farten op på tiden, hvis det tager for lang tid at få bygget komfuret.\n\nDu kan også vælge en kolonist og højreklikke på komfuret for at prioritere at det bliver bygget.</AddBillSimpleMeal.text>
+  
     <MineSteel.onMapInstruction>Vælg alle disse\ntil minedrift</MineSteel.onMapInstruction>
+    <MineSteel.rejectInputMessage>Venligst at bruge 'minedrift' knappen på det kompakte stål.</MineSteel.rejectInputMessage>
+    <MineSteel.text>Nu vil dine kolonister begynde at tilberede mad! Lælkkert!\n\nDet næste du bør gør er at grave efter nogle mineraler. Jeg har skabt nogen stål i nærheden af din base.\n\nVælg MINEDRIFT værktøjet i 'Ordrer' kategorien og klik og træk musen over stålet for at vælge det til minedrift.</MineSteel.text>
 
-    <ChopTrees.text>Du vil nok også gerne have noget træ. Vælg nogle træer som du gerne vil fælde.\n\nVælg FÆLD TRÆER værktøjet og vælg 10 træer som du gerne vil fælde.\n\n(Pro tip: Du kan trægge en box over flere træer for at vælge mange på en gang.)</ChopTrees.text>
-    <ChopTrees.rejectInputMessage>Vær venlig at trægge 'fæld træer' værktøjet over nogle træer.</ChopTrees.rejectInputMessage>
+    <ChopTrees.rejectInputMessage>Venligst træk værktøjet 'fæld træer' hen over nogle træer.</ChopTrees.rejectInputMessage>
+    <ChopTrees.text>Du for brug for at skaffe noget træ. Markér nogle træer, som du gerne vil fælde.\n\nVælg FÆLD TRÆER værktøjet og markér 10 træer, som du gerne vil fælde.\n\n(Tip: Du kan trække en boks over flere træer for at vælge mange på én gang.)</ChopTrees.text>
 
-    <OpenMainTabWork.text>Du kan styre hvilke kolonister gør hvilket arbejde.\n\nÅbn fanen ARBEJDE i bunden af skærmen.</OpenMainTabWork.text>
-    <OpenMainTabWork.rejectInputMessage>Vær venlig at åbne fanen ARBEJDE.</OpenMainTabWork.rejectInputMessage>
+    <OpenMainTabWork.rejectInputMessage>Venligst åbn fanen ARBEJDE.</OpenMainTabWork.rejectInputMessage>
+    <OpenMainTabWork.text>Du kan styre hvilke kolonister udfører hvilket slags arbejde.\n\nÅbn fanen ARBEJDE i bunden af skærmen.</OpenMainTabWork.text>
 
-    <ChangeWorkSettings.text>Du kan styre hvem gør hvilket arbejde ved at bruge checkboksende. Kolonister vil lave deres opgaver i en rækkefølge, fra venstre til højre.\n\nPrøve at ændre nogle af instillingerne.\n\nVær opmærksom på at kolonister altid følger deres arbejds prioritering, selv hvis det får dem til at gøre dumme ting! Så at lave en smart arbejdsorden er nøglen til at være successful i Rimworld. Så vælg din arbejds instillinger med omhug, og revidere dem ofte!</ChangeWorkSettings.text>
-    <ChangeWorkSettings.rejectInputMessage>Vær venlig at åbne fanen ARBEJDE og ændre nogle instillinger.</ChangeWorkSettings.rejectInputMessage>
+    <ChangeWorkSettings.rejectInputMessage>Venligst åbn fanen ARBEJDE og ændr nogle af instillingerne.</ChangeWorkSettings.rejectInputMessage>
+    <ChangeWorkSettings.text>Du kan styre hvem der gør hvilket slags arbejde ved at bruge afkrydsningsfelterne. Kolonister vil lave deres opgaver i rækkefølgen fra venstre mod højre.\n\nPrøv at ændre på nogle af instillingerne.\n\nVær opmærksom på at kolonister altid følger deres arbejdsprioritering, selv hvis det får dem til at gøre dumme ting! At lave en velfungerende arbejdsplan er en værdifuld færdighed til at få succes i Rimworld. Så angiv dine kolonisters arbejdsinstillinger med omhu, og revidér dem ofte!</ChangeWorkSettings.text>
 
-    <BuildSimpleResearchBench.text>For at komme videre vil du få brug for at  you'll need to forske ny teknologi.\n\nByg en SIMPEL TRÆ FORSKNINGS BÆNK inde i dit rum.</BuildSimpleResearchBench.text>
-    <BuildSimpleResearchBench.onMapInstruction>Byg en simple træ forsknings bænk\ninde i rummet</BuildSimpleResearchBench.onMapInstruction>
-    <BuildSimpleResearchBench.rejectInputMessage>Vær venlig at placere den simple træ forsknings bænk inde i rummet du byggede tidligere.</BuildSimpleResearchBench.rejectInputMessage>
+    <BuildSimpleResearchBench.onMapInstruction>Byg et simpelt forskningsbord af træ\ninde i rummet</BuildSimpleResearchBench.onMapInstruction>
+    <BuildSimpleResearchBench.rejectInputMessage>Venligst placér et simpelt forskningsbord af træ inde i det rum, du byggede tidligere.</BuildSimpleResearchBench.rejectInputMessage>
+    <BuildSimpleResearchBench.text>For at komme videre, vil du få brug for at forske nye teknologier.\n\nByg et SIMPELT FORSKNINGSBORD af træ inde i dit rum.</BuildSimpleResearchBench.text>
 
-    <OpenMainTabResearch.text>Fremragende! Det næste du skal gøre er at vælge hvad der skal forskes.\n\nÅben FORSKNINGs fanen.</OpenMainTabResearch.text>
-    <OpenMainTabResearch.rejectInputMessage>Vær venlig at åbne 'Forskning' fanen.</OpenMainTabResearch.rejectInputMessage>
+    <OpenMainTabResearch.rejectInputMessage>Venligst åbn fanen 'forskning'.</OpenMainTabResearch.rejectInputMessage>
+    <OpenMainTabResearch.text>Fremragende! Det næste du skal gøre er at vælge, hvad der skal forskes.\n\nÅbn fanen FORSKNING.</OpenMainTabResearch.text>
 
-    <SelectResearchProject.text>Nu skal du bare vælge hvad du gerne vil forske først.\n\nDet kan være du vil blive nødt til at vente på at forsknings bænken er bygget.\n\nHvis det tager for længe, brug ARBEJDE fannen for at sætte flere kolonister til Byg.</SelectResearchProject.text>
-    <SelectResearchProject.rejectInputMessage>Vær venlig at vælge et forsknings projekt.</SelectResearchProject.rejectInputMessage>
+   <SelectResearchProject.rejectInputMessage>Venligst vælg et forskningsprojekt.</SelectResearchProject.rejectInputMessage>
+   <SelectResearchProject.text>Nu skal du bare vælge, hvad du gerne vil forske først.\n\nDet kan være du bliver nødt til at vente på at forskningsbordet er blevet bygget eller at der er skaffet nok træ.\n\nHvis det tager for lang tid, kan du bruge fanen ARBEJDE til at sætte flere kolonister til at Bygge.</SelectResearchProject.text>
 
-    <ExpandAreaHome.text>Det næste der skal ske, er at du vil lære hvordan man bruger HJEMMEOMRÅDE.\n\nKolonister vil kun rengøre gulve og slukke brande inde for hjemme området, og vil ignorer ild og skidt uden for området.\n\nHjemmeområdet er tilføjet automatisk når du bygger ting - men du kan også selv udvide det.\n\nVælg UDVID HJEMMEOMRÅDE værktøjet og træg et nyt område på kortet.</ExpandAreaHome.text>
-    <ExpandAreaHome.rejectInputMessage>Vær venlig at udvid hjemmeområdet en smule, bare for at øve dig.</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaHome.rejectInputMessage>Venligst udvid hjemmeområdet en smule, bare for at øve dig.</ExpandAreaHome.rejectInputMessage>
+    <ExpandAreaHome.text>Nu skal du lære hvordan man udvider HJEMMEOMRÅDET.\n\nKolonister vil kun rengøre gulve og slukke brande i hjemmeområdet, og vil ignorer ild og skidt uden for området.\n\nHjemmeområdet er tilføjet automatisk når du bygger ting - men du kan også selv udvide det.\n\nVælg værktøjet UDVID HJEMMEOMRÅDE og træk et nyt område på kortet.</ExpandAreaHome.text>
 
-    <ExpandAreaBuildRoof.text>BYG TAGOMRÅDE definere hvor kolonister vil prøve at bygge et tag.\n\nDet auto-fylder sig selv når du lukker et nyt rum helt til.\n\nVælg UDVID BYG TAGOMRÅDE-værktøjet og træg en veranda foran huset.</ExpandAreaBuildRoof.text>
-    <ExpandAreaBuildRoof.rejectInputMessage>Vær venlig at udvid tagområdet bare en smule, bare for at øve dig.</ExpandAreaBuildRoof.rejectInputMessage>
+    <ExpandAreaBuildRoof.rejectInputMessage>Venligst udvid tagområdet en smule, bare for at øve dig.</ExpandAreaBuildRoof.rejectInputMessage>
+    <ExpandAreaBuildRoof.text>BYG TAGOMRÅDE definere, hvor kolonister vil prøve at bygge tage.\n\nDet udfylder automatisk et område, når du danner et nyt, lukket rum.\n\nVælg værktøjet UDVID BYG TAGOMRÅDE og træk et område foran huset som skulle du bygge en lille veranda med tag.</ExpandAreaBuildRoof.text>
 
-    <BuildSandbags.text>Alle tiders! Du har nu lært en basisk forståelse af hvordan man styre en koloni! På et tidspunk vil fjender komme for at angribe din koloni. Så det er tid til at forberede til dette.\n\nVælg SANDSÆKKE værktøjet og træg dem ud ved det markerede område.</BuildSandbags.text>
-    <BuildSandbags.rejectInputMessage>Vær venlig at bygge sandsække på det markerede område.</BuildSandbags.rejectInputMessage>
     <BuildSandbags.onMapInstruction>Byg sandsække her</BuildSandbags.onMapInstruction>
+    <BuildSandbags.rejectInputMessage>Venligst byg sandsække på det markerede område.</BuildSandbags.rejectInputMessage>
+    <BuildSandbags.text>Alle tiders! Du har nu en fået stablet en simpel koloni på benene! På et tidspunk vil fjender komme for at angribe din koloni. Det er tid til at forberede dig på dette.\n\nVælg værktøjet SANDSÆKKE og træk dem ud ved det markerede område.</BuildSandbags.text>
 
-    <FinishSandbags.text>Lad os bare vente til at alt er bygget færdigt..\n\nOvervej at bruge fanen ARBEJDE til at sætte flere kolonister til at bygge.\n\nDu kan også sætte farten op for at skære ned på ventetiden.\n\nNår alt er bygget, sender jeg nogle fjender for at teste dit forsvar!</FinishSandbags.text>
-    <FinishSandbags.rejectInputMessage>Vær venlig at vente til dine kolonister har bygget sandsækkende.</FinishSandbags.rejectInputMessage>
+    <FinishSandbags.rejectInputMessage>Venligst vent på at dine kolonister har bygget alle sandsækkene.</FinishSandbags.rejectInputMessage>
+    <FinishSandbags.text>Lad os bare vente til at alt er bygget færdigt.\n\nOvervej at bruge fanen ARBEJDE til at sætte flere kolonister til at Bygge.\n\nDu kan også sætte farten op for at mindske ventetiden.\n\nNår alt er blevet bygget, vil jeg sende en fjende for at teste dit forsvar!</FinishSandbags.text>
 
-    <DownRaider.text>Jeg har nu sendt en hærgere for at angribe din koloni!\n\n1. Sæt spillet på pause ved at trykke på {Key:TogglePause}!\n2. Læs de røde bogstaver til højre i bunden af skærmen.\n3. INDKALD dine kolonister ved at vælge dem og klik på INDKALD kommandoen.\n4. Højreklik ved sandsækkende for at placere dem inde bag firkanten så de rør sækkene.\n5. Afpause.\n\nKolonister skal røre ved dækning for at det hjælper dem. Når de i dækning, vent til angriberne kommer tæt på. Dine kolonister vil automatisk begynde at skyde.</DownRaider.text>
-    <DownRaider.onMapInstruction>Send dine kolonister her\nfor at røre sandsækkende for dækning</DownRaider.onMapInstruction>
+    <DownRaider.onMapInstruction>Send dine kolonister her\nhvor de står tæt nok på sandsækkene til at stå i dækning</DownRaider.onMapInstruction>
+      <DownRaider.rejectInputMessage>Venligst fokusér på at vinde kampen!</DownRaider.rejectInputMessage>
+    <DownRaider.text>Jeg har nu sendt en raider til at angribe din koloni!\n\n1. Sæt spillet på pause ved at trykke på {Key:TogglePause}!\n2. Læs det røde brev i bunden af skærmen til højre.\n3. INDKALD dine kolonister ved at vælge dem og klik på kommandoen INDKALD.\n4. Højreklik ved sandsækkene for at placere dem inde bag firkanten af sandsækkene og så de rører sækkene.\n5. sæt tiden i gang igen.\n\nKolonister skal røre ved dækningen for at gavne af den. Når du er kommet i dækning, så vent til fjenden kommer tæt på. Dine kolonister vil automatisk begynde at skyde.</DownRaider.text>
 
      <UndraftAll.rejectInputMessage>Afindkald dine kolonister.</UndraftAll.rejectInputMessage>
     <UndraftAll.text>Succes! Nu skal du AFINKALDE alle dine kolonister ved at bruge samme kommando som før.\n\nDette vil lade dem vende tilbage til deres rutiner.</UndraftAll.text>

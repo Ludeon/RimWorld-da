@@ -3,13 +3,13 @@
 	<!-- Concepts taught through the learning readout, with no opportunity needed -->
 	 
 	<CameraDolly.label>kammerabevægelse</CameraDolly.label>
-	<CameraDolly.helpText>Flyt kammeraet ved at klikke og trække MIDTERMUSSEKNAPPEN eller med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} knapperne.</CameraDolly.helpText>
+	<CameraDolly.helpText>Flyt kammeraet ved at klikke og trække MIDTERMUSSEKNAPPEN eller med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne.</CameraDolly.helpText>
 
 	<CameraZoom.label>Kamera zoom</CameraZoom.label>
-	<CameraZoom.helpText>Zoom in og ud med MUSEHJULET eller med {Key:MapZoomIn} og {Key:MapZoomOut} knapperne.</CameraZoom.helpText>
+	<CameraZoom.helpText>Zoom in og ud med MUSEHJULET eller med {Key:MapZoomIn} og {Key:MapZoomOut} tasterne.</CameraZoom.helpText>
 
 	<TimeControls.label>Tidsstyring</TimeControls.label>
-	<TimeControls.helpText>du kan sætte farten op på tid.\n\nPrøv at styre tiden med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, og {Key:TimeSpeedSuperfast} knapperne, eller med tidsstyringenspanelet nederst til højre.</TimeControls.helpText>
+	<TimeControls.helpText>du kan sætte farten op på tid.\n\nPrøv at styre tiden med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, og {Key:TimeSpeedSuperfast} tasterne, eller med tidsstyringenspanelet nederst til højre.</TimeControls.helpText>
 
 	<Pause.label>Pause</Pause.label>
 	<Pause.helpText>Tryk på {Key:TogglePause} for at pause eller fortsætte spillet.\n\nDu kan give ordrer mens spillet er sat på pause.\n\nHusk dette - hvis tingene bliver hektiske, så bare tryk på {Key:TogglePause}!</Pause.helpText>
@@ -84,7 +84,7 @@
     	<GettingMoreTraders.helpText>Flere handelskaravaner vil komme og besøge dig, hvis du er allieret med flere faktioner.\n\nHvis du ikke har nogen allierede, vil ingen karavaner komme forbi.\n\nDu kan også betale allierede til at sende handelskaravaner ved at kontakte dem med kommunikationskonsolen.</GettingMoreTraders.helpText>
 
     	<InspectRoomStats.label>Rum stats inspektion</InspectRoomStats.label>
-    	<InspectRoomStats.helpText>Du kan inspicere hvor imponerende, right, og smukt et indivuelt rum er ved at bruge RUM STATS INSPEKTION skifte knapperne i nederst højre hjørne.</InspectRoomStats.helpText>
+    	<InspectRoomStats.helpText>Du kan inspicere hvor imponerende, right, og smukt et indivuelt rum er ved at bruge RUM STATS INSPEKTION skifte tasterne i nederst højre hjørne.</InspectRoomStats.helpText>
 
     	<Outfits.label>Påklædning</Outfits.label>
     	<Outfits.helpText>Kolonister vil automatisk prøve at tage det nyeste, højst kvalitets påklædning på de kan.\n\nDu behøver ikke manuelt at give hver kolonist et stykke tøj (du kan dog godt, hvis du ønsker).\n\nFor at lave restriktioner på hvilket tøj en kolonist må bære, åben TILDEL-fanen, tryk på "Håndter påklædning" dialogen for at designe en ny påklædning, og giv den til kolonisterne.</Outfits.helpText>

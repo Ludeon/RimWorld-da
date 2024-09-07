@@ -3,8 +3,21 @@
 
     <Mechanoid_Centipede.label>tusindben</Mechanoid_Centipede.label>
     <Mechanoid_Centipede.description>Kraftig kampmekanitter, der glider på snesevis af små ben. Deres tunge rustning og ildkraft gør dem meget effektive mod statiske forsvarere der står tæt sammen. De er lidt sårbare over for mobile hit-and-run taktik.</Mechanoid_Centipede.description>
+  <Mech_Centipede.tools.0.label>hoved</Mech_Centipede.tools.0.label>
+
+  <!-- Lancer - fast sniper -->
+
+  <Mech_Lancer.label>lanser</Mech_Lancer.label>
+  <Mech_Lancer.description>En kampmekanit på størrelse med et menneske with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge.</Mech_Lancer.description>
+  <Mech_Lancer.tools.0.label>venstre næve</Mech_Lancer.tools.0.label>
+  <Mech_Lancer.tools.1.label>højre næve</Mech_Lancer.tools.1.label>
+  <Mech_Lancer.tools.2.label>hoved</Mech_Lancer.tools.2.label>
+
 
     <Mechanoid_Scyther.label>scyther</Mechanoid_Scyther.label>
-    <Mechanoid_Scyther.description>Hurtig, tynde, menneskestore kamp mekaniter. De er normalt udstyret med ét primær distancevåben, og deres kroppe er udstyret med to leddelte klinger for at gøre dem dødbringende i nærkamp. De bruger ikke dækning. Håndteres bedst ved at koncentrerer overvældende ildkraft.</Mechanoid_Scyther.description>
+    <Mechanoid_Scyther.description>Hurtige, tynde kampmekanitter på størrelse med mennesker. De specialiserer sig i at trænge hurtigt ind på målet og slås på klos hold. Deres kroppe er dækket med pigge og klinger, men de bruger primært deres klinger på armene til at hugge lemesdele af og gut their victims alive.</Mechanoid_Scyther.description>
+  <Mech_Scyther.tools.0.label>venstre klinge</Mech_Scyther.tools.0.label>
+  <Mech_Scyther.tools.1.label>højre klinge</Mech_Scyther.tools.1.label>
+  <Mech_Scyther.tools.2.label>hoved</Mech_Scyther.tools.2.label>
 
 </LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MainTab_Inspect.label>Slå fanen {0} til/fra</MainTab_Inspect.label>
+  <MainTab_Architect.label>Slå fanen {0} til/fra</MainTab_Architect.label>
+  <MainTab_Work.label>Slå fanen {0} til/fra</MainTab_Work.label>
+  <MainTab_Restrict.label>Slå fanen {0} til/fra</MainTab_Restrict.label>
+  <MainTab_Assign.label>Slå fanen {0} til/fra</MainTab_Assign.label>
+  <MainTab_Animals.label>Slå fanen {0} til/fra</MainTab_Animals.label>
+  <MainTab_Wildlife.label>Slå fanen {0} til/fra</MainTab_Wildlife.label>
+  <MainTab_Research.label>Slå fanen {0} til/fra</MainTab_Research.label>
+  <MainTab_World.label>Slå fanen {0} til/fra</MainTab_World.label>
+  <MainTab_History.label>Slå fanen {0} til/fra</MainTab_History.label>
+  <MainTab_Factions.label>Slå fanen {0} til/fra</MainTab_Factions.label>
+  <MainTab_Menu.label>Slå fanen {0} til/fra</MainTab_Menu.label>
+
+
+</LanguageData>

@@ -1,72 +1,55 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- In-game camera -->
-
-  <MapDollyUp.label>dolly up</MapDollyUp.label>
-  <MapDollyDown.label>dolly down</MapDollyDown.label>
-  <MapDollyLeft.label>dolly left</MapDollyLeft.label>
-  <MapDollyRight.label>dolly right</MapDollyRight.label>
-  <MapZoomIn.label>zoom in</MapZoomIn.label>
-  <MapZoomOut.label>zoom out</MapZoomOut.label>
-
-
-  <!-- Map play -->
-
+  <MapDolly_Up.label>dolly up</MapDolly_Up.label>
+  <MapDolly_Down.label>dolly down</MapDolly_Down.label>
+  <MapDolly_Left.label>dolly left</MapDolly_Left.label>
+  <MapDolly_Right.label>dolly right</MapDolly_Right.label>
+  <MapZoom_In.label>zoom ind</MapZoom_In.label>
+  <MapZoom_Out.label>zoom ud</MapZoom_Out.label>
+  <Accept.label>acceptér</Accept.label>
+  <Cancel.label>annullér</Cancel.label>
   <TakeScreenshot.label>take screenshot</TakeScreenshot.label>
   <ToggleScreenshotMode.label>toggle screenshot mode</ToggleScreenshotMode.label>
   <SelectNextInCell.label>select next in cell</SelectNextInCell.label>
   <TogglePause.label>pause/resume game</TogglePause.label>
-  <TimeSpeedNormal.label>game speed: normal</TimeSpeedNormal.label>
-  <TimeSpeedFast.label>game speed: fast</TimeSpeedFast.label>
-  <TimeSpeedSuperfast.label>game speed: super fast</TimeSpeedSuperfast.label>
-  <TimeSpeedUltrafast.label>game speed: ultra fast (debug)</TimeSpeedUltrafast.label>
-  <PreviousColonist.label>previous colonist</PreviousColonist.label>
-  <NextColonist.label>next colonist</NextColonist.label>
-
-
-  <!-- Misc (re-used) -->
-
-  <Misc1.label>Misc 1</Misc1.label>
-  <Misc2.label>Misc 2</Misc2.label>
-  <Misc3.label>Misc 3</Misc3.label>
-  <Misc4.label>Misc 4</Misc4.label>
-  <Misc5.label>Misc 5</Misc5.label>
-  <Misc6.label>Misc 6</Misc6.label>
-  <Misc7.label>Misc 7</Misc7.label>
-  <Misc8.label>Misc 8</Misc8.label>
-  <Misc9.label>Misc 9</Misc9.label>
-  <Misc10.label>Misc 10</Misc10.label>
-  <Misc11.label>Misc 11</Misc11.label>
-  <Misc12.label>Misc 12</Misc12.label>
-
-
-  <!-- Selection special -->
-
-  <CommandTogglePower.label>toggle power</CommandTogglePower.label>
-  <CommandItemForbid.label>toggle forbidden</CommandItemForbid.label>
-  <CommandColonistDraft.label>draft</CommandColonistDraft.label>
-  <ModifierIncrement10x.label>increment 10x</ModifierIncrement10x.label>
-  <ModifierIncrement100x.label>increment 100x</ModifierIncrement100x.label>
-
-
-  <!-- Architect: Common -->
-
-  <DesignatorCancel.label>cancel</DesignatorCancel.label>
-  <DesignatorDeconstruct.label>deconstruct</DesignatorDeconstruct.label>
-  <DesignatorRotateLeft.label>rotate left</DesignatorRotateLeft.label>
-  <DesignatorRotateRight.label>rotate right</DesignatorRotateRight.label>
-
-
-  <!-- Debug -->
-
-  <TickOnce.label>tick once</TickOnce.label>
-  <ToggleGodMode.label>toggle god mode</ToggleGodMode.label>
-  <ToggleDebugLog.label>toggle debug log</ToggleDebugLog.label>
-  <ToggleDebugActionsMenu.label>toggle debug actions menu</ToggleDebugActionsMenu.label>
-  <ToggleDebugLogMenu.label>toggle debug log menu</ToggleDebugLogMenu.label>
-  <ToggleDebugInspector.label>toggle debug inspector</ToggleDebugInspector.label>
-  <ToggleDebugSettingsMenu.label>toggle debug settings menu</ToggleDebugSettingsMenu.label>
+  <TimeSpeed_Normal.label>spilhastighed: Normal</TimeSpeed_Normal.label>
+  <TimeSpeed_Fast.label>spilhastighed: Hurtig</TimeSpeed_Fast.label>
+  <TimeSpeed_Superfast.label>spilhastighed: Super hurtig</TimeSpeed_Superfast.label>
+  <TimeSpeed_Ultrafast.label>spilhastighed: Ultra hurtig (debug)</TimeSpeed_Ultrafast.label>
+  <PreviousColonist.label>tidligere kolonist</PreviousColonist.label>
+  <NextColonist.label>næste kolonist</NextColonist.label>
+  <ToggleRoomStatsDisplay.label>toggle room stats display</ToggleRoomStatsDisplay.label>
+  <ToggleBeautyDisplay.label>toggle beauty display</ToggleBeautyDisplay.label>
+  <Misc1.label>Div. 1</Misc1.label>
+  <Misc2.label>Div. 2</Misc2.label>
+  <Misc3.label>Div. 3</Misc3.label>
+  <Misc4.label>Div. 4</Misc4.label>
+  <Misc5.label>Div. 5</Misc5.label>
+  <Misc6.label>Div. 6</Misc6.label>
+  <Misc7.label>Div. 7</Misc7.label>
+  <Misc8.label>Div. 8</Misc8.label>
+  <Misc9.label>Div. 9</Misc9.label>
+  <Misc10.label>Div. 10</Misc10.label>
+  <Misc11.label>Div. 11</Misc11.label>
+  <Misc12.label>Div. 12</Misc12.label>
+  <Command_TogglePower.label>toggle power</Command_TogglePower.label>
+  <Command_ItemForbid.label>slå forbud til/fra</Command_ItemForbid.label>
+  <Command_ColonistDraft.label>draft</Command_ColonistDraft.label>
+  <Designator_Cancel.label>annullér</Designator_Cancel.label>
+  <Designator_Deconstruct.label>deconstruct</Designator_Deconstruct.label>
+  <Designator_RotateLeft.label>rotér til venstre</Designator_RotateLeft.label>
+  <Designator_RotateRight.label>rotér til højre</Designator_RotateRight.label>
+  <ModifierIncrement_10x.label>increment 10x</ModifierIncrement_10x.label>
+  <ModifierIncrement_100x.label>increment 100x</ModifierIncrement_100x.label>
+  <QueueOrder.label>queue order</QueueOrder.label>
+  <Dev_TickOnce.label>tick once</Dev_TickOnce.label>
+  <Dev_ToggleGodMode.label>slå god mode til/fra</Dev_ToggleGodMode.label>
+  <Dev_ToggleDebugLog.label>slå debug log til/fra</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugActionsMenu.label>toggle debug actions menu</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugLogMenu.label>slå debug log menu til/fra</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugInspector.label>slå debug inspector til/fra</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugSettingsMenu.label>slå toggle debug instillingsmenu til/fra</Dev_ToggleDebugSettingsMenu.label>
 
 
 </LanguageData>

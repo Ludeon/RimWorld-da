@@ -21,8 +21,8 @@
   <FilthVomit.label>bræk</FilthVomit.label>
   <FilthFireFoam.label>ildskum</FilthFireFoam.label>
 
-  <Filth_Fuel.label>chemfuel puddle</Filth_Fuel.label>
-  <Filth_Fuel.description>A puddle of flammable chemfuel.</Filth_Fuel.description>
+  <Filth_Fuel.label>kemzinpøl puddle</Filth_Fuel.label>
+  <Filth_Fuel.description>En pøl af brandbart kemzin.</Filth_Fuel.description>
 
     <Filth_CorpseBile.label>corpse bile</Filth_CorpseBile.label>
   <Filth_Ash.label>aske</Filth_Ash.label>

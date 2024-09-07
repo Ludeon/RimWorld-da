@@ -4,16 +4,16 @@
   <!-- Doors -->
 
   <Door.label>dør</Door.label>
-  <Door.description>Opdeler værelser. Skal manuelt åbnes og lukkes, hvilket nedsætter folks fart.</Door.description>
+  <Door.description>Opdeler rum. Skal manuelt åbnes og lukkes, hvilket sænker folks fart. Hvor meget farten bliver sænket, afhænger af det materiale, som døren er lavet ud af.</Door.description>
 
   <Autodoor.label>autodør</Autodoor.label>
-  <Autodoor.description>Opdeler værelser. Elektrisk drevet hvilket tillader folk at bevæge sig gennem døren uden at sænke farten.</Autodoor.description>
+  <Autodoor.description>Opdeler rum. Da den er drevet af elektricitet, kan folk bevæge sig gennem døren uden at deres fart bliver sænket.</Autodoor.description>
 
 
   <!-- Walls -->
 
   <Wall.label>væg</Wall.label>
-  <Wall.description>En ufremkommelig væg. I stand til at holde et tag oppe.</Wall.description>
+  <Wall.description>En uigennemtrængelig væg. I stand til at holde et tag oppe.</Wall.description>
 
 
 </LanguageData>

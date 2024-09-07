@@ -3,8 +3,8 @@
 
     <!-- Item hauling -->
      
-    <HaulToCell.reportString>slæbber TargetA til celle.</HaulToCell.reportString>
-    <HaulToContainer.reportString>slæbber TargetA.</HaulToContainer.reportString>
+    <HaulToCell.reportString>slæber TargetA til celle.</HaulToCell.reportString>
+    <HaulToContainer.reportString>slæber TargetA.</HaulToContainer.reportString>
     
     <!-- Special hauling -->
 
@@ -27,7 +27,7 @@
 
     <Slaughter.reportString>slagter TargetA.</Slaughter.reportString>
     <Milk.reportString>malker TargetA.</Milk.reportString>
-    <Shear.reportString>trimmer TargetA.</Shear.reportString>
+    <Shear.reportString>klipper TargetA.</Shear.reportString>
     <Tame.reportString>tæmmer TargetA.</Tame.reportString>
     <Train.reportString>træner TargetA.</Train.reportString>
     
@@ -36,7 +36,7 @@
     <PlaceNoCostFrame.reportString>konstruerer TargetA.</PlaceNoCostFrame.reportString>
     <FinishFrame.reportString>konstruerer TargetA.</FinishFrame.reportString>
     <Deconstruct.reportString>dekonstruerer TargetA.</Deconstruct.reportString>
-    <Uninstall.reportString>afinstallere TargetA.</Uninstall.reportString>
+    <Uninstall.reportString>afinstallerer TargetA.</Uninstall.reportString>
     <Repair.reportString>reparerer TargetA.</Repair.reportString>
     <FixBrokenDownBuilding.reportString>udskifter ødelagt komponenter i	TargetA.</FixBrokenDownBuilding.reportString>
     <BuildRoof.reportString>bygger tag.</BuildRoof.reportString>

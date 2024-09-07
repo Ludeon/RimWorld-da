@@ -3,15 +3,15 @@
 
   <!-- Sculptures -->
 
-  <SculptureSmall.label>Lille skulptur</SculptureSmall.label>
-  <SculptureSmall.description>Et værk på størrelse med en torso, lavet af materialer der er modelleret til en artistisk form.</SculptureSmall.description>
+  <SculptureSmall.label>lille skulptur</SculptureSmall.label>
+  <SculptureSmall.description>Et værk på størrelse med en overkrop, lavet af materialer der er modelleret til en artistisk form.</SculptureSmall.description>
 
 
   <!--================================ Sculptures ======================================-->
 
   <Blueprint_Install_SculptureSmall.label>BlueprintLabelExtra</Blueprint_Install_SculptureSmall.label>
 
-  <SculptureLarge.label>Stor skulptur</SculptureLarge.label>
+  <SculptureLarge.label>stor skulptur</SculptureLarge.label>
   <SculptureLarge.description>Et værk på størrelse med et menneske, lavet af materialer der er modelleret til en artistisk form.</SculptureLarge.description>
 
   <Blueprint_Install_SculptureLarge.label>BlueprintLabelExtra</Blueprint_Install_SculptureLarge.label>

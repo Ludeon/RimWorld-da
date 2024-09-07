@@ -14,7 +14,7 @@
 
 	<!-- Component -->
 	
-    <Component.label>Komponent</Component.label>
+    <Component.label>komponent</Component.label>
     <Component.description>Diverse gear, kondensatorer, printkort, rør, hjul, sensorer, ledninger, chips, processorer og andre elektroniske og industrielle dele. Nødvendigt for at samle komplekse maskiner eller elektronik.</Component.description>
 
   <ComponentSpacer.label>advanced component</ComponentSpacer.label>

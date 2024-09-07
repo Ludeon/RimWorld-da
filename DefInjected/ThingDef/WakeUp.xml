@@ -3,7 +3,8 @@
 	
 	<WakeUp.label>vågn-op</WakeUp.label>
 	
-	<WakeUp.description>En vanedannende stimulans. Fylder behovet for at sove, og giver brugerne mulighed for at arbejde i længere perioder uden at blive træt. Afhængighed forårsager nedsat mental præstation og, til tider, psykotiske nedbrud med virkeligheden.</WakeUp.description>
+	<WakeUp.description>En syntetisk stimulans. Dækker behovet for at sove, og gør det muligt for anvenderne at arbejde i længere perioder uden at blive træt. Men gentagende anvendelse vil resultere i en afhængighed som reducerer ens mentale præstationsevne og kan endda udløse psykotiske nedbrud.
+	På de mest konkurrencedygtige universiteter og hos virksomheder på mange planeter, er det ofte set at succesfulde stræbere får et psykotisk nedbrud på grund af afhængighed til vågn-op.</WakeUp.description>
 	
 	<WakeUp.ingestible.ingestCommandString>Indtag {0}</WakeUp.ingestible.ingestCommandString>
 	

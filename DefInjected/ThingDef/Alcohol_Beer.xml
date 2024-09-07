@@ -2,9 +2,11 @@
 <LanguageData>
 
   <Beer.label>øl</Beer.label>
-  <Beer.description>Den første drik udover vand der nogensinde er blevet indtaget af menneskeheden. Øl kan smage godt, men dens hoved effekt er beruselse. Overdreven indtagelse kan føre til alkohol afhængighed.</Beer.description>
+  <Beer.description>Den første drik udover vand der nogensinde er blevet indtaget af menneskeheden. Øl kan smage godt, men dens primære effekt er beruselse. Overdreven indtagelse kan medføre blackouts og, med tiden, alkoholafhængighed.</Beer.description>
   <Beer.ingestible.ingestCommandString>Drik {0}</Beer.ingestible.ingestCommandString>
   <Beer.ingestible.ingestReportString>Drikker {0}.</Beer.ingestible.ingestReportString>
+    <Beer.tools.0.label>flaske</Beer.tools.0.label>
+  <Beer.tools.1.label>flaskehals</Beer.tools.1.label>
 
   <Wort.label>malt</Wort.label>
   <Wort.description>Øl, før fermentering. Dette stof skal gære i en fermenteringstønde, før den bliver til drikkelig øl.</Wort.description>

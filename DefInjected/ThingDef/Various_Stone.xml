@@ -2,26 +2,38 @@
 
     <!-- Misc chunks -->
 	
-	<ChunkSlagSteel.label>slagger stålklump</ChunkSlagSteel.label>
+
+  <!-- =========== Misc chunks =========== -->
+
+  <ChunkSlagSteel.label>slagger stålklump</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel.</ChunkSlagSteel.description>
 	
 	<!-- Sandstone -->
 	
 	<Sandstone.label>sandsten</Sandstone.label>
-	<Sandstone.description>En sedimentbjergart sammensat af sandpartikler der presset sammen.</Sandstone.description>
+	<Sandstone.description>En sedimentær stentype sammensat af sandpartikler som er presset sammen.</Sandstone.description>
 	
+	  <SmoothedSandstone.label>pudset sandsten</SmoothedSandstone.label>
+  <SmoothedSandstone.description>En sedimentær stentype sammensat af sandpartikler som er presset sammen. Sandlagene er blevet finpudset til en flad, glat overflade.</SmoothedSandstone.description>
+
 	<ChunkSandstone.label>sandstensklump</ChunkSandstone.label>
-	
+	  <ChunkSandstone.description>En klump af sten. Kan blive skåret til brugbare stenblokke.</ChunkSandstone.description>
+
 	<BlocksSandstone.label>sandstensblok</BlocksSandstone.label>
-	<BlocksSandstone.description>Blokke af solid sandsten. Sandsten er et relativt blød sten og splintre nemt.</BlocksSandstone.description>
+	<BlocksSandstone.description>Blokke af solid sandsten. Sandsten er en relativ blød sten som nemt splintrer.</BlocksSandstone.description>
 	<BlocksSandstone.stuffProps.stuffAdjective>sandsten</BlocksSandstone.stuffProps.stuffAdjective>
 	
 	<!-- Granite -->
 	
 	<Granite.label>granit</Granite.label>
-	<Granite.description>En meget hårdt vulkanske bjergarter.</Granite.description>
+	<Granite.description>En meget hård, vulkansk stentype.</Granite.description>
 	
-	<ChunkGranite.label>granitklump</ChunkGranite.label>
-	
+ <SmoothedGranite.label>pudset granit</SmoothedGranite.label>
+  <SmoothedGranite.description>En meget hård, vulkansk stentype. The shining surface is filled with a mosaic of black, white, and pink speckles.</SmoothedGranite.description>
+
+  <ChunkGranite.label>granitklump</ChunkGranite.label>
+	  <ChunkGranite.description>En klump af sten. Kan blive skåret til brugbare stenblokke.</ChunkGranite.description>
+
 	<BlocksGranite.label>granitblokke</BlocksGranite.label>
 	<BlocksGranite.description>Blokke af solid granit. Granit er en meget hård sten.</BlocksGranite.description>
 	<BlocksGranite.stuffProps.stuffAdjective>Granit</BlocksGranite.stuffProps.stuffAdjective>
@@ -29,9 +41,13 @@
 	<!-- Limestone -->
 	
 	<Limestone.label>kalksten</Limestone.label>
-	<Limestone.description>En sedimentbjergart dannet af sammenpressede rester af gamle muslingeskaller.</Limestone.description>
+	<Limestone.description>En sedimentær stentype dannet af sammenpressede rester af gamle muslingeskaller.</Limestone.description>
 	
-	<ChunkLimestone.label>kalkstensklump</ChunkLimestone.label>
+  <SmoothedLimestone.label>pudset sandsten</SmoothedLimestone.label>
+  <SmoothedLimestone.description>A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within.</SmoothedLimestone.description>
+
+  <ChunkLimestone.label>kalkstensklump</ChunkLimestone.label>
+  <ChunkLimestone.description>En klump af sten. Kan blive skåret til brugbare stenblokke.</ChunkLimestone.description>
 	
 	<BlocksLimestone.label>kalkstensblokke</BlocksLimestone.label>
 	<BlocksLimestone.description>Blokke af solid kalksten.</BlocksLimestone.description>
@@ -40,23 +56,31 @@
 	<!-- Slate -->
 	
 	<Slate.label>slagger</Slate.label>
-	<Slate.description>En mørk-farvet metamorfe bjergarter. Dens fine lag er symbolsk for ramsaltet spaltning.</Slate.description>
+	<Slate.description>En mørkfarvet metamorfisk stentype. Dens fine lag er symbolsk for ramsaltet spaltning.</Slate.description>
 	
-	<ChunkSlate.label>slaggerklump</ChunkSlate.label>
+  <SmoothedSlate.label>pudset slagger</SmoothedSlate.label>
+  <SmoothedSlate.descriptionEn> mørkfarvet metamorfisk stentype. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface.</SmoothedSlate.description>
+
+  <ChunkSlate.label>slaggerklump</ChunkSlate.label>
+  <ChunkSlate.description>En klump af sten. Kan blive skåret til brugbare stenblokke.</ChunkSlate.description>
 	
 	<BlocksSlate.label>slaggerblokke</BlocksSlate.label>
-	<BlocksSlate.description>Blokke af solid slagger. En kedelig udseende sten, der splintre nemt.</BlocksSlate.description>
+	<BlocksSlate.description>Blokke af solid slagger. En stentype med et kedeligt udseende som nemt splintrer.</BlocksSlate.description>
 	<BlocksSlate.stuffProps.stuffAdjective>slagger</BlocksSlate.stuffProps.stuffAdjective>
 	
 	<!-- Marble -->
 	
 	<Marble.label>marmor</Marble.label>
-	<Marble.description>En blød metamorfisk bjergarter.</Marble.description>
+	<Marble.description>En blød, metamorfisk stentype.</Marble.description>
 	
+	<SmoothedMarble.label>pudset marble</SmoothedMarble.label>
+  	<SmoothedMarble.description>En blød, metamorfisk stentype. Denne semi-transparante stentype ser næsten ud til at lyse med sit eget indre lys.</SmoothedMarble.description>
+
 	<ChunkMarble.label>marmorklump</ChunkMarble.label>
+	  <ChunkMarble.description>En klump sten. Kan blive skåret til brugbare stenblokke.</ChunkMarble.description>
 	
 	<BlocksMarble.label>marmorblokke</BlocksMarble.label>
-	<BlocksMarble.description>Blokke af solid marmor. marmor er en blød, smuk sten, der er kendt for at være let at forme.</BlocksMarble.description>
+	<BlocksMarble.description>Blokke af solid marmor. Marmor er en blød, smuk sten, der er kendt for at være let at forme.</BlocksMarble.description>
 	<BlocksMarble.stuffProps.stuffAdjective>marmor</BlocksMarble.stuffProps.stuffAdjective>
 	
 </LanguageData>
