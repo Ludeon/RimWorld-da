@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <AmbushEdge.label>ambush</AmbushEdge.label>
-  <AmbushEdge.description>An ambush.</AmbushEdge.description>
-  <AmbushEdge.descriptionDialogue>an enemy force is waiting to ambush anyone who comes near</AmbushEdge.descriptionDialogue>
+  <AmbushEdge.label>baghold</AmbushEdge.label>
+  <AmbushEdge.description>Et bagholdsangreb.</AmbushEdge.description>
+  <AmbushEdge.descriptionDialogue>En fjentdlig styrke ligger i baghold og venter på at nogen nærmer sig.</AmbushEdge.descriptionDialogue>
 
 
 </LanguageData>

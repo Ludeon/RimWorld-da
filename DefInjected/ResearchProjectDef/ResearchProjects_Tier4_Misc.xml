@@ -6,15 +6,6 @@
   <GroundPenetratingScanner.label>jord-gennemtrængende skanner</GroundPenetratingScanner.label>
   <GroundPenetratingScanner.description>Gør at kolonisterne kan bygge en jord-gennemtrængende skanner, der kan opdage ressourcer dybt under overfladen.</GroundPenetratingScanner.description>
 
-  <VitalsMonitor.label>livstengs monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Gør at kolonister kan bygge en livstengs monitor som forøger kvaliteten af patienters behandling, hvis den er placeret ved siden af en sygeseng.</VitalsMonitor.description>
-
-  <VitalsMonitor.label>livstengs monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Gør at kolonister kan bygge en livstengs monitor som forøger kvaliteten af patienters behandling, hvis den er placeret ved siden af en sygeseng.</VitalsMonitor.description>
-
-  <ComponentAssembly.label>komponent montage</ComponentAssembly.label>
-  <ComponentAssembly.description>Gør at kolonister kan bygge en Komponent Monterings Bænk, hvor de kan producere komponenter af simple materialer.</ComponentAssembly.description>
-
   <MultibarrelWeapons.label>multiløbs våben</MultibarrelWeapons.label>
   <MultibarrelWeapons.description>Gør at du kan bygge rulekanoner.</MultibarrelWeapons.description>
 
@@ -26,5 +17,42 @@
 
   <ChargedShot.label>opladt skud</ChargedShot.label>
   <ChargedShot.description>Forstå hemmelighederne bag opladte-pulse enegeri/projektiler. Gør at kolonister kan bygge en opladtrifle.</ChargedShot.description>
+
+</LanguageData>
+
+
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MultiAnalyzer.label>multi-analysator</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Byg multi-analysatorer som øger forskningshastigheden og åbner op for et højere niveau af forskningsprojekter. Avancerede komponenter er påkrævet for at bygge den.</MultiAnalyzer.description>
+
+  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>
+
+  <DeepDrilling.label>dybdeboring</DeepDrilling.label>
+  <DeepDrilling.description>Byg dybdebor til at udvinde ressourcer fra jorden. Du skal have en ground-penetrating scanner til at finde ressourcerne først.</DeepDrilling.description>
+
+  <VitalsMonitor.label>patientmonitor</VitalsMonitor.label>
+  <VitalsMonitor.description>Byg patientmonitorer som forbedrer de lægelige resultater, når de er placeret ved siden af hospitalssenge.</VitalsMonitor.description>
+
+  <Fabrication.label>fabrikation</Fabrication.label>
+  <Fabrication.description>Byg fabrikationsstationer, capable of high-tech projects ranging from component assembly to power armor construction.</Fabrication.description>
+
+  <AdvancedFabrication.label>avanceret fabrikation</AdvancedFabrication.label>
+  <AdvancedFabrication.description>Fabrikér avancerede komponenter fra standardkomponenter og andre materialer.</AdvancedFabrication.description>
+
+  <Cryptosleep.label>cryptosøvnskiste</Cryptosleep.label>
+  <Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
+
+  <PoweredArmor.label>powered armor</PoweredArmor.label>
+  <PoweredArmor.description>Build the power armor and power armor helmets. Note that these also require advanced components.</PoweredArmor.description>
+
+  <ChargedShot.label>pulse-charged munitions</ChargedShot.label>
+  <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>
+
+  <Bionics.label>bionics</Bionics.label>
+  <Bionics.description>Byg høj-teknologiske bioniske kropsdele til at erstatte mistede legemsdele og øjne. Kræver en erfaren doktor for at installere.</Bionics.description>
+
 
 </LanguageData>

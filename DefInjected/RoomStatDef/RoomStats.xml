@@ -55,11 +55,11 @@
 
   <!--======= Dependent stats (calculated from other stats) =======-->
 
-  <InfectionChanceFactor.label>infection chance factor</InfectionChanceFactor.label>
+  <InfectionChanceFactor.label>faktor for infektionschance</InfectionChanceFactor.label>
   <SurgerySuccessChanceCleanlinessFactor.label>surgery success chance renlighed factor</SurgerySuccessChanceCleanlinessFactor.label>
-  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>faktor for forskningshastighed</ResearchSpeedFactor.label>
   <GraveVisitingJoyGainFactor.label>grave visiting recreation factor</GraveVisitingJoyGainFactor.label>
-  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
+  <FoodPoisonChance.label>madforgiftningschance</FoodPoisonChance.label>
 
 
 </LanguageData>

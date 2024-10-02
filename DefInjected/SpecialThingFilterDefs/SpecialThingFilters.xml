@@ -7,7 +7,7 @@
     <AllowCorpsesStranger.label>tillad fremmeds lig</AllowCorpsesStranger.label>
     <AllowCorpsesStranger.description>Tillader døde fremmed og fjender.</AllowCorpsesStranger.description>
 
-    <AllowRotten.label>tillad rådent</AllowRotten.label>
+    <AllowRotten.label>tillad råddent</AllowRotten.label>
     <AllowRotten.description>Tillad organiske ting som er begyndt at rådne.</AllowRotten.description>
 
     <AllowPlantFood.label>tillad planteføde</AllowPlantFood.label>

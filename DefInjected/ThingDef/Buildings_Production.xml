@@ -91,10 +91,10 @@
   <SimpleResearchBench_Blueprint.label>simpel forskningsbord (plan)</SimpleResearchBench_Blueprint.label>
   <SimpleResearchBench_Frame.label>simpel forskningsbord bord (bygning)</SimpleResearchBench_Frame.label>
 
-  <HiTechResearchBench.label>hightech forskningsbord</HiTechResearchBench.label>
-  <HiTechResearchBench.description>En højteknologiskbord med computere og elektronisk måleudstyr. Forsknings hastigheden er fremskyndet af de højteknologiske værktøjer. Kræver strøm.</HiTechResearchBench.description>
-  <HiTechResearchBench_Blueprint.label>hightech forskningsbord (plan)</HiTechResearchBench_Blueprint.label>
-  <HiTechResearchBench_Frame.label>hightech forskningsbord (bygning)</HiTechResearchBench_Frame.label>
+  <HiTechResearchBench.label>højteknologisk forskningsbord</HiTechResearchBench.label>
+  <HiTechResearchBench.description>Et højteknologiskbord med computere og elektronisk måleudstyr. Forsknings hastigheden er fremskyndet af de højteknologiske værktøjer. Kræver strøm.</HiTechResearchBench.description>
+  <HiTechResearchBench_Blueprint.label>højteknologisk forskningsbord (plan)</HiTechResearchBench_Blueprint.label>
+  <HiTechResearchBench_Frame.label>højteknologisk forskningsbord (bygning)</HiTechResearchBench_Frame.label>
 
   <ElectricCrematorium.label>electrisk krematorium</ElectricCrematorium.label>
   <ElectricCrematorium.description>Kremere lig. Elektrisk drevet.</ElectricCrematorium.description>

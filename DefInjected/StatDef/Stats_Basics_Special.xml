@@ -1,8 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <MedicalPotency.label>medical potency</MedicalPotency.label>
-  <MedicalPotency.description>How effective this is when used to heal wounds and diseases, or do surgery. Higher medical potency improves the chances of a doctor treating wounds properly, and reduces the chances of failure during surgery.</MedicalPotency.description>
+  <MedicalPotency.description>How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck.</MedicalPotency.description>
+
+  <MedicalQualityMax.label>medical tend quality maximum</MedicalQualityMax.label>
+  <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
+
+  <ConstructionSpeedFactor.label>byggehastighed</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.description>The speed at which buildings made of this are constructed is multiplied by this value. Nogle materialer, såsom sten, er langsomme at bygge med, mens andre, såsom træ, er hurtigere at bygge med.</ConstructionSpeedFactor.description>
 
 
 </LanguageData>

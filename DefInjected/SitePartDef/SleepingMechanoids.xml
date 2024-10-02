@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <SleepingMechanoids.label>sleeping mechanoids</SleepingMechanoids.label>
-  <SleepingMechanoids.description>A group of sleeping mechanoids.</SleepingMechanoids.description>
-  <SleepingMechanoids.arrivedLetter>There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware.</SleepingMechanoids.arrivedLetter>
-  <SleepingMechanoids.arrivedLetterLabel>Sleeping mechanoids</SleepingMechanoids.arrivedLetterLabel>
-  <SleepingMechanoids.descriptionDialogue>there are {0} sleeping mechanoids in the area</SleepingMechanoids.descriptionDialogue>
+  <SleepingMechanoids.label>sovende mekanitter</SleepingMechanoids.label>
+  <SleepingMechanoids.description>En gruppe sovende mekanitter.</SleepingMechanoids.description>
+  <SleepingMechanoids.arrivedLetter>Der er en håndfuld sovende, fjendtlige mekanitter i dette område.\n\nMekanitterne vil måske vågne op, når du nærmer dig, så pas på.</SleepingMechanoids.arrivedLetter>
+  <SleepingMechanoids.arrivedLetterLabel>Sovende mekanitter</SleepingMechanoids.arrivedLetterLabel>
+  <SleepingMechanoids.descriptionDialogue>der er {0} sovende mekanitter i dette område.</SleepingMechanoids.descriptionDialogue>
 
 
 </LanguageData>

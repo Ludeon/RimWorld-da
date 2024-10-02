@@ -33,11 +33,11 @@
   <Misc10.label>Div. 10</Misc10.label>
   <Misc11.label>Div. 11</Misc11.label>
   <Misc12.label>Div. 12</Misc12.label>
-  <Command_TogglePower.label>toggle power</Command_TogglePower.label>
+  <Command_TogglePower.label>slå strøm til/fra</Command_TogglePower.label>
   <Command_ItemForbid.label>slå forbud til/fra</Command_ItemForbid.label>
   <Command_ColonistDraft.label>draft</Command_ColonistDraft.label>
   <Designator_Cancel.label>annullér</Designator_Cancel.label>
-  <Designator_Deconstruct.label>deconstruct</Designator_Deconstruct.label>
+  <Designator_Deconstruct.label>dekonstruér</Designator_Deconstruct.label>
   <Designator_RotateLeft.label>rotér til venstre</Designator_RotateLeft.label>
   <Designator_RotateRight.label>rotér til højre</Designator_RotateRight.label>
   <ModifierIncrement_10x.label>increment 10x</ModifierIncrement_10x.label>

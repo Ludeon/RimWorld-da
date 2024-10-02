@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Outpost.label>outpost</Outpost.label>
-  <Outpost.description>A small, guarded outpost.</Outpost.description>
-  <Outpost.approachingReportString>Attacking {0}</Outpost.approachingReportString>
-  <Outpost.approachOrderString>Attack {0}</Outpost.approachOrderString>
-  <Outpost.arrivedLetter>There is an enemy outpost in this area.</Outpost.arrivedLetter>
-  <Outpost.arrivedLetterLabel>Enemy outpost</Outpost.arrivedLetterLabel>
-  <Outpost.descriptionDialogue>there is an enemy outpost at the site guarded by {0} enemies</Outpost.descriptionDialogue>
+  <Outpost.label>forpost</Outpost.label>
+  <Outpost.description>En lille, bevogtet forpost.</Outpost.description>
+  <Outpost.approachingReportString>Angriber {0}</Outpost.approachingReportString>
+  <Outpost.approachOrderString>Agrib {0}</Outpost.approachOrderString>
+  <Outpost.arrivedLetter>Der er en fjendtlig forpost i dette område.</Outpost.arrivedLetter>
+  <Outpost.arrivedLetterLabel>Fjendtlig forpost</Outpost.arrivedLetterLabel>
+  <Outpost.descriptionDialogue>Der er en fjendtlig forpost ved dette sted som er bevogtet af {0} fjender</Outpost.descriptionDialogue>
 
 
 </LanguageData>

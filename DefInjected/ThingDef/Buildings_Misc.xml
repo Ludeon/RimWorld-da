@@ -44,8 +44,8 @@
 
   <!-- Facilities -->
 
-  <MultiAnalyzer.label>multi analysator</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Gør forskningshastigheden hurtigere. Skal placeres tæt ved en højteknologisk forskningsbænk. En forskningsbænk kan kun være knyttet til en multi-analysator.</MultiAnalyzer.description>
+  <MultiAnalyzer.label>multi-analysator</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Gør forskningshastigheden hurtigere. Skal placeres tæt ved en højteknologisk forskningsstation. En forskningsstation kan kun være knyttet til en multi-analysator.</MultiAnalyzer.description>
   <MultiAnalyzer_Blueprint.label>multi analysator (plan)</MultiAnalyzer_Blueprint.label>
   <MultiAnalyzer_Blueprint_Install.label>multi analysator (plan)</MultiAnalyzer_Blueprint_Install.label>
   <MultiAnalyzer_Frame.label>multi analysator (bygning)</MultiAnalyzer_Frame.label>

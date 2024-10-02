@@ -9,29 +9,11 @@
   <PassiveCooler.label>passive køler</PassiveCooler.label>
   <PassiveCooler.description>Lav passive kølere, en måde at nedkøle indendørsområder uden elektricitet.</PassiveCooler.description>
 
-  <Devilstrand.label>djævletråd</Devilstrand.label>
-  <Devilstrand.description>Gør, at kolonister kan plante djævletråd, en langsomt voksende svamp der afgiver værdifulde fibre.</Devilstrand.description>
-
   <Brewing.label>Bryggeri</Brewing.label>  
   <Brewing.description>Gør at du kan bygge et bryggeri til at transformere humle til lækker, smagfuld øl.</Brewing.description>
 
-  <CarpetMaking.label>tæppevævning</CarpetMaking.label>
-  <CarpetMaking.description>Gør, at dine kolonister kan bygge tæpper og forøge kvaliteten af deres miljø.</CarpetMaking.description>
-
-  <Smithing.label>smedning</Smithing.label>
-  <Smithing.description>Byg smedjer til at lave våben og værktøjer af metal.</Smithing.description>
-
   <Stonecutting.label>stenhugning</Stonecutting.label>
   <Stonecutting.description>Byg stenhuggerborde, der giver mulighed for at forvandle stenklumper til stenblokke, som kan bruges til konstruktion.</Stonecutting.description>
-
-  <ComplexClothing.label>kompleks beklædning</ComplexClothing.label>
-  <ComplexClothing.description>Sy kompliceret beklædning som bukser, frakker og cowboyhatte</ComplexClothing.description>
-
-  <DrugProduction.label>medicinproduktion</DrugProduction.label>
-  <DrugProduction.description>Det grundlæggende af medicin forberedelse og syntese. Gør, at du kan bygge medicinbord. Der behøves mere forskning for at lave specifik medicin.</DrugProduction.description>
-
-  <Electricity.label>elektricitet</Electricity.label>
-  <Electricity.description>Generer og udnyt elektricitet til at lave mad eller andre simple opgaver.</Electricity.description>
 
 </LanguageData>
 
@@ -58,8 +40,8 @@
   <Stonecutting.label>stonecutting</Stonecutting.label>
   <Stonecutting.description>Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways.</Stonecutting.description>
 
-  <ComplexClothing.label>complex clothing</ComplexClothing.label>
-  <ComplexClothing.description>Tailor complicated garments like pants, dusters, and cowboy hats.</ComplexClothing.description>
+  <ComplexClothing.label>komplekst tøj</ComplexClothing.label>
+  <ComplexClothing.description>Sy kompleks beklædning såsom bukser, dusters og cowboyhatte.</ComplexClothing.description>
 
 
   <!--====== Column 2 ======-->
@@ -76,17 +58,17 @@
   <CarpetMaking.label>carpet making</CarpetMaking.label>
   <CarpetMaking.description>Weave beautiful carpets from cloth.</CarpetMaking.description>
 
-  <Pemmican.label>pemmican</Pemmican.label>
+  <Pemmican.label>pemmikan</Pemmican.label>
   <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
 
 
   <!--====== Column 3+ ======-->
 
-  <Smithing.label>smithing</Smithing.label>
-  <Smithing.description>Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles.</Smithing.description>
+  <Smithing.label>smedning</Smithing.label>
+  <Smithing.description>Byg smedjer til at lave metalvåben såsom knive, gladii og morgenstjerner. Bearbejd metal til rene, flotte gulvfliser.</Smithing.description>
 
-  <RecurveBow.label>recurve bow</RecurveBow.label>
-  <RecurveBow.description>Build the recurve bow, an effective and inexpensive ranged weapon.</RecurveBow.description>
+  <RecurveBow.label>recurvebue</RecurveBow.label>
+  <RecurveBow.description>Lav en recurvebue; et effektivt og billigt langdistancevåben.</RecurveBow.description>
 
 
   <!--====== Drugs ======-->
@@ -107,13 +89,13 @@
   <!--====== Medieval weapons ======-->
 
   <LongBlades.label>long blades</LongBlades.label>
-  <LongBlades.description>Craft longswords and spears.</LongBlades.description>
+  <LongBlades.description>Lav langsværd og spyd.</LongBlades.description>
 
   <PlateArmor.label>plate armor</PlateArmor.label>
   <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
 
-  <Greatbow.label>greatbow</Greatbow.label>
-  <Greatbow.description>Craft greatbows for killing enemies at great range.</Greatbow.description>
+  <Greatbow.label>langbue</Greatbow.label>
+  <Greatbow.description>Lav langbuer til at dræbe fjender på lang afstand.</Greatbow.description>
 
 
 </LanguageData>
