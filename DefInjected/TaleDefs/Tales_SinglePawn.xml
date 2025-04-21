@@ -48,34 +48,34 @@
 
     <Drunk.label>fuld</Drunk.label>
 	<Drunk.rulePack.rulesStrings>
-		<li>tale_noun-&gt;[pawn_nameShortDef]'s ekstreme fuldskab</li>
+		<li>tale_noun-&gt;[pawn_nameShortDef]s ekstreme fuldskab</li>
 		<li>image-&gt;[pawn_nameFull] svimler omkring fuld [circumstance_group]</li>
 		<li>image-&gt;[pawn_nameFull] vipper [pawn_possessive] hoved tilbage og bælder spiritus [circumstance_group]</li>
 		<li>image-&gt;[pawn_nameFull] samler grådigt flasker af spiritus [circumstance_group]</li>
 		<li>image-&gt;[pawn_nameFull] drikker meget [circumstance_group]</li>
 		<li>circumstance_phrase-&gt;oblivious til [pawn_possessive] omgivelser</li>
 		<li>circumstance_phrase-&gt;i en rugende døs</li>
-		<li>circumstance_phrase-&gt;imens forhører [pawn_possessive] om sin egen eksistence</li>
-		<li>circumstance_phrase-&gt;med tåre i [pawn_possessive] øjne</li>
+		<li>circumstance_phrase-&gt;imens forhører [pawn_possessive] sig om sin egen eksistens</li>
+		<li>circumstance_phrase-&gt;med tårer i [pawn_possessive] øjne</li>
 		<li>circumstance_phrase-&gt;imens der klukkes vanvittigt</li>
 		<li>circumstance_phrase-&gt;imens der grædes</li>
 		<li>circumstance_phrase-&gt;ser ynkelig ud</li>
 		<li>circumstance_phrase-&gt;imens der stires ondt af folk omkring [pawn_objective]</li>
-		<li>circumstance_phrase-&gt;kigger sjoffelt på nogen i nærheden</li>
+		<li>circumstance_phrase-&gt;kigger sjofelt på nogen i nærheden</li>
 		<li>circumstance_phrase-&gt;prøver at afklæde sig</li>
 		<li>circumstance_phrase-&gt;med en finger i [pawn_possessive] mund</li>
-		<li>circumstance_phrase-&gt;prøver at holde brækket tilbage holding back vomit</li>
+		<li>circumstance_phrase-&gt;prøver at holde brækket i sig</li>
 		<li>circumstance_phrase-&gt;er ligeglad med alt</li>
 		<li>circumstance_phrase-&gt;med et lystigt glimt i [pawn_possessive] øjne</li>
 		<li>circumstance_phrase-&gt;oplever genfærd fra [pawn_possessive] fortid</li>
 		<li>desc_sentence-&gt;[pawn_pronoun] virker totalt uvidende om hvad der forgår omkring [pawn_objective].</li>
 		<li>desc_sentence-&gt;[pawn_possessive] face itself seems to be swelling.</li>
 		<li>desc_sentence-&gt;[pawn_pronoun] er næsten bevidstløs, [pawn_possessive] tunge ruller ud, lidt savl drypper.</li>
-		<li>desc_sentence-&gt;[pawn_pronoun] ser glad ud og sørlig på samme tid.</li>
+		<li>desc_sentence-&gt;[pawn_pronoun] ser glad og trist ud på samme tid.</li>
 		<li>desc_sentence-&gt;[pawn_pronoun] har pletter på [pawn_possessive] krop.</li>
 		<li>desc_sentence-&gt;Der er et spor af henkastede drikke beholdere bagved [pawn_objective].</li>
-		<li>desc_sentence-&gt;Der er en hvid substance på [pawn_possessive] bukser.</li>
-		<li>desc_sentence-&gt;[pawn_pronoun] ser ud til at have midstet en sko.</li>
+		<li>desc_sentence-&gt;Der er en hvid substans på [pawn_possessive] bukser.</li>
+		<li>desc_sentence-&gt;[pawn_pronoun] ser ud til at have mistet en sko.</li>
 		<li>desc_sentence-&gt;[pawn_possessive] hår er totalt ullet.</li>
 	</Drunk.rulePack.rulesStrings>
 

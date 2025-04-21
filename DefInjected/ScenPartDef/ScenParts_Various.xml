@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <GameStartDialog.label>spillets start dialog</GameStartDialog.label>
+    <GameStartDialog.label>spillets startdialog</GameStartDialog.label>
 
     <PawnFilter_Age.label>tilladt aldersgruppe</PawnFilter_Age.label>
 
-    <OnPawnDeathExplode.label>karakterer ekploderer, når de dør</OnPawnDeathExplode.label>
+    <OnPawnDeathExplode.label>karakterer springer i luften, når de dør</OnPawnDeathExplode.label>
 
     <ForcedTrait.label>påtvunget egenskab</ForcedTrait.label>
 

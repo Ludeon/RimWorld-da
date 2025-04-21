@@ -3,15 +3,15 @@
 
   <!-- Audiovisuals -->
   <Audiovisuals>Lydvisualisering</Audiovisuals>
-  <GameVolume>Spil volume</GameVolume>
-  <MusicVolume>Musik volume</MusicVolume>
+  <GameVolume>Spilvolume</GameVolume>
+  <MusicVolume>Musikvolume</MusicVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
   <EdgeScreenScroll>Muserul ved skærmens kant</EdgeScreenScroll>
   <PauseOnLoad>Pause på indlæs</PauseOnLoad>
   <PauseOnUrgentLetter>Pause ved akut brev</PauseOnUrgentLetter>
-  <CustomCursor>Brugerdefinerede markør</CustomCursor>
+  <CustomCursor>Brugerdefineret markør</CustomCursor>
   <UIScale>UI skala</UIScale>
   <KeyboardConfig>Tastatur konfiguration</KeyboardConfig>
   <ChooseLanguage>Vælg sprog</ChooseLanguage>
@@ -27,12 +27,12 @@
   <TypeFirstNickOrLastName>Indtast fornavn, kaldenavn eller efternavn.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>Dette navn er allerede på listen over foretrukne.</MessageAlreadyPreferredName>
   <ChangeStoryteller>Vælg historiefortæller</ChangeStoryteller>
-  <AutosaveInterval>Autogem interval</AutosaveInterval>
+  <AutosaveInterval>interval for autogem</AutosaveInterval>
   <TemperatureMode>Temperatur tilstand</TemperatureMode>
   <ShowRealtimeClock>Vis realtid clock</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Maksimalt antal kolonier: {0}</MaxNumberOfPlayerHomes>
+  <MaxNumberOfPlayerHomes>Maksimum antal kolonier: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Planter svajer i vind</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maksimal autogem interval i permadøds tilstand er {0} dage.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Maksimum interval for autogem i permadødstilstand er {0} dage.</MaxPermadeathAutosaveIntervalInfo>
 
   <!-- Resolution -->
   <Resolution>Resolution</Resolution>

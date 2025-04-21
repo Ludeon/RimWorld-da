@@ -1,72 +1,73 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
-    <TimeAsColonist.label>Tid some kolonist</TimeAsColonist.label>
-    <TimeAsColonist.description>Total tid brugt som kolonist.</TimeAsColonist.description>
+    <TimeAsColonist.label>Tid som en kolonist</TimeAsColonist.label>
+    <TimeAsColonist.description>Samlet tid brugt loyal to your community.</TimeAsColonist.description>
 
-    <TimeAsPrisoner.label>tid som fange</TimeAsPrisoner.label>
-    <TimeAsPrisoner.description>Total tid brugt som en fange.</TimeAsPrisoner.description>
+    <TimeAsPrisoner.label>tid som en fange</TimeAsPrisoner.label>
+    <TimeAsPrisoner.description>Samlet tid brugt som en fange.</TimeAsPrisoner.description>
 
-    <TimeInBed.label>tid i seng</TimeInBed.label>
-    <TimeInBed.description>Total tid brugt i en seng.</TimeInBed.description>
+    <TimeInBed.label>tid i en seng</TimeInBed.label>
+    <TimeInBed.description>Samlet tid brugt i en seng.</TimeInBed.description>
 
-    <TimeInBedForMedicalReasons.label>tid i seng pågrund af helbred</TimeInBedForMedicalReasons.label>
-    <TimeInBedForMedicalReasons.description>Total tid brugt i en seng opgrund af helbred: venter behandling, Total time spent in a bed for medical reasons: awaiting treatment, komme sig fra sår eller en operation.</TimeInBedForMedicalReasons.description>
+    <TimeInBedForMedicalReasons.label>tid i en seng på grund af helbred</TimeInBedForMedicalReasons.label>
+    <TimeInBedForMedicalReasons.description>Samlet tid brugt i en seng på grund af helbred: afventer behandling, komme sig fra sår eller being operated on.</TimeInBedForMedicalReasons.description>
 
     <TimeDowned.label>nedskudt</TimeDowned.label>
     <TimeDowned.description>Antallet af gange jeg er blevet nedskudt.</TimeDowned.description>
 
-    <TimeGettingFood.label>tid brugt på at finde mad og spisning</TimeGettingFood.label>
-    <TimeGettingFood.description>Total tid brugt på at finde mad og spise det.</TimeGettingFood.description>
+    <TimeGettingFood.label>tid brugt på at finde mad og spise</TimeGettingFood.label>
+    <TimeGettingFood.description>Samlet tid brugt på at finde mad og spise.</TimeGettingFood.description>
 
     <TimeGettingJoy.label>tid brugt på underholdning</TimeGettingJoy.label>
-    <TimeGettingJoy.description>Total tiden brugt på underholdning.</TimeGettingJoy.description>
+    <TimeGettingJoy.description>Samlet tiden brugt på underholdning.</TimeGettingJoy.description>
 
     <TimeUnderRoof.label>tid under et tag</TimeUnderRoof.label>
-    <TimeUnderRoof.description>Total tiden brugt under et tag.</TimeUnderRoof.description>
+    <TimeUnderRoof.description>Samlet tiden brugt under et tag.</TimeUnderRoof.description>
 
     <TimeDrafted.label>tid indkaldt</TimeDrafted.label>
-    <TimeDrafted.description>Total tid brugt indkaldt.</TimeDrafted.description>
+    <TimeDrafted.description>Samlet tid brugt på at være indkaldt.</TimeDrafted.description>
 
-    <TimeOnFire.label>tid sat ild til</TimeOnFire.label>
-    <TimeOnFire.description>Total tid sat ild til.</TimeOnFire.description>
+    <TimeOnFire.label>tid i brand</TimeOnFire.label>
+    <TimeOnFire.description>Samlet tid i brand.</TimeOnFire.description>
 
-    <TimeInMentalState.label>tid mentalt sammenbrudt</TimeInMentalState.label>
-    <TimeInMentalState.description>Total tid brugt på mentalt sammenbrud.</TimeInMentalState.description>
+    <TimeInMentalState.label>tid i en mental tilstand</TimeInMentalState.label>
+    <TimeInMentalState.description>Samlet tid brugt i en unormal mental tilstand.</TimeInMentalState.description>
 
-    <TimeHauling.label>tid på slæbning</TimeHauling.label>
-    <TimeHauling.description>Total tid brugt på at slæbe ting rundt.</TimeHauling.description>
+    <TimeHauling.label>tid på at slæbe</TimeHauling.label>
+    <TimeHauling.description>Samlet tid brugt på at slæbe ting rundt.</TimeHauling.description>
 
     <TimeHandlingAnimals.label>tid på at håndtere dyr</TimeHandlingAnimals.label>
-    <TimeHandlingAnimals.description>Total tid brugt på at håndtere dyr.</TimeHandlingAnimals.description>
+    <TimeHandlingAnimals.description>Samlet tid brugt på at håndtere dyr.</TimeHandlingAnimals.description>
 
     <TimeFirefighting.label>tid på brandslukning</TimeFirefighting.label>
-    <TimeFirefighting.description>Total tid brugt på at bekæmpe ildebrand.</TimeFirefighting.description>
+    <TimeFirefighting.description>Samlet tid brugt på at bekæmpe ildebrande.</TimeFirefighting.description>
 
-    <TimeWardening.label>tid tilsyneset</TimeWardening.label>
-    <TimeWardening.description>Total tid brugt på at tilse folk.</TimeWardening.description>
+    <TimeWardening.label>tid på at holde opsyn</TimeWardening.label>
+    <TimeWardening.description>Samlet tid brugt på at holde opsyn.</TimeWardening.description>
 
     <TimeHunting.label>tid på jagt</TimeHunting.label>
-    <TimeHunting.description>Total tid brugt på jagt.</TimeHunting.description>
+    <TimeHunting.description>Samlet tid brugt på jagt.</TimeHunting.description>
 
-    <TimeConstructing.label>tid på konstruktion</TimeConstructing.label>
-    <TimeConstructing.description>Total tid brugt på at konstruer og dekonstruer.</TimeConstructing.description>
+    <TimeConstructing.label>tid på at bygge</TimeConstructing.label>
+    <TimeConstructing.description>Samlet tid brugt på at bygge og dekonstruere.</TimeConstructing.description>
 
     <TimeTreatingAndFeeding.label>tid på at behandle og fodre</TimeTreatingAndFeeding.label>
-    <TimeTreatingAndFeeding.description>Total tid brugt på at behandle og fodre patienter.</TimeTreatingAndFeeding.description>
+    <TimeTreatingAndFeeding.description>Samlet tid brugt på at behandle og fodre patienter.</TimeTreatingAndFeeding.description>
 
     <TimeResearching.label>tid på forskning</TimeResearching.label>
-    <TimeResearching.description>Total tid brugt på forskning.</TimeResearching.description>
+    <TimeResearching.description>Samlet tid brugt på at forske.</TimeResearching.description>
 
     <TimeCleaning.label>tid på rengøring</TimeCleaning.label>
-    <TimeCleaning.description>Total tid brugt på rengøring.</TimeCleaning.description>
+    <TimeCleaning.description>Samlet tid brugt på at gøre rent.</TimeCleaning.description>
 
-    <TimeRepairing.label>tid på reparering</TimeRepairing.label>
-    <TimeRepairing.description>Total tid brugt på at reparer.</TimeRepairing.description>
+    <TimeRepairing.label>tid på reparation</TimeRepairing.label>
+    <TimeRepairing.description>Samlet tid brugt på at reparere.</TimeRepairing.description>
 
     <TimeMining.label>tid på minedrift</TimeMining.label>
-    <TimeMining.description>Total tid brugt på minedrift.</TimeMining.description>
+    <TimeMining.description>Samlet tid brugt på minedrift.</TimeMining.description>
 
     <TimeSowingAndHarvesting.label>tid på såning og høstning</TimeSowingAndHarvesting.label>
-    <TimeSowingAndHarvesting.description>Total tid brugt på at så, høste og fældning af planter.</TimeSowingAndHarvesting.description>
+    <TimeSowingAndHarvesting.description>Samlet tid brugt på at så, høste og beskære planter.</TimeSowingAndHarvesting.description>
 
 </LanguageData>

@@ -28,19 +28,19 @@
   <!-- Carpets -->
 
   <CarpetRed.label>rødt tæppe</CarpetRed.label>
-  <CarpetRed.description>Plysset tæppe i en dejlig rose nuance.</CarpetRed.description>
+  <CarpetRed.description>Plysset tæppe med en dejlig rosa nuance.</CarpetRed.description>
 
   <CarpetGreen.label>grønt tæppe</CarpetGreen.label>
-  <CarpetGreen.description>Naturligt grønt tæppe.</CarpetGreen.description>
+  <CarpetGreen.description>Naturalistic-feeling grønt tæppe. Earth tones, dude.</CarpetGreen.description>
 
   <CarpetBlue.label>blåt tæppe</CarpetBlue.label>
-  <CarpetBlue.description>Tå-krammende plys tæppe i en køligt blå farve.</CarpetBlue.description>
+  <CarpetBlue.description>Tå-omfavnende plystæppe i en kølig, blå farve.</CarpetBlue.description>
 
-  <CarpetCream.label>flødefarvet tæppe</CarpetCream.label>
-  <CarpetCream.description>Inviterende flødefarvet tæppe.</CarpetCream.description>
+  <CarpetCream.label>cremefarvet tæppe</CarpetCream.label>
+  <CarpetCream.description>Indbydende cremefarvet tæppe.</CarpetCream.description>
 
   <CarpetDark.label>mørkt tæppe</CarpetDark.label>
-  <CarpetDark.description>Professionelt udseende mørkegråt tæppe.</CarpetDark.description>
+  <CarpetDark.description>----------------------------.</CarpetDark.description>
 
 
 </LanguageData>

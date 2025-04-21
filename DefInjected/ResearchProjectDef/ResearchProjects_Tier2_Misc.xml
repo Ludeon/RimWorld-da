@@ -1,73 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Tier 2: Non-electric -->
+  <Electricity.label>elektricitet</Electricity.label>
+  <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
 
-  <PsychiteRefining.label>psykid raffinering</PsychiteRefining.label>
-  <PsychiteRefining.description>Lær at raffinere psykid blade into flagger eller yayo, forskellige former af det euforiske medicin, psykid.</PsychiteRefining.description>
+  <Batteries.label>batteri</Batteries.label>
+  <Batteries.description>Byg batterier til at lagre elektricitet.</Batteries.description>
 
-  <WakeUpProduction.label>vågn-op produktion</WakeUpProduction.label>
-  <WakeUpProduction.description>Dine kemikere har lært formularen og teknikken til at syntisere vågn-op, et arbejdsforberende medicin.</WakeUpProduction.description>
+  <BiofuelRefining.label>raffinering af biobrændsel</BiofuelRefining.label>
+  <BiofuelRefining.description>Byg biobrændselsraffinaderier som laver kemzin af organisk materiale såsom træ og fødevarer.</BiofuelRefining.description>
 
-  <GoJuiceProduction.label>go-juice produktion</GoJuiceProduction.label>
-  <GoJuiceProduction.description>Lær at producere det syntetiske kampforbedrende medicin, go-juice.</GoJuiceProduction.description>
-
-  <PenoxycylineProduction.label>penoxycyline produktion</PenoxycylineProduction.label>
-  <PenoxycylineProduction.description>Lær at producere penoxycyline, et sygdoms bekæmpende medicin.</PenoxycylineProduction.description>
-
-  <!-- Tier 2: Basic electricity -->
-
-  <Batteries.label>batterier</Batteries.label>
-  <Batteries.description>Byg batterier til at opbevare elektricitet.</Batteries.description>
-
-  <Refining.label>raffinering</Refining.label>
-  <Refining.description>Byg raffinaderier til at lave chemfuel fra træ.</Refining.description>
+  <Waterproofing.label>vandtæt kabel</Waterproofing.label>
+  <Waterproofing.description>Byg undervandskabler til elektricitet.</Waterproofing.description>
 
   <NutrientPaste.label>næringspuré</NutrientPaste.label>
-  <NutrientPaste.description>Byg en næringspurédispenser som effektivt producere spiseligt måltider fra rå nærende fødematerialer.</NutrientPaste.description>
+  <NutrientPaste.description>Byg næringspurédispensere som effektivt producerer spiselige måltider fra rå, næringsrige råvarer som ikke kræver arbejdskraft at producere. </NutrientPaste.description>
 
-  <SolarPanels.label>solpaneler</SolarPanels.label>
-  <SolarPanels.description>Byg solpaneler for at lave elektricitet.</SolarPanels.description>
+  <SolarPanels.label>solpanel</SolarPanels.label>
+  <SolarPanels.description>Byg solpaneler til at generere elektricitet med.</SolarPanels.description>
 
-  <AirConditioning.label>air conditioning</AirConditioning.label>
-  <AirConditioning.description>Byg en air condition for at afkøle rum i varmen, eller til at en fryserer.</AirConditioning.description>
+  <AirConditioning.label>airconditioning</AirConditioning.label>
+  <AirConditioning.description>Byg nedkølingsanlæg til at gøre temperaturen behagelig for folk i det varme vejr, eller byg frysere til at lagre letfordærvelige produkter.</AirConditioning.description>
 
-  <Autodoors.label>autodøre</Autodoors.label>
-  <Autodoors.description>Byg autodøre så man kan bevæge sig uden at sætte farten ned.</Autodoors.description>
+  <Autodoors.label>autodør</Autodoors.label>
+  <Autodoors.description>Byg autodøre som automatisk åbner sig når nogen nærmer sig, uden at sænke deres fart.</Autodoors.description>
 
   <Hydroponics.label>hydroponik</Hydroponics.label>
-  <Hydroponics.description>Gør at du kan bygge hydroponiske basiner til at hurtigt at vokse afgrøder indendørs påtrods af hvordan terrænet eller vejret er.</Hydroponics.description>
+  <Hydroponics.description>Byg hydroponiske bassiner til effektivt at gro afgrøder indenfor på trods af terrænet eller vejret udenfor.</Hydroponics.description>
 
   <ElectricSmelting.label>elektrisk smeltning</ElectricSmelting.label>
-  <ElectricSmelting.description>Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.</ElectricSmelting.description>
+  <ElectricSmelting.description>Byg elektriske smedjer og smelteovne. Den elektriske smedje gør det muligt at smede genstande uden brændsel. Den elektriske smelteovn udvinder brugbart metal fra slagger og andre genstande.</ElectricSmelting.description>
 
+  <TubeTelevision.label> Billedrørsfjernsyn</TubeTelevision.label>
+  <TubeTelevision.description>Producér billedrørsfjernsyn til fritidsbrug.</TubeTelevision.description>
+ 
+  <PackagedSurvivalMeal.label>pakket overlevelsesmåltid</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>Producér pakkede overlevelsesmåltider som aldrig bliver for gamle. Velegnede til når man rejser.</PackagedSurvivalMeal.description>
+ 
   <ElectricCremation.label>elektrisk kremering</ElectricCremation.label>
-  <ElectricCremation.description>Byg et krematorium, hvilket kan fordampe uønskede lig.</ElectricCremation.description>
-
+  <ElectricCremation.description>Byg krematorier til afbrænding af uønskede lig.</ElectricCremation.description>
+ 
   <ColoredLights.label>farvede lys</ColoredLights.label>
-  <ColoredLights.description>Gør at kolonisterne kan bygge farvede lys for at dekorer lidt.</ColoredLights.description>
+  <ColoredLights.description>Byg farvede lys til at dekorere med.</ColoredLights.description>
+ 
+  <IEDs.label>IED</IEDs.label>
+  <IEDs.description>Byg improviserede sprængladninger (IED) ud af forskellige artillerigranater.</IEDs.description>
+ 
+  <GeothermalPower.label>geotermisk energi</GeothermalPower.label>
+  <GeothermalPower.description>Byg geotermiske kraftværker oven på gejsere for konstant energi.</GeothermalPower.description>
+
+  <SterileMaterials.label>sterile materialer</SterileMaterials.label>
+  <SterileMaterials.description>Byg sterile gulvfliser som kan bruges til at lave renlige rum til mere sikre og effektive medicinske behandlinger, forskning og madlavning. Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking.</SterileMaterials.description>
+ 
+  <!--===================== Machining and its children sub-tier ======================-->
 
   <Machining.label>maskineri</Machining.label>
-  <Machining.description>Byg et maskinbord for at bygge skydevåben og andet maskineri eller til at skilde døde mekanitter fra hinanden.</Machining.description>
-
-  <IEDBomb.label>vejsidebomber</IEDBomb.label>
-  <IEDBomb.description>Gør at kolonisterne kan bygge vejsidebomber fra artilleri kugler.</IEDBomb.description>
-
-  <IEDIncendiary.label>brand vejsidebomber</IEDIncendiary.label>
-  <IEDIncendiary.description>Gør at kolonister kan bygge brandfælder fra artilleri kugler.</IEDIncendiary.description>
-
-  <Mortars.label>morterer</Mortars.label>
-  <Mortars.description>Lær, hvordan du bygger morterer som kan kaste kugler en lang distance over mure.</Mortars.description>
-
-  <MicroelectronicsBasics.label>grundlæggende mikroelektronik</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>Det grundlæggende ved at arbejde med delikat og kompleks elektronik. Dette låser op for høj-tek forskningsbænken, komm konsolen, og andre forskningsprojekter som billedrørs-tv, og kryptosøvns-kister.</MicroelectronicsBasics.description>
-
-  <!-- Tier 2.5 Microelectronics -->
-
-  <TubeTelevision.label>billedrørs-tv</TubeTelevision.label>
-  <TubeTelevision.description>Gør at du kan producere billedrørs-tv.</TubeTelevision.description>
-
-  <GunTurrets.label>geværtårne</GunTurrets.label>
-  <GunTurrets.description>Gør, at du kan producere automatiske geværtårne.</GunTurrets.description>
-
+  <Machining.description>Byg maskineristationer til at lave pistoler, granater, flakrustning, og til at skille døde mekanitter ad for ressourcer.</Machining.description>
+ 
+  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
+  <SmokepopBelt.description>Build smokepop belts which generate an automatic defensive smokescreen when the user is shot.</SmokepopBelt.description>
+ 
+  <Prosthetics.label>proteser</Prosthetics.label>
+  <Prosthetics.description>Byg billige protester til at erstatte mistede kropsdele. Kræver en erfaren læge for at installere.</Prosthetics.description>
+ 
+  <Gunsmithing.label>gunsmithing</Gunsmithing.label>
+  <Gunsmithing.description>Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers.</Gunsmithing.description>
+ 
+  <FlakArmor.label>flak armor</FlakArmor.label>
+  <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly.</FlakArmor.description>
+ 
+  <Mortars.label>mortars</Mortars.label>
+  <Mortars.description>Build mortars which can lob shells long distances - even over walls.</Mortars.description>
+ 
+  <BlowbackOperation.label>blowback operation</BlowbackOperation.label>
+  <BlowbackOperation.description>Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs.</BlowbackOperation.description>
+ 
+  <GasOperation.label>gas operation</GasOperation.label>
+  <GasOperation.description>Craft high-power guns like chain shotguns and LMGs.</GasOperation.description>
+ 
+  <GunTurrets.label>gun turrets</GunTurrets.label>
+  <GunTurrets.description>Produce simple automated gun turrets.</GunTurrets.description>
+ 
+  <PrecisionRifling.label>precision rifling</PrecisionRifling.label>
+  <PrecisionRifling.description>Craft precisely-machined guns like assault rifles and sniper rifles.</PrecisionRifling.description>
+ 
+  <HeavyTurrets.label>autocannon turret</HeavyTurrets.label>
+  <HeavyTurrets.description>Produce the heavy, long-ranged autocannon turret.</HeavyTurrets.description>
+ 
+  <MultibarrelWeapons.label>multibarrel weapons</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Byg maskingevær</MultibarrelWeapons.description>
+ 
+  <SniperTurret.label>sniper turret</SniperTurret.label>
+  <SniperTurret.description>Produce the extremely long-ranged sniper cannon turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range.</SniperTurret.description>
+ 
+ 
 </LanguageData>

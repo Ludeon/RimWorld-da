@@ -24,7 +24,7 @@
   <ConfigurableLevel>level: {0}</ConfigurableLevel>
 
   <ScenPart_PawnsHaveTrait>{0} har en {1} chance for at starte med egenskaben: {2}</ScenPart_PawnsHaveTrait>
-  <ScenPart_OnPawnDeathExplode>Karakterer og væsener eksploderer, når de dør ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_OnPawnDeathExplode>Karakterer og væsener springer i luften, når de dør ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
   <ScenPart_PawnsAreNaked>{0} starter nøgen.</ScenPart_PawnsAreNaked>
 
   <!-- Pawn filters -->
@@ -37,9 +37,9 @@
 
   <ScenPart_StartWith>Start med</ScenPart_StartWith>
   <ScenPart_MapScatteredWith>Omkring på kortet findes</ScenPart_MapScatteredWith>
-  <ScenPart_PermaGameCondition>Permanent game condition(s)</ScenPart_PermaGameCondition>
-  <ScenPart_DisableIncident>Incident(s) disabled</ScenPart_DisableIncident>
-  <ScenPart_CreateIncident>Incident created</ScenPart_CreateIncident>
+  <ScenPart_PermaGameCondition>Permanent(e) spilbetingelse(r)</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>Incident(s) slået fra</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Incident dannet</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Kan aldrig bygge</ScenPart_DisallowBuilding>
 
 </LanguageData>

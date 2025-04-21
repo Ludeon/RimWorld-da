@@ -20,33 +20,33 @@
 		<li>style_group-&gt;[artextra_clause], og [style_clause].</li>
 		<li>style_group-&gt;[artextra_clause], imens [style_clause].</li>
 		<li>artextra_clause-&gt;billedet er omgivet af [quantity_adjphrase] [animal]s</li>
-		<li>artextra_clause-&gt;der er et [community] [side_position]</li>
-		<li>artextra_clause-&gt;der er et [terrainfeature] [side_position]</li>
-		<li>artextra_clause-&gt;der er en [animal] [side_position]</li>
-		<li>artextra_clause-&gt;emnet er foran en [terrainfeature]</li>
+		<li>artextra_clause-&gt;der er en/et [community] [side_position]</li>
+		<li>artextra_clause-&gt;der er en/et [terrainfeature] [side_position]</li>
+		<li>artextra_clause-&gt;der er en/et [animal] [side_position]</li>
+		<li>artextra_clause-&gt;emnet er foran en/et [terrainfeature]</li>
 		<li>artextra_clause-&gt;scenariet finder sted i midten af [community]</li>
 		<li>artextra_clause-&gt;scenariet ser ud til at finde sted i udkanten af [community]</li>
 		<li>artextra_clause-&gt;det smilende hoved af [outlander] ser alt</li>
-		<li>artextra_clause-&gt;scenariet tager plads indeni [community] bygget tæt på et [terrainfeature]</li>
-		<li>artextra_clause-&gt;den nederst del af billedet er domineret af et [terrainfeature]</li>
-		<li>artextra_clause-&gt;hele billedet er afbilledet af en forsigtig placering af hundredevis af af små [animal]s</li>
-		<li>artextra_clause-&gt;en [outlander] [idle_verb_progressive] [side_position]</li>
-		<li>artextra_clause-&gt;en [animal] [idle_verb_progressive] [side_position]</li>
-		<li>artextra_clause-&gt;en død [animal] [idle_verb_progressive] [side_position]</li>
-		<li>artextra_clause-&gt;en personificeret portratering af [concept] [idle_verb_progressive] [side_position]</li>
-		<li>artextra_clause-&gt;en [animal] [side_position] virker til at symbolisere [concept]</li>
+		<li>artextra_clause-&gt;scenariet tager plads inden i [community] bygget tæt på en/et [terrainfeature]</li>
+		<li>artextra_clause-&gt;den nederste del af billedet er domineret af en/et [terrainfeature]</li>
+		<li>artextra_clause-&gt;hele billedet er opbygget af af en forsigtig placering af hundredevis af af små [animal]s</li>
+		<li>artextra_clause-&gt;en/et [outlander] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause-&gt;en/et [animal] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause-&gt;en/et død/dødt [animal] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause-&gt;en/et personificeret portratering af [concept] [idle_verb_progressive] [side_position]</li>
+		<li>artextra_clause-&gt;en/et [animal] [side_position] virker til at symbolisere [concept]</li>
 		<li>artextra_clause-&gt;[quantity_adjphrase] [outlander]s [idle_verb_progressive] [side_position]</li>
-		<li>artextra_clause-&gt;hvis du skelr din øjne, [composition] afsløre komposisionen af billedet omridset af [animal]</li>
+		<li>artextra_clause-&gt;hvis du skelr din øjne, [composition] afslører kompositionen af billedet omridset af [animal]</li>
 		<li>style_clause-&gt;billedet virker til at udtrykke [concept]</li>
-		<li>style_clause-&gt;værket infundet med ideen om [concept] og er gjort i en [artstyle_adj] stil</li>
+		<li>style_clause-&gt;værket infundet med ideen om [concept] og er gjort i en/et [artstyle_adj] stil</li>
 		<li>style_clause-&gt;værket hentyder til konceptet af [concept]</li>
-		<li>style_clause-&gt;værket er udført i en [artstyle_adj] stil</li>
-		<li>style_clause-&gt;stilen af [artstyle_adj] i den centrale scene kulminere med [artstyle_adj]s stil afbilledning i bagrunden</li>
-		<li>style_clause-&gt;værket har en [artstyle_adj] følelse og en [composition] struktur</li>
+		<li>style_clause-&gt;værket er udført i en/et [artstyle_adj] stil</li>
+		<li>style_clause-&gt;stilen af [artstyle_adj] i den centrale scene, kulminerer med [artstyle_adj]s stil afbilledning i bagrunden???????????????????????</li>
+		<li>style_clause-&gt;værket har en/et [artstyle_adj] følelse og en/et [composition] struktur</li>
 		<li>style_clause-&gt;den overordnede sammensætning er [composition]</li>
 		<li>style_clause-&gt;stilen er [artstyle_adj] med [artstyle_adj] elementer</li>
 		<li>style_clause-&gt;billedet er totalt blottet for både [concept] og [concept]</li>
-		<li>style_clause-&gt;billedet på en eller anden måde, udtrykket både [concept] og [concept]</li>
+		<li>style_clause-&gt;på en eller anden måde udtrykker billedet både [concept] og [concept]</li>
 		<li>style_clause-&gt;[composition]s struktur af billedet er næsten i konflikt med dens [artstyle_adj]s stil</li>
 		<li>style_clause-&gt;værket er nedtonet med nuancer af [color] og [color]</li>
 		<li>style_clause-&gt;næsten hver form i billedet virker til at være [composition]</li>
@@ -54,7 +54,7 @@
 		<li>depicts-&gt;viser</li>
 		<li>depicts-&gt;portrætterer</li>
 		<li>depicts-&gt;ligner</li>
-		<li>depicts-&gt;illustrer</li>
+		<li>depicts-&gt;illustrerer</li>
 		<li>depicts-&gt;repræsenterer</li>
 		<li>depicts-&gt;er formet som</li>
 		<li>depiction-&gt;afbildning</li>
@@ -78,11 +78,11 @@
 		<li>artstyle_adj-&gt;moderne</li>
 		<li>artstyle_adj-&gt;symbolsk</li>
 		<li>artstyle_adj-&gt;amatøragtig og alligevel attraktivt</li>
-		<li>artstyle_adj-&gt;detalje orienteret</li>
+		<li>artstyle_adj-&gt;detaljeorienteret</li>
 		<li>artstyle_adj-&gt;klodset</li>
 		<li>artstyle_adj-&gt;kubistisk</li>
 		<li>artstyle_adj-&gt;impressionistisk</li>
-		<li>artstyle_adj-&gt;ekspressionistiske</li>
+		<li>artstyle_adj-&gt;ekspressionistisk</li>
 		<li>artstyle_adj-&gt;fotografisk</li>
 		<li>artstyle_adj-&gt;barok</li>
 		<li>artstyle_adj-&gt;dadaistiske</li>
@@ -92,10 +92,10 @@
 		<li>artstyle_adj-&gt;folkelig</li>
 		<li>artstyle_adj-&gt;figurativt </li>
 		<li>artstyle_adj-&gt;bugtende</li>
-		<li>artstyle_adj-&gt;geometriske</li>
+		<li>artstyle_adj-&gt;geometrisk</li>
 		<li>artstyle_adj-&gt;abstrakt</li>
 		<li>artstyle_adj-&gt;hyper-realistisk</li>
-		<li>artstyle_adj-&gt;pop kunst</li>
+		<li>artstyle_adj-&gt;popkunst</li>
 		<li>artstyle_adj-&gt;minimalistiske</li>
 		<li>artstyle_adj-&gt;neoklassisk</li>
 		<li>artstyle_adj-&gt;celle-skygget</li>
@@ -113,7 +113,7 @@
 		<li>idle_verb_progressive-&gt;venter</li>
 		<li>idle_verb_progressive-&gt;smiler</li>
 		<li>idle_verb_progressive-&gt;ligger</li>
-		<li>idle_verb_progressive-&gt;posere</li>
+		<li>idle_verb_progressive-&gt;poserer</li>
 		<li>idle_verb_progressive-&gt;vises</li>
 		<li>idle_verb_progressive-&gt;er vist</li>
 		<li>idle_verb_progressive-&gt;svinder ind</li>
@@ -122,17 +122,17 @@
 		<li>side_position-&gt;i nærheden af billedet</li>
 		<li>side_position-&gt;i baggrunden</li>
 		<li>side_position-&gt;i det fjerne</li>
-		<li>side_position-&gt;i den nedere del af billedet</li>
+		<li>side_position-&gt;i den nedre del af billedet</li>
 		<li>side_position-&gt;i den øvre del af billedet</li>
 		<li>side_position-&gt;under hovedemnet</li>
 		<li>side_position-&gt;bagved fokuspunktet</li>
-		<li>side_position-&gt;til venstre del af billedet</li>
-		<li>side_position-&gt;til højre af hoved scenariet</li>
+		<li>side_position-&gt;til venstre del af billedet??????????????????????????????????</li>
+		<li>side_position-&gt;til højre af hovedscenariet</li>
 
 </LanguageData>
 		<li>depicts-&gt;portrætterer</li>
 		<li>depicts-&gt;ligner</li>
-		<li>depicts-&gt;illustrer</li>
+		<li>depicts-&gt;illustrerer</li>
 		<li>depicts-&gt;repræsenterer</li>
 		<li>depicts-&gt;er formet som</li>
 		<li>depiction-&gt;afbildning</li>

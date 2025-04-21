@@ -8,11 +8,11 @@
     <Eclipse.description>En solformørkelse overskygger overfladen. Det vil være mørkt, også om dagen.</Eclipse.description>
     <Eclipse.endMessage>Solformørkelsen er stoppet.</Eclipse.endMessage>
 
-    <PsychicDrone.label>psykiske brummen</PsychicDrone.label>
-    <PsychicDrone.description>En fjern, kraftfuld AI udsender bølger af psykisk kraft, der driver folk imod galskab.</PsychicDrone.description>
+    <PsychicDrone.label>psykisk brummen</PsychicDrone.label>
+    <PsychicDrone.description>En fjern, kraftfuld AI udsender bølger af psykisk kraft, der driver folk mod galskab.</PsychicDrone.description>
     <PsychicDrone.endMessage>Den psykiske brummen er stoppet.</PsychicDrone.endMessage>
 
-    <PsychicSoothe.label>psykiske lindren</PsychicSoothe.label>
+    <PsychicSoothe.label>psykisk lindren</PsychicSoothe.label>
     <PsychicSoothe.description>En fjern, kraftfuld AI udsender bølger af psykisk kraft, udsender bølger af psykiske kraft der beroliger folk og stabilisere deres tanker.</PsychicSoothe.description>
     <PsychicSoothe.endMessage>Den psykiske lindren er stoppet.</PsychicSoothe.endMessage>
 

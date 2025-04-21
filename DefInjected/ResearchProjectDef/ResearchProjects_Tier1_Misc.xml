@@ -9,12 +9,6 @@
   <PassiveCooler.label>passive køler</PassiveCooler.label>
   <PassiveCooler.description>Lav passive kølere, en måde at nedkøle indendørsområder uden elektricitet.</PassiveCooler.description>
 
-  <Brewing.label>Bryggeri</Brewing.label>  
-  <Brewing.description>Gør at du kan bygge et bryggeri til at transformere humle til lækker, smagfuld øl.</Brewing.description>
-
-  <Stonecutting.label>stenhugning</Stonecutting.label>
-  <Stonecutting.description>Byg stenhuggerborde, der giver mulighed for at forvandle stenklumper til stenblokke, som kan bruges til konstruktion.</Stonecutting.description>
-
 </LanguageData>
 
 <?xml version="1.0" encoding="utf-8" ?>
@@ -25,11 +19,11 @@
   <PsychoidBrewing.label>psychoid brewing</PsychoidBrewing.label>
   <PsychoidBrewing.description>Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove.</PsychoidBrewing.description>
 
-  <TreeSowing.label>tree sowing</TreeSowing.label>
+  <TreeSowing.label>træsåning</TreeSowing.label>
   <TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
 
   <Brewing.label>ølbrygning</Brewing.label>
-  <Brewing.description>Byg et bryggeri og ------------ Build a brewery and fermenting vats to transform hops into tasty, tasty beer.</Brewing.description>
+  <Brewing.description>Byg et bryggeri og fermenteringstanke til at transformere humle om til lækker, smagfuld øl.</Brewing.description>
 
   <ComplexFurniture.label>komplekse møbler</ComplexFurniture.label>
   <ComplexFurniture.description>Byg komplekse møbler som senge, borde, spiseborde, spisestole, lænestole, kommoder, værktøjsskabe, billardborde, pokerborde, udluftningsskakte, sarkofager og meget mere.</ComplexFurniture.description>
@@ -55,8 +49,8 @@
   <Devilstrand.label>devilstrand</Devilstrand.label>
   <Devilstrand.description>Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber.</Devilstrand.description>
 
-  <CarpetMaking.label>carpet making</CarpetMaking.label>
-  <CarpetMaking.description>Weave beautiful carpets from cloth.</CarpetMaking.description>
+  <CarpetMaking.label>gulvtæpper</CarpetMaking.label>
+  <CarpetMaking.description>Væv smukke gulvtæpper af stof.</CarpetMaking.description>
 
   <Pemmican.label>pemmikan</Pemmican.label>
   <Pemmican.description>Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.</Pemmican.description>
@@ -91,8 +85,8 @@
   <LongBlades.label>long blades</LongBlades.label>
   <LongBlades.description>Lav langsværd og spyd.</LongBlades.description>
 
-  <PlateArmor.label>plate armor</PlateArmor.label>
-  <PlateArmor.description>Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively.</PlateArmor.description>
+  <PlateArmor.label>pladerustning</PlateArmor.label>
+  <PlateArmor.description>Smed pladerustninger af metal eller træ. Denne tunge rustning sænker farten betydeligt, men yder effektiv beskyttelse.</PlateArmor.description>
 
   <Greatbow.label>langbue</Greatbow.label>
   <Greatbow.description>Lav langbuer til at dræbe fjender på lang afstand.</Greatbow.description>

@@ -2,24 +2,53 @@
 <LanguageData>
 
     <Mood.label>humør</Mood.label>
-    <Mood.description>Humør representere hvor glad or stresset en er. Hvis humøret bliver for lavt kan personen risikere et mentalt sammenbrud.</Mood.description>
+    <Mood.description>Humør representere hvor glad eller stresset en person er. Hvis humøret bliver for lavt, kan personen risikere et få mentalt sammenbrud. Afhængigt af hvor lavt humøret er, </Mood.description>
 
     <Food.label>mad</Food.label>
-    <Food.description>Mad er mængden af næring et væsen har indtaget for nylig. Hvis det er på nul vil væsnet begynde at tage skade over tid pågrund af sult.</Food.description>
+    <Food.description>Mad er mængden af næring et væsen har indtaget for nylig. Hvis det er på nul, vil væsenet begynde at blive mere og mere underernæret, og vil til sidst dø.</Food.description>
 
     <Rest.label>hvile</Rest.label>
-    <Rest.description>Hvile er hvor meget søvn et væsen har fået for nylig.</Rest.description>
+    <Rest.description>Hvile er hvor meget søvn et væsen har fået for nylig. Hvis det er på nul, vil væsenet til sidst falde i søvn på stedet.</Rest.description>
 
-    <Joy.label>glæde</Joy.label>
-    <Joy.description>Glæde representere behovet for at gøre noget rart fra tid til anden. Læg mærke til at gøre den samme aktivitet gentagende gange i træl gør den mindre effektiv til at give glæde.</Joy.description>
+    <Joy.label>adspredelse</Joy.label>
+    <Joy.description>Adspredelse er behovet for at have det sjovt. Gentagelse af den samme aktivitet gør den mindre sjov, så det er nødvendigt at variere det.</Joy.description>
 
     <Beauty.label>skønhed</Beauty.label>
-    <Beauty.description>Skønhed reflektere hvor flot en person synes sine seneste omgivelser er.</Beauty.description>
+    <Beauty.description>Skønhed reflektere hvor visuelt tilfredsstillende en person har fundet sine omgivelser for nyligt. Smukke ting som kunst øger skønheden, mens grimme ting som snavs og ru stenoverflader reducerer skønheden.</Beauty.description>
 
     <Comfort.label>komfort</Comfort.label>
-    <Comfort.description>Komfort fåes ved at sidde i eller sove på komfortable møbler.</Comfort.description>
+    <Comfort.description>Komfort fås ved at sidde i eller sove på komfortable møbler. Det opnås ved at ligge i en seng, sidde på en stol mens man arbejder, eller på andre tidspunkter.</Comfort.description>
 
-    <Space.label>plads</Space.label>
-    <Space.description>Plads reflektere fornemmelsen af at være fysisk fri og i stand til at bevæge sig rundt. Den tager 'skade' når man bruger længere tid i et trangt rum.</Space.description>
+    <Outdoors.label>outdoors</Outdoors.label>
+    <Outdoors.description>Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in tight underground bases.</Outdoors.description>
+    
+    <RoomSize.label>rumstørrelse</RoomSize.label>
 
 </LanguageData>
+
+
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Mood.label>mood</Mood.label>
+  <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree.</Mood.description>
+
+  <Food.label>food</Food.label>
+  <Food.description>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die.</Food.description>
+
+  <Rest.label>rest</Rest.label>
+  <Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+
+  <Joy.label>recreation</Joy.label>
+  <Joy.description>Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+
+  <Beauty.label>beauty</Beauty.label>
+  <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>
+
+  <Comfort.label>comfort</Comfort.label>
+  <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times.</Comfort.description>
+
+  <Outdoors.label>outdoors</Outdoors.label>
+  <Outdoors.description>Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in tight underground bases.</Outdoors.description>
+
+

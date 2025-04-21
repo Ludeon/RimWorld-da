@@ -34,7 +34,7 @@
 		<li>desc_sentence-&gt;[firstPawn_nameShortDef] røre ved [secondPawn_nameShortDef] aggresivt.</li>
 	</BecameLover.rulePack.rulesStrings>
 
-    <Breakup.label>slåer op</Breakup.label>
+    <Breakup.label>slår op</Breakup.label>
 	<Breakup.rulePack.rulesStrings>
 		<li>tale_noun-&gt;[firstPawn_nameShortDef] og [secondPawn_nameShortDef] slog op</li>
 		<li>image-&gt;[firstPawn_nameFull] sidder [secondPawn_nameFull] ned for at have en ubehaglig snak [circumstance_group]</li>
@@ -52,7 +52,7 @@
 		<li>desc_sentence-&gt;[secondPawn_nameShortDef] gestikulerende vredt af [firstPawn_nameShortDef].</li>
 	</Breakup.rulePack.rulesStrings>
 
-    <Marriage.label>gift</Marriage.label>
+    <Marriage.label>vielse</Marriage.label>
 	<Marriage.rulePack.rulesStrings>
 		<li>tale_noun-&gt;vielsen af [firstPawn_nameShortDef] og [secondPawn_nameShortDef]</li>
 		<li>image-&gt;[firstPawn_nameFull] vier [secondPawn_nameFull] [circumstance_group]</li>

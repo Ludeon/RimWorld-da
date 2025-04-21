@@ -1,51 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!-- Tier 3: Hi-tech research bench -->
-
-  <Firefoam.label>branskum</Firefoam.label>
-  <Firefoam.description>Gør, at du kan konstruere brandskumssprængere; brandsikkerhedsbygninger som spreder brandslukkende skum som reaktion på brand i nærheden.</Firefoam.description>
-
-  <MoisturePump.label>fugtpumpe</MoisturePump.label>
-  <MoisturePump.description>Gør at du kan bygge en fugtpumpe, hvilket tørrer våd jord.</MoisturePump.description>>
-
-
-  <TransportPod.label>transportkapsel</TransportPod.label>
-  <TransportPod.description>Byg affyrbare transportkapsler, som du kan bruge til at sende folk og forsyninger over lange distancer over planetens overflade.</TransportPod.description>
-
-
-
-</LanguageData>
-
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+ 
   <MicroelectronicsBasics.label>mikroelektronik</MicroelectronicsBasics.label>
-  <MicroelectronicsBasics.description>Arbejd med kompleks mikroelektronik. Dette åbner op for den højteknologiske forskningsstation og kommunikationskonsollen.</MicroelectronicsBasics.description>
-
+  <MicroelectronicsBasics.description>Arbejd med kompleks mikroelektronik. Dette låser op for den højteknologiske forskningsbænk og kommunikationskonsollen. </MicroelectronicsBasics.description>
+ 
   <FlatscreenTelevision.label>fladskærms-TV</FlatscreenTelevision.label>
-  <FlatscreenTelevision.description>Produce high-resolution flatscreen televisions for greater enjoyment.</FlatscreenTelevision.description>
-
-  <Firefoam.label>firefoam</Firefoam.label>
+  <FlatscreenTelevision.description>Producér HD fladskærms-TV for endnu bedre underholdning.</FlatscreenTelevision.description>
+ 
+  <Firefoam.label>brandskum</Firefoam.label>
   <Firefoam.description>Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
-
+ 
   <MoisturePump.label>fugtpumpe</MoisturePump.label>
-  <MoisturePump.description>Byg fugtpumper som Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand.</MoisturePump.description>
-
+  <MoisturePump.description>Byg fugtpumper som langsomt udligner fugten i jorden omkring dem. De kan gøre den våde jord tør og ændre blødt sand til normalt sand.</MoisturePump.description>
+ 
   <HospitalBed.label>hospitalsseng</HospitalBed.label>
-  <HospitalBed.description>Byg hospitalssenge som forbedrer de lægelige resultater.</HospitalBed.description>
+  <HospitalBed.description>Konstruér hospitalssenge som øger resultatet af medicinske behandlinger.</HospitalBed.description>
 
   <TransportPod.label>transportkapsel</TransportPod.label>
-  <TransportPod.description>Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Kan anvendes til raiding, rejse med, sende gaver, og mere.</TransportPod.description>
+  <TransportPod.description>Konstruér transportkapsler som kan affyres og sende folk og forsyninger over lange afstande over planetens overflade. Kan anvendes til raiding, at rejse med, sende gaver med og meget mere.</TransportPod.description>
 
   <MedicineProduction.label>medicinproduktion</MedicineProduction.label>
-  <MedicineProduction.description>Producér standard industri-teknologisk medicin ved at kombinere urtemedicin, neutroamine og stof.</MedicineProduction.description>
-
+  <MedicineProduction.description>Producér grundlæggende industriel-teknologisk medicin ved at kombinere urtemedicin, neutroamine og stof.</MedicineProduction.description>
+ 
   <LongRangeMineralScanner.label>long-range mineral scanner</LongRangeMineralScanner.label>
   <LongRangeMineralScanner.description>Construct long-range mineral scanners to detect precious minerals like gold or jade in across the planet. Requires advanced components to construct.</LongRangeMineralScanner.description>
-
-  <ShieldBelt.label>skjoldbelte</ShieldBelt.label>
-  <ShieldBelt.description>Byg skjoldbelter som anvender momentun-repulsion teknologi til at blokere ranged attacks coming in or going out.</ShieldBelt.description>
-
-
+ 
+  <ShieldBelt.label>shield belt</ShieldBelt.label>
+  <ShieldBelt.description>Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out.</ShieldBelt.description>
+ 
+ 
 </LanguageData>

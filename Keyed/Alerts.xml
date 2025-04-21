@@ -18,33 +18,33 @@
   <NeedDefenses>Need defenses</NeedDefenses>
   <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
 
-  <NeedDoctor>Need doctor</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctor>Mangler en doktor</NeedDoctor>
+  <NeedDoctorDesc>Disse kolonister har brug for medicinsk behandling, men du har ingen raske kolonister udpeget som doktorer.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
 
-  <NeedMiner>Need miner</NeedMiner>
+  <NeedMiner>Mangler en miner</NeedMiner>
   <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
 
-  <NeedWarden>Need warden</NeedWarden>
+  <NeedWarden>Mangler en opsynsmand</NeedWarden>
   <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
-  <LowFood>Low food</LowFood>
+  <LowFood>Lav madbeholdning</LowFood>
   <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
 
-  <LowMedicine>Low medicine</LowMedicine>
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
+  <LowMedicine>Lav medicinbeholdning</LowMedicine>
+  <LowMedicineDesc>Du har kun {0} medicin tilbage på lageret.\n\nKøb mere medicin fra handelsmænd.</LowMedicineDesc>
+  <NoMedicineDesc>Du har ingen medicin tilbage på lageret.\n\nKøb mere medicin fra handelsmænd.</NoMedicineDesc>
   
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Mangler kolonistsenge</NeedColonistBeds>
+  <NeedColonistBedsDesc>Du har flere kolonister end der er kolonistsenge. Nogen vil mangle et sted at sove.\n\nEnten byg flere senge eller skift en fangeseng til en kolonistseng.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
   <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Laset beklædning</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nDu kan sy beklædninger ved et tailoring table eller købe det fra handlere.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nDu kan sy beklædninger ved et tailoring table eller købe det fra handelsmænd.</AlertTatteredApparelDesc>
 
 	<AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Disse kolonister er nøgne og er ikke glade for det:\n\n{0}\nSkaf dem noget tøj.\n\nDu kan sy beklædninger ved et tailoring table eller købe det fra handlere.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudityDesc>Disse kolonister er nøgne og er ikke glade for det:\n\n{0}\nSkaf dem noget tøj.\n\nDu kan sy beklædninger ved et tailoring table eller købe det fra handelsmænd.</AlertUnhappyNudityDesc>
 
 	<Starvation>Sult</Starvation>
   <StarvationDesc>Disse kolonister sulter:\n\n{0}\nSkaf dem noget mad.</StarvationDesc>
@@ -53,7 +53,7 @@
   <StarvationAnimalsDesc>Disse dyr i kolonien sulter:\n\n{0}\nSkaf dem noget mad.</StarvationAnimalsDesc>
 
   <Exhaustion>Udmattelse</Exhaustion>
-  <ExhaustionDesc>Disse kolonister er udmattede og har brug for hvile:\n\n{0}\nSkaf dem hvile. De har brug for en seng der er markeret til anvendelse af kolonister. Sørg også før at de ikke er valgt til kamp.</ExhaustionDesc>
+  <ExhaustionDesc>Disse kolonister er udmattede og har brug for hvile:\n\n{0}\nSkaf dem hvile. De har brug for en seng der er markeret til anvendelse af kolonister. Sørg også for at de ikke er valgt til kamp.</ExhaustionDesc>
 
   <NeedFoodHopper>Need food hopper</NeedFoodHopper>
   <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
@@ -71,7 +71,7 @@
   <Boredom>Kedsomhed</Boredom>
   <BoredomDesc>Disse personer har enten brug for fritid eller er allerede tildelt fritid, men er trætte af de tilgængelige former for fritidsaktiviteter:\n\n{0}\n\nSkaf dem flere forskellige fritidsaktiviteter.\n\nCurrently available recreation types for {1}:\n\n{2}</BoredomDesc>
 
-  <NeedBatteries>Need batteries</NeedBatteries>
+  <NeedBatteries>Mangler batterier</NeedBatteries>
   <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
@@ -111,9 +111,9 @@
   <NeedWarmClothes>Varmt tøj nødvendigt</NeedWarmClothes>
   <NeedWarmClothesDesc1>Mindst {0} af dine kolonister kommer til at mangle varmt tøj når den kolde sæson begynder.</NeedWarmClothesDesc1>
   <NeedWarmClothesDesc1All>Alle dine kolonister kommer til at mange varmt tøj når den kolde sæson begynder.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nDu kan sy varmt tøj ved en sybænk (tailoring bench*) eller du kan købe dem fra handelsmænd.</NeedWarmClothesDesc2>
   
   <ImmobileCaravan>Immobil karavane</ImmobileCaravan>
-  <ImmobileCaravanDesc>En af dine karavaner er immobil fordi den bærer på for meget.\n\nDu kan gøre karavanen mobil igen ved at give afkald på nogle af genstandene i fanen GENSTANDE.</ImmobileCaravanDesc>
+  <ImmobileCaravanDesc>En af dine karavaner er immobil, fordi den bærer på for meget.\n\nDu kan gøre karavanen mobil igen ved at give afkald på nogle af genstandene i fanen GENSTANDE.</ImmobileCaravanDesc>
   
 </LanguageData>

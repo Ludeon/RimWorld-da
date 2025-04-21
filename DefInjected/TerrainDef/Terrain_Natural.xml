@@ -4,12 +4,12 @@
     <Sand.label>sand</Sand.label>
     <Soil.label>jord</Soil.label>
     <MarshyTerrain.label>sumpet jord</MarshyTerrain.label>
-    <SoilRich.label>frugtbare jord</SoilRich.label>
+    <SoilRich.label>frugtbar jord</SoilRich.label>
     <Mud.label>mudder</Mud.label>
     <Marsh.label>marsk</Marsh.label>
     <Gravel.label>grus</Gravel.label>
-    <MossyTerrain.label>mosse-dækket jord</MossyTerrain.label>
-    <Ice.label>Is</Ice.label>
+    <MossyTerrain.label>mosækket jord</MossyTerrain.label>
+    <Ice.label>is</Ice.label>
 
 
 </LanguageData>

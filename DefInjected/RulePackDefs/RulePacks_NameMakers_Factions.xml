@@ -40,7 +40,7 @@
 		<li>name->[badassanimal] [geography]</li>
 		<li>name->[badassconcept] [geography]</li>
 		<li>name->[badassanimal]s [geography]</li>
-		<li>name->[badassperson]'s [geography]</li>
+		<li>name->[badassperson]s [geography]</li>
 		<li>geography->[terrainfeature]</li>
 		<li>geography->[community]</li>
 	</NamerFactionBasePirate.rulePack.rulesStrings>
@@ -65,9 +65,9 @@
 	</NamerFactionOutlander.rulePack.rulesStrings>
 
 	<NamerFactionBaseOutlander.rulePack.rulesStrings>
-		<li>name->[positiveconcept]'s [terrainfeature]</li>
-		<li>name->[outlander]'s [terrainfeature]</li>
-		<li>name->[outlander]'s [community]</li>
+		<li>name->[positiveconcept]s [terrainfeature]</li>
+		<li>name->[outlander]s [terrainfeature]</li>
+		<li>name->[outlander]s [community]</li>
 		<li>name->[nearname]</li>
 		<li>name->[wordname]</li>
 		<li>name->[wordname]</li>

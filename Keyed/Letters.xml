@@ -2,62 +2,62 @@
 <LanguageData>
 
   <JumpToLocation>Hop til lokation</JumpToLocation>
-    <PostponeLetter>Postpone</PostponeLetter>
-  <RejectLetter>Reject</RejectLetter>
+    <PostponeLetter>Udsæt</PostponeLetter>
+  <RejectLetter>Afvis</RejectLetter>
 
   <LetterLabelFirstSummerWarning>Sommer</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>Sommeren er begyndt! Men vinteren er på vej.\n\nDine afgrøder vil ikke vokse i vinterkulden. Sørg for at opbevare flere dage vræd af mad nu, imens du stadig kan.\n\nDu kan bygge en walk-in kølerum for at forhindre mad fra at blive dårligt.\n\nOg forsøge at købe, stjæle eller lave nogle anoraker, ellers vil du fryse når du træder udenfor.</FirstSummerWarning>
+  <FirstSummerWarning>Sommeren er begyndt! Men vinteren er på vej.\n\nDine afgrøder vil ikke vokse i vinterkulden. Sørg for at lagre nok mad, så du kan overleve.\n\nDu kan bygge et walk-in kølerum for at forhindre mad i at blive dårligt.\n\nKøb, stjæl eller lav nogle parkaer, ellers vil du fryse, når du går udenfor.</FirstSummerWarning>
 
-  <RelationsBrokenDown>Forholdet til {0} er brudt sammen. De er nu fjendtlige over for dig.</RelationsBrokenDown>
-  <RelationsWarmed>Forholdet med {0} er blevet bedre. De er ikke længere fjendtlige over for dig.</RelationsWarmed>
+ <LetterRelationsChange_Hostile>Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_NeutralFromHostile>Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
 
-  <RelationsBrokenCapture>Fordi du har fanget {0}, er {1} nu din fjende.</RelationsBrokenCapture>
-
-  <ColonyGoodwill>Koloni goodwill</ColonyGoodwill>
+  <ColonyGoodwill>goodwill</ColonyGoodwill>
   <Neutral>Neutral</Neutral>
     <Death>Død</Death>
 
-  <ShortCircuitRain>En {0} er kortsluttet i regnen og startede en brand.</ShortCircuitRain>
+  <ShortCircuitRain>En {0} er kortsluttet i regnen og har startet en ildebrand.</ShortCircuitRain>
 
-  <LetterLabelAreaRevealed>Område afsløret</LetterLabelAreaRevealed>
-  <AreaRevealed>Et nyt område er blevet afsløret.</AreaRevealed>
-  <AreaRevealedWithMechanoids>Et nyt område er blevet afsløret. Den indeholder ældgamle, fjendtlige mekanitter.</AreaRevealedWithMechanoids>
+  <LetterLabelAreaRevealed>Område blotlagt</LetterLabelAreaRevealed>
+  <AreaRevealed>Et nyt område er blevet blotlagt.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Et nyt område er blevet blotlagt. Det indeholder urgamle fjendtlige mekanitter.</AreaRevealedWithMechanoids>
 
-  <RoofCollapsed>Et tag er brudt sammen fordi det var alt for langt fra nogen støtte.</RoofCollapsed>
+  <RoofCollapsed>Et tag er brudt sammen fordi det var alt for langt væk fra noget støtte.</RoofCollapsed>
   <TheseThingsCrushed>Disse ting blev knust:</TheseThingsCrushed>
   <NothingCrushed>Intet blev knust.</NothingCrushed>
-  <LetterLabelRoofCollapsed>Tag kollapset</LetterLabelRoofCollapsed>
+  <LetterLabelRoofCollapsed>Tagkollaps</LetterLabelRoofCollapsed>
 
-  <RecruitSuccess>{0} succesfuldt rekrutteret {1} ({2} chance).</RecruitSuccess>
-  <RecruitFail>{0} kunne ikke rekruttere {1} ({2} chance).</RecruitFail>
+  <RecruitSuccess>{0} rekrutterede {1} -med succes- ({2} chance).</RecruitSuccess>
+  <RecruitFail>det mislykkedes {0} at rekruttere {1} ({2} chance).</RecruitFail>
 
-   <RelatedPawnInvolvedInQuest>[PAWN_nameDef] is {0}'s {1}. If [PAWN_nameDef] dies, {0} will suffer from long-lasting grief. However, if you manage to rescue [PAWN_nameDef], {0} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
+   <RelatedPawnInvolvedInQuest>[PAWN_nameDef] er {0}s {1}. Hvis [PAWN_nameDef] dør, vil {0} blive ramt af langvarig sorg. Men hvis formår at redde [PAWN_nameDef], vil {0} blive meget glad i lang tid.</RelatedPawnInvolvedInQuest>
 
   <LetterLabelBirthday>Fødselsdag</LetterLabelBirthday>
-  <BirthdayChronological>Det er {0}s kronologiske fødselsdag i dag! Biologisk er {1} {3} år.\n\nKronologisk er {1} netop blevet {2}.\n\nBemærk, da folk ikke ældes imens de er i kryptosøvn, er deres kronologiske fødselsdag adskilt fra deres biologiske fødselsdag.</BirthdayChronological>
+  <BirthdayChronological>Det er {0}s kronologiske fødselsdag i dag! Biologisk er {1} {3} år.\n\nKronologisk er {1} netop blevet {2}.\n\nBemærk, da folk ikke ældes mens de er i kryptosøvn, er deres kronologiske fødselsdag adskilt fra deres biologiske fødselsdag.</BirthdayChronological>
   <BirthdayBiologicalAgeInjuries>{0} har nået den biologiske alder af {1}.\n\nDesværre har {0} fået følgende sygdomme på grund af aldring:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <LetterLabelNewDisease>Sygdom</LetterLabelNewDisease>
-  <NewDisease>{0} er blevet syg af {1}.\n\nSørg for at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewDisease>
-  <NewPartDisease>{0} er blevet syg af {3}. Infektionen er i [PAWN_possessive] {1}.\n\nSørg for at du har en medicinsk seng og en læge. Sørg for at {2} får ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewPartDisease>
+  <NewDisease>{0} er blevet syg af {1}.\n\nSørg for at du har en medicinsk seng og en læge. Sørg for at {2} får en ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewDisease>
+  <NewPartDisease>{0} er blevet syg af {3}. Infektionen er i [PAWN_possessive] {1}.\n\nSørg for at du har en medicinsk seng og en læge. Sørg for at {2} får en ordentlig behandling og tilbringer så meget tid i sengen som muligt.</NewPartDisease>
     <NewDiseaseAnimal>{0} har udviklet en sygdom: {1}</NewDiseaseAnimal>
-  <NewPartDiseaseAnimal>{0} har udviklet en sygdom: {3} in [PAWN_possessive] {1}</NewPartDiseaseAnimal>
+  <NewPartDiseaseAnimal>{0} har udviklet en sygdom: {3} i [PAWN_possessive] {1}</NewPartDiseaseAnimal>
 
     <PawnWasFormerlyColonist>{0} var tidligere en del af din fraktion.</PawnWasFormerlyColonist>
-  <PawnHasTheseRelationshipsWithColonists>{0} har disse forhold med dine kolonister:</PawnHasTheseRelationshipsWithColonists>
-  <PrisonerRescueTimeout>The camp vil forsvinde efter {0} dage. If you miss this opportunity, you may never hear from {1} again.</PrisonerRescueTimeout>
+  <PawnHasTheseRelationshipsWithColonists>{0} har disse forhold til dine kolonister:</PawnHasTheseRelationshipsWithColonists>
+  <PrisonerRescueTimeout>Lejren vil forsvinde efter {0} dage. If you miss this opportunity, vil du måske aldrig høre fra {1} igen.</PrisonerRescueTimeout>
 
   <LetterLabelAncientShrineWarning>Urgammel fare</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>Som {0} nærmer sig den gamle mur, en følelse af bange anelser overvinder [PAWN_objective]. [PAWN_pronoun] er ikke sikker på hvorfor, men han mener, at denne støvede struktur kan indeholde stor fare.</AncientShrineWarning>
+  <AncientShrineWarning>Idet {0} nærmer sig den urgamle mur, bliver [PAWN_objective] ramt af en dårlig forudanelse. [PAWN_pronoun] er ikke sikker på hvorfor, men [PAWN_pronoun] fornemmer, at denne støvede bygning kan indeholde stor fare.</AncientShrineWarning>
 
   <StruckMineable>Vi har ramt {0}!</StruckMineable>
 
   <LetterLabelAnimalManhunterRevenge>{0} hævn</LetterLabelAnimalManhunterRevenge>
   <AnimalManhunterFromDamage>En {0} angriber efter at være blevet skadet!</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>En {0} angriber grund af et tæmningsforsøg!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>En {0} angriber på grund af et tæmningsforsøg!</AnimalManhunterFromTaming>
   <AnimalManhunterOthers>Andre {0}er i nærheden er også blevet rasende!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{0} ramt fælde</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{0} ramte fælde</LetterFriendlyTrapSprungLabel>
   <LetterFriendlyTrapSprung>{0} har ved et uheld sprunget en fælde og taget skade af det.</LetterFriendlyTrapSprung>
 
   <LetterHealthComplications>{0} har udviklet et helbredsproblem:\n\n {1}\n\nDette var forårsaget af:\n\n  {2}</LetterHealthComplications>
@@ -76,18 +76,21 @@
   <MentalBreakReason>Dråben var: {0}.</MentalBreakReason>
     <LastFactionRelationsEvent>Den sidste begivenhed var</LastFactionRelationsEvent>
 
+  <ReadMore>Læs mere</ReadMore>
+  <LastEventsInLife>Den sidste begivenhed i {0}s liv</LastEventsInLife>
+
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>Forhold</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>Der er folk der har forhold til dine kolonister eller fanger i den ankommede gruppe af {0}.\n\nHusk dog, at selvom de er relateret, vil de stadig angribe hinanden på grund af deres dårlige fraktionsrelationer.\n\nDisse folk er:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>Der er folk der har relationer til dine kolonister eller fanger i den ankommede gruppe af venlige {0}:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>Der er folk der har relationer til dine kolonister eller fanger i den ankommede gruppe:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>Kredsløbs forhandleren sælger folk der har relationer til dine kolonister eller fanger:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithSettlement>
-  <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen sælger folk der har relationer til dine kolonister eller fanger:</LetterRelatedPawnsTradingWithOtherCaravan>
-    <LetterRelatedPawnsGroupGeneric>There are people who have relationships with your {0} or prisoners in the group:</LetterRelatedPawnsGroupGeneric>
-  <LetterRelatedPawnsInMapWherePlayerLanded>There are people who have relationships with your {0} or prisoners in the area where your {0} have landed.</LetterRelatedPawnsInMapWherePlayerLanded>
-  <LetterRelatedPawnsSettlement>There are people who have relationships with your {0} or prisoners in this settlement:</LetterRelatedPawnsSettlement>
-  <LetterRelatedPawnsSite>There are people who have relationships with your {0} or prisoners in this area:</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsRaidEnemy>Der er folk som har et forhold til {0} eller fangere i den ankomne gruppe af {0}.\n\nHusk dog, at selvom de er relateret, vil de stadig angribe hinanden på grund af deres dårlige fraktionset forhold.\n\nDisse folk er:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Der er folk son har et forhold til {0} eller fangere i den ankomne gruppe af venlige {0}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Der er folk som har et forhold til {0} eller fangere i den ankomne gruppe:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Kredsløbsforhandleren sælger folk som har et forhold til {0} eller fangere:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithSettlement>The settlement sælger folk som har et forhold til dine {0} or fangere:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Karavanen sælger folk som har et forhold til {0} eller fangere:</LetterRelatedPawnsTradingWithOtherCaravan>
+    <LetterRelatedPawnsGroupGeneric>Der er folk som har et forhold til {0} eller fangere i gruppen:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsInMapWherePlayerLanded>Der er folk som har et forhold til {0} eller fangere i området hvor din {0} er landet.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsSettlement>Der er folk som har et forhold til {0} eller fangere i denne settlement:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSite>Der er folk som har et forhold til {0} eller fangere i dette område:</LetterRelatedPawnsSite>
 
   <RelationshipAppendedLetterSuffix>(forhold)</RelationshipAppendedLetterSuffix>
   <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] har et forhold til en kolonist. [PAWN_pronoun] er {0}s {1}.</RelationshipAppendedLetterTextColonist>
@@ -100,9 +103,9 @@
   <LetterNewLovers>{0} og {1} har fundet sammen og er nu kærester.</LetterNewLovers>
   <LetterNoLongerLovers>{0} og {1} er ikke længere i et forhold.</LetterNoLongerLovers>
   <LetterLabelBreakup>Slået op</LetterLabelBreakup>
-  <LetterLabelAcceptedProposal>Ægteskabet er sat i gang!</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>Vielse på vej!</LetterLabelAcceptedProposal>
   <LetterLabelRejectedProposal>Afvist frieri</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>På et tidspunkt i de kommende dage eller årstider, vil de holde deres ægteskab ceremoni og invitere alle kolonisterne. Overvej at placere et ægteskab plads, hvis du vil styre, hvor ceremonien sker.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>På et tidspunkt i de kommende dage eller årstider, vil de holde deres vielsesceremoni og invitere alle kolonisterne. Overvej at placere en vielsesplads, hvis du vil styre, hvor ceremonien skal foregå.</LetterAcceptedProposal>
   <LetterRejectedProposal>{0} vil være ulykkelig over dette.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
@@ -114,21 +117,21 @@
   <LetterLabelMentalBreakdown>Mentalt nedbrud</LetterLabelMentalBreakdown>
 
   <!-- Bonded animals -->
-  <LetterNamedBondedAnimalDied>{0} navngivet {1}, kæledyr til {2}, døde. Det vil påvirke {2}s humør.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} døde. Det vil påvirke følgende personers humør:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} navgivet {1} er død. Det vil påvirke følgende personers humør:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+  <LetterLabelSuffixBondedAnimalDied>bonded animal</LetterLabelSuffixBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{0} was bonded to {1}. It will affect {1}'s mood.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDiedMulti>It will affect mood of the following people:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>Fængelsflugt</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>Fanger har igangsat en fængelsflugt! De har på en eller anden måde besejret dørlåsen og er på vej ud. De kan søge efter våben, kæmpe, eller forsøge at flygte. Disse fanger er involveret:\n\n {0}\n\nFanger er mere tilbøjelige til at forsøge at flygte når de er utilfredse, talrige, og ved godt helbred.</LetterPrisonBreak>
+  <LetterPrisonBreak>Fangere har igangsat en fængelsflugt! De har på en eller anden måde besejret dørlåsene og er på vej ud. De vil lede efter våben, slås, eller forsøge at flygte. Disse fangere er involveret:\n\n {0}\n\nFangere er mere tilbøjelige til at forsøge at flygte når de er utilfredse, talstærke, og ved godt helbred.</LetterPrisonBreak>
 
   <!-- Party -->
   <LetterLabelNewParty>Fest</LetterLabelNewParty>
-  <LetterNewParty>{0} holder fest! Alle der deltager får glæde og social energi, og et varigt, positiv stemningsløft.</LetterNewParty>
+  <LetterNewParty>{0} holder en fest! Alle der deltager, får glæde og social energi, og et varigt, positivt humørboost.</LetterNewParty>
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0} afhængighed</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} har udviklet en afhængighed til {1}.\n\n[PAWN_pronoun] har nu behov for {1}, synligt på [PAWN_possessive] Behov fane. [PAWN_pronoun] vil automatisk forbruge stoffet til at opfylde hans behov. Hvis han ikke kan få noget {1}, vil han få abstinenser.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} har udviklet en afhængighed til {1}.\n\n[PAWN_pronoun] har nu behov for {1}, synligt på [PAWN_possessive] Behovfane. [PAWN_pronoun] vil automatisk indtage stoffet for at opfylde [PAWN_possessive] behov. Hvis [PAWN_pronoun] ikke kan få noget {1}, vil [PAWN_pronoun] få abstinenser.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
@@ -136,7 +139,7 @@
 
   <!-- Caravan destroyed -->
   <LetterLabelAllCaravanColonistsDied>Karavane ødelagt</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>Alle medlemmer af din karavane er døde.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Alle medlemmer af {0} er døde.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered ambush map -->
   <LetterLabelCaravanEnteredAmbushMap>Karavan ankommet til baghold</LetterLabelCaravanEnteredAmbushMap>
@@ -145,41 +148,41 @@
   <!-- Caravan entered enemy base -->
   <LetterLabelCaravanEnteredEnemyBase>Angreb er begyndt</LetterLabelCaravanEnteredEnemyBase>
   <LetterCaravanEnteredEnemyBase>{0} er ankommet til {1} og er klar til at begynde angrebet.</LetterCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} er ankommet til {1} og er klar til at begynde angrebet.\n\nPå grund af din fjendtlige tilgang, er {2} nu fjendtlig over for dig.</LetterCaravanEnteredEnemyBaseBecameHostile>
+  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} er ankommet til {1} og er klar til at begynde angrebet.\n\nPå grund af din fjendtlige tilgang, er {2} nu fjendtlige over for dig.</LetterCaravanEnteredEnemyBaseBecameHostile>
 
     <!-- Transport pods landed in enemy base -->
   <LetterLabelTransportPodsLandedInEnemyBase>Angreb er begyndt</LetterLabelTransportPodsLandedInEnemyBase>
-  <LetterTransportPodsLandedInEnemyBase>Your transport pods have arrived at {0}.</LetterTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Your transport pods er ankommet til {0}.</LetterTransportPodsLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <LetterLabelFactionBaseDefeated>Base ødelagt</LetterLabelFactionBaseDefeated>
   <LetterFactionBaseDefeated>Den fjendtlige base {0} er blevet ødelagt.\n\nOm {1} vil karavanen automatisk blive reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means this faction doesn't exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Dette var {0}s sidste base, hvilket betyder at denne faktion ikke længere eksisterer.</LetterFactionBaseDefeated_FactionDestroyed>
 
     <!-- Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest fuldført</LetterLabelDefeatAllEnemiesQuestCompleted>
   <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Found lump of precious resources -->
-  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>Dyrebare mineraler fundet</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Your long-range mineral scanner har fundet en klump {0} i nærheden.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
   
   <!-- Ambush -->
   <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
   <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
-  <LetterLabelPeaceTalks_Disaster>Peace talks disaster</LetterLabelPeaceTalks_Disaster>
-  <LetterPeaceTalks_Disaster>The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
-  <LetterLabelPeaceTalks_Backfire>Peace talks backfire</LetterLabelPeaceTalks_Backfire>
-  <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
-  <LetterLabelPeaceTalks_TalksFlounder>Peace talks flounder</LetterLabelPeaceTalks_TalksFlounder>
-  <LetterPeaceTalks_TalksFlounder>The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
-  <LetterLabelPeaceTalks_Success>Peace talks success</LetterLabelPeaceTalks_Success>
-  <LetterPeaceTalks_Success>The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
-  <LetterLabelPeaceTalks_Triumph>Peace talks triumph</LetterLabelPeaceTalks_Triumph>
-  <LetterPeaceTalks_Triumph>The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2}</LetterPeaceTalks_Triumph>
-  <PeaceTalksSocialXPGain>{0}, your negotiator, has gained {1} social experience.</PeaceTalksSocialXPGain>
+  <LetterLabelPeaceTalks_Disaster>Katastrofal fredsforhandling</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Fredsforhandlingen var en katastrofe. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Fredsforhandling gav bagslag</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Fredsforhandlingen har givet bagslag. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Fredsforhandlingen floppede</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Fredsforhandlingen floppede. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Succesfuld fredsforhandling</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Fredsforhandlingen var en succes. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Triumferende fredsforhandling</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Fredsforhandlingen var en stor triumf! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{0}, din forhandler, har opnået {1} social experience.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <LetterRunWildMentalBreak>{0} is fed up with civilization.\n\n[PAWN_pronoun] realized that wild creatures are always free. So, [PAWN_pronoun] has decided to leave your faction and live with the animals.\n\nYou can attempt to tame [PAWN_objective] to get [PAWN_objective] back.</LetterRunWildMentalBreak>
@@ -200,7 +203,7 @@
   <LetterPawnsLostBecauseMapClosed_Home>The following people and animals have been abandoned</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
-  <LetterLabelHibernateComplete>Reactor ready</LetterLabelHibernateComplete>
+  <LetterLabelHibernateComplete>Reaktor klar</LetterLabelHibernateComplete>
   <LetterHibernateComplete>Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.</LetterHibernateComplete>
   <LetterHibernateCompleteStandalone>The reactor's power up sequence is complete. It is now ready to power a liftoff.</LetterHibernateCompleteStandalone>
 
@@ -218,7 +221,7 @@
 
   <!-- Rescue quest -->
   <LetterLabelRescueQuestFinished>Rescuee joins</LetterLabelRescueQuestFinished>
-  <LetterRescueQuestFinished>You have rescued [PAWN_nameDef] and [PAWN_pronoun] has joined your group.\n\nYou can take [PAWN_objective] with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>Du har reddet [PAWN_nameDef] og [PAWN_pronoun] har tilsluttet sig din gruppe.\n\nDu kan tage [PAWN_objective] med dig by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option.</LetterRescueQuestFinished>
 
   <!-- Player entered site (generic label) -->
   <LetterLabelPlayerEnteredNewSiteGeneric>Arrived at site</LetterLabelPlayerEnteredNewSiteGeneric>

@@ -32,7 +32,7 @@
   <BondedTo>Bonded to</BondedTo>
 
     <!-- Wildlife tab -->
-  <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people.</IsPredator>
+  <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - muligvis også mennesker.</IsPredator>
 
   <!-- Factions tab -->
   <Hostile>Hostile</Hostile>
@@ -89,6 +89,6 @@
   <ProjectTechLevel>projekt teknologiniveau</ProjectTechLevel>
   <YourTechLevel>dit teknologiniveau</YourTechLevel>
   <ResearchCostMultiplier>kost multiplikator</ResearchCostMultiplier>
-  <ResearchCostComparison>Projekt basis kost {0} bliver {1} for dig på grund af dit teknologiniveau.</ResearchCostComparison>
+  <ResearchCostComparison>Projekt basiskost {0} bliver {1} for dig på grund af dit teknologiniveau.</ResearchCostComparison>
 
 </LanguageData>

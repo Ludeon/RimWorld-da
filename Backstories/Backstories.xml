@@ -305,9 +305,9 @@ I løbet af sine år under jorden, tilegnede HE sig også erfaring i at reparere
 Though HE pursued HIS artistic hobbies, HIS subordinates preferred to entertain themselves by brawling, so NAME got good at breaking up fights.</desc>
 	</GlitterworldOfficer93>
 	<Taster35>
-		<title>Taster</title>
-		<titleShort>Taster</titleShort>
-		<desc>As the taster for a medieval king, any dish served at the royal table had to be sampled first by NAME. HECAP lived a decadent lifestyle at court, getting fat and doing very little work.</desc>
+		<title>Smagstester</title>
+		<titleShort>Tester</titleShort>
+		<desc>Som smagstester for en medieval konge, blev enhver  any dish served at the royal table had to be sampled first by NAME. HECAP lived a decadent lifestyle at court, getting fat and doing very little work.</desc>
 	</Taster35>
 	<BiosphereManager30>
 		<title>Biosphere manager</title>
@@ -2809,7 +2809,7 @@ Til at begynde med tog han kun det, han havde brug for. Så lærte han at tage d
 Med tiden mistede han den lille mængde af moral, han havde tilbage.</desc>
 	</HumanTrafficker69>
 	<TraumatizedYouth62>
-		<title>Traumatiseret ungdom</title>
+		<title>Traumatiseret barn</title>
 		<titleShort>Traume</titleShort>
 		<desc>NAME boede på en behagelig midworld.
 
@@ -3005,7 +3005,7 @@ She relied on other members of the crew for some of the basic necessities of lif
 		<titleShort>Smed</titleShort>
 		<desc>NAMEs far ejede smedeværkstedet i en forfalden, gammel bydel. NAME hjalp sin far så meget, som han kunne.
 
-Later, HIS father took him as a blacksmith's apprentice and raised him as a man. NAME also to on shooting as a hobby.</desc>
+Later, HIS father took him as a blacksmith's apprentice and raised him as a man. NAME also took on shooting as a hobby.</desc>
 	</BlacksmithsSon72>
 	<BlacksmithShooter88>
 		<title>Blacksmith shooter</title>
@@ -3131,11 +3131,11 @@ His social skills kept him on top of the political game, and he always had serva
 She dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</desc>
 	</UrbworldEnforcer55>
 	<GameFanatic49>
-		<title>Game fanatic</title>
+		<title>Spilfanatiker</title>
 		<titleShort>Gamer</titleShort>
-		<desc>NAME var en fanatisk gamer som lærte at overleve i Virtual Reality-spil.
+		<desc>NAME var en fanatisk gamer som lærte at overleve i virtual reality-spil.
 
-Once, while attempting to prove HIS skills in the real world, HE was abducted by a criminal forsker and experimented on. HECAP escaped, but the experience stayed with him.</desc>
+Once, while attempting to prove HIS skills in the real world, blev HE kidnappet af en kriminel forsker og eksperimenteret på. HECAP flygtede, men hændelsen satte sig i ham.</desc>
 	</GameFanatic49>
 	<ToolMechanic40>
 		<title>Tool mechanic</title>
@@ -3236,9 +3236,9 @@ Too smart for the army, HE questioned and often disagreed with HIS superiors' de
 HECAP was very good at convincing others to do his physical work, and made it a goal in life to avoid manual labor.</desc>
 	</Student1>
 	<Chemist38>
-		<title>Chemist</title>
-		<titleShort>Chemist</titleShort>
-		<desc>NAME was a research chemist. HECAP worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments.</desc>
+		<title>Kemiker</title>
+		<titleShort>Kemiker</titleShort>
+		<desc>NAME var en forsker i kemi. HECAP arbejde med kemikalier - fra lægemidler til sprængstoffer - for at udvikle nye stoffer og behandlingsmidler.</desc>
 	</Chemist38>
 	<SuperSoldier19>
 		<title>Supersoldat</title>
@@ -3281,22 +3281,22 @@ HECAP became familiar with guns and military equipment, but never really got in 
 Eventually, HE was able to pick and choose HIS corporate clients. HECAP made several wealthy friends, as well as a few powerful enemies.</desc>
 	</MechanicsEngineer7>
 	<PlagueChild8>
-		<title>Plague child</title>
-		<titleShort>Child</titleShort>
-		<desc>Born on a world wracked by plague, both of NAME's parents were doctors. 
+		<title>Pestbarn</title>
+		<titleShort>Barn</titleShort>
+		<desc>Født på en verden hærget af pest, hvor begge NAMEs forældre var læger. Born on a world wracked by plague, both of NAME's parents were doctors. 
 
-NAME was raised in reverse-quarantine, under the Hippocratic oath. HECAP experienced little social interaction. However, HE gained a lot of medical experience assisting in treatments.</desc>
+NAME was raised in reverse-quarantine, under the Hippocratic oath. HECAP havde få sociale interaktioner. Til gengæld opbyggede han en stor mængde medicinsk erfaring ved at assistere under behandlingerne.</desc>
 	</PlagueChild8>
 	<PlagueDoctor99>
-		<title>Plague doctor</title>
-		<titleShort>Doctor</titleShort>
-		<desc>NAME provided medical care on multiple plague-wracked worlds, always working under the Hippocratic oath. HECAP improved conditions for those under quarantine while administering complex medical treatments and developing medicines.
+		<title>Pestlæge</title>
+		<titleShort>Læge</titleShort>
+		<desc>NAME provided medical care on multiple pesthærgede verdener, always working under the Hippocratic oath. HECAP improved conditions for those under quarantine while administering complex medical treatments and developing medicines.
 
 HECAP never had time to enjoy a normal life outside of work.</desc>
 	</PlagueDoctor99>
 	<YoungMaster70>
-		<title>Young master</title>
-		<titleShort>Master</titleShort>
+		<title>Ung mester</title>
+		<titleShort>Mester</titleShort>
 		<desc>Born to two medics, NAME longed for power. HISCAP keen intellect and charisma helped HIM gain the respect of HIS peers.
 
 Deciding that the best way to gain power was to climb the ranks of the imperial military, HE joined at the youngest possible age.</desc>
@@ -3321,16 +3321,16 @@ HECAP was given with the most challenging task - conquering distant and unexplor
 HECAP and HIS people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen.</desc>
 	</Caravaneer77>
 	<JungleKid74>
-		<title>Jungle kid</title>
-		<titleShort>Jungle kid</titleShort>
-		<desc>NAME was abandoned as a newborn, and grew up among the dyr of HIS homeworld’s dense jungles.
+		<title>Junglebarn</title>
+		<titleShort>Junglebarn</titleShort>
+		<desc>NAME blev efterladt som nyfødt, og voksede op blandt dyrene i sin hjemplanets tætte jungler.
 
-When HE was a teenager, a traveling doctor found HIM injured near a road, hissing and meowing. He rescued HIM and took HIM on as an apprentice.</desc>
+Da HE var teenager, fandt en rejsende doktor HIM ved en vejkant, hvæsende og miavende. Han redede HIM og tog HIM ind som sin lærling.</desc>
 	</JungleKid74>
 	<Aromatherapist84>
-		<title>Aromatherapist</title>
-		<titleShort>Therapist</titleShort>
-		<desc>NAME practiced aromatherapy, using essences extracted from home-grown plants.</desc>
+		<title>Aromaterapeut</title>
+		<titleShort>Terapeut</titleShort>
+		<desc>NAME praktiserede aromaterapi og brugte essenser udvundet af hjemmedyrkede planter.</desc>
 	</Aromatherapist84>
 	<FarmersSon51>
 		<title>Farmer's son</title>
@@ -3513,15 +3513,15 @@ With time, HE learned to tame wild dyr. HECAP dreamed of one day meeting a thrum
 HECAP grew to hate people slaughtering dyr for luxury and profit.</desc>
 	</WildlifeRanger47>
 	<AdventurousYouth32>
-		<title>Adventurous youth</title>
-		<titleShort>Adventurer</titleShort>
+		<title>Eventyrslystent barn</title>
+		<titleShort>Eventyrer</titleShort>
 		<desc>NAME explored all around HIS family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.
 
 During his teenage years, NAME made numerous enemies</desc>
 	</AdventurousYouth32>
 	<TreasureHunter70>
-		<title>Treasure hunter</title>
-		<titleShort>Adventurer</titleShort>
+		<title>Skattejæger</title>
+		<titleShort>Eventyrer</titleShort>
 		<desc>NAME explored outer rim planets in hopes of finding rare treasures.
 
 After succeeding in finding one legendary sculpture, HE was betrayed by HIS men. HECAP survived their treasonous attack, but the sculpture was taken.
@@ -3569,9 +3569,9 @@ HECAP eventually took control of a violent gang.</desc>
 HISCAP experiences desensitized him to people around him, and his social skills degraded. But, he did learn how to fight.</desc>
 	</SpaceMarine80>
 	<RebelWriter82>
-		<title>Rebel writer</title>
-		<titleShort>Writer</titleShort>
-		<desc>Early on, NAME developed a talent for writing. HECAP was soon writing a popular online journal - anonymously, to hide HIS age - on topics ranging from bioethics to political theory and xenosociology.</desc>
+		<title>Rebelsk forfatter</title>
+		<titleShort>Forfatter</titleShort>
+		<desc>I en tidlig alder udviklede NAME et talent for at skrive. Inden for kort tid var HE forfatter af et populær online tidsskrift - anonymt, for at skjule sin alder - der berørte alt fra bioetik til statskundskab og xenosociologi.</desc>
 	</RebelWriter82>
 	<Adventurer17>
 		<title>Adventurer</title>
@@ -3583,7 +3583,7 @@ HECAP worked as little as possible, often skirting ethical boundaries to make a 
 	<ExiledPrince89>
 		<title>Landsforvist prins</title>
 		<titleShort>Prins</titleShort>
-		<desc>A member of a royal family, NAME var landsforvist for at bringe skam over sin familie.
+		<desc>NAME, et medlem af en royal familie, blev landsforvist for at bringe skam over sin familie.
 
 Living in a foreign land, mostly alone, HE spent most of HIS time making huts and houses to live in. HECAP found little time in an average day for enjoyment, and lost all his friends and family.</desc>
 	</ExiledPrince89>

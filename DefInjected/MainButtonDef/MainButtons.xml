@@ -5,31 +5,34 @@
   <Inspect.label>undersøg</Inspect.label>
 
   <Architect.label>arkitekt</Architect.label>
-  <Architect.description>Bestem hvor og hvad kolonisterne skal bygge, dyrke, lagre ting og så videre.</Architect.description>
+  <Architect.description>Angiv hvor kolonisterne skal bygge, dyrke, lagre ting og så videre.</Architect.description>
 
   <Work.label>arbejde</Work.label>
-  <Work.description>Vælg hvilken kolonist som skal udføre hvilket arbejde, og hvordan det prioriteres.</Work.description>
+  <Work.description>Vælg hvilken kolonist som skal udføre hvilket arbejde, og hvordan det skal prioriteres.</Work.description>
   
   <Restrict.label>begræns</Restrict.label>
-  <Restrict.description>Begræns hvilke aktiviteter, på bestemte tidspunkter, kolonister har adgang til.</Restrict.description>
+  <Restrict.description>Begræns kolonisterne til bestemte aktiviteter på bestemte tidspunkter på dagen, eller til bestemte tilladte områder.</Restrict.description>
 
-  <Assign.label>Tildel</Assign.label>
-  <Assign.description>Bestem hvad tøj hver kolonist kan bruge, og hvordan de skal reagere overfor fjender.</Assign.description>
+  <Assign.label>tildel</Assign.label>
+  <Assign.description>Bestem hvordan kolonisterne skal opføre sig, herunder hvad tøj de bør have på, hvilke rusmidler de skal tage, og hvordan de skal reagere på fjender.</Assign.description>
 
   <Animals.label>dyr</Animals.label>
-  <Animals.description>Bestem hvordan koloniens tamme dyr skal behandles</Animals.description>
+  <Animals.description>Bestem hvordan koloniens tamme dyr skal behandles.</Animals.description>
+
+  <Wildlife.label>wildlife</Wildlife.label>
+  <Wildlife.description>List wild animals in the area and designate them for hunting or taming.</Wildlife.description>
 
   <Research.label>forskning</Research.label>
   <Research.description>Undersøg og beslut hvilket forskningsprojekt, der skal arbejdes på.</Research.description>
 
   <World.label>verden</World.label>
-  <World.description>Se på verdenskortet.</World.description>
+  <World.description>Examine the world map, form, and manage caravans.</World.description>
 
   <History.label>historik</History.label>
   <History.description>Gennemse koloniens historiearkiv.</History.description>
 
   <Factions.label>fraktioner</Factions.label>
-  <Factions.description>Se fraktioner som kolonien er bekendt med, og deres forhold.</Factions.description>
+  <Factions.description>Se et overblik over de andre fraktioner på denne verden og deres forhold til hinanden.</Factions.description>
 
   <Menu.label>menu</Menu.label>
   <Menu.description>Skift indstillinger, gem, indlæs eller afslut spillet.</Menu.description>

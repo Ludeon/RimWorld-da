@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
-
-  <GroundPenetratingScanner.label>jord-gennemtrængende skanner</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Gør at kolonisterne kan bygge en jord-gennemtrængende skanner, der kan opdage ressourcer dybt under overfladen.</GroundPenetratingScanner.description>
-
-  <MultibarrelWeapons.label>multiløbs våben</MultibarrelWeapons.label>
-  <MultibarrelWeapons.description>Gør at du kan bygge rulekanoner.</MultibarrelWeapons.description>
-
-  <Cryptosleep.label>cryptosøvns kiste</Cryptosleep.label>
-  <Cryptosleep.description>Gør at kolonister kan bygge cryptosøvns kister, som kan levende suspendere væsner.</Cryptosleep.description>
-
-  <PoweredArmor.label>kraftrustning</PoweredArmor.label>
-  <PoweredArmor.description>Neuro-memetisk robot robotteknologi og advanceret plaståls fletnings teknologi gør at du kan bygge kraftrustninger og en krafthjelm.</PoweredArmor.description>
-
-  <ChargedShot.label>opladt skud</ChargedShot.label>
-  <ChargedShot.description>Forstå hemmelighederne bag opladte-pulse enegeri/projektiler. Gør at kolonister kan bygge en opladtrifle.</ChargedShot.description>
-
-</LanguageData>
-
-
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
@@ -51,7 +28,7 @@
   <ChargedShot.label>pulse-charged munitions</ChargedShot.label>
   <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>
 
-  <Bionics.label>bionics</Bionics.label>
+  <Bionics.label>bioniske dele</Bionics.label>
   <Bionics.description>Byg høj-teknologiske bioniske kropsdele til at erstatte mistede legemsdele og øjne. Kræver en erfaren doktor for at installere.</Bionics.description>
 
 

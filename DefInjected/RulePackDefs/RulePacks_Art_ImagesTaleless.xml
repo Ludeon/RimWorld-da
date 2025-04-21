@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
 	<TalelessImages.rulePack.rulesStrings>
-		<li>image-&gt;en [outlander] omringet af [outlander]s</li>
-		<li>image-&gt;en [outlander] der spiller [game] med [quantity_adjphrase] [outlander]ere</li>
-		<li>image-&gt;en [outlander] [subject_desc] holder et [weapon]</li>
-		<li>image-&gt;en ensom [outlander]</li>
-		<li>image-&gt;en [adjective] [outlander] som beklædt med [apparel]</li>
-		<li>image-&gt;en [outlander] som spiser en [vegetable]</li>
+		<li>image-&gt;en/et [outlander] omringet af [outlander]s</li>
+		<li>image-&gt;en/et [outlander] der spiller [game] med [quantity_adjphrase] [outlander]ere</li>
+		<li>image-&gt;en/et [outlander] [subject_desc] holder et [weapon]</li>
+		<li>image-&gt;en/et ensom [outlander]</li>
+		<li>image-&gt;en/et [adjective] [outlander] som beklædt med [apparel]</li>
+		<li>image-&gt;en/et/et [outlander] som spiser en/et [vegetable]</li>
 		<li>image-&gt;[quantity_adjphrase] [outlander]er og [outlander]er der spiser [vegetable]er sammen</li>
-		<li>image-&gt;en tom [apparel] [subject_desc]</li>
-		<li>image-&gt;et [adjective] [terrainfeature]</li>
+		<li>image-&gt;en/et/et tom/tomt [apparel] [subject_desc]</li>
+		<li>image-&gt;en/et/et [adjective] [terrainfeature]</li>
 		<li>image-&gt;[animal]er der spiller [game]</li>
-		<li>image-&gt;en [animal] beklædt med [apparel] [subject_desc]</li>
-		<li>image-&gt;et [terrainfeature]</li>
-		<li>image-&gt;en abstrakt afbildning af [concept]</li>
-		<li>image-&gt;et [community]</li>
-		<li>image-&gt;et [weapon]</li>
+		<li>image-&gt;en/et/et [animal] beklædt med [apparel] [subject_desc]</li>
+		<li>image-&gt;en/et/et [terrainfeature]</li>
+		<li>image-&gt;en/et abstrakt afbildning af [concept]</li>
+		<li>image-&gt;en/et/et [community]</li>
+		<li>image-&gt;en/et/et [weapon]</li>
 		<li>image-&gt;[quantity_adjphrase] [weapon]er</li>
 		<li>image-&gt;[quantity_adjphrase] [vegetable]er</li>
 		<li>image-&gt;den mindre kendis [personname] [subject_desc]</li>
-		<li>image-&gt;en [animal] i en [apparel] af en [outlander]</li>
+		<li>image-&gt;en/et [animal] i en/et [apparel] af en/et [outlander]</li>
 		<li>subject_desc-&gt;der flyver igennem luften</li>
 		<li>subject_desc-&gt;suspenderet i luften</li>
 		<li>subject_desc-&gt;der står på jorden</li>
@@ -28,7 +28,7 @@
 		<li>subject_desc-&gt;sidder på et bord</li>
 		<li>subject_desc-&gt;set igennem et forstørrelsesglas</li>
 		<li>subject_desc-&gt;gengives i silhuet</li>
-		<li>subject_desc-&gt;rider på en [animal] beklædt med en [apparel]</li>
+		<li>subject_desc-&gt;rider på en/et [animal] beklædt med en/et [apparel]</li>
 		<li>subject_desc-&gt;kigger på [adjective]</li>
 	</TalelessImages.rulePack.rulesStrings>
 

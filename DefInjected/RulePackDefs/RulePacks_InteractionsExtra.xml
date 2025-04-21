@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
 	<Sentence_SocialFightStarted.rulePack.rulesStrings>
-		<li>sent-&gt;Dette gjore [recipient_nameShortDef] rasende og [recipient_pronoun] started en slåskamp!</li>
+		<li>sent-&gt;Dette gjorde [recipient_nameShortDef] rasende og [recipient_pronoun] startede en slåskamp!</li>
 	</Sentence_SocialFightStarted.rulePack.rulesStrings>
 
 	<Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
-		<li>sent-&gt;[recipient_nameShortDef] er enig og er nu [initiator_nameShortDef]'s elsker.</li>
+		<li>sent-&gt;[recipient_nameShortDef] er enig og er nu [initiator_nameShortDef]s elsker.</li>
 	</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
 
 	<Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
-		<li>sent-&gt;[recipient_nameShortDef] afvidste erklæringen.</li>
+		<li>sent-&gt;[recipient_nameShortDef] afviste erklæringen.</li>
 	</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
 
 	<Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
@@ -17,7 +17,7 @@
 	</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
 
 	<Sentence_MarriageProposalRejected.rulePack.rulesStrings>
-		<li>sent-&gt;[recipient_nameShortDef] afvidste frieriet.</li>
+		<li>sent-&gt;[recipient_nameShortDef] afviste frieriet.</li>
 	</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
 
 	<Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
@@ -25,11 +25,11 @@
 	</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
 
 	<Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
-		<li>sent-&gt;[recipient_nameShortDef] har accepteret og har slået sig til [initiator_nameShortDef]'s samfund.</li>
+		<li>sent-&gt;[recipient_nameShortDef] har accepteret og har slået sig til [initiator_nameShortDef]s samfund.</li>
 	</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
 
 	<Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
-		<li>sent-&gt;[recipient_nameShortDef] afslog tilbudet.</li>
+		<li>sent-&gt;[recipient_nameShortDef] afslog tilbuddet.</li>
 	</Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
 
 </LanguageData>
