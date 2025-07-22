@@ -127,10 +127,10 @@ HISCAP arbejde bestod mest af store og kreative, kosmetiske operationer. HECAP h
 		<desc>På sin 21 års fødselsdag fik NAME en religiøs opvågning. HECAP valgte at bruge resten af sit liv på at sprede sin guds ord, kulturens skønhed og dens ualmindelige medicinske traditioner.</desc>
 	</Evangelist66>
 	<TunnelworldIlluminator50>
-		<title>Tunnelworld illuminator</title>
-		<titleShort>Illuminator</titleShort>
-		<desc>Among tunnel-dwellers, those with vision as strong as NAME’s are revered as sages. HECAP would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger.</desc>
-	</TunnelworldIlluminator50>
+    <title>Tunnelverden-oplyser</title>
+    <titleShort>Oplyser</titleShort>
+    <desc>Blandt tunnelbeboere bliver dem med lige så stærkt syn som NAME’s anset for at være vismænd. HECAP ville gå forrest, markere steder der skulle graves med bioluminescerende svampe og advare andre om forestående farer.</desc>
+</TunnelworldIlluminator50>
 	<Herbalist89>
 		<title>Herbalist</title>
 		<titleShort>Herbalist</titleShort>
