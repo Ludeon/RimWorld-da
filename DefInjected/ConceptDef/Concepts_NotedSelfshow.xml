@@ -2,11 +2,11 @@
 
 	<!-- Concepts taught through the learning readout, with no opportunity needed -->
 	 
-	<CameraDolly.label>kammerabevægelse</CameraDolly.label>
-	<CameraDolly.helpText>Flyt kammeraet ved at klikke og trække MIDTERMUSSEKNAPPEN eller med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne.</CameraDolly.helpText>
+	<CameraDolly.label>Kamerabevægelse</CameraDolly.label>
+	<CameraDolly.helpText>Flyt kameraet ved at klikke og trække MIDTERMUSSEKNAPPEN eller med {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} tasterne.</CameraDolly.helpText>
 
 	<CameraZoom.label>Kamera zoom</CameraZoom.label>
-	<CameraZoom.helpText>Zoom in og ud med MUSEHJULET eller med {Key:MapZoomIn} og {Key:MapZoomOut} tasterne.</CameraZoom.helpText>
+	<CameraZoom.helpText>Zoom ind og ud med MUSEHJULET eller med {Key:MapZoomIn} og {Key:MapZoomOut} tasterne.</CameraZoom.helpText>
 
 	<TimeControls.label>Tidsstyring</TimeControls.label>
 	<TimeControls.helpText>du kan sætte farten op på tid.\n\nPrøv at styre tiden med {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, og {Key:TimeSpeedSuperfast} tasterne, eller med tidsstyringenspanelet nederst til højre.</TimeControls.helpText>
@@ -21,13 +21,13 @@
 	<Forbidding.helpText>Kolonister vil ikke bruge genstande som er markeret som FORBUDT.\n\nForbudte genstande har et lille rødt X på sig. Vælg en forbudt genstand og brug styringspanelet i bunden til at TILLADE det.</Forbidding.helpText>
 
 	<GrowingFood.label>Beplantningszoner</GrowingFood.label>
-	<GrowingFood.helpText>For at plante mad skal du lave en BEPLANTNINGSZONE ved at bruge ARKITEKT-menuen.\n\nDe kan kun placeres på frugtbar jord.</GrowingFood.helpText>
+	<GrowingFood.helpText>For at plante mad, skal du lave en BEPLANTNINGSZONE ved at bruge ARKITEKT-menuen.\n\nDe kan kun placeres på frugtbar jord.</GrowingFood.helpText>
 
 	<EquippingWeapons.label>Udrust med våben</EquippingWeapons.label>
 	<EquippingWeapons.helpText>Dine kolonister er ankommet med nogle våben. Udrust dem!\n\nVælg hver kolonist og højreklik på det våben, du vil udruste dem med.</EquippingWeapons.helpText>
 
 	<Alerts.label>Advarsler</Alerts.label>
-	<Alerts.helpText>Advarslerne i højre side af skærmen informerer dig om problemer som kræver din opmærksomhed.\n\nHold øje med adverlserne.</Alerts.helpText>
+	<Alerts.helpText>Advarslerne i højre side af skærmen informerer dig om problemer som kræver din opmærksomhed.\n\nHold øje med advarslerne.</Alerts.helpText>
 
 	<Mining.label>Minedrift</Mining.label>
 	<Mining.helpText>Du kan angive hvor du vil have minedrift ved at åbne ARKITEKT-menuen og vælg ORDRER-fanen.\n\nNogle minebarer blokke giver STÅL, GULD, PLASTÅL og andre brugbare materialer.</Mining.helpText>
@@ -36,13 +36,13 @@
 	<WorkTab.helpText>Du kan ændre kolonisternes arbejdsinstillinger i fanen ARBEJDE nederst i venstre side af skærmen.\n\nDe vil altid udføre det arbejde, der har højst prioritet.\n\nHvis ingen er blevet tildelt en bestemt arbejdsopgave, eller hvis de er optaget af at udføre endnu højereprioriteret arbejde, vil den aldrig blive udført.</WorkTab.helpText>
 
 	<ForbiddingDoors.label>Forbyd døre</ForbiddingDoors.label>
-	<ForbiddingDoors.helpText>Du kan FORBYDE døre så kolonister og tamme dyr ikke kan gå igennen dem.\n\nVær opmærksom på at dette ikke er en lås. Døre er altid låst, så fjender ikke frit kan passere. At forbyde fortæller blot dine kolonister, at de ikke skal bruge døren. Kolonister som er blevet sindsyge, vil måske bruge døren alligevel.</ForbiddingDoors.helpText>
+	<ForbiddingDoors.helpText>Du kan FORBYDE døre så kolonister og tamme dyr ikke kan gå igennen dem.\n\nVær opmærksom på at dette ikke er en lås. Døre er altid låste, så fjender ikke frit kan passere. At forbyde fortæller blot dine kolonister, at de ikke skal bruge døren. Kolonister som er blevet sindsyge, vil måske bruge døren alligevel.</ForbiddingDoors.helpText>
 
     	<CoverAndShooting.label>Dækning og skydning</CoverAndShooting.label>
     	<CoverAndShooting.helpText>Den vigtigste del ved kamp på lang rækkevide er at bruge dækning.\n\nDækning virker kun hvis din kolonist rør ved det, og at det er imellem kolonisten og fjenden.\n\n.Du kan også placere kolonister bag ved et væghjørne. De vil læne sig ud for at skyde.\n\n.De fleste ting kan blive brugt til dækning, men nogle ting er bare bedre end andre. At gemme sig bag et træ er bedre end ingen ting, men at gemme sig bag en sandsæk er bedre end at bruge et træ.</CoverAndShooting.helpText>
 
     	<FormCaravan.label>Dan karavane</FormCaravan.label>
-  	<FormCaravan.helpText>Du kan danne en karavane og sende en gruppe ud at rejse at henover planeten!\n\nI VERDENS fanen, vælg hjemmebase og klik på "dan karavane" knappen.</FormCaravan.helpText>
+  	<FormCaravan.helpText>Du kan danne en karavane og sende en gruppe ud at rejse at henover planeten!\n\nI VERDENS fanen, vælg hjemmebase og klik på "dan karavane"-knappen.</FormCaravan.helpText>
 	 
 	<AnimalTaming.label>Dyretæmning</AnimalTaming.label>
 	<AnimalTaming.helpText>Du kan få kolonister til at tæmme vilde dyr med TÆM-funktionen.\n\nKolonisterne vil så tilbyde dyret mad i et forsøg på at tæmme det.\n\nAdvarsel: nogle dyr kan reagere voldeligt på et fejlet forsøg på at tæmme den.</AnimalTaming.helpText>
@@ -50,20 +50,20 @@
    	<AnimalTraining.label>Dyretræning</AnimalTraining.label>
     	<AnimalTraining.helpText>Du kan sætte et tamt dyr til at blive trænet i specifikke færdigheder i dens TRÆNINGS-fane.\n\nDyr kan ikke blive trænet kontinuerligt; de har brug for lidt tid mellem træningssessionerne.</AnimalTraining.helpText>
 
-    	<InfoCard.label>Info Kort</InfoCard.label>
-    	<InfoCard.helpText>Info kortene hviser dig detaljerede statistiker om genstande, personer, eller konstruktioner.\n\nVælg en person eller et objekt og åben deres info kort med 'i' knappen i inspektions panellet.</InfoCard.helpText>
+    	<InfoCard.label>Infokort</InfoCard.label>
+    	<InfoCard.helpText>Infokortene viser dig detaljerede oplysninger om genstande, personer eller konstruktioner.\n\nVælg en person eller et objekt og åben deres infokort med 'i'-knappen i inspektionspanelet.</InfoCard.helpText>
 
     	<StorageTab.label>Lagerpladsfanen</StorageTab.label>
-    	<StorageTab.helpText>Du kan konfigurere lagerpladser og lagerbygninger ved at vælge dem og åben deres LAGER-fane øverst til venstre på inspektor panellet.\n\nI fanen LAGER af en lagerplads, kan du tillade eller forbyde specifike genstande. Klik på trekante til venstre af kategori navnene.\n\nDu kan ændre PRIORITERINGen af din lagerplads. Kolonister vil fylde højere prioriterede genstande først, og flytte lavere prioriterede genstande til højere.</StorageTab.helpText>
+    	<StorageTab.helpText>Du kan konfigurere lagerpladser og lagerbygninger ved at vælge dem og åben deres LAGER-fane øverst til venstre på inspektionspanelet.\n\nUnder fanen LAGER på en lagerplads, kan du tillade eller forbyde specifikke genstande. Klik på trekante til venstre af kategori navnene.\n\nDu kan ændre PRIORITERINGen af din lagerplads. Kolonister vil fylde højere prioriterede genstande først, og flytte lavere prioriterede genstande til højere.</StorageTab.helpText>
 
     	<HomeArea.label>Hjemmeområde</HomeArea.label>
-    	<HomeArea.helpText>HJEMMEOMRÅDE fortæller dine kolonister hvilke områder der skal gøres rent og hvor der skal slukkes brand.\n\nDefiner et HJEMMEOMRÅDE med Zone kategorien under Arkitekt menuen.</HomeArea.helpText>
+    	<HomeArea.helpText>HJEMMEOMRÅDE fortæller dine kolonister, hvilke områder der skal gøres rent og hvor der skal slukkes brande.\n\nDefinér et HJEMMEOMRÅDE med ZONE-sektionen under ARKITEKT-menuen.</HomeArea.helpText>
 
     	<SpoilageAndFreezers.label>Fordærv og fryserum</SpoilageAndFreezers.label>
     	<SpoilageAndFreezers.helpText>De fleste madvare vil fordærve efter en ret kort tid.\n\nFor at forhindre dette kan du bygge et fryserum.\n\nFor at bygge et fryserrum, byg et lukket rum og put en eller to fryser ind i vægen. Sæt temperaturen til minus.\n\nFrosne madvare vil aldrig blive fordærvet.</SpoilageAndFreezers.helpText>
 
     	<Deterioration.label>Objekt Item forringelse</Deterioration.label>
-    	<Deterioration.helpText>Objekter som er efterladt udenfor vil langsomt blive forringet.\n\nHvis du vil opbevare genstande i længere tid, hold dem under et tag.</Deterioration.helpText>
+    	<Deterioration.helpText>Objekter som er efterladt udenfor, vil langsomt blive nedbrudt.\n\nHvis du vil opbevare genstande i længere tid, opbevar dem under et tag.</Deterioration.helpText>
 
     	<HostilityResponse.label>Fjendtligheds reaktions tilstand</HostilityResponse.label>
     	<HostilityResponse.helpText>Du kan ændre hvordan kolonister automatisk reagere overfor trusler som rovdyr.\n\nVælg imellem FLYGT, ANGRIB, og IGNORER tilstandende i TILDEL menuen.</HostilityResponse.helpText>
@@ -75,7 +75,7 @@
     	<MedicalOperations.helpText>For at lave en medicinsk operation, så som at høste organer eller installere proteser, åben en kolonists HELBREDs tap, skift så til OPERATIONER under-fanen.</MedicalOperations.helpText>
 
     	<TimeAssignments.label>Tids opgaver</TimeAssignments.label>
-    	<TimeAssignments.helpText>Du kan ændre hvilken tid på dagen kolonister skal gøre forskellige aktiviteter ved at bruge INDSKRÆNK-fanen.</TimeAssignments.helpText>
+    	<TimeAssignments.helpText>Du kan ændre hvilken tid på dagen kolonister skal udføre forskellige aktiviteter ved at bruge INDSKRÆNK-fanen.</TimeAssignments.helpText>
 
     	<ManualWorkPriorities.label>Manuel arbejdsprioritering</ManualWorkPriorities.label>
     	<ManualWorkPriorities.helpText>En af de vigtigste ting i Rimworld er at vælge gode arbejdsinstillinger for dine kolonister.\n\nDårlig arbejdsinstillinger efterlade essentielle opgaver ufærdigjort i lang tid imens kolonisterne spilder tid med uvigtige opgaver.\n\nFor at give mere kontrol over hvilket arbejde dine kolonister udføre, kan du bruge Manuel Prioritering tilstand i ARBEJDS-fanen.\n\nI denne tilstand vil hver kolonist have et prioriterings nummer ved hver arbejds type. Kolonister vil lave arbejde prioriteret 1 fra venstre til højre, så prioritering 2 arbejde fra venstre til højre, og så videre.\n\nSmart brug af disse instillinger er essentielt for store, godt automatiseret kolonier.</ManualWorkPriorities.helpText>

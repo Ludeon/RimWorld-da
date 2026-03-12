@@ -7,13 +7,13 @@
     <ReformCaravan.helpText>Efter et møde kan du nemt gendanne en karavane ved at bruge kommandoen GENDAN KARAVANE i Verdensoverblikket.</ReformCaravan.helpText>
 
     <Rescuing.label>Redning</Rescuing.label>
-    <Rescuing.helpText>For at redde en såret person, skal du vælge en rask kolonist og højreklikke på den sårede kolonist.\n\nHvis du redder en ikke-kolonist, betyder det ikke nødvendigvis at de tilslutter sig din koloni. Det er muligt at de bare går deres vej efter at være blevet helbredt. Hvis du vil sikker på at de tilslutter sig, fang dem og rekrutér dem.</Rescuing.helpText>
+    <Rescuing.helpText>For at redde en såret person, skal du vælge en rask kolonist og højreklikke på den sårede kolonist.\n\nHvis du redder en ikke-kolonist, betyder det ikke nødvendigvis at de tilslutter sig din koloni. Det er muligt at de bare går deres vej efter at være blevet helbredt. Hvis du vil sikker på at de tilslutter sig, fang dem og rekruttér dem.</Rescuing.helpText>
 
     <Capturing.label>Indfanging</Capturing.label>
-    <Capturing.helpText>Når en fjende er nede på jorden og ikke død, kan du FANGE dem.\n\nFor at fange dem, vælg en kolonist, højreklik på den invalideret fjende og vælg FANG.\n\nDu vil få brug for en ekstra seng som er sat til at blive anvendt af fanger.</Capturing.helpText>
+    <Capturing.helpText>Når en fjende er nede på jorden og ikke død, kan du FANGE dem.\n\nFor at fange dem, vælg en kolonist, højreklik på den invalide fjende og vælg FANG.\n\nDu vil få brug for en ekstra seng som er sat til at blive anvendt af fanger.</Capturing.helpText>
 
     <PersonalShields.label>Personlig barriere</PersonalShields.label>
-    <PersonalShields.helpText>personlige barriere stopper langdistanceangreb fra at komme in og ud. De har ingen effekt på nærkamps angreb.\n\nFor at kæmpe mod person barriere kan du enten koncentrere en masse skud på målet, eller slås med ham hånd til hånd.</PersonalShields.helpText>
+    <PersonalShields.helpText>Personlige barriere stopper langdistanceangreb fra at komme ind og ud. De har ingen effekt på nærkampsangreb.\n\nFor at bekæmpe en med en personlig barriere, kan du enten koncentrere en masse skud på målet, eller slås med vedkommende i nærkamp.</PersonalShields.helpText>
 
     <InteractingWithTraders.label>Interaktion med forhandler</InteractingWithTraders.label>
     <InteractingWithTraders.helpText>Du kan snakke med folk der har et ? over deres hoved.\n\nVælg en kolonist og højreklik på karakteren der har et ? placeret over sit hoved.</InteractingWithTraders.helpText>
@@ -43,7 +43,7 @@
     <TVForSickPeople.helpText>Syge folk kan se TV mens de ligger i sengen.</TVForSickPeople.helpText>
 
     <PrisonerTab.label>Fange-fanen</PrisonerTab.label>
-    <PrisonerTab.helpText>Kig i en fanges 'Fange'-fane for at vælge, hvordan de skal behandles.\n\nDu kan vælge om de skal rekutteres, ignoreres eller henrettes, om de må spise, og hvilken slags lægehjælp, de må få.\n\nKolonister med arbejdstypen 'Opsynsmand' vil interagerer med fangerne.</PrisonerTab.helpText>
+    <PrisonerTab.helpText>Kig i en fanges 'Fange'-fane for at vælge, hvordan de skal behandles.\n\nDu kan vælge om de skal rekrutteres, ignoreres eller henrettes, om de må spise, og hvilken slags lægehjælp, de må få.\n\nKolonister med arbejdstypen 'Opsynsmand' vil interagere med fangerne.</PrisonerTab.helpText>
 
     <SetGrowingZonePlant.label>Vælg hvilken plante, der skal sås</SetGrowingZonePlant.label>
     <SetGrowingZonePlant.helpText>Du kan bestemme hvilke planter, der skal sås i en grozone. Du kan endda gro træer!\n\nBare vælg grozonen, åbn fanen Groning, og klik på 'plant'-knappen.</SetGrowingZonePlant.helpText>
@@ -52,7 +52,7 @@
     <DrugBurning.helpText>Rusmidler kan være brugbare, men kan resultere i et skadeligt stofmisbrug.\n\nHvis du gerne vil ungå rusmidler i din koloni, har du mulighed for at brænde dem ved et lejrbål.</DrugBurning.helpText>
 
   <DoorOpenSpeed.label>Døråbningshastigheder</DoorOpenSpeed.label>
-  <DoorOpenSpeed.helpText>Døre åbner i forskellige hastigheder afhængig af det materiale, de er lavet ud af.\n\nAdvarsel: Stendøre åbner meget langsomt. Enhver der passerer gennem døren vil have deres fart sænket markant.</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>Døre åbner i forskellige hastigheder afhængig af det materiale, de er lavet ud af.\n\nAdvarsel: Stendøre åbner meget langsomt. Enhver der passerer gennem døren, vil have deres fart sænket markant.</DoorOpenSpeed.helpText>
 
   <QueueOrders.label>Order queueing</QueueOrders.label>
   <QueueOrders.helpText>When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns.</QueueOrders.helpText>

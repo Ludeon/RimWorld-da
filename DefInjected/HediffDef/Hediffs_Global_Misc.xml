@@ -21,11 +21,11 @@
   <FoodPoisoning.label>madforgiftning</FoodPoisoning.label>
   <FoodPoisoning.stages.0.label>recovering</FoodPoisoning.stages.0.label>
   <FoodPoisoning.stages.1.label>major</FoodPoisoning.stages.1.label>
-  <FoodPoisoning.stages.2.label>initial</FoodPoisoning.stages.2.label>
+  <FoodPoisoning.stages.2.label>indledende</FoodPoisoning.stages.2.label>
 
   <ToxicBuildup.label>toxic buildup</ToxicBuildup.label>
-  <ToxicBuildup.stages.0.label>initial</ToxicBuildup.stages.0.label>
-  <ToxicBuildup.stages.1.label>initial</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.0.label>indledende</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>indledende</ToxicBuildup.stages.1.label>
   <ToxicBuildup.stages.2.label>minor</ToxicBuildup.stages.2.label>
   <ToxicBuildup.stages.3.label>moderat</ToxicBuildup.stages.3.label>
   <ToxicBuildup.stages.4.label>serious</ToxicBuildup.stages.4.label>

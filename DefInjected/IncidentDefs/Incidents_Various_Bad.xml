@@ -2,7 +2,7 @@
 
     <Eclipse.label>formørkelse</Eclipse.label>
     <Eclipse.letterLabel>Formørkelse</Eclipse.letterLabel>
-    <Eclipse.letterText>En af månerne om denne planet har passeret foran solen. En formørkelse er begyndt.</Eclipse.letterText>
+    <Eclipse.letterText>En af månerne om denne planet er passeret foran solen. En formørkelse er begyndt.</Eclipse.letterText>
 
     <SolarFlare.label>soludbrud</SolarFlare.label>
     <SolarFlare.letterLabel>Soludbrud</SolarFlare.letterLabel>
@@ -16,24 +16,24 @@
 
     <VolcanicWinter.label>vulkanisk vinter</VolcanicWinter.label>
     <VolcanicWinter.letterLabel>Vulkanisk vinter</VolcanicWinter.letterLabel>
-    <VolcanicWinter.letterText>En supervulkan langt væk er gået i udbrud og slynger millioner af kubik kilometer aske op i atmosfæren.\n\nAsken i atmosfæren vil blokkere for solen. Temperaturen vil falder og planter vil lide pågrund af manglen på sollys. Det burde gå over om et par uger, eller måske vil det vare flere måneder.</VolcanicWinter.letterText>
+    <VolcanicWinter.letterText>En supervulkan langt væk er gået i udbrud og slynger millioner af kubikkilometer aske op i atmosfæren.\n\nAsken i atmosfæren vil blokkere for solen. Temperaturen vil falde og planter vil lide på grund af mang på sollys. Det burde gå over om et par uger, eller måske vil det vare flere måneder.</VolcanicWinter.letterText>
 
     <HeatWave.label>hedebølge</HeatWave.label>
     <HeatWave.letterLabel>Hedebølge</HeatWave.letterLabel>
-    <HeatWave.letterText>En udsædvanlig hedebølge er begyndt. Hold øje efter hedeslag.</HeatWave.letterText>
+    <HeatWave.letterText>En udsædvanlig hedebølge er begyndt. Hold øje med hedeslag.</HeatWave.letterText>
 
     <ColdSnap.label>frost snap</ColdSnap.label>
     <ColdSnap.letterLabel>Frost snap</ColdSnap.letterLabel>
-    <ColdSnap.letterText>En udsædvanlig kulde er begyndt. Hold øje efter.</ColdSnap.letterText>
+    <ColdSnap.letterText>En udsædvanlig kulde er begyndt. Hold øje med .............</ColdSnap.letterText>
 
     <Flashstorm.label>lynstorm</Flashstorm.label>
     <Flashstorm.letterLabel>lynstorm</Flashstorm.letterLabel>
-    <Flashstorm.letterText>En ekstremt mængde lyn rammer en lille region. Dette kan skabe enorme ildebrande.</Flashstorm.letterText>
+    <Flashstorm.letterText>En ekstremt mængde af lyn rammer en lille region. Dette kan skabe enorme ildebrande.</Flashstorm.letterText>
 
     <ShortCircuit.label>kortslutning</ShortCircuit.label>
 
-    <CropBlight.label>afgrøds pest</CropBlight.label>
+    <CropBlight.label>plantepest</CropBlight.label>
 
-    <Alphabeavers.label>alphabævere</Alphabeavers.label>
+    <Alphabeavers.label>alfabævere</Alphabeavers.label>
 
 </LanguageData>

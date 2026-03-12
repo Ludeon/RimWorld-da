@@ -3,7 +3,7 @@
 
   <Malnutrition.label>underernæret</Malnutrition.label>
   <Malnutrition.stages.0.label>triviel</Malnutrition.stages.0.label>
-  <Malnutrition.stages.1.label>begyndende</Malnutrition.stages.1.label>
+  <Malnutrition.stages.1.label>indledende</Malnutrition.stages.1.label>
   <Malnutrition.stages.2.label>moderat</Malnutrition.stages.2.label>
   <Malnutrition.stages.3.label>alvorlig</Malnutrition.stages.3.label>
   <Malnutrition.stages.4.label>ekstrem</Malnutrition.stages.4.label>

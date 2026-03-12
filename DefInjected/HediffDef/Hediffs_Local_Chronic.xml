@@ -15,28 +15,28 @@
   <Dementia.label>demens</Dementia.label>
 
   <Alzheimers.label>alzheimers</Alzheimers.label>
-  <Alzheimers.stages.0.label>begyndende</Alzheimers.stages.0.label>
-  <Alzheimers.stages.1.label>begyndende</Alzheimers.stages.1.label>
+  <Alzheimers.stages.0.label>indledende</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>indledende</Alzheimers.stages.1.label>
   <Alzheimers.stages.2.label>alvorlig</Alzheimers.stages.2.label>
   <Alzheimers.stages.3.label>alvorlig</Alzheimers.stages.3.label>
 
   <Asthma.label>astma</Asthma.label>
-  <Asthma.stages.0.label>begyndende</Asthma.stages.0.label>
+  <Asthma.stages.0.label>indledende</Asthma.stages.0.label>
   <Asthma.stages.1.label>alvorlig</Asthma.stages.1.label>
   <Asthma.stages.2.label>alvorlig</Asthma.stages.2.label>
 
   <HeartArteryBlockage.label>åreforkalkning</HeartArteryBlockage.label>
   <HeartArteryBlockage.labelNoun>en åreforkalkning</HeartArteryBlockage.labelNoun>
-  <HeartArteryBlockage.stages.0.label>begyndende</HeartArteryBlockage.stages.0.label>
-  <HeartArteryBlockage.stages.1.label>begyndende</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.0.label>indledende</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>indledende</HeartArteryBlockage.stages.1.label>
   <HeartArteryBlockage.stages.2.label>alvorlig</HeartArteryBlockage.stages.2.label>
   <HeartArteryBlockage.stages.3.label>alvorlig</HeartArteryBlockage.stages.3.label>
   <HeartArteryBlockage.stages.4.label>ekstrem</HeartArteryBlockage.stages.4.label>
 
   <Carcinoma.label>kræft</Carcinoma.label>
   <Carcinoma.labelNoun>en ondartet kræftform</Carcinoma.labelNoun>
-  <Carcinoma.stages.0.label>begyndende</Carcinoma.stages.0.label>
-  <Carcinoma.stages.1.label>begyndende</Carcinoma.stages.1.label>
+  <Carcinoma.stages.0.label>indledende</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>indledende</Carcinoma.stages.1.label>
   <Carcinoma.stages.2.label>alvorlig</Carcinoma.stages.2.label>
   <Carcinoma.stages.3.label>alvorlig</Carcinoma.stages.3.label>
   <Carcinoma.stages.4.label>ekstrem</Carcinoma.stages.4.label>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <RaidEnemy.label>fjendtlig angreb</RaidEnemy.label>
+    <RaidEnemy.label>fjendtligt angreb</RaidEnemy.label>
 
     <Infestation.label>infestation</Infestation.label>
     <Infestation.letterLabel>Infestation</Infestation.letterLabel>
-    <Infestation.letterText>En insektbo er dukket op!\n\nDen vil langsomt gyde insekter og producere endnu flere bo. Hvis du ikke vil have dem til at infestere hele området, få samling på dine tropper og ødelæg den. Men var advaret - insekterne vil forsvare deres bo.</Infestation.letterText>
+    <Infestation.letterText>Et insektbo er dukket op!\n\nDen vil langsomt gyde insekter og producere endnu flere bo. Hvis du ikke vil have dem til at infestere hele området, få samling på dine tropper og ødelæg den. Men var advaret - insekterne vil forsvare deres bo.</Infestation.letterText>
 
     <ManhunterPack.label>en flok menneskejægere</ManhunterPack.label>
 

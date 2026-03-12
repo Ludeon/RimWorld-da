@@ -14,47 +14,47 @@
 
   <WoundInfection.label>infektion</WoundInfection.label>
   <WoundInfection.labelNoun>en infektion</WoundInfection.labelNoun>
-  <WoundInfection.stages.0.label>begyndende</WoundInfection.stages.0.label>
+  <WoundInfection.stages.0.label>indledende</WoundInfection.stages.0.label>
   <WoundInfection.stages.1.label>alvorlig</WoundInfection.stages.1.label>
   <WoundInfection.stages.2.label>ekstrem</WoundInfection.stages.2.label>
   <WoundInfection.stages.3.label>ekstrem</WoundInfection.stages.3.label>
 
   <Flu.label>forkølelse</Flu.label>
-  <Flu.stages.0.label>begyndende</Flu.stages.0.label>
-  <Flu.stages.1.label>begyndende</Flu.stages.1.label>
+  <Flu.stages.0.label>indledende</Flu.stages.0.label>
+  <Flu.stages.1.label>indledende</Flu.stages.1.label>
   <Flu.stages.2.label>alvorlig</Flu.stages.2.label>
   <Flu.stages.3.label>ekstrem</Flu.stages.3.label>
 
   <Animal_Flu.label>forkølelse</Animal_Flu.label>
-  <Animal_Flu.stages.0.label>begyndende</Animal_Flu.stages.0.label>
-  <Animal_Flu.stages.1.label>begyndende</Animal_Flu.stages.1.label>
+  <Animal_Flu.stages.0.label>indledende</Animal_Flu.stages.0.label>
+  <Animal_Flu.stages.1.label>indledende</Animal_Flu.stages.1.label>
   <Animal_Flu.stages.2.label>alvorlig</Animal_Flu.stages.2.label>
   <Animal_Flu.stages.3.label>ekstrem</Animal_Flu.stages.3.label>
 
   <Plague.label>pest</Plague.label>
-  <Plague.stages.0.label>begyndende</Plague.stages.0.label>
-  <Plague.stages.1.label>begyndende</Plague.stages.1.label>
+  <Plague.stages.0.label>indledende</Plague.stages.0.label>
+  <Plague.stages.1.label>indledende</Plague.stages.1.label>
   <Plague.stages.2.label>alvorlig</Plague.stages.2.label>
   <Plague.stages.3.label>ekstrem</Plague.stages.3.label>
   <Plague.stages.4.label>ekstrem</Plague.stages.4.label>
 
   <Animal_Plague.label>pest</Animal_Plague.label>
-  <Animal_Plague.stages.0.label>begyndende</Animal_Plague.stages.0.label>
-  <Animal_Plague.stages.1.label>begyndende</Animal_Plague.stages.1.label>
+  <Animal_Plague.stages.0.label>indledende</Animal_Plague.stages.0.label>
+  <Animal_Plague.stages.1.label>indledende</Animal_Plague.stages.1.label>
   <Animal_Plague.stages.2.label>alvorlig</Animal_Plague.stages.2.label>
   <Animal_Plague.stages.3.label>ekstrem</Animal_Plague.stages.3.label>
   <Animal_Plague.stages.4.label>ekstrem</Animal_Plague.stages.4.label>
 
   <Malaria.label>malaria</Malaria.label>
-  <Malaria.stages.0.label>begyndende</Malaria.stages.0.label>
-  <Malaria.stages.1.label>begyndende</Malaria.stages.1.label>
+  <Malaria.stages.0.label>indledende</Malaria.stages.0.label>
+  <Malaria.stages.1.label>indledende</Malaria.stages.1.label>
   <Malaria.stages.2.label>alvorlig</Malaria.stages.2.label>
   <Malaria.stages.3.label>ekstrem</Malaria.stages.3.label>
 
   <SleepingSickness.label>sovesyge</SleepingSickness.label>
-  <SleepingSickness.stages.0.label>begyndende</SleepingSickness.stages.0.label>
-  <SleepingSickness.stages.1.label>begyndende</SleepingSickness.stages.1.label>
-  <SleepingSickness.stages.2.label>begyndende</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.0.label>indledende</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>indledende</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>indledende</SleepingSickness.stages.2.label>
   <SleepingSickness.stages.3.label>alvorlig</SleepingSickness.stages.3.label>
   <SleepingSickness.stages.4.label>ekstrem</SleepingSickness.stages.4.label>
   <SleepingSickness.stages.5.label>ekstrem</SleepingSickness.stages.5.label>
