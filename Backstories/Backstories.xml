@@ -268,12 +268,12 @@ HECAP refused to do any dumb labour HE could pay someone else to do for HIM.</de
 	<Taxonomist49>
 		<title>Taxonomist</title>
 		<titleShort>Taxonomist</titleShort>
-		<desc>NAME travelled between star systems, studying and classifying the plant and animal life HE found in the hopes of creating a complete catalogue.</desc>
+		<desc>NAME rejste mellem stjernesystemer, studying and classifying the plant and animal life HE found in the hopes of creating a complete catalogue.</desc>
 	</Taxonomist49>
 	<Geologist2>
 		<title>Geolog</title>
 		<titleShort>Geolog</titleShort>
-		<desc>NAME arbejdede med minearbejdere og grotteudgravere, hvor HE identificerede stentyper og geologiske formationer.
+		<desc>NAME arbejdede med minearbejder og grotteudgraver, hvor HE identificerede stentyper og geologiske formationer.
 
 I løbet af sine år under jorden, tilegnede HE sig også erfaring i at reparere boremaskiner og andet teknisk udstyr.</desc>
 	</Geologist2>
@@ -285,7 +285,7 @@ I løbet af sine år under jorden, tilegnede HE sig også erfaring i at reparere
 	<Jailbird93>
 		<title>Jailbird</title>
 		<titleShort>Jailbird</titleShort>
-		<desc>NAME tilbragte det meste af sit liv i fængsler, hvor HE blev sat til at arbejde i køkkenerne. HECAP havde for vane med at komme op at slås, og udviklede en agressiv sproglig tone.</desc>
+		<desc>NAME tilbragte det meste af sit liv i fængsler, hvor HE blev sat til at arbejde i køkkenerne. HECAP havde for vane at komme op at slås, og udviklede en agressiv verbal tone.</desc>
 	</Jailbird93>
 	<Actor76>
 		<title>Skuespiller</title>
@@ -317,7 +317,7 @@ Though HE pursued HIS artistic hobbies, HIS subordinates preferred to entertain 
 	<Veterinarian19>
 		<title>Veterinarian</title>
 		<titleShort>Vet</titleShort>
-		<desc>NAME treated sick and injured dyr for a living. Seeing their suffering affected HIS stance on the practice of eating meat, and for many years HE lived as a vegetarian, rejecting the meat-loving culinary tradition of HIS hjemplanet.</desc>
+		<desc>NAME behandlede syge og sårede dyr til daglig. Seeing their suffering affected HIS stance on the practice of eating meat, and for many years HE lived as a vegetarian, rejecting the meat-loving culinary tradition of HIS hjemplanet.</desc>
 	</Veterinarian19>
 	<ExplosivesExpert30>
 		<title>Explosives expert</title>
@@ -376,9 +376,9 @@ HECAP also occasionally worked on a novel that HE knew would be a bestseller - j
 		<desc>NAME started off sculpting person-sized chunks of stone, men HE begyndte hurtigt at tænkte større tanker. With the help of mining robots, HECAP learned how to carve huge monuments out of cliffsides. Soon the nature parks of the glitterworld where HE lived were full of giant rock figures.</desc>
 	</Sculptor16>
 	<MachineCollector23>
-		<title>Machine collector</title>
-		<titleShort>Collector</titleShort>
-		<desc>NAME was obsessed with old machines and arcane pieces of technology. HECAP obtained them wherever HE could, and loved taking them apart to see how they worked.
+		<title>Maskinsamler</title>
+		<titleShort>Samler</titleShort>
+		<desc>NAME was obsessed with old machines and arcane pieces of technology. HECAP obtained them wherever HE could, og elskede at skille dem ad for at se, hvordan de virkede.
 
 HE had a habit of talking about HIS collection long after people around HIM had stopped listening.</desc>
 	</MachineCollector23>
