@@ -72,20 +72,20 @@
 
   <DesignatorGrowingZoneDesc>Opret en zone, hvor dine kolonister vil forsøge at dyrke en bestemt slags plante.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Opret en lagerplads hvor dine kolonister gemmer ressourcer.\nDette værktøj kan også udvide enhver eksisterende lagerplads.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Opret en lagerplads, hvor dine kolonister gemmer ressourcer.\nDette værktøj kan også udvide eksisterende lagerpladser.</DesignatorZoneCreateStorageResourcesDesc>
 
   <DesignatorZoneCreateStorageDumpingDesc>Opret en lagerplads, hvor dine kolonister gemmer skrammel.\nDette værktøj kan også udvide eksisterende lagerpladser.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Shrink zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteSingular>Shrink zone</DesignatorZoneDeleteSingular>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>Indskrænk zoner</DesignatorZoneDelete>
+  <DesignatorZoneDeleteSingular>Indskrænk zone</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteDesc>Fjern zoner, såsom lagerzoner eller grozoner.</DesignatorZoneDeleteDesc>
 
-  <DesignatorZoneExpand>Expand zone</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Udvid zone</DesignatorZoneExpand>
 
   <DesignatorClaim>Gør krav på</DesignatorClaim>
-  <DesignatorClaimDesc>Gør krav på neutrale strukturer for kolonien, herunder gamle ruiner og forladte belejringsbaser. Strukturer der er gjort krav på, kan repareres og vedligeholdes af dine kolonister.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Gør krav på neutrale konstruktioner for kolonien, herunder gamle ruiner og forladte belejringsbaser. Konstruktioner der er gjort krav på, kan repareres og vedligeholdes af dine kolonister.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>fjern gulv</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Fjern gulv</DesignatorRemoveFloor>
   <DesignatorRemoveFloorDesc>Fjern gulve for at afsløre terrænet nedenunder.</DesignatorRemoveFloorDesc>
 
   <DesignatorStrip>Afklæd</DesignatorStrip>
@@ -98,7 +98,7 @@
   <DesignatorOpenDesc>Åbn beholdere.</DesignatorOpenDesc>
 
   <DesignatorSlaughter>Slagt</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slagte et tamt dyr.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>Slagt et tamt dyr.</DesignatorSlaughterDesc>
 
   <DesignatorTame>Tæm</DesignatorTame>
   <DesignatorTameDesc>Tæm et vildt dyr.</DesignatorTameDesc>

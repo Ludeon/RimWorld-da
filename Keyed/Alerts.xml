@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Klik her for at springe til problemet.</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Klik her for at gå til problemet.</ClickToJumpToProblem>
 
   <BreakRiskMinor>Minor break risk</BreakRiskMinor>
   <BreakRiskMajor>Major break risk</BreakRiskMajor>
@@ -15,7 +15,7 @@
   <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
   <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
 
-  <NeedDefenses>Need defenses</NeedDefenses>
+  <NeedDefenses>Mangler forsvar</NeedDefenses>
   <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
 
   <NeedDoctor>Mangler en doktor</NeedDoctor>
