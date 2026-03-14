@@ -495,7 +495,7 @@
   <GameOverMainMenu>Hovedmenu</GameOverMainMenu>
 
   <!-- Generic lifespan -->
-  <LifespanExpiry>Expires in:</LifespanExpiry>
+  <LifespanExpiry>Udløber om:</LifespanExpiry>
 
   <!-- Traps -->
   <TrapArmed>Armed</TrapArmed>
@@ -511,11 +511,11 @@
   <DiseaseGrowthModeChanged_Remission>{0}s {1} er i remission nu.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
-  <MarriageSpotUsable>Usable now.</MarriageSpotUsable>
-  <MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotUsable>Kan anvendes.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>Kan ikke anvendes: {0}.</MarriageSpotNotUsable>
   <MarriageSpotNotStandable>blokeret</MarriageSpotNotStandable>
-  <MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
-  <MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
+  <MarriageSpotDangerous>for farligt for {0}</MarriageSpotDangerous>
+  <MarriageSpotForbidden>forbudt for {0}</MarriageSpotForbidden>
   <MarriageSpotReserved>reserveret</MarriageSpotReserved>
   <MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
   <MarriageSpotInPrisonCell>i fængselscelle</MarriageSpotInPrisonCell>

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Læreprogram</Tutorial>
+  <Tutorial>Tutorial</Tutorial>
   <NewColony>Ny koloni</NewColony>
   <BackToGame>Tilbage til spillet</BackToGame>
   <ReviewScenario>Review scenarie</ReviewScenario>
@@ -22,7 +22,7 @@
   <TynansTwitter>Tynans Twitter</TynansTwitter>
   <TynansDesignBook>Tynans designbog</TynansDesignBook>
   <HelpTranslate>Hjælp med at oversætte RimWorld</HelpTranslate>
-  <BuySoundtrack>Køb lydspor</BuySoundtrack>
+  <BuySoundtrack>Køb soundtrack</BuySoundtrack>
   <CreateWorld>Opret verden</CreateWorld>
 
   <!--=========== Create/review world ================-->
@@ -30,9 +30,9 @@
   <WorldGenerate>Skab</WorldGenerate>
   <WorldSaveAndFinish>Gem og afslut</WorldSaveAndFinish>
   <Reset>Nulstil</Reset>
-  <PlanetCoverage>Globe dækning</PlanetCoverage>
-  <PlanetRainfall>Overordnet nedbør</PlanetRainfall>
-  <PlanetTemperature>Overordnet temperatur</PlanetTemperature>
+  <PlanetCoverage>Dækning</PlanetCoverage>
+  <PlanetRainfall>Nedbør</PlanetRainfall>
+  <PlanetTemperature>Temperatur</PlanetTemperature>
   <PlanetRainfall_Low>Lav</PlanetRainfall_Low>
   <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
   <PlanetRainfall_High>Høj</PlanetRainfall_High>
@@ -41,12 +41,12 @@
   <PlanetTemperature_High>Høj</PlanetTemperature_High>
   <WorldSeed>Frø</WorldSeed>
   <RandomizeSeed>Tilfældigt frø</RandomizeSeed>
-  <PlanetCoverageTip>Planeten er altid den samme diameter, men da det er langt større end nødvendigt for at spille, skaber vi ikke hele overfladen, da det kan tage meget lang tid. Dette er den procentdel af overfladen, som du ønsker skabt.</PlanetCoverageTip>
+  <PlanetCoverageTip>Planeten er altid den samme diameter, men da den er langt større end nødvendigt for at spille, danner vi ikke hele overfladen, da det kan tage meget lang tid. Dette er den procentdel af overfladen, som du ønsker skabt.</PlanetCoverageTip>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Vælg verden</SelectWorld>
   <WorldChooseButton>Vælg</WorldChooseButton>
-  <NoWorldsFilesFound>Ingen verdensfiler fundet. Opret en verden først.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Ingen filer fundet. Opret en verden først.</NoWorldsFilesFound>
 
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Version {0} er nu tilgængelig. Tjek ludeon.com for mere info.</BuildNowAvailable>
@@ -61,14 +61,14 @@
   <OpenSteamWorkshop>Åbn Steam-værksted</OpenSteamWorkshop>
   <GetModsFromForum>Få mods fra forummet</GetModsFromForum>
   <OpenModsDataFolder>Åbn mappen med mod-data</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Er du sikker på, at du vil deaktivere kerne-modden? Spillet vil ikke virke, medmindre du har en anden mod, der erstatter alle kernefunktionaliteterne.\n\nHusk, andre mods kan tilsidesætte defs i kerne-modden ved hjælp af det samme defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Er du sikker på, at du vil deaktivere kerne-mod? Spillet vil ikke virke, medmindre du har en anden mod, der erstatter alle kernefunktionaliteterne.\n\nHusk, andre mods kan tilsidesætte defs i kerne-modden ved hjælp af det samme defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Er du sikker på, at du vil slette alt indhold for {0}?</ConfirmDeleteMod>
   <Unsubscribe>Afmeld</Unsubscribe>
   <ConfirmUnsubscribe>Er du sikker på, at du vil afmelde {0}?</ConfirmUnsubscribe>
   <Author>Forfatter</Author>
-  <WorkshopPage>Værksteds-side</WorkshopPage>
+  <WorkshopPage>Værkstedsside</WorkshopPage>
   <UploadToSteamWorkshop>Upload til Steam-værksted</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Opdater på Steam-værksted</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Opdatér på Steam-værksted</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>Upload er allerede igang.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Værksted submission fejlede.\n\nGrund: {0}</WorkshopSubmissionFailed>
   <WorkshopUploadSucceeded>Succesfuld uploadet {0}.</WorkshopUploadSucceeded>
@@ -82,8 +82,8 @@
   <!--=========== Select scenario =============-->
   <ChooseScenario>Vælg scenarie</ChooseScenario>
   <ScenariosCustom>Brugerdefinerede</ScenariosCustom>
-  <ScenariosSteamWorkshop>Steam Værksted</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenarie editor</ScenarioEditor>
+  <ScenariosSteamWorkshop>Steam-Værksted</ScenariosSteamWorkshop>
+  <ScenarioEditor>Scenarie-editor</ScenarioEditor>
   <Delete>Slet</Delete>
 
   <!--============ Scenario editor ===============-->
@@ -93,7 +93,7 @@
   <Summary>Oversigt</Summary>
   <AddPart>Tilføj del</AddPart>
   <TextFieldsMustBeFilled>Alle tekstfelter skal udfyldes.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Er du sikker på du ønsker at uploade dette til Steam Værkstedet?\n\nDu skal acceptere Steam Værkstedets servicevilkår. Find de fuldstændige vilkår her:\n\nhttp: //steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>Er du sikker på du ønsker at uploade dette til Steam-Værkstedet?\n\nDu skal acceptere Steam-Værkstedets servicevilkår. Find de fuldstændige vilkår her:\n\nhttp: //steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <ConfirmContentAuthor>Naturligvis bør du kun uploade indhold, som du selv har skabt.\n\nHar du selv lavet dette indhold?</ConfirmContentAuthor>
   <Incompatible>Ukompatibel</Incompatible>
   <TooMany>For mange (maks {0}): </TooMany>
@@ -110,8 +110,8 @@
   <SelectRandomSite>Vælg tilfældig plads</SelectRandomSite>
   <SelectSite>Vælg plads</SelectSite>
   <MustSelectLandingSite>Vær venlig at vælge en landingsplads.</MustSelectLandingSite>
-  <CannotLandBiome>Du kan ikke lande på dette biom: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome ikke implementeret</BiomeNotImplemented>
+  <CannotLandBiome>Du kan ikke lande i dette biom: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Biom ikke implementeret</BiomeNotImplemented>
   <CannotLandImpassableMountains>Du kan ikke lande på ufremkommelige bjerge.</CannotLandImpassableMountains>
   <BaseAlreadyThere>{0} har allerede en base der.</BaseAlreadyThere>
   <Biome>Biom</Biome>
@@ -126,19 +126,23 @@
   <HasCoast1>Østlig kyst</HasCoast1>
   <HasCoast2>Sydlig kyst</HasCoast2>
   <HasCoast3>Vestlig kyst</HasCoast3>
-  <FactionBase>Fraktion kyst</FactionBase>
+  <FactionBase>Fraktionsbase</FactionBase>
   <StoneTypesHere>Stentyper</StoneTypesHere>
   <TimeZone>Tidszone</TimeZone>
-  <MovementTimeNow>Nuværende bevægelse tid</MovementTimeNow>
-  <MovementTimeSummer>Sommer bevægelse tid</MovementTimeSummer>
-  <MovementTimeWinter>Vinter bevægelse tid</MovementTimeWinter>
+	<MovementDifficulty>Movement difficulty</MovementDifficulty>
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
+  <PerYear>per year</PerYear>
+  <Forageability>Forageability</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+
 
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Skab figur</CreateCharacters>
-  <FirstNameDesc>Figurens fornavn.\n\nDet vises kun i visse menuer.</FirstNameDesc>
-  <ShortIdentifierDesc>Figurens korte identifikator.\n\nDette vises på alle tidspunkter. Det kan være det første eller efter-navn, eller et helt separat kaldenavn.</ShortIdentifierDesc>
-  <LastNameDesc>Figurens efternavn.\n\nDette vises kun i visse menuer.</LastNameDesc>
+  <FirstNameDesc>Karakterens fornavn.\n\nVises kun i visse menuer.</FirstNameDesc>
+  <ShortIdentifierDesc>Karakterens korte kaldenavn.\n\nVises på alle tidspunkter. Det kan være fornavnet eller efternavnet, eller et helt andet kaldenavn.</ShortIdentifierDesc>
+  <LastNameDesc>Karakterens efternavn.\n\nVises kun i visse menuer.</LastNameDesc>
   <Randomize>Tilfældiggør</Randomize>
   <AgeIndicator>alder {0}</AgeIndicator>
   <Backstory>Baggrundshistorie</Backstory>
@@ -149,8 +153,9 @@
   <NoneLower>Ingen</NoneLower>
   <Adulthood>Voksen</Adulthood>
   <Childhood>Barndom</Childhood>
-  <Male>han</Male>
-  <Female>hun</Female>
+  <Current>Nuværende</Current>
+  <Male>mand</Male>
+  <Female>kvinde</Female>
   <Pain>Smerte</Pain>
   <Health>Helbred</Health>
   <Relations>Relationer</Relations>
@@ -164,7 +169,7 @@
   <Next>Næste</Next>
   <Back>Tilbage</Back>
   <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Vil du virkelig afslutte? Du mister alle fremskridt, som ikke er gemt.</ConfirmQuit>
+  <ConfirmQuit>Vil du virkelig afslutte? Du mister alle ændringer, som ikke er gemt.</ConfirmQuit>
   <EveryoneNeedsValidName>Hver person har brug for et gyldigt navn.</EveryoneNeedsValidName>
   <Quit>Afslut</Quit>
   <Ignore>Ignorér</Ignore>
