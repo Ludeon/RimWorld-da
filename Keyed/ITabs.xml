@@ -61,11 +61,11 @@
   <InPain>I smerte</InPain>
   <PainLevel>Smerte</PainLevel>
   <Injured>Såret</Injured>
-  <NoHealthConditions>no health conditions</NoHealthConditions>
+  <NoHealthConditions>ingen helbredsmæssige forhold</NoHealthConditions>
   <WholeBody>Hele kroppen</WholeBody>
   <DataProcessing>Databehandling</DataProcessing>
   <Communication>Kommunikation</Communication>
-  <Affects>Affects</Affects>
+  <Affects>Påvirker</Affects>
   <BleedingRate>Bløder</BleedingRate>
   <TimeToDeath>dør om {0}</TimeToDeath>
   <WontBleedOutSoon>ingen umiddelbar fare</WontBleedOutSoon>
@@ -73,7 +73,7 @@
   <MedicalOperationsShort>Operationer ({0})</MedicalOperationsShort>
   <MedicalOperationsMechanoidsShort>Modifikationer ({0})</MedicalOperationsMechanoidsShort>
   <MedicalOperations>Medicinske operationer</MedicalOperations>
-  <Amputate>amputer</Amputate>
+  <Amputate>amputér</Amputate>
   <HarvestOrgan>høst</HarvestOrgan>
   <RemoveOrgan>fjern</RemoveOrgan>
   <MemoryLower>hukommelse</MemoryLower>
@@ -82,7 +82,7 @@
   <Tiredness>Træthed</Tiredness>
   <PainFactor>Smerte</PainFactor>
   <PreventsInfection>forebygger infektion</PreventsInfection>
-  <SelfTend>Self-tend</SelfTend>
+  <SelfTend>selv-pleje</SelfTend>
   <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
 
 
@@ -104,7 +104,7 @@
 
 
   <!-- Training tab-->
-  <TrainableIntelligence>trænbare intelligens</TrainableIntelligence>
+  <TrainableIntelligence>trænbar intelligens</TrainableIntelligence>
   <CannotTrainNotSmartEnough>Kræver trænbar intelligens {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} er for lille til at træne dette.</CannotTrainTooSmall>
 

@@ -3,10 +3,10 @@
 
   <None.label>ingen</None.label>
   <Name.label>navn</Name.label>
-  <MarketValue.label>markedsværdig</MarketValue.label>
+  <MarketValue.label>markedsværdi</MarketValue.label>
   <Category.label>kategori</Category.label>
   <Quality.label>kvalitet</Quality.label>
   <Mass.label>masse</Mass.label>
-  <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
+  <HitPointsPercentage.label>procent af livspoint</HitPointsPercentage.label>
 
 </LanguageData>

@@ -1,112 +1,54 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <HorseshoesPin.label>hesteskoes pløk</HorseshoesPin.label>
-  <HorseshoesPin.description>Et simpelt, gammelt spil, der er spillet med nogle heskesko og en stor pløk i jorden. Spillerne kaster hestesko fra en afstand og forsøger at få dem til at lande så tæt på eller omkring pløkken. Det er afslappende og træner enda hånd-øje koordination.</HorseshoesPin.description>
-  <HorseshoesPin_Blueprint.label>hesteskoes pløk (plan)</HorseshoesPin_Blueprint.label>
-  <HorseshoesPin_Blueprint_Install.label>hesteskoes pløk (plan)</HorseshoesPin_Blueprint_Install.label>
-  <HorseshoesPin_Frame.label>hesteskoes pløk (bygning)</HorseshoesPin_Frame.label>
-
-  <ChessTable.label>skakbord</ChessTable.label>
-  <ChessTable.description>Det ældgamle konge spil. Sjovt i et par timer her og der. Det er enda sjovt at spille alene.</ChessTable.description>
-  <ChessTable_Blueprint.label>skakbord (plan)</ChessTable_Blueprint.label>
-  <ChessTable_Blueprint_Install.label>skakbord (plan)</ChessTable_Blueprint_Install.label>
-  <ChessTable_Frame.label>skakbord (bygning)</ChessTable_Frame.label>
-
+  
+  <!-- EN: billiards table -->
   <BilliardsTable.label>billardbord</BilliardsTable.label>
-  <BilliardsTable.description>Et bord med en blød top til at spille forskellige billard spil.</BilliardsTable.description>
-  <BilliardsTable_Blueprint.label>billardbord (plan)</BilliardsTable_Blueprint.label>
-  <BilliardsTable_Blueprint_Install.label>billardbord (plan)</BilliardsTable_Blueprint_Install.label>
-  <BilliardsTable_Frame.label>billardbord (bygning)</BilliardsTable_Frame.label>
-
-  <TubeTelevision.label>billedrørs TV</TubeTelevision.label>
-  <TubeTelevision.description>Et billedrørs display til at vise bevægelige billeder med lyd. Selv på udkants verdnerne, er der ofte en gammel sender der køre et sted der viser noget der mindst er marginalt interessant.</TubeTelevision.description>
-  <TubeTelevision_Blueprint.label>billedrørs TV (plan)</TubeTelevision_Blueprint.label>
-  <TubeTelevision_Blueprint_Install.label>billedrørs (plan)</TubeTelevision_Blueprint_Install.label>
-  <TubeTelevision_Frame.label>billedrørs (bygning)</TubeTelevision_Frame.label>
-
-  <FlatscreenTelevision.label>fladskærms TV</FlatscreenTelevision.label>
-  <FlatscreenTelevision.description>Et højteknologisk fladskærms fjernsyn med krystalklare billeder og rige farver. Mere underholdende end et billedrørs TV.</FlatscreenTelevision.description>
-  <FlatscreenTelevision_Blueprint_Install.label>fladskærms TV (plan)</FlatscreenTelevision_Blueprint_Install.label>
-
-  <MegascreenTelevision.label>megaskærms TV</MegascreenTelevision.label>
-  <MegascreenTelevision.description>Et enormt højteknologisk fjernsyn. Gigantisk, hyper livlige billeder der næsten springer ud af skærmen. Meget underholdende.</MegascreenTelevision.description>
-  <MegascreenTelevision_Blueprint_Install.label>megamegaskærmsscreen TV (plan)</MegascreenTelevision_Blueprint_Install.label>
-
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>Ein relativ großer Tisch mit Stoffbezug, auf dem Billard gespielt wird. Trainiert den Fernkampf.</BilliardsTable.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>skakbord</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
+  <ChessTable.description>Das antike Spiel der Könige. Bietet Spaß für ein paar Stunden, auch wenn man alleine spielt. Trainiert den Intellekt.\n\nBenötigt Stühle oder Hocker.</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>fladskærms-TV</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>Ein hochmoderner Flachbildfernseher mit kristallklarem Bild und kontrastreichen Farben. Empfängt Übertragungen von antiken Satelliten und allgegenwärtigen Datenkarten.</FlatscreenTelevision.description>
+  
+  <!-- EN: Game-of-Ur board -->
+  <GameOfUrBoard.label>Spiel-von-Ur-Brett</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>Dieses aufregende und zugleich herausfordernde Brettspiel stammt aus dem Jahr 2500 v. Chr. und kann von einer oder zwei Personen gespielt werden. Trainiert den Intellekt.</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>Steinwurfring</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>Ein einfaches antikes Spiel, das mit ein paar Steinen und einem Ring im Boden gespielt wird. Die Spieler versuchen, die Steine aus großer Entfernung durch den Ring zu werfen. Dient der Entspannung und trainiert den Fernkampf.</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>Hufeisenstab</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>Ein einfaches antikes Spiel, das mit mehreren Hufeisen und einem langen Stab im Boden gespielt wird. Die Spieler werfen die Hufeisen und versuchen, diese auf dem Stab landen zu lassen. Dient der Entspannung und trainiert den Fernkampf.</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
+  <MegascreenTelevision.label>megaskærms-TV</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>Ein riesiger Hightech-Fernseher, der gigantische, hyperlebendige Bilder erzeugt – fast so, als würden sie aus dem Bildschirm springen. Sehr unterhaltsam. Empfängt Übertragungen von antiken Satelliten und allgegenwärtigen Datenkarten.</MegascreenTelevision.description>
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>pokerbord</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
+  <PokerTable.description>Ein Tisch für Kartenspiele wie z.B. Poker. Eine tolle Möglichkeit, deine strategischen Fähigkeiten und dein Glück auf die Probe zu stellen.\n\nBenötigt Stühle oder Hocker.</PokerTable.description>
+  
+  <!-- EN: telescope -->
   <Telescope.label>teleskop</Telescope.label>
-  <Telescope.description>Et teleskop til at dyrke amatør astronomi. Det er en afslappende og sjov hobby for en bestemt slags person.</Telescope.description>
-  <Telescope_Blueprint_Install.label>teleskop (plan)</Telescope_Blueprint_Install.label>
-
-</LanguageData> ---------------------------------------------------------------
-
-<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-
-  <HorseshoesPin.label>horseshoes pin</HorseshoesPin.label>
-  <HorseshoesPin.description>A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills.</HorseshoesPin.description>
-
-  <Blueprint_HorseshoesPin.label>BlueprintLabelExtra</Blueprint_HorseshoesPin.label>
-  <Blueprint_Install_HorseshoesPin.label>BlueprintLabelExtra</Blueprint_Install_HorseshoesPin.label>
-  <Frame_HorseshoesPin.label>FrameLabelExtra</Frame_HorseshoesPin.label>
-
-  <HoopstoneRing.label>hoopstone ring</HoopstoneRing.label>
-  <HoopstoneRing.description>A simple ancient game played with a stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</HoopstoneRing.description>
-
-  <Blueprint_HoopstoneRing.label>BlueprintLabelExtra</Blueprint_HoopstoneRing.label>
-  <Blueprint_Install_HoopstoneRing.label>BlueprintLabelExtra</Blueprint_Install_HoopstoneRing.label>
-  <Frame_HoopstoneRing.label>FrameLabelExtra</Frame_HoopstoneRing.label>
-
-  <GameOfUrBoard.label>game-of-Ur board</GameOfUrBoard.label>
-  <GameOfUrBoard.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</GameOfUrBoard.description>
-
-  <Blueprint_GameOfUrBoard.label>BlueprintLabelExtra</Blueprint_GameOfUrBoard.label>
-  <Blueprint_Install_GameOfUrBoard.label>BlueprintLabelExtra</Blueprint_Install_GameOfUrBoard.label>
-  <Frame_GameOfUrBoard.label>FrameLabelExtra</Frame_GameOfUrBoard.label>
-
-  <ChessTable.label>chess table</ChessTable.label>
-  <ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.</ChessTable.description>
-
-  <Blueprint_ChessTable.label>BlueprintLabelExtra</Blueprint_ChessTable.label>
-  <Blueprint_Install_ChessTable.label>BlueprintLabelExtra</Blueprint_Install_ChessTable.label>
-  <Frame_ChessTable.label>FrameLabelExtra</Frame_ChessTable.label>
-
-  <BilliardsTable.label>billiards table</BilliardsTable.label>
-  <BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability.</BilliardsTable.description>
-
-  <Blueprint_BilliardsTable.label>BlueprintLabelExtra</Blueprint_BilliardsTable.label>
-  <Blueprint_Install_BilliardsTable.label>BlueprintLabelExtra</Blueprint_Install_BilliardsTable.label>
-  <Frame_BilliardsTable.label>FrameLabelExtra</Frame_BilliardsTable.label>
-
-  <PokerTable.label>poker table</PokerTable.label>
-  <PokerTable.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</PokerTable.description>
-
-  <Blueprint_PokerTable.label>BlueprintLabelExtra</Blueprint_PokerTable.label>
-  <Blueprint_Install_PokerTable.label>BlueprintLabelExtra</Blueprint_Install_PokerTable.label>
-  <Frame_PokerTable.label>FrameLabelExtra</Frame_PokerTable.label>
-
-  <TubeTelevision.label>tube television</TubeTelevision.label>
-  <TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>
-
-  <Blueprint_TubeTelevision.label>BlueprintLabelExtra</Blueprint_TubeTelevision.label>
-  <Blueprint_Install_TubeTelevision.label>BlueprintLabelExtra</Blueprint_Install_TubeTelevision.label>
-  <Frame_TubeTelevision.label>FrameLabelExtra</Frame_TubeTelevision.label>
-
-  <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
-  <FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards.</FlatscreenTelevision.description>
-
-  <Blueprint_FlatscreenTelevision.label>BlueprintLabelExtra</Blueprint_FlatscreenTelevision.label>
-  <Blueprint_Install_FlatscreenTelevision.label>BlueprintLabelExtra</Blueprint_Install_FlatscreenTelevision.label>
-  <Frame_FlatscreenTelevision.label>FrameLabelExtra</Frame_FlatscreenTelevision.label>
-
-  <MegascreenTelevision.label>megascreen television</MegascreenTelevision.label>
-  <MegascreenTelevision.description>A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards.</MegascreenTelevision.description>
-
-  <Blueprint_Install_MegascreenTelevision.label>BlueprintLabelExtra</Blueprint_Install_MegascreenTelevision.label>
-
-  <Telescope.label>telescope</Telescope.label>
-  <Telescope.description>A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person.</Telescope.description>
-
-  <Blueprint_Install_Telescope.label>BlueprintLabelExtra</Blueprint_Install_Telescope.label>
-
-
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>Ein Teleskop für Hobby-Astronomen. Hat eine entspannende Wirkung auf einige Personen. Kan kun anvendes udenfor.</Telescope.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>billedrørs-TV</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Ein Röhrenfernseher, der bewegte Bilder mit Ton darstellen kann. Sogar auf den Randwelten gibt es oft einen alten Sender, auf dem etwas halbwegs Interessantes läuft.</TubeTelevision.description>
+  
 </LanguageData>

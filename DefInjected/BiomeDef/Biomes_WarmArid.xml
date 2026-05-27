@@ -8,7 +8,9 @@
   <Desert.description>Et utrolig tørt område som ikke understøtter meget liv. Der er ikke særlig meget dyrkbar jord, og dyreliv er sparsomt. Der kan både være meget varmt eller meget koldt.</Desert.description>
 
   <ExtremeDesert.label>ekstrem ørken</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
   <ExtremeDesert.description>Et ekstremt tørt og varmt område som næsten er helt uden liv. Searing heat and a near total lack of arable land make it very difficult to survive here.</ExtremeDesert.description>
-
+  <!-- EN: Searing heat and a near total lack of arable land make survival here a challenge. -->
+  <ExtremeDesert.settleWarning>Die sengende Hitze und der Mangel an fruchtbaren Böden machen das Überleben hier zu einer Herausforderung.</ExtremeDesert.settleWarning>
 
 </LanguageData>

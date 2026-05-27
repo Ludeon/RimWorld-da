@@ -1,61 +1,58 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    
+    <!-- close family -->
 
-  <!-- close family -->
+    <Parent.label>far</Parent.label>
+    <Parent.labelFemale>mor</Parent.labelFemale>
 
-  <Parent.label>father</Parent.label>
-  <Parent.labelFemale>mother</Parent.labelFemale>
+    <Child.label>søn</Child.label>
+    <Child.labelFemale>datter</Child.labelFemale>
 
-  <Child.label>son</Child.label>
-  <Child.labelFemale>daughter</Child.labelFemale>
+    <Sibling.label>bror</Sibling.label>
+    <Sibling.labelFemale>søster</Sibling.labelFemale>
 
-  <Sibling.label>brother</Sibling.label>
-  <Sibling.labelFemale>sister</Sibling.labelFemale>
+    <HalfSibling.label>halvbror</HalfSibling.label>
+    <HalfSibling.labelFemale>halvsøster</HalfSibling.labelFemale>
 
-  <HalfSibling.label>brother</HalfSibling.label>
-  <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
+    <Grandparent.label>bedstefar</Grandparent.label>
+    <Grandparent.labelFemale>bedstemor</Grandparent.labelFemale>
 
-  <Grandparent.label>grandfather</Grandparent.label>
-  <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
+    <Grandchild.label>barnebarn</Grandchild.label>
+    <Grandchild.labelFemale>barnebarn</Grandchild.labelFemale>
 
-  <Grandchild.label>grandson</Grandchild.label>
-  <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
+    <NephewOrNiece.label>nevø</NephewOrNiece.label>
+    <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
 
-  <NephewOrNiece.label>nephew</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+    <UncleOrAunt.label>onkel</UncleOrAunt.label>
+    <UncleOrAunt.labelFemale>tante</UncleOrAunt.labelFemale>
 
-  <UncleOrAunt.label>uncle</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+    <Cousin.label>fætter</Cousin.label>
+    <Cousin.labelFemale>kusine</Cousin.labelFemale>
+    
+    <!-- distant family -->
 
-  <Cousin.label>cousin</Cousin.label>
-  <Cousin.labelFemale>cousin</Cousin.labelFemale>
+    <GreatGrandparent.label>oldefar</GreatGrandparent.label>
+    <GreatGrandparent.labelFemale>oldemor</GreatGrandparent.labelFemale>
 
+    <GreatGrandchild.label>oldebarn</GreatGrandchild.label>
+    <GreatGrandchild.labelFemale>oldebarn</GreatGrandchild.labelFemale>
 
-  <!-- distant family -->
+    <GranduncleOrGrandaunt.label>grandonkel</GranduncleOrGrandaunt.label>
+    <GranduncleOrGrandaunt.labelFemale>grandtante</GranduncleOrGrandaunt.labelFemale>
 
-  <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
+    <GrandnephewOrGrandniece.label>grandnevø</GrandnephewOrGrandniece.label>
+    <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
 
-  <GreatGrandchild.label>great grandson</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
+    <CousinOnceRemoved.label>grandfætter</CousinOnceRemoved.label>
+    <CousinOnceRemoved.labelFemale>grandkusine</CousinOnceRemoved.labelFemale>
 
-  <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
+    <SecondCousin.label>grandgrandfætter</SecondCousin.label>
+    <SecondCousin.labelFemale>grandgrandkusine</SecondCousin.labelFemale>
 
-  <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
-
-  <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
-  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
-
-  <SecondCousin.label>second cousin</SecondCousin.label>
-  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
-
-
-  <!-- kin -->
-
-  <Kin.label>kin</Kin.label>
-  <Kin.labelFemale>kin</Kin.labelFemale>
-
-
+    <!-- kin -->
+    
+    <Kin.label>pårørende</Kin.label>
+    <Kin.labelFemale>pårørende</Kin.labelFemale>
+    
 </LanguageData>

@@ -23,7 +23,7 @@
   <Leathers.label>læder</Leathers.label>
   <Medicine.label>medicin</Medicine.label>
   <Drugs.label>narkotika</Drugs.label>
-  <MortarShells.label>mortar shells</MortarShells.label>
+  <MortarShells.label>mortérgranater</MortarShells.label>
 
 
   <!-- Raw resources -->
@@ -73,8 +73,8 @@
 
   <!-- Chunks -->
 
-  <Chunks.label>klumper</Chunks.label>
-  <StoneChunks.label>stenklumper</StoneChunks.label>
+  <Chunks.label>stykker</Chunks.label>
+  <StoneChunks.label>stenstykker</StoneChunks.label>
 
 
   <!-- Corpses -->

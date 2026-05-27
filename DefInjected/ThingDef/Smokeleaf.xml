@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <SmokeleafJoint.label>røgblads smøg</SmokeleafJoint.label>
-    <SmokeleafJoint.description>Smøgblads blade udarbejdet til små ruller til rygning. Lægemidlet forbedrer humør, men øger også appetitten, reducerer fokus og forsinker bevægelse. Smøgblads brug kan producere en afhængighed. Kan produceres uden udstyr, ved en byggepladsen.</SmokeleafJoint.description>
+    <SmokeleafJoint.label>røgbladsjoint</SmokeleafJoint.label>
+    <SmokeleafJoint.description>Blade fra røgblade som er rullet som smøger. Rusmidlet forbedrer humøret, men øger også appetitten, reducerer fokus og sænker ens fart. Indtagelse af røgblad kan resultere i afhængighed. Joints kan produceres ved et crafting spot uden noget udstyr, og er en fast bestanddel hos mange traditionelle lavindustrielle kulturer.</SmokeleafJoint.description>
     <SmokeleafJoint.ingestible.ingestCommandString>Ryg {0}</SmokeleafJoint.ingestible.ingestCommandString>
     <SmokeleafJoint.ingestible.ingestReportString>Ryger {0}.</SmokeleafJoint.ingestible.ingestReportString>
 

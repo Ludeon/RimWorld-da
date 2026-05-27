@@ -1,20 +1,78 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-<UnfinishedSculpture.label>ufærdig skulptur</UnfinishedSculpture.label>
-<UnfinishedGun.label>ufærdig pistol</UnfinishedGun.label>
-<UnfinishedWeapon.label>ufærdigt våben</UnfinishedWeapon.label>
-<UnfinishedArmor.label>ufærdig rustning</UnfinishedArmor.label>
-<UnfinishedTechArmor.label>ufærdig rustning</UnfinishedTechArmor.label>
-<UnfinishedMetallicTechArmor.label>ufærdig rustning</UnfinishedMetallicTechArmor.label>
-<UnfinishedApparel.label>ufærdigt tøj</UnfinishedApparel.label>
-<UnfinishedBelt.label>ufærdigt belte</UnfinishedBelt.label>
-<UnfinishedComponent.label>ufærdigt komponent</UnfinishedComponent.label>
-
-
-  <!-- ======================= Minified things ========================= -->
-
-<MinifiedThing.label>minificeret genstand</MinifiedThing.label>
-
-
+  
+  <!-- EN: minified thing -->
+  <MinifiedThing.label>demontiertes Ding</MinifiedThing.label>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThingRealtimeDraw.label>demontiertes Ding</MinifiedThingRealtimeDraw.label>
+  
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>ausgegrabener Baum</MinifiedTree.label>
+  
+  <!-- EN: unfinished apparel -->
+  <UnfinishedApparel.label>ufærdigt tøj</UnfinishedApparel.label>
+  <!-- EN: An unfinished piece of an apparel. -->
+  <UnfinishedApparel.description>Et ufærdigt stykke tøj.</UnfinishedApparel.description>
+  
+  <!-- EN: unfinished simple armor -->
+  <UnfinishedArmor.label>ufærdig schlichte Rüstung</UnfinishedArmor.label>
+  <!-- EN: An unfinished piece of simple armor. -->
+  <UnfinishedArmor.description>Ein ufærdigt Teil enr schlichten Rüstung.</UnfinishedArmor.description>
+  
+  <!-- EN: unfinished belt -->
+  <UnfinishedBelt.label>ufærdigt belte</UnfinishedBelt.label>
+  <!-- EN: An unfinished piece of a belt. -->
+  <UnfinishedBelt.description>Et ufærdigt belte.</UnfinishedBelt.description>
+  
+  <!-- EN: unfinished component -->
+  <UnfinishedComponent.label>ufærdigt Bauteil</UnfinishedComponent.label>
+  <!-- EN: An unfinished component. -->
+  <UnfinishedComponent.description>Ein ufærdigt Bauteil.</UnfinishedComponent.description>
+  
+  <!-- EN: unfinished gun -->
+  <UnfinishedGun.label>ufærdig Schussvåben</UnfinishedGun.label>
+  <!-- EN: An unfinished gun of some kind. -->
+  <UnfinishedGun.description>en ufærdig Schussvåben.</UnfinishedGun.description>
+  
+  <!-- EN: unfinished bionic -->
+  <UnfinishedHealthItemBionic.label>ufærdigt bionisches Teil</UnfinishedHealthItemBionic.label>
+  <!-- EN: An unfinished bionic. -->
+  <UnfinishedHealthItemBionic.description>Ein ufærdigt bionisches Teil.</UnfinishedHealthItemBionic.description>
+  
+  <!-- EN: unfinished prosthetic -->
+  <UnfinishedHealthItemProsthetic.label>ufærdigt prothetisches Teil</UnfinishedHealthItemProsthetic.label>
+  <!-- EN: An unfinished prosthetic. -->
+  <UnfinishedHealthItemProsthetic.description>Ein ufærdigt prothetisches Teil.</UnfinishedHealthItemProsthetic.description>
+  
+  <!-- EN: unfinished mask -->
+  <UnfinishedMask.label>ufærdig maske</UnfinishedMask.label>
+  <!-- EN: An unfinished mask. -->
+  <UnfinishedMask.description>En ufærdig maske.</UnfinishedMask.description>
+  
+  <!-- EN: unfinished metal armor -->
+  <UnfinishedMetallicTechArmor.label>ufærdig metalrustning</UnfinishedMetallicTechArmor.label>
+  <!-- EN: An unfinished piece of metal armor. -->
+  <UnfinishedMetallicTechArmor.description>En ufærdig metalrustning.</UnfinishedMetallicTechArmor.description>
+  
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>ufærdigt Rucksack</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>Ein ufærdigt Teil ens Rucksacks.</UnfinishedPack.description>
+  
+  <!-- EN: unfinished sculpture -->
+  <UnfinishedSculpture.label>ufærdig skulptur</UnfinishedSculpture.label>
+  <!-- EN: An unfinished sculpture. -->
+  <UnfinishedSculpture.description>En ufærdig skulptur.</UnfinishedSculpture.description>
+  
+  <!-- EN: unfinished advanced armor -->
+  <UnfinishedTechArmor.label>ufærdig Hightech-Rüstung</UnfinishedTechArmor.label>
+  <!-- EN: An unfinished piece of high-tech armor. -->
+  <UnfinishedTechArmor.description>Ein ufærdigt Teil enr Hightech-Rüstung.</UnfinishedTechArmor.description>
+  
+  <!-- EN: unfinished weapon -->
+  <UnfinishedWeapon.label>ufærdigt våben</UnfinishedWeapon.label>
+  <!-- EN: An unfinished weapon. -->
+  <UnfinishedWeapon.description>Et ufærdigt våben.</UnfinishedWeapon.description>
+  
 </LanguageData>

@@ -6,15 +6,19 @@
 	<BorealForest.description>Nordlige skove af nåletræer. På trods af barske vintre, kan skovene understøtte en bred mængde af både små og store dyr, og sommerperioderne er varme.</BorealForest.description>
 
     <Tundra.label>tundra</Tundra.label>
-	<Tundra.description>Disse, for det meste, frosne sletter har ikke mange træer eller beplantning. Der er få små dyr og store flokke af vandrende planteædere - og kødædere, der følger efter dem.</Tundra.description>
+	<Tundra.description>Disse, for det meste, frosne sletter, har ikke mange træer eller beplantning. Der er få små dyr og store flokke af vandrende planteædere - og kødædere, der følger efter dem.</Tundra.description>
 
 	<ColdBog.label>kold mose</ColdBog.label>
   	<ColdBog.description>Et vådområde spækket med træer og slyngplanter. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Sygdom er udbredt i dette komptakte, våde økosystem.</ColdBog.description>
 	
-	<IceSheet.label>iskappe</IceSheet.label>
-	<IceSheet.description>Overfladen er dækket af en iskappe, der kan være flere kilometer tyk. Der er ingen adgang til jord, så der er ingen planter. De eneste dyr der ses her, migrerer andre steder hen - eller er kommet på afveje.</IceSheet.description>
-	
-	<SeaIce.label>havis</SeaIce.label>
+	<IceSheet.label>isdække</IceSheet.label>
+	<IceSheet.description>Overfladen er dækket af et lag af is, der kan være flere kilometer tyk. Der er ingen jord som planter kan gro i. De eneste dyr der ses her, migrerer andre steder hen - eller er kommet på afveje.</IceSheet.description>
+	  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>Isdække er ekstremt ubeboeligt. Der er ingen jord til planter og næsten intet dyreliv. Langsigtet overlevelse er en udfordring.</IceSheet.settleWarning>
+
+	<SeaIce.label>ishav</SeaIce.label>
 	<SeaIce.description>Permanente kapper af is flyder over vandet. Der er ingen jord, ingen planter, ingen mineraler at mine og næsten intet dyreliv.</SeaIce.description>
+	  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>Ishav er ekstremt ubeboeligt. Der er ingen jord til planter og næsten intet dyreliv. Langsigtet overlevelse er en udfordring.</SeaIce.settleWarning>
 	
 </LanguageData>

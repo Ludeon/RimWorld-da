@@ -43,7 +43,7 @@
 	<AverageOfAllAttacks>gennemsnit af alle angreb</AverageOfAllAttacks>
 	<StatsReport_ScenarioFactor>Scenarie</StatsReport_ScenarioFactor>
   <StatsReport_IngredientsMass>Ingredienser</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>Permanently disabled.</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>Slået fra permanent.</StatsReport_PermanentlyDisabled>
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <StatsReport_AddedBodyPartsMass>Tilføjede kropsdele</StatsReport_AddedBodyPartsMass>
   <StatsReport_StuffEffectMultiplier>Material effect multiplier</StatsReport_StuffEffectMultiplier>
@@ -52,7 +52,7 @@
   <StatsReport_WorkToUninstall>arbejde for at afinstallere</StatsReport_WorkToUninstall>
   <StatsReport_PlantGrowth>Vækstmultiplikator {0}</StatsReport_PlantGrowth>
   <StatsReport_PlantGrowth_Wild>scaled because wild</StatsReport_PlantGrowth_Wild>
-  <StatsReport_NotFlesh>Not flesh</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>Ikke kød</StatsReport_NotFlesh>
   <StatsReport_NotFresh>Ikke frisk</StatsReport_NotFresh>
   <StatsReport_WildMan>Vild mand</StatsReport_WildMan>
 

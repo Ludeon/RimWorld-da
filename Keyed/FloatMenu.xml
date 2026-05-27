@@ -9,22 +9,54 @@
   <CannotUseReserved>Kan ikke bruge (reserveret)</CannotUseReserved>
   <CannotUseFull>Kan ikke bruge (fyldt)</CannotUseFull>
   <LeaderUnavailable>leder {0} er ikke tilgængelig</LeaderUnavailable>
-  	<LeaderUnavailableNoLeader>leder er ikke tilgængelig</LeaderUnavailableNoLeader>
+  <LeaderUnavailableNoLeader>leder er ikke tilgængelig</LeaderUnavailableNoLeader>
+    <!-- EN: Not allowed -->
+  <NotAllowed>Ikke tilladt</NotAllowed>
 
-  <FireAt>Brand ved {0}</FireAt>
+  <!-- EN: Attack {0} -->
+  <Attack>Angrib {0}</Attack>
+  <!-- EN: Fire at {0} -->
+  <FireAt>Skyd på {0}</FireAt>
+  <!-- EN: Remove -->
+  <Remove>Fjern</Remove>
 
-  <OutOfRange>uden for rækkevide</OutOfRange>
-  <CannotHitTarget>kan ikke ramme målet</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} kan ikke begå vold</IsIncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} er ikke indkaldt</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>kan ikke beordre ikke-kontrollerede enheder</CannotOrderNonControlledLower>
-    <CannotAttackSelf>cannot attack self</CannotAttackSelf>
+  <!-- EN: out of range -->
+  <OutOfRange>uden for rækkevidde</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>for tæt på</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>Kan ikke ramme målet</CannotHitTarget>
+  <!-- EN: {0} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{0} er ude af stand til at begå vold</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>ude af stand til at begå vold</IncapableOfViolenceLower>
+  <!-- EN: {0} is incapable of shooting -->
+  <IsIncapableOfShootingLower>{0} er ude af stand til skydning</IsIncapableOfShootingLower>
+  <!-- EN: {0} is not drafted -->
+  <IsNotDraftedLower>{0} ist nicht im Kampfmodus</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>kan ikke beordre karakterer, som du ikke kontrollerer</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack -->
+  <CannotAttack>kan ikke angribe</CannotAttack>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>kan ikke angribe sig selv</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>kann Fraktionsverbündeten nicht angreifen</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>Kan ikke slukke brande.</IncapableOfFirefighting>
 
   <OrderManThing>Bemand {0}</OrderManThing>
 
-  <MeleeAttack>Nærkampsangrib {0}</MeleeAttack>
-  <MeleeAttackToDeath>Nærkampsangrib {0} til døde</MeleeAttackToDeath>
+  <!-- EN: Melee attack {0} -->
+  <MeleeAttack>Angrib {0} i nærkamp</MeleeAttack>
+  <!-- EN: Melee attack {0} to death -->
+  <MeleeAttackToDeath>Slå {0} ihjel i nærkamp</MeleeAttackToDeath>
+  <!-- EN: no path -->
   <NoPath>ingen rute</NoPath>
+  <!-- EN: burying -->
+  <Burying>begraver</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>für {0} markiert</DesignatedFor>
 
 <ForbiddenLower>forbudt</ForbiddenLower>
 	<ForbiddenOutsideAllowedAreaLower>udenfor tilladte område</ForbiddenOutsideAllowedAreaLower>
@@ -43,18 +75,18 @@
   <NoFood>ingen mad</NoFood>
   <AnimalsSkillTooLow>Dyrefærdighed for lav</AnimalsSkillTooLow>
     <CantInteractAnimalDowned>animal downed</CantInteractAnimalDowned>
-  <CantInteractAnimalAsleep>animal sleeping</CantInteractAnimalAsleep>
-  <CantInteractAnimalBusy>animal busy</CantInteractAnimalBusy>
+  <CantInteractAnimalAsleep>dyr sover</CantInteractAnimalAsleep>
+  <CantInteractAnimalBusy>dyr optaget</CantInteractAnimalBusy>
   <ConstructionSkillTooLow>construction skill too low</ConstructionSkillTooLow>
   <NoComponentsToRepair>mangler komponenter</NoComponentsToRepair>
   <NoFuelToRefuel>brug for {0}</NoFuelToRefuel>
   <NoWort>brug for malt</NoWort>
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
-  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
-  <ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
-  <CannotReach>cannot reach</CannotReach>
-  <NotSurgeryReady>not ready for surgery</NotSurgeryReady>
+  <SelfTendDisabled>selv-pleje slået fra</SelfTendDisabled>
+  <ReservedForPrisoners>reserveret til fanger</ReservedForPrisoners>
+  <CannotReach>kan ikke nå</CannotReach>
+  <NotSurgeryReady>ikke klar til operation</NotSurgeryReady>
   <SkillDisabled>skill incapable</SkillDisabled>
   <CantSowCavePlantBecauseOfLight>for lyst</CantSowCavePlantBecauseOfLight>
   <CantSowCavePlantBecauseUnroofed>uden tag</CantSowCavePlantBecauseUnroofed>
@@ -65,30 +97,77 @@
   <CannotGoNoPath>Kan ikke gå herhen (ingen rute)</CannotGoNoPath>
   <GoHere>Gå herhen</GoHere>
 
+  <!-- EN: Clean {0} -->
+  <CleanRoom>Rengør {0}</CleanRoom>
+
   <Arrest>Arrestér {0}</Arrest>
   <TryToArrest>Prøv at arrestere {0}</TryToArrest>
   <CannotArrest>Kan ikke arrestere</CannotArrest>
+    <!-- EN: {0} chance of arrest -->
+  <ArrestChance>{0} chance for at arrestere</ArrestChance>
 
+  <!-- EN: Capture {0} -->
   <Capture>Fang {0}</Capture>
+  <!-- EN: capture {0} -->
+  <CaptureLower>fang {0}</CaptureLower>
+  <!-- EN: Cannot capture -->
   <CannotCapture>Kan ikke fange</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>urokkeligt loyal</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>ikke rekrutterbar</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0} -->
+  <TransferEntity>Overfør {0}</TransferEntity> 
 
+  <!-- EN: Rescue {0} -->
   <Rescue>Red {0}</Rescue>
+  <!-- EN: Put {0} somewhere safe -->
+  <PutSomewhereSafe>Læg {0} et sikkert sted</PutSomewhereSafe>
+  <!-- EN: Taking {0} to bed. -->
+  <TakingToBed>Bringer {0} til en seng.</TakingToBed>
+  <!-- EN: Cannot rescue -->
   <CannotRescue>Kan ikke redde</CannotRescue>
+  <!-- EN: Cannot rescue {PAWN} -->
+  <CannotRescuePawn>Kan ikke redde {PAWN}</CannotRescuePawn>
 
   <CarryToCryptosleepCasket>Bær {0} til cryptosøvnskiste</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>Kan ikke bære til cryptosøvnskiste</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>Ingen tilgængelige cryptosøvnskiste.</NoCryptosleepCasket>
-  <NoPrisonerBed>Ingen tilgængelig, ureserverede, tillukket tildelt fangeseng.</NoPrisonerBed>
-  <NoNonPrisonerBed>Ingen tilgængelig, ureserverede kolonistseng.</NoNonPrisonerBed>
-  <NoAnimalBed>Ingen tilgængelig, ureserverede dyreseng.</NoAnimalBed>
-  <Reserved>Reserveret til en anden.</Reserved>
-  <ReservedBy>Reserveret til {0}</ReservedBy>
-  <IsReservedBy>{0} er reserveret til {1}.</IsReservedBy>
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>Keine Kryptoschlafkapsel verfügbar.</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>Temporäre Fraktionsmitglieder nicht erlaubt.</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>Aufgenommene Gefangene sind nicht erlaubt.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>Schon belegt</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>Kein Bett für Gefangene verfügbar, das erreichbar, frei und in sicherer Temperatur ist.</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBed>kein Bett für Gefangene verfügbar</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>Kein Bett für Kolonisten verfügbar, das erreichbar, frei und in sicherer Temperatur ist.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>Kein Bett für Tiere verfügbar, das erreichbar, frei und in sicherer Temperatur ist.</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>{0_gender ? Kein : Keine} {0} verfügbar, {0_gender ? der : die : das} erreichbar, erlaubt und unreserviert ist</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>{0_gender ? Kein : Keine} {0} verfügbar, {0_gender ? der : die : das} erlaubt und unreserviert ist</NoItemReserved>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>Reserveret af en anden.</Reserved>
+  <!-- EN: Reserved by {0} -->
+  <ReservedBy>Reserveret af {0}</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0} er reserveret af {1}.</IsReservedBy>
+  <!-- EN: Too heavy -->
   <TooHeavy>For tung</TooHeavy>
+  <!-- EN: {0} is in the same faction. -->
+  <SameFaction>{0} er i den samme fraktion.</SameFaction>
 
   <Incapable>kan ikke</Incapable>
   <IncapableOfCapacity>kan ikke {0}</IncapableOfCapacity>
+   <!-- EN: Must have {0} -->
+  <MustHaveHediff>{0} nødvendig</MustHaveHediff>
 
   <MinSkill>mininumnsniveau af færdighed</MinSkill>
 
@@ -97,9 +176,33 @@
   <CannotEquip>Kan ikke udruste {0}</CannotEquip>
     <CannotManThing>Kan ikke bemande {0}</CannotManThing>
 
-  <ForceWear>Tving til at tage {0} på</ForceWear>
-  <CannotWear>kan ikke tage {0} på</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>mangler kropsdele</CannotWearBecauseOfMissingBodyParts>
+  <!-- EN: Force wear {0} -->
+  <ForceWear>Bekleide dich mit {0}</ForceWear>
+  <!-- EN: Force target to wear {0}... -->
+  <ForceTargetToWear>Bekleide Ziel mit {0}...</ForceTargetToWear>
+  <!-- EN: Cannot wear {1} -->
+  <CannotWear>Kann {1} nicht anziehen</CannotWear>
+  <!-- EN: Cannot force target to wear {1} -->
+  <CannotForceTargetToWear>Kann Ziel nicht mit {1} bekleiden</CannotForceTargetToWear>
+  <!-- EN: Force equip {0} -->
+  <ForceEquipApparel>Rüste {0} aus</ForceEquipApparel>
+  <!-- EN: Force target to equip {0}... -->
+  <ForceTargetToEquipApparel>Rüste Ziel mit {0} aus...</ForceTargetToEquipApparel>
+  <!-- EN: Cannot equip {1} -->
+  <CannotEquipApparel>Kann {1} nicht ausrüsten</CannotEquipApparel>
+  <!-- EN: Cannot force target to equip {1} -->
+  <CannotForceTargetToEquipApparel>Kann Ziel nicht mit {1} ausrüsten</CannotForceTargetToEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>fehlende Körperteile</CannotWearBecauseOfMissingBodyParts>
+
+    <!-- EN: Reload {GEAR} with {AMMO} -->
+  <Reload>Lade {GEAR} mit {AMMO} nach</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>Fyldt</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>For få</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>Kann nicht genug {AMMO} tragen, um 1 Ladung nachzuladen.</ReloadCannotCarryEnough>
 
   <CannotPickUp>kan ikke samle {0} op</CannotPickUp>
   <CannotPickUpAll>kan ikke samle {0} op (alle)</CannotPickUpAll>
@@ -107,6 +210,10 @@
   <PickUpAll>Saml {0} op (alle)</PickUpAll>
   <PickUpSome>Saml {0} op...</PickUpSome>
   <PickUpCount>Saml {0} x{{0}} op</PickUpCount>
+    <!-- EN: Cannot pick up {0} -->
+  <CannotPickUpSome>Kan ikke samle {0} op</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>{0} {1} tilladt</MaxPickUpAllowed>
 
   <CannotGiveToPackAnimal>Kan ikke give {0} til lastdyr</CannotGiveToPackAnimal>
   <CannotGiveToPackAnimalAll>Kan ikke give {0} (alle) til lastdyr</CannotGiveToPackAnimalAll>
@@ -127,8 +234,29 @@
   <CarryToExit>Bær {0} og forlad området</CarryToExit>
     <CarryToExitAndCapture>Fang {0} og forlad området</CarryToExitAndCapture>
 
+    <!-- EN: Strip {0} -->
   <Strip>Afklæd {0}</Strip>
+  <!-- EN: Cannot strip {0} -->
   <CannotStrip>Kan ikke afklæde {0}</CannotStrip>
+  <!-- EN: Cannot drop {0} -->
+  <CannotDrop>Kan ikke smide {0}</CannotDrop>
+  <!-- EN: Carry {0} -->
+  <Carry>Bær {0}</Carry>
+  <!-- EN: Cannot carry {0} -->
+  <CannotCarry>Kan ikke bære {0}</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>fjendtlig</CarriedPawnHostile>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>midlertidigt medlem af fraktionen</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>Outfits von temporären Fraktionsmitgliedern können nicht geändert werden.</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>ville erstatte låst beklædning</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0} in {1} -->
+  <CannotPlaceIn>Kan ikke lægge {0} i {1}</CannotPlaceIn>
+  <!-- EN: Place {0} in {1} -->
+  <PlaceIn>Læg {0} i {1}</PlaceIn>
 
   <SelfDestructHere>Selvdestruér her</SelfDestructHere>
 
@@ -136,23 +264,44 @@
 
   <UseMedicalBed>Hvil indtil helet</UseMedicalBed>
   <NotInjured>Ikke såret</NotInjured>
+   <!-- EN: no doctor -->
+  <NoDoctor>ingen doktor</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>dieses Bett ist nicht für Sklaven vorgesehen</NotForSlaves>
+  <!-- EN: Medical care disabled -->
+  <MedicalCareDisabled>Lægebehandling slået fra</MedicalCareDisabled>
   <SomeoneElseSleeping>Optaget</SomeoneElseSleeping>
 
+    <!-- EN: Trade with {0} -->
   <TradeWith>Handl med {0}</TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>Send handler væk</DismissTrader>
+  <!-- EN: Cannot trade -->
   <CannotTrade>Kan ikke handle</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>Handler sendt væk</TraderDismissed>
+
+    <!-- EN: Open {0_label} -->
+  <Open>Åbn {0}</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>Kan ikke åbne {0}</CannotOpen>
 
   <EnterMap>Gå ind i {0}</EnterMap>
   <VisitSettlement>Besøg {0}</VisitSettlement>
   <VisitPeaceTalks>Besøg {0}</VisitPeaceTalks>
   <VisitEscapeShip>Besøg {0}</VisitEscapeShip>
   <AttackSettlement>Angrib {0}</AttackSettlement>
-  <ApproachSite>Approach {0}</ApproachSite>
-  <ApproachingSite>Approaching {0}</ApproachingSite>
+  <ApproachSite>Nærm {0}</ApproachSite>
+  <ApproachingSite>Nærmer sig {0}</ApproachingSite>
   <OfferGifts>Tilbyd gaver</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>Handl med {0}</TradeWithSettlement>
 
   <!-- Specific thing interactions -->
   <EnterCryptosleepCasket>Gå ind i cryptosøvnskiste</EnterCryptosleepCasket>
   <OpenCryptosleepCasket>Åbn cryptosøvnskiste</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>Betritt Raumfähre</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
   <CannotGenericWork>Kan ikke {0} {1}</CannotGenericWork>
@@ -167,7 +316,7 @@
 
   <CannotPrioritizeWorkTypeDisabled>Kan ikke prioritere (vil aldrig udføre {0})</CannotPrioritizeWorkTypeDisabled>
 
-  	<CannotPrioritizeWorkGiverDisabled>Kan ikke prioritere (vil aldrig {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Kan ikke prioritere (vil aldrig {0})</CannotPrioritizeWorkGiverDisabled>
   <WillNever>vil aldrig {0}</WillNever>
 
   <CannotPrioritizeNotAssignedToWorkType>Kan ikke prioritere (ikke udpeget som {0})</CannotPrioritizeNotAssignedToWorkType>
@@ -177,17 +326,26 @@
   <CannotPrioritizeForbidden>Kan ikke prioritere ({0} er forbudt)</CannotPrioritizeForbidden>
     <CannotPrioritizeCellForbidden>Kan ikke prioritere (forbudt)</CannotPrioritizeCellForbidden>
   <CannotPrioritizeForbiddenOutsideAllowedArea>Kan ikke prioritere ({0} er udenfor tiladt område)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>Kan ikke prioritere at begrave</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Prioritér {0} {1}</PrioritizeGeneric>
+  <!-- EN: Prioritize {0} -->
+  <PrioritizeGenericSimple>Prioritér {0}</PrioritizeGenericSimple>
 
-  <DropAtEdge>Drop på kanten</DropAtEdge>
-  <DropInCenter>Drop i centrum</DropInCenter>
-  <AttackAndDropAtEdge>Angrib {0}: Drop på kanten</AttackAndDropAtEdge>
-  <AttackAndDropInCenter>Angrib {0}: Drop i centrum</AttackAndDropInCenter>
+  <!-- EN: Launch to {LOCATION_label} -->
+  <LaunchTo>Send til {LOCATION_label}</LaunchTo>
+  <!-- EN: Are you sure you want to launch? -->
+  <LaunchToConfirmation>Soll der Flug wirklich stattfinden?</LaunchToConfirmation>
+  <DropAtEdge>Land ved kanten</DropAtEdge>
+  <DropInCenter>Land i centrum</DropInCenter>
+  <AttackShuttle>Angrib {0}</AttackShuttle>
+  <AttackAndDropAtEdge>Angrib {0}: Land ved kanten</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>Angrib {0}: Land i centrum</AttackAndDropInCenter>
 
-  <VomitingLower>vomiting</VomitingLower>
-  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+  <VomitingLower>kaster op</VomitingLower>
+  <NotInterruptibleLower>kan ikke afbrydes</NotInterruptibleLower>
   
   <AddWaypoint>Add a new waypoint here</AddWaypoint>
   <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
@@ -195,19 +353,109 @@
   <RemoveAllDesignations>Cancel all designations</RemoveAllDesignations>
   <DesignateAll>Designate all</DesignateAll>
   <CountToDesignate>{0} affected</CountToDesignate>
-  <ForbidAllItems>Forbid all items</ForbidAllItems>
-  <UnforbidAllItems>Unforbid all items</UnforbidAllItems>
-  <RearmAllTraps>Rearm alle fælder</RearmAllTraps>
+  <ForbidAllItems>Forbyd alle genstande</ForbidAllItems>
+  <UnforbidAllItems>Tillad alle genstande</UnforbidAllItems>
 
   <!-- Transport pods -->
-  <LandInExistingMap>Zoom in and choose a landing spot in {0}</LandInExistingMap>
+  <LandInExistingMap>Zoom ind and choose a landing spot in {0}</LandInExistingMap>
   <TransportPodsContentsWillBeLost>Indholdet vil gå tabt</TransportPodsContentsWillBeLost>
   <FormCaravanHere>Dan karavane her</FormCaravanHere>
   <GiveToCaravan>Giv til {0}</GiveToCaravan>
-  <GiveGiftViaTransportPods>Giv som en gave til {0} ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Giv som gave til {0} ({1})</GiveGiftViaTransportPods>
+    <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>Gehört nicht zur Startgruppe</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <FreePrisoner>Sæt fange fri</FreePrisoner>
   <OfferHelp>Tilbyd hjælp</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>anvend {0}</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>For farligt</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>Ingen at ringe til</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>Påkald {0}</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>Kan ikke påkalde {0}</CannotInvoke>
+  <!-- EN: power -->
+  <Power>Kraft</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>allerede påkaldt</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>Plej {0}</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>Kan ikke pleje {0}</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>{0} har ikke brug for at blive plejet</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>uden medicin</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>Reparér {0}</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>Kan ikke reparere {0}</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Kan ikke gå ind i</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>Kan ikke gå ind i {0}</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>lukket</PortalClosed>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>Kan ikke lægge an på {0}</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>Læg an på {0}</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>afskyet mad</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>uegnet mad</FoodNotSuitable>
+
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>Ungeeignete Droge</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>Tildel læsning...</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>Læs {0}</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>Kan ikke læse {0}</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>Prioritér at slukke ildebrande</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>allerede analyseret</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>kein erreichbarer, unbesetzter Forschertisch verfügbar</NoResearchBench>
+
+  <!-- Hacking -->
+  <!-- EN: Hack {0} -->
+  <Hack>Hack {0}</Hack>
+  <!-- EN: Choose a colonist to hack this. -->
+  <HackDesc>Vælg en kolonist som skal hacke dette.</HackDesc>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>Kan ikke hacke {0}</CannotHack>
+  <!-- EN: Locked out -->
+  <LockedOut>Låst ude</LockedOut>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>Allerede hacket</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>Ikke i stand til at hacke</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>for at smide forsyninger</ToDropSupplies>
   
 </LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>bid</Bite.label>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>Wucht</Blunt.label>
+  
+  <!-- EN: cut -->
+  <Cut.label>skær</Cut.label>
+  
+  <!-- EN: demolish -->
+  <Demolish.label>riv ned</Demolish.label>
+  
+  <!-- EN: kick material in eyes -->
+  <KickMaterialInEyes.label>spark materiale i øjnene</KickMaterialInEyes.label>
+  
+  <!-- EN: poke -->
+  <Poke.label>prik</Poke.label>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>krads</Scratch.label>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>giftkrads</ScratchToxic.label>
+  
+  <!-- EN: stab -->
+  <Stab.label>stik</Stab.label>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>giftbid</ToxicBite.label>
+  
+</LanguageData>

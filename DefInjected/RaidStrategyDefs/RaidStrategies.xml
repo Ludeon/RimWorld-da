@@ -2,17 +2,17 @@
 
     <ImmediateAttack.letterLabelEnemy>Togt</ImmediateAttack.letterLabelEnemy>
     <ImmediateAttack.arrivalTextEnemy>De angriber med det samme.</ImmediateAttack.arrivalTextEnemy>
-    <ImmediateAttack.letterLabelFriendly>Venligsindede</ImmediateAttack.letterLabelFriendly>
+    <ImmediateAttack.letterLabelFriendly>Venligtsindede</ImmediateAttack.letterLabelFriendly>
     <ImmediateAttack.arrivalTextFriendly>De er rykker ind for at hjælpe med det samme.</ImmediateAttack.arrivalTextFriendly>
 
     <ImmediateAttackSmart.letterLabelEnemy>Togt</ImmediateAttackSmart.letterLabelEnemy>
     <ImmediateAttackSmart.arrivalTextEnemy>De angriber med det samme.\n\nPas på - det ser ud til de usædvanlig smart med deres taktik.</ImmediateAttackSmart.arrivalTextEnemy>
-    <ImmediateAttackSmart.letterLabelFriendly>Venligsindede</ImmediateAttackSmart.letterLabelFriendly>
+    <ImmediateAttackSmart.letterLabelFriendly>Venligtsindede</ImmediateAttackSmart.letterLabelFriendly>
     <ImmediateAttackSmart.arrivalTextFriendly>De er rykker ind for at hjælpe med det samme.</ImmediateAttackSmart.arrivalTextFriendly>
 
     <StageThenAttack.letterLabelEnemy>Togt</StageThenAttack.letterLabelEnemy>
-    <StageThenAttack.arrivalTextEnemy>De vil forberede sig i lidt tid, og så angribe.\n\nForbered dit forsvar eller angrib dem Prepare a defense or attack them først.</StageThenAttack.arrivalTextEnemy>
-    <StageThenAttack.letterLabelFriendly>Venligsindede</StageThenAttack.letterLabelFriendly>
+    <StageThenAttack.arrivalTextEnemy>De vil forberede sig i lidt tid, og så angribe.\n\nForbered dit forsvar eller angrib dem først.</StageThenAttack.arrivalTextEnemy>
+    <StageThenAttack.letterLabelFriendly>Venligtsindede</StageThenAttack.letterLabelFriendly>
     <StageThenAttack.arrivalTextFriendly>De vil forberede sig lidt inden de rykker ind for at hjælpe dig.</StageThenAttack.arrivalTextFriendly>
 
     <ImmediateAttackSappers.letterLabelEnemy>Togt</ImmediateAttackSappers.letterLabelEnemy>
@@ -20,7 +20,7 @@
 
     <Siege.letterLabelEnemy>Belejring</Siege.letterLabelEnemy>
     <Siege.arrivalTextEnemy>Det ser ud til at de vil belejre kolonien og bombader dig med langt rækkende artilleri. Du kan prøve at holde ud længe dem - eller gå efter dem.</Siege.arrivalTextEnemy>
-    <Siege.letterLabelFriendly>Venligsindede</Siege.letterLabelFriendly>
+    <Siege.letterLabelFriendly>Venligtsindede</Siege.letterLabelFriendly>
     <Siege.arrivalTextFriendly>Ser ud til at de vil bruge belejrings taktikker til at hjælpe dig.</Siege.arrivalTextFriendly>
 
 </LanguageData>

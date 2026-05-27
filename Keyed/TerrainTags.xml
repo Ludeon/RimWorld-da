@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: water and marsh -->
+  <TerrainTagWater>vand og sump</TerrainTagWater>
+  <!-- EN: river -->
+  <TerrainTagRiver>flod</TerrainTagRiver>
+  <!-- EN: ocean -->
+  <TerrainTagOcean>hav</TerrainTagOcean>
+  <!-- EN: ice -->
+  <TerrainTagIce>is</TerrainTagIce>
+  <!-- EN: fine floor -->
+  <TerrainTagFineFloor>fint gulv</TerrainTagFineFloor>
+  <!-- EN: soil -->
+  <TerrainTagSoil>jord</TerrainTagSoil>
+  <!-- EN: road -->
+  <TerrainTagRoad>vej</TerrainTagRoad>
+  <!-- EN: floor -->
+  <TerrainTagFloor>gulv</TerrainTagFloor>
+  <!-- EN: substructure -->
+  <TerrainTagSubstructure>substruktur</TerrainTagSubstructure>
+  <!-- EN: insect -->
+  <TerrainTagInsect>insekt</TerrainTagInsect>
+
+</LanguageData>

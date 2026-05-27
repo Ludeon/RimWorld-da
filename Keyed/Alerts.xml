@@ -3,28 +3,28 @@
 
 	<ClickToJumpToProblem>Klik her for at gå til problemet.</ClickToJumpToProblem>
 
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
+  <BreakRiskMinor>Risiko for mindre sammenbrud</BreakRiskMinor>
+  <BreakRiskMajor>Risiko for større sammenbrud</BreakRiskMajor>
+  <BreakRiskExtreme>Risiko for ekstremt sammenbrud</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Disse kolonister er i dårligt humør og risikerer at have et mindre mentalt sammenbrud når som helst:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Disse kolonister er i rigtig dårligt humør og risikerer at have et større mentalt sammenbrud når som helst:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Disse kolonister er voldsomt stressede og risikerer at have et ekstremt (og potentielt voldeligt) mentalt sammenbrud når som helst:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Tjek disse kolonisters Behov-fane for at se, hvad der generer dem.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
   
   <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
   <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\nTo rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
 
   <NeedDefenses>Mangler forsvar</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+  <NeedDefensesDesc>Du har opholdt dig her i et stykke tid og er højst sandsynligvis blevet set. Pirate raids will start soon.\n\nDu bør bygge forsvar, såsom sandsække eller fælder.</NeedDefensesDesc>
 
-  <NeedDoctor>Mangler en doktor</NeedDoctor>
+  <NeedDoctor>Mangler doktor</NeedDoctor>
   <NeedDoctorDesc>Disse kolonister har brug for medicinsk behandling, men du har ingen raske kolonister udpeget som doktorer.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
 
-  <NeedMiner>Mangler en miner</NeedMiner>
+  <NeedMiner>Mangler miner</NeedMiner>
   <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
 
-  <NeedWarden>Mangler en opsynsmand</NeedWarden>
+  <NeedWarden>Mangler opsynsmand</NeedWarden>
   <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
   <LowFood>Lav madbeholdning</LowFood>
@@ -35,22 +35,22 @@
   <NoMedicineDesc>Du har ingen medicin tilbage på lageret.\n\nKøb mere medicin fra handelsmænd.</NoMedicineDesc>
   
   <NeedColonistBeds>Mangler kolonistsenge</NeedColonistBeds>
-  <NeedColonistBedsDesc>Du har flere kolonister end der er kolonistsenge. Nogen vil mangle et sted at sove.\n\nEnten byg flere senge eller skift en fangeseng til en kolonistseng.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Du har flere kolonister end der er kolonistsenge. Nogen vil mangle et sted at sove.\n\nEnten byg flere senge eller skift en fangeseng til en kolonistseng.\n\nHvis du ikke har nogen ressourcer, kan du placere sleeping spots som er gratis og kan anvendes øjeblikkeligt.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
   <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>Laset beklædning</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nDu kan sy beklædninger ved et tailoring table eller købe det fra handelsmænd.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>Disse kolonisters beklædning er i laser, hvilket gør dem kede af det:\n\n{0}\nSkaf dem beklædning som ikke er så ødelagt.\n\nDu kan sy beklædning ved en sybænk eller købe det fra handelsmænd.</AlertTatteredApparelDesc>
 
 	<AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
-	<AlertUnhappyNudityDesc>Disse kolonister er nøgne og er ikke glade for det:\n\n{0}\nSkaf dem noget tøj.\n\nDu kan sy beklædninger ved et tailoring table eller købe det fra handelsmænd.</AlertUnhappyNudityDesc>
+	<AlertUnhappyNudityDesc>Disse kolonister er nøgne og er ikke glade for det:\n\n{0}\nSkaf dem noget tøj.\n\nDu kan sy beklædning ved en sybænk eller købe det fra handelsmænd.</AlertUnhappyNudityDesc>
 
 	<Starvation>Sult</Starvation>
   <StarvationDesc>Disse kolonister sulter:\n\n{0}\nSkaf dem noget mad.</StarvationDesc>
 
   <StarvationAnimals>Dyr sulter</StarvationAnimals>
-  <StarvationAnimalsDesc>Disse dyr i kolonien sulter:\n\n{0}\nSkaf dem noget mad.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>Disse dyr sulter:\n\n{0}\nSkaf dem noget mad.</StarvationAnimalsDesc>
 
   <Exhaustion>Udmattelse</Exhaustion>
   <ExhaustionDesc>Disse kolonister er udmattede og har brug for hvile:\n\n{0}\nSkaf dem hvile. De har brug for en seng der er markeret til anvendelse af kolonister. Sørg også for at de ikke er valgt til kamp.</ExhaustionDesc>
@@ -61,18 +61,18 @@
   <NeedMealSource>Need meal source</NeedMealSource>
   <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
 
-  <NeedJoySource>Need recreation variety</NeedJoySource>
-  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
-  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
-  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
+  <NeedJoySource>Mangler forskellige fritidsaktiviteter</NeedJoySource>
+  <NeedJoySourceDesc>Der er kun {0} forskellige fritidsaktiviteter tilgængelige i {1}, men på nuværende forventningsniveau ({2}), kræver kolonister {3} forskellige typer af aktiviteter for at være tilfredsstillet. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Tilgængelige fritidsaktiviteter</AvailableRecreationTypes>
+  <MissingRecreationTypes>Manglende fritidsaktiviteter</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Det er anbefalet af have {2} typer af fritidsaktiviteter.</CurrentExpectationsAndRecreation>
   <bored>keder sig</bored>
 
   <Boredom>Kedsomhed</Boredom>
-  <BoredomDesc>Disse personer har enten brug for fritid eller er allerede tildelt fritid, men er trætte af de tilgængelige former for fritidsaktiviteter:\n\n{0}\n\nSkaf dem flere forskellige fritidsaktiviteter.\n\nCurrently available recreation types for {1}:\n\n{2}</BoredomDesc>
+  <BoredomDesc>Disse personer har enten brug for fritid eller er allerede tildelt fritid, men er trætte af de tilgængelige former for fritidsaktiviteter:\n\n{0}\n\nSkaf dem flere forskellige fritidsaktiviteter.\n\nNuværende tilgængelige typer af fritidsaktiviteter for {1}:\n\n{2}</BoredomDesc>
 
   <NeedBatteries>Mangler batterier</NeedBatteries>
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>You have a solar or wind generator, men ingen batterier. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
   <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
@@ -80,19 +80,19 @@
   <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
   <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>Need research project</NeedResearchProject>
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
+  <NeedResearchProject>Mangler forskningsprojekt</NeedResearchProject>
+  <NeedResearchProjectDesc>Du har udstyret til at forske, men du har ikke valgt et projekt.\n\nÅbn forskningsmenuen og vælg et projekt.</NeedResearchProjectDesc>
 
   <ColonistsIdle>{0} kolonister er ubeskæftigede</ColonistsIdle>
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Disse kolonister vandrer formålsløst rundt:\n\n{0}\nDu burde nok sørge for at de har noget produktivt, som de kan tage sig til.</ColonistsIdleDesc>
 
   <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
   <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Hypotermi</AlertHypothermia>
-  <AlertHypothermiaDesc>Disse kolonister lider af hypotermi.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
+  <AlertHypothermiaDesc>Disse kolonister lider af hypotermi.\n\n{0}\nSørg for at de har passende tøj til sæsonen og at indendørsområderne har tilstrækkeligt med varme.</AlertHypothermiaDesc>
 
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>{0} patienter venter på medicinsk operation</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
 
   <FireInHomeArea>Brand!</FireInHomeArea>
@@ -108,10 +108,10 @@
   <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
   <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>Varmt tøj nødvendigt</NeedWarmClothes>
-  <NeedWarmClothesDesc1>Mindst {0} af dine kolonister kommer til at mangle varmt tøj når den kolde sæson begynder.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>Alle dine kolonister kommer til at mange varmt tøj når den kolde sæson begynder.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nDu kan sy varmt tøj ved en sybænk (tailoring bench*) eller du kan købe dem fra handelsmænd.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Mangler varmt tøj</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Mindst {0} af dine kolonister kommer til at mangle varmt tøj, når den kolde sæson begynder.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Alle dine kolonister kommer til at mangle varmt tøj, når den kolde sæson begynder.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Temperaturen udenfor vil snart ramme {0}.\n\nDu kan sy varmt tøj ved en sybænk (tailoring bench*) eller du kan købe det fra handelsmænd.</NeedWarmClothesDesc2>
   
   <ImmobileCaravan>Immobil karavane</ImmobileCaravan>
   <ImmobileCaravanDesc>En af dine karavaner er immobil, fordi den bærer på for meget.\n\nDu kan gøre karavanen mobil igen ved at give afkald på nogle af genstandene i fanen GENSTANDE.</ImmobileCaravanDesc>

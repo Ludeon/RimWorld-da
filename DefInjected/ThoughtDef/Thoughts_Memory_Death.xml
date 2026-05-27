@@ -22,7 +22,7 @@
   <KnowColonistExecuted.stages.3.description>En kolonist døde fordi nogen tog kropsdele fra ham. Det er forfærdeligt.</KnowColonistExecuted.stages.3.description>
 
   <KnowPrisonerDiedInnocent.stages.0.label>uskyldig fange døde</KnowPrisonerDiedInnocent.stages.0.label>
-  <KnowPrisonerDiedInnocent.stages.0.description>En af vores fanger døde trods vedkommende var harmløse. Vi bør være i stand til at tage sig af vores fanger. Hvis vi ønskede dem døde, kunne vi have i det mindste gennemført en ordentlig henrettelse i stedet tillade den slags barbarisme.</KnowPrisonerDiedInnocent.stages.0.description>
+  <KnowPrisonerDiedInnocent.stages.0.description>En af vores fanger døde til trods for at vedkommende var harmløs. Vi bør være i stand til at tage os af vores fanger. Hvis vi ønskede dem døde, kunne vi i det mindste have gennemført en ordentlig henrettelse i stedet for at tillade den slags barbarisme.</KnowPrisonerDiedInnocent.stages.0.description>
 
   <KnowColonistDied.stages.0.label>kolonist døde</KnowColonistDied.stages.0.label>
   <KnowColonistDied.stages.0.description>En af vores folk døde. Vi bør være i stand til at tage os af vores folk.</KnowColonistDied.stages.0.description>
@@ -61,7 +61,7 @@
   <MyFianceDied.stages.0.description>Min forlovede døde. Sikke en mand... min fremtid er væk.</MyFianceDied.stages.0.description>
 
   <MyFianceeDied.stages.0.label>min forlovede {0} døde</MyFianceeDied.stages.0.label>
-  <MyFianceeDied.stages.0.description>Min forlovede døde. Sikke en kvinde ... min fremtid er væk.</MyFianceeDied.stages.0.description>
+  <MyFianceeDied.stages.0.description>Min forlovede døde. Sikke en kvinde... min fremtid er væk.</MyFianceeDied.stages.0.description>
 
   <MyLoverDied.stages.0.label>min elsker {0} døde</MyLoverDied.stages.0.label>
   <MyLoverDied.stages.0.description>Min elsker døde. Jeg er alene.</MyLoverDied.stages.0.description>
@@ -87,7 +87,7 @@
   <MyNephewDied.stages.0.label>min nevø {0} døde</MyNephewDied.stages.0.label>
   <MyNephewDied.stages.0.description>Min nevø døde. Sådan et vidunderligt barn.</MyNephewDied.stages.0.description>
 
-  <MyHalfSiblingDied.stages.0.label>min halv-søsken {0} døde</MyHalfSiblingDied.stages.0.label>
+  <MyHalfSiblingDied.stages.0.label>min halvsøsken {0} døde</MyHalfSiblingDied.stages.0.label>
   <MyHalfSiblingDied.stages.0.description>Min halvsøsken døde. Mit eget kød og blod...</MyHalfSiblingDied.stages.0.description>
 
   <MyAuntDied.stages.0.label>min tante {0} døde</MyAuntDied.stages.0.label>

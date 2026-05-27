@@ -1,48 +1,140 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AteInImpressiveDiningRoom.stages.3.label>anstændig spisestue</AteInImpressiveDiningRoom.stages.3.label>
-  <AteInImpressiveDiningRoom.stages.3.description>Jeg spiste mit måltid i en anstændig spisestue.</AteInImpressiveDiningRoom.stages.3.description>
+  <!-- EN: decent dining room -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>udmærket spisestue</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <!-- EN: I ate my meal in a decent dining room. -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>Jeg spiste mit måltid i en udmærket spisestue.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <!-- EN: slightly impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>lettere imponerende spisestue</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a slightly impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>Jeg spiste mit måltid i en lettere imponerende spisestue.</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <!-- EN: somewhat impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>temmelig imponerende spisestue</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>Jeg spiste mit måltid i en temmelig imponerende spisestue.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <!-- EN: very impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>meget imponerende spisestue</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a very impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>Jeg spiste mit måltid i en meget imponerende spisestue.</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <!-- EN: extremely impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>ekstremt imponerende spisestue</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>Jeg spiste mit måltid i en ekstremt imponerende spisestue.</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <!-- EN: unbelievably impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>utrolig imponerende spisestue</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>Jeg spiste mit måltid i en utrolig imponerende spisestue.</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <!-- EN: wondrously impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>vidunderligt imponerende spisestue</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Jeg spiste mit måltid i en vidunderligt imponerende spisestue.</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
   
-  <AteInImpressiveDiningRoom.stages.4.label>lidt imponerende spisestue</AteInImpressiveDiningRoom.stages.4.label>
-  <AteInImpressiveDiningRoom.stages.4.description>Jeg spiste mit måltid i en mindre imponerende spisestue.</AteInImpressiveDiningRoom.stages.4.description>
+  <!-- EN: decent rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>udmærket fritidsrum</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <!-- EN: I had fun in a decent rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>Jeg havde det sjovt i et udmærket fritidsrum.</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <!-- EN: slightly impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>lettere imponerende fritidsrum</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <!-- EN: I had fun in a nice rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>Jeg havde det sjovt i et godt fritidsrum.</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <!-- EN: somewhat impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>temmelig imponerende fritidsrum</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <!-- EN: I had a great time in an impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>Jeg havde det virkelig sjovt i et imponerende fritidsrum.</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <!-- EN: very impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>meget imponerende fritidsrum</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <!-- EN: I had a great time in a very impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>Jeg havde det virkelig sjovt i et meget imponerende fritidsrum.</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <!-- EN: extremely impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>ekstremt imponerende fritidsrum</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>Jeg havde det virkelig sjovt i et ekstremt imponerende fritidsrum. Jeg kunne blive der for evigt.</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <!-- EN: unbelievably impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>utrolig imponerende fritidsrum</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>Jeg havde det virkelig sjovt i et utrolig imponerende fritidsrum. Jeg kunne blive der for evigt.</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <!-- EN: wondrously impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>vidunderligt imponerende fritidsrum</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Jeg havde det virkelig sjovt i et vidunderligt imponerende fritidsrum. Jeg kunne blive der for evigt.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+ 
+ <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>forfærdelig barak</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>Jeg var nødt til at sove i en forfærdelig barak! Ikke nok med at det var et forfærdeligt værelse, men jeg var også nødt til at dele det med andre!</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>kedelig barak</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>Jeg var nødt til at sove i en kedelig barak. Ikke nok med det, så var jeg også nødt til at dele værelset med andre.</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>middelmådig barak</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>Jeg var nødt til at sove i en middelmådig barak sammen med andre folk. Jeg bryder mig virkelig ikke om dette.</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>udmærket barak</SleptInBarracks.stages.decent_barracks.label>
+  <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barracks.description>Jeg sov i en udmærket barak, men jeg bryder mig virkelig ikke om at dele soveværelse med andre.</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>lettere imponerende barak</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>Jeg sov i en lettere imponerende barak. Men jeg bryder mig virkelig ikke om at dele soveværelse med andre.</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>imponerende barak</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>Jeg sov i en imponerende barak. Men det stinker at jeg var nødt til at dele den med andre.</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>meget imponerende barak</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>Jeg sov i en meget imponerende barak. Det generer mig ikke at jeg skal dele den med andre.</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>ekstremt imponerende barak</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>Jeg sov i en ekstremt imponerende barak. Det generer mig ikke at jeg skal dele den med andre.</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>utrolig imponerende barak</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>Barakken som jeg sov i, var så imponerende at det slet ikke generer mig at dele den med andre.</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>vidunderligt imponerende barak</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>Jeg sov i en barak som var helt vidunderlig. Bare det at dele sådan et værelse med andre gør mig glad.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
   
-  <AteInImpressiveDiningRoom.stages.5.label>imponerende spisestue</AteInImpressiveDiningRoom.stages.5.label>
-  <AteInImpressiveDiningRoom.stages.5.description>Jeg spiste mit måltid i en imponerende spisestue.</AteInImpressiveDiningRoom.stages.5.description>
-  
-  <AteInImpressiveDiningRoom.stages.6.label>meget imponerende spisestue</AteInImpressiveDiningRoom.stages.6.label>
-  <AteInImpressiveDiningRoom.stages.6.description>Jeg spiste mit måltid i en meget imponerende spises.</AteInImpressiveDiningRoom.stages.6.description>
-    
-  <AteInImpressiveDiningRoom.stages.7.label>ekstremt imponerende spisestue</AteInImpressiveDiningRoom.stages.7.label>
-  <AteInImpressiveDiningRoom.stages.7.description>Jeg spiste mit måltid i en ekstremt imponerende spisestue. Jeg kunne blive der for evigt..</AteInImpressiveDiningRoom.stages.7.description>
-  
-  <AteInImpressiveDiningRoom.stages.8.label>utroligt imponerende spisestue</AteInImpressiveDiningRoom.stages.8.label>
-  <AteInImpressiveDiningRoom.stages.8.description>Jeg spiste mit måltid i en utroligt imponerende spisestue. Jeg kunne blive der for evigt.</AteInImpressiveDiningRoom.stages.8.description>
-  
-  <AteInImpressiveDiningRoom.stages.9.label>vidunderlig imponerende spisestue</AteInImpressiveDiningRoom.stages.9.label>
-  <AteInImpressiveDiningRoom.stages.9.description>Jeg spiste mit måltid i en vidunderlig spisesal. Jeg kunne blive der for evigt.</AteInImpressiveDiningRoom.stages.9.description>
-
-  
-  <JoyActivityInImpressiveRecRoom.stages.3.label>anstændigt hobbyrum</JoyActivityInImpressiveRecRoom.stages.3.label>
-  <JoyActivityInImpressiveRecRoom.stages.3.description>Jeg havde det sjovt i en anstændig hobbyrum.</JoyActivityInImpressiveRecRoom.stages.3.description>
-  
-  <JoyActivityInImpressiveRecRoom.stages.4.label>lidt imponerende hobbyrum</JoyActivityInImpressiveRecRoom.stages.4.label>
-  <JoyActivityInImpressiveRecRoom.stages.4.description>Jeg havde det sjovt i et mindre imponerende hobbyrum.</JoyActivityInImpressiveRecRoom.stages.4.description>
-  
-  <JoyActivityInImpressiveRecRoom.stages.5.label>imponerende hobbyrum</JoyActivityInImpressiveRecRoom.stages.5.label>
-  <JoyActivityInImpressiveRecRoom.stages.5.description>Jeg havde det rigtig sjovt i et imponerende hobbyrum.</JoyActivityInImpressiveRecRoom.stages.5.description>
-  
-  <JoyActivityInImpressiveRecRoom.stages.6.label>meget imponerende hobbyrum</JoyActivityInImpressiveRecRoom.stages.6.label>
-  <JoyActivityInImpressiveRecRoom.stages.6.description>Jeg havde det rigtig sjovt i et meget imponerende hobbyrum.</JoyActivityInImpressiveRecRoom.stages.6.description>
-  
-  <JoyActivityInImpressiveRecRoom.stages.7.label>ekstremt imponerende hobbyrum</JoyActivityInImpressiveRecRoom.stages.7.label>
-  <JoyActivityInImpressiveRecRoom.stages.7.description>Jeg havde det rigtig sjovt i et ekstremt imponerende hobbyrum. Jeg kunne blive der for evigt.</JoyActivityInImpressiveRecRoom.stages.7.description>
-  
-  <JoyActivityInImpressiveRecRoom.stages.8.label>utroligt imponerende hobbyrum</JoyActivityInImpressiveRecRoom.stages.8.label>
-  <JoyActivityInImpressiveRecRoom.stages.8.description>Jeg havde det rigtig sjovt i et utroligt imponerende hobbyrum. Jeg kunne blive der for evigt.</JoyActivityInImpressiveRecRoom.stages.8.description>
-  
-  <JoyActivityInImpressiveRecRoom.stages.9.label>vidunderligt imponerende hobbyrum</JoyActivityInImpressiveRecRoom.stages.9.label>
-  <JoyActivityInImpressiveRecRoom.stages.9.description>Jeg havde det rigtig sjovt i et vidnderligt imponerende hobbyrum. Jeg kunne blive der for evigt.</JoyActivityInImpressiveRecRoom.stages.9.description>
-
+  <!-- EN: awful bedroom -->
+  <SleptInBedroom.stages.awful_bedroom.label>forfærdeligt soveværelse</SleptInBedroom.stages.awful_bedroom.label>
+  <!-- EN: I had to sleep in an awful room. -->
+  <SleptInBedroom.stages.awful_bedroom.description>Jeg var nødt til at sove i et forfærdeligt værelse.</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: mediocre bedroom -->
+  <SleptInBedroom.stages.mediocre_bedroom.label>middelmådigt soveværelse</SleptInBedroom.stages.mediocre_bedroom.label>
+  <!-- EN: I slept in a mediocre bedroom. Better than the alternative. -->
+  <SleptInBedroom.stages.mediocre_bedroom.description>Jeg sov i et middelmådigt soveværelse. Det er bedre end alternativet.</SleptInBedroom.stages.mediocre_bedroom.description>
+  <!-- EN: decent bedroom -->
+  <SleptInBedroom.stages.decent_bedroom.label>udmærket soveværelse</SleptInBedroom.stages.decent_bedroom.label>
+  <!-- EN: I got to sleep in a pretty decent bedroom. -->
+  <SleptInBedroom.stages.decent_bedroom.description>Jeg sov i et udmærket soveværelse.</SleptInBedroom.stages.decent_bedroom.description>
+  <!-- EN: slightly impressive bedroom -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>lettere imponerende soveværelse</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>Jeg sov i et lettere imponerende soveværelse. Det kan jeg godt lide.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <!-- EN: impressive bedroom -->
+  <SleptInBedroom.stages.impressive_bedroom.label>imponerende soveværelse</SleptInBedroom.stages.impressive_bedroom.label>
+  <!-- EN: I slept in an impressive bedroom. It was great. -->
+  <SleptInBedroom.stages.impressive_bedroom.description>Jeg sov i et imponerende soveværelse. Det var super.</SleptInBedroom.stages.impressive_bedroom.description>
+  <!-- EN: very impressive bedroom -->
+  <SleptInBedroom.stages.very_impressive_bedroom.label>meget imponerende soveværelse</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <!-- EN: I slept in a very impressive bedroom. I love it. -->
+  <SleptInBedroom.stages.very_impressive_bedroom.description>Jeg sov i et meget imponerende soveværelse. Jeg elsker det.</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <!-- EN: extremely impressive bedroom -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>ekstremt imponerende soveværelse</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>Jeg sov i et ekstremt imponerende soveværelse. Det var fantastisk.</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <!-- EN: unbelievably impressive bedroom -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>utrolig imponerende soveværelse</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Jeg sov i et utrolig imponerende soveværelse. Det var helt forbløffende godt.</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <!-- EN: wondrously impressive bedroom -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>vidunderligt imponerende soveværelse</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Jeg sov i et guddommeligt soveværelse. Det var vidunderligt.</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
 
 </LanguageData>

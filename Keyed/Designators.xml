@@ -2,16 +2,16 @@
 <LanguageData>
 
   <DesignatorCancel>Annullér</DesignatorCancel>
-  <DesignatorCancelDesc>Annullér udpegede bygning, minedrift, indhentning, høst, og alle andre betegnelser.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Annullér udpeget bygning, minedrift, indhentning, høst, og alle andre betegnelser.</DesignatorCancelDesc>
 
   <DesignatorCutPlants>Skær planter</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Markér planter der skal skæres og destrueres. Planten vil være helt fjernet, og enhver mad eller ressource der kunne anskaffes vil blive høstet.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Dekonstruer</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Dekonstruer dette og genvinde en del af dets ressourcer.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>Dekonstruér</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Dekonstruér dette og genvind en del af dets ressourcer.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Afinstallér</DesignatorUninstall>
-  <DesignatorUninstallDesc>Afinstallér dette, så det kan flyttes, sælges, eller installeret et andet sted.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Afinstallér dette, så det kan flyttes, sælges, eller blive installeret et andet sted.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>Høst</DesignatorHarvest>
   <DesignatorHarvestDesc>Markér planter, der skal høstes for deres fødevarer eller andre produkter.</DesignatorHarvestDesc>
@@ -33,7 +33,7 @@
   <DesignatorSmoothFloorDesc>Udpeg rå sten terræn der skal udglattes.</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>Planlæg</DesignatorPlan>
-  <DesignatorPlanDesc>Placer planlægningsmarkeringer. Disse gør ikke andet end at hjælpe dig med at planlægge fremtidige udvidelser.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Placér planlægningsmarkeringer. Disse gør ikke andet end at hjælpe dig med at planlægge fremtidige udvidelser.</DesignatorPlanDesc>
 
   <DesignatorPlanRemove>Fjern planlægning</DesignatorPlanRemove>
   <DesignatorPlanRemoveDesc>Fjern planlægningsmarkeringer.</DesignatorPlanRemoveDesc>
@@ -46,18 +46,18 @@
 
   <DesignatorAreaHomeExpand>Udvid hjemområde</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Kolonister vil kun reparere bygninger, gøre gulve rene, og slukke brande i hjemmeområdet.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>fjern hjemområde</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Fjern hjemområde</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Fjerner et hjemområde. Kolonister vil ikke længere gøre rent, reparere eller slukke brande her.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Udvid byg tag-område</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Kolonister vil bygge tage på dette område.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Fjern byg tag zone</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofExpand>Udvid 'byg tag'-område</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonister vil bygge tage i dette område.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Fjern 'byg tag'-område</DesignatorAreaBuildRoofClear>
   <DesignatorAreaBuildRoofClearDesc>Fjern det område, hvor kolonisterne vil bygge tag. Eksisterende tage vil forblive, men kolonisterne vil ikke bygge mere.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorAreaNoRoofExpand>Udvid ingen tag-område</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Kolonister vil fjerne tagene på dette område (undtagen overliggende bjerg, som ikke kan fjernes).</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Fjern ingen tag zone</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Fjerner ikke-tag-zonen, så kolonister ikke længere vil fjerne tagene.</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaNoRoofExpand>Udvid 'ingen tag'-område</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Kolonister vil fjerne tagene i dette område (undtagen overliggende bjerg, som ikke kan fjernes).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Fjern 'ingen tag'-område</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Fjerner 'ingen-tag'-område, så kolonister ikke længere vil fjerne tagene.</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>Udvid snerydningsområde</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>Opret et område som kolonister vil forsøge at holde fri for sne.</DesignatorAreaSnowClearExpandDesc>
@@ -66,21 +66,21 @@
 
   <DesignatorExpandAreaAllowed>Udvid tilladt område</DesignatorExpandAreaAllowed>
   <DesignatorExpandAreaAllowedDesc>Udvid et tilladt område.\n\nTilladt områder er defineret områder du kan tildele kolonister. Kolonister vil ikke acceptere arbejde eller opfylde deres behov uden for deres tilladte område.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>fjern tilladt område</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>Fjern tilladt område</DesignatorClearAreaAllowed>
   <DesignatorClearAreaAllowedDesc>Fjern celler fra et tilladt område.\n\nTilladt område er defineret områder du kan tildele kolonister. Kolonister vil ikke acceptere arbejde eller opfylde deres behov uden for deres tilladte område.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>Administrér områder...</ManageAreas>
+  <ManageAreas>Redigér områder...</ManageAreas>
 
-  <DesignatorGrowingZoneDesc>Opret en zone, hvor dine kolonister vil forsøge at dyrke en bestemt slags plante.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Opret et område, hvor dine kolonister vil forsøge at dyrke en bestemt slags plante.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Opret en lagerplads, hvor dine kolonister gemmer ressourcer.\nDette værktøj kan også udvide eksisterende lagerpladser.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Opret et lagerområde, hvor dine kolonister gemmer ressourcer.\nDette værktøj kan også udvide eksisterende lagerområder.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Opret en lagerplads, hvor dine kolonister gemmer skrammel.\nDette værktøj kan også udvide eksisterende lagerpladser.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Opret et lagerområde, hvor dine kolonister gemmer skrammel.\nDette værktøj kan også udvide eksisterende lagerområder.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Indskrænk zoner</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Indskrænk områder</DesignatorZoneDelete>
   <DesignatorZoneDeleteSingular>Indskrænk zone</DesignatorZoneDeleteSingular>
-  <DesignatorZoneDeleteDesc>Fjern zoner, såsom lagerzoner eller grozoner.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Fjern områder, såsom lagerområder eller groområder.</DesignatorZoneDeleteDesc>
 
-  <DesignatorZoneExpand>Udvid zone</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Udvid område</DesignatorZoneExpand>
 
   <DesignatorClaim>Gør krav på</DesignatorClaim>
   <DesignatorClaimDesc>Gør krav på neutrale konstruktioner for kolonien, herunder gamle ruiner og forladte belejringsbaser. Konstruktioner der er gjort krav på, kan repareres og vedligeholdes af dine kolonister.</DesignatorClaimDesc>
@@ -92,7 +92,7 @@
   <DesignatorStripDesc>Tag tøjet fra lig og sårede.</DesignatorStripDesc>
 
   <DesignatorRearmTrap>Rearmér fælde</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearmér en sprunget fælde så den kan udløses igen.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrapDesc>Rearmér en sprunget fælde, så den kan udløses igen.</DesignatorRearmTrapDesc>
 
   <DesignatorOpen>Åbn</DesignatorOpen>
   <DesignatorOpenDesc>Åbn beholdere.</DesignatorOpenDesc>

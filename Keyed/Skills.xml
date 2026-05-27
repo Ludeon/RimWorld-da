@@ -1,20 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Level>Niveau</Level>
-  <ProgressToNextLevel>Fortsæt til næste niveau</ProgressToNextLevel>
+   <!-- EN: Level -->
+  <Level>Level</Level>
+  <!-- EN: skill level -->
+  <SkillLevel>Færdighedsniveau</SkillLevel>
+  <!-- EN: Progress to next learned level -->
+  <ProgressToNextLevel>Lernstufenfortschritt</ProgressToNextLevel>
+  <!-- EN: Experience -->
+  <Experience>Erfaring</Experience>
+  <!-- EN: Passion -->
   <Passion>Passion</Passion>
-  <PassionNone>Ingen (lærer {0}x)</PassionNone>
-  <PassionMinor>Interesseret (lærer {0}x)</PassionMinor>
-  <PassionMajor>Opslugt (lærer {0}x)</PassionMajor>
-  <EffectsAtLevel>Effekter ved niveau {0}</EffectsAtLevel>
+  <!-- EN: No passion -->
+  <PassionNone>Ingen passion</PassionNone>
+  <!-- EN: Passion -->
+  <PassionMinor>Passion</PassionMinor>
+  <!-- EN: Burning passion -->
+  <PassionMajor>Brændende passion</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>Læringshastighed</LearningSpeed>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>Maximum gelernt heute ({0}/{1}, weiteres Lernen mit {2} multipliziert)</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>Kinder lernen Fertigkeiten, indem sie Erwachsenen bei der Arbeit zuschauen oder am Schultisch unterrichtet werden.</ChildrenLearn>
+  <!-- EN: Effects at level {0} -->
+  <EffectsAtLevel>Effektiv ab Stufe {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>Lernstufe</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>Negativt level sat til 0.</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>Stufe auf {0} begrenzt.</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>Gen: {GENE_label}</GeneLabelWithDesc>
+  <!-- EN: {TRAITLABEL} trait -->
+  <TraitLabelWithDesc>Merkmal: {TRAITLABEL}</TraitLabelWithDesc>
   
 
   <Skill0>Har kun hørt om det</Skill0>
-  <Skill1>Inkompetent</Skill1>
-  <Skill2>Basal viden</Skill2>
-  <Skill3>Basal kendskab</Skill3>
+  <Skill1>total nybegynder</Skill1>
+  <Skill2>begynder</Skill2>
+  <Skill3>Basalt kendskab</Skill3>
   <Skill4>Amatør</Skill4>
   <Skill5>Øvet amateur</Skill5>
   <Skill6>Udøver</Skill6>

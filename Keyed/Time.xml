@@ -6,18 +6,38 @@
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
 
+ <!-- EN: AM -->
+  <AM>AM</AM>
+  <!-- EN: PM -->
+  <PM>PM</PM>
+
   <DaysLower>dage</DaysLower>
+  <HoursLower>timer</HoursLower>
   <SecondsLower>sekunder</SecondsLower>
 
   <SeasonSpring>forår</SeasonSpring>
   <SeasonSummer>sommer</SeasonSummer>
   <SeasonFall>efterår</SeasonFall>
   <SeasonWinter>vinter</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>permanent sommer</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>permanent vinter</SeasonPermanentWinter>
 
   <QuadrumAprimay>Aprimaj</QuadrumAprimay>
   <QuadrumJugust>Jugust</QuadrumJugust>
   <QuadrumSeptober>Septober</QuadrumSeptober>
   <QuadrumDecembary>Decembunar</QuadrumDecembary>
+
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
 
   <Born>Født: {0}</Born>
   <AgeChronological>Kronologisk alder: {0} år, {1} kvartaler, {2} dage</AgeChronological>
@@ -32,10 +52,13 @@
   <PeriodDays>{0} dage</PeriodDays>
   <Period1Hour>1 time</Period1Hour>
   <PeriodHours>{0} timer</PeriodHours>
+  <Period1Second>1 sekund</Period1Second>
+  <PeriodSeconds>{0} sekunder</PeriodSeconds>
 
   <!-- Misc -->
   <Started>Begyndte</Started>
   <Lasted>Varede</Lasted>
   <OccurredTimeAgo>fandt sted for {0} tid siden</OccurredTimeAgo>
+  <TimeAgo<>for {0} tid siden></TimeAgo>
 
 </LanguageData>

@@ -4,6 +4,7 @@
   <!-- WITab titles -->
   <TabTerrain>Terræn</TabTerrain>
   <TabPlanet>Planet</TabPlanet>
+  <TabCaravanFeeding>Fodrer</TabCaravanFeeding>
   <TabCaravanSocial>Social</TabCaravanSocial>
   <TabCaravanHealth>Liv</TabCaravanHealth>
   <TabCaravanNeeds>Behov</TabCaravanNeeds>
@@ -26,9 +27,10 @@
   <CaravanItems>Inventory</CaravanItems>
   <OpenSpecificTabButtonTip>Klik for at åbne en fane med flere detaljer.</OpenSpecificTabButtonTip>
   <CaravanPrisoners>Fanger</CaravanPrisoners>
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
-  <NoneCapable>Ingen er egnet</NoneCapable>
-  <GainingJoyBecauseCaravanNotMoving>Karavanen bevæger sig ikke</GainingJoyBecauseCaravanNotMoving>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>Ausrüstbare Gegenstände</CaravanWeaponsAndApparel>
+  <NoneCapable>Ingen er i stand</NoneCapable>
+  <GainingJoyBecauseCaravanNotMoving>Karavane bevæger sig ikke</GainingJoyBecauseCaravanNotMoving>
 
   <!-- Caravan gear -->
   <DragToRearrange>Træk for at omarrangere</DragToRearrange>

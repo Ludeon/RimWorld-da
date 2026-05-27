@@ -3,10 +3,10 @@
 
   <MasochistPain.stages.0.label>masochist med lidt smerte</MasochistPain.stages.0.label>
   <MasochistPain.stages.0.description>Av ... Heh heh heh ... Jeg kunne vænne mig til dette!</MasochistPain.stages.0.description>
-  <MasochistPain.stages.1.label>masochist i moderate smerte</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.label>masochist i moderat smerte</MasochistPain.stages.1.label>
   <MasochistPain.stages.1.description>Ughhh ... Det gør ondt, men jeg elsker det! Bliv bare ved!</MasochistPain.stages.1.description>
   <MasochistPain.stages.2.label>masochist i akut smerte</MasochistPain.stages.2.label>
-  <MasochistPain.stages.2.description>Av ... Jeg tror noget er brækket ... Men sikke en udsøgt følelse! .. Men sikke en udsøgt følelse!</MasochistPain.stages.2.description>
+  <MasochistPain.stages.2.description>Av ... Jeg tror at noget er brækket ... Men sikke en udsøgt følelse!</MasochistPain.stages.2.description>
   <MasochistPain.stages.3.label>masochist i exceptionel smerte</MasochistPain.stages.3.label>
   <MasochistPain.stages.3.description>Ahhh ... Er jeg i himlen?</MasochistPain.stages.3.description>
 
@@ -45,10 +45,10 @@
   <Greedy.stages.4.label>grådig efter imponerende soveværelse</Greedy.stages.4.label>
   <Greedy.stages.4.description>Jeg er grådig. Mit værelse er ikke helt godt nok. Jeg vil have et virkelig imponerende soveværelse.</Greedy.stages.4.description>
 
-  <Jealous.stages.0.label>jaloux på {0}'s soveværelse</Jealous.stages.0.label>
-  <Jealous.stages.0.description>Jeg har brug for at have den bedste!</Jealous.stages.0.description>
+  <Jealous.stages.0.label>jaloux på {0}s soveværelse</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Jeg har brug for at have det bedste!</Jealous.stages.0.description>
 
-  <Ascetic.stages.0.label>asketisk har frygtelig soveværelse</Ascetic.stages.0.label>
+  <Ascetic.stages.0.label>asketisk har frygteligt soveværelse</Ascetic.stages.0.label>
   <Ascetic.stages.0.description>Mit soveværelse er som jeg ønsker det skal være. Meget ydmygt og enkelt.</Ascetic.stages.0.description>
   <Ascetic.stages.1.label>asketisk har frastødende soveværelse</Ascetic.stages.1.label>
   <Ascetic.stages.1.description>Mit soveværelse er som jeg ønsker det skal være. Meget ydmygt og enkelt.</Ascetic.stages.1.description>
@@ -57,7 +57,7 @@
   <Ascetic.stages.5.label>asketisk har imponerende soveværelse</Ascetic.stages.5.label>
   <Ascetic.stages.5.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.5.description>
   <Ascetic.stages.6.label>asketisk har imponerende soveværelse</Ascetic.stages.6.label>
-  <Ascetic.stages.6.description>Jeg kan ikke lide at have et imponerende soveværelse</Ascetic.stages.6.description>
+  <Ascetic.stages.6.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.6.description>
   <Ascetic.stages.7.label>asketisk har imponerende soveværelse</Ascetic.stages.7.label>
   <Ascetic.stages.7.description>Jeg kan ikke lide at have et imponerende soveværelse.</Ascetic.stages.7.description>
   <Ascetic.stages.8.label>asketisk har imponerende soveværelse</Ascetic.stages.8.label>

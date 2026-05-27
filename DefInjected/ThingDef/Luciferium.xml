@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
     <Luciferium.label>luciferium</Luciferium.label>
-    <Luciferium.description>Et sammenkog af mekanitter der drastisk forbedrer kroppens egenskaber på alle fronter. Med tiden kan det heale gamle sår og hjerneskade, men det kan ikke regenerere mistet lemmer.djævlendjæv
+    <Luciferium.description>Et sammenkog af mekanitter der drastisk forbedrer kroppens egenskaber på alle fronter. Med tiden kan det hele gamle sår og hjerneskader, men det kan ikke regenerere mistet lemmer.
     Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.
     \n\nEfter den første dosis er der ingen måde at få mekanitterne ud igen - nogensinde.\n\nI urbworlds kalder de Luciferum for 'djævlens handel'. Mange er endt med at være tvunget til at slå venner ihjel, når det ikke længere har været muligt at finde flere af de tillokkende røde piller. </Luciferium.description>
     <Luciferium.ingestible.ingestCommandString>Tag {0}</Luciferium.ingestible.ingestCommandString>

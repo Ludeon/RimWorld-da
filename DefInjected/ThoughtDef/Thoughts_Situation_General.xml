@@ -10,46 +10,124 @@
   <LowExpectations.stages.3.label>ekstremt lave forventninger</LowExpectations.stages.3.label>
   <LowExpectations.stages.3.description>Jeg er herude med lidt eller intet ly. Jeg må hellere tage mig sammen for at overleve.</LowExpectations.stages.3.description>
 
-  <EnvironmentDark.stages.0.label>i mørke</EnvironmentDark.stages.0.label>
-  <EnvironmentDark.stages.0.description>Jeg har været i mørke i et stykke tid. jeg kan ikke lide det.</EnvironmentDark.stages.0.description>
+  <EnvironmentDark.stages.0.label>mørke</EnvironmentDark.stages.0.label>
+  <EnvironmentDark.stages.0.description>Jeg har været i mørket i et stykke tid nu. Jeg kan ikke lide det.</EnvironmentDark.stages.0.description>
 
   <CabinFever.stages.0.label>Kabinefeber (mild)</CabinFever.stages.0.label>
   <CabinFever.stages.0.description>Jeg har været buret inde i dagevis. Jeg har brug for at komme udenfor.</CabinFever.stages.0.description>
   <CabinFever.stages.1.label>Kabinefeber (alvorlig)</CabinFever.stages.1.label>
   <CabinFever.stages.1.description>Jeg har været fanget herinde som en rotte i lang tid. Jeg har desperat brug for at komme udenfor!</CabinFever.stages.1.description>
 
-  <ApparelDamaged.stages.0.label>iført slidte tøj</ApparelDamaged.stages.0.label>
-  <ApparelDamaged.stages.0.description>Min tøj ser temmelig dårligt ud. Kan jeg ikke få noget anstændigt at have på?</ApparelDamaged.stages.0.description>
-  <ApparelDamaged.stages.1.label>iført laset tøj</ApparelDamaged.stages.1.label>
-  <ApparelDamaged.stages.1.description>Jeg er iført et laset stykke affald. Kan jeg ikke få noget anstændigt at have på?</ApparelDamaged.stages.1.description>
+  <!-- EN: ratty apparel -->
+  <ApparelDamaged.stages.ratty_apparel.label>slidt tøj</ApparelDamaged.stages.ratty_apparel.label>
+  <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.ratty_apparel.description>Hullerne i mit tøj er irriterende store. Kan jeg ikke få noget nyt at have på?</ApparelDamaged.stages.ratty_apparel.description>
+  <!-- EN: tattered apparel -->
+  <ApparelDamaged.stages.tattered_apparel.label>laset tøj</ApparelDamaged.stages.tattered_apparel.label>
+  <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.tattered_apparel.description>Det ligner at det er ved at falde fra hinanden. Kan jeg ikke få noget på som ikke ligner, at det hører til på en losseplads?</ApparelDamaged.stages.tattered_apparel.description>
 
-  <DeadMansApparel.stages.0.label>død mands {0}</DeadMansApparel.stages.0.label>
-  <DeadMansApparel.stages.0.description>Jeg er iført noget tøj som nogen døde i. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.0.description>
-  <DeadMansApparel.stages.1.label>død mands {0} (+1)</DeadMansApparel.stages.1.label>
-  <DeadMansApparel.stages.1.description>Jeg er iført to stykker tøj fra nogen der døde. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.1.description>
-  <DeadMansApparel.stages.2.label>død mands {0} (+2)</DeadMansApparel.stages.2.label>
-  <DeadMansApparel.stages.2.description>Jeg er iført tre stykker tøj fra nogen der døde. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.2.description>
-  <DeadMansApparel.stages.3.label>dead man's {0} etc</DeadMansApparel.stages.3.label>
-  <DeadMansApparel.stages.3.description>Jeg er iført mange stykker tøj fra nogen der døde. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.3.description>
+  <DeadMansApparel.stages.0.label>besmittet {0}</DeadMansApparel.stages.0.label>
+  <DeadMansApparel.stages.0.description>Jeg er iført et stykke tøj som nogen døde i. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.0.description>
+  <DeadMansApparel.stages.1.label>besmittet {0} (+1)</DeadMansApparel.stages.1.label>
+  <DeadMansApparel.stages.1.description>Jeg er iført to stykker tøj som nogen døde i. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.1.description>
+  <DeadMansApparel.stages.2.label>besmittet {0} (+2)</DeadMansApparel.stages.2.label>
+  <DeadMansApparel.stages.2.description>Jeg er iført tre stykker tøj som nogen døde i. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.2.description>
+  <DeadMansApparel.stages.3.label>besmittet {0} osv.</DeadMansApparel.stages.3.label>
+  <DeadMansApparel.stages.3.description>Jeg er iført fire eller flere stykker tøj som nogen døde i. Det giver mig myrekryb og føles beskidt.</DeadMansApparel.stages.3.description>
 
   <Sick.stages.0.label>syg</Sick.stages.0.label>
   <Sick.stages.0.description>Jeg har det ikke så godt, jeg er syg.</Sick.stages.0.description>
 
-  <EnvironmentCold.stages.0.label>koldt</EnvironmentCold.stages.0.label>
-  <EnvironmentCold.stages.0.description>Jeg er ubehagelig kold.</EnvironmentCold.stages.0.description>
-  <EnvironmentCold.stages.1.label>meget koldt</EnvironmentCold.stages.1.label>
-  <EnvironmentCold.stages.1.description>Jeg er så kold. Frysende. Kan ikke få varmen.</EnvironmentCold.stages.1.description>
-  <EnvironmentCold.stages.2.label>fryser</EnvironmentCold.stages.2.label>
-  <EnvironmentCold.stages.2.description>Mine tænder klappre sammen så hårdt at jeg næsten ikke kan tale. Mine tæer er følelsesløse. Jeg har brug for at få varmen.</EnvironmentCold.stages.2.description>
+  <!-- EN: chilly -->
+  <EnvironmentCold.stages.chilly.label>køligt</EnvironmentCold.stages.chilly.label>
+  <!-- EN: I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.chilly.description>Hier ist es ungemütlich kühl.</EnvironmentCold.stages.chilly.description>
+  <!-- EN: cold -->
+  <EnvironmentCold.stages.cold.label>koldt</EnvironmentCold.stages.cold.label>
+  <!-- EN: I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.cold.description>Jeg har det så koldt at jeg ryster.</EnvironmentCold.stages.cold.description>
+  <!-- EN: numbing cold -->
+  <EnvironmentCold.stages.numbing_cold.label>iskoldt</EnvironmentCold.stages.numbing_cold.label>
+  <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.numbing_cold.description>Jeg kan ikke stoppe med at ryste. Mine tænder klaprer. Det eneste jeg kan tænke på, er at få varmen.</EnvironmentCold.stages.numbing_cold.description>
+  <!-- EN: absolutely freezing -->
+  <EnvironmentCold.stages.absolutely_freezing.label>ekstremt koldt</EnvironmentCold.stages.absolutely_freezing.label>
+  <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.absolutely_freezing.description>Mine tænder klaprer så meget at jeg næsten ikke kan tale. Mine tæer er følelsesløse. Jeg har brug for at få varmen.</EnvironmentCold.stages.absolutely_freezing.description>
+ 
+  <!-- EN: sweaty -->
+  <EnvironmentHot.stages.sweaty.label>svedig</EnvironmentHot.stages.sweaty.label>
+  <!-- EN: It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.sweaty.description>Det er for varmt her. Jeg sveder.</EnvironmentHot.stages.sweaty.description>
+  <!-- EN: hot -->
+  <EnvironmentHot.stages.hot.label>varmt</EnvironmentHot.stages.hot.label>
+  <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.hot.description>Det er alt for varmt her. Hvis bare jeg kunne få noget kølende luft...</EnvironmentHot.stages.hot.description>
+  <!-- EN: sweltering hot -->
+  <EnvironmentHot.stages.sweltering_hot.label>glohedt</EnvironmentHot.stages.sweltering_hot.label>
+  <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.sweltering_hot.description>Jeg har det som om at jeg er inde i en ovn! Jeg ved ikke hvor længe, jeg kan holde til det her...</EnvironmentHot.stages.sweltering_hot.description>
+  <!-- EN: blistering hot -->
+  <EnvironmentHot.stages.blistering_hot.label>stegende hedt</EnvironmentHot.stages.blistering_hot.label>
+  <!-- EN: This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.blistering_hot.description>Dette sted er stegende. Jeg tror at jeg kan dø af denne hede!</EnvironmentHot.stages.blistering_hot.description>
 
-  <EnvironmentHot.stages.0.label>varmt</EnvironmentHot.stages.0.label>
-  <EnvironmentHot.stages.0.description>Denne varme er ubehagelig. Jeg sveder.</EnvironmentHot.stages.0.description>
-  <EnvironmentHot.stages.1.label>meget varmt</EnvironmentHot.stages.1.label>
-  <EnvironmentHot.stages.1.description>Jeg er virkelig overophedet.</EnvironmentHot.stages.1.description>
-  <EnvironmentHot.stages.2.label>ekstremt varmt</EnvironmentHot.stages.2.label>
-  <EnvironmentHot.stages.2.description>Jeg har det som om at jeg er i en ovn! Jeg er ikke sikker på hvor længe jeg kan holde til dette.</EnvironmentHot.stages.2.description>
-  <EnvironmentHot.stages.3.label>brænder op</EnvironmentHot.stages.3.label>
-  <EnvironmentHot.stages.3.description>Jeg brænder op. Jeg tror at jeg kunne dø af denne varme!</EnvironmentHot.stages.3.description>
+ <!-- EN: human leather {0} -->
+  <HumanLeatherApparelHappy.stages.human_leather.label>menneskelæder {0}</HumanLeatherApparelHappy.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.human_leather.description>Jeg kan godt lide at bære andres lidelser.</HumanLeatherApparelHappy.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>menneskelæder {0} (+1)</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>Dette vil skræmme dem. Alle vil kunne se hvor magtfuld jeg er!</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>menneskelæder {0} (+2)</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>Ansigterne på mit tøj smiler ikke, men de gør *mig* glad.</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>menneskelæder {0} osv.</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>Das Fleisch! Das Fleisch zeigt meinen Erfolg!</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelSad.stages.human_leather.label>menneskelæder {0}</HumanLeatherApparelSad.stages.human_leather.label>
+  <!-- EN: Wearing parts of someone's body is... disturbing. -->
+  <HumanLeatherApparelSad.stages.human_leather.description>At bære dele af en anden persons krop er... foruroligende.</HumanLeatherApparelSad.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.human_leather_1.label>menneskelæder {0} (+1)</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.human_leather_1.description>Jeg er klædt som en psykopat.</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.human_leather_2.label>menneskelæder {0} (+2)</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.human_leather_2.description>Jeg tror at der måske er et ansigt på mit tøj. Åh nej... mit tøj *er* et ansigt.</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>menneskelæder {0} osv.</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm living in a horror show. -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>Ich sehe aus wie ein Freak aus einer Horrorshow.</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <!-- EN: I love reading -->
+  <LoveReading.stages.I_love_reading.label>Jeg elsker at læse</LoveReading.stages.I_love_reading.label>
+  <!-- EN: Reading really engages my intellectual passions. -->
+  <LoveReading.stages.I_love_reading.description>Lesen erregt meine intellektuellen Leidenschaften.</LoveReading.stages.I_love_reading.description>
+  <!-- EN: I really love reading -->
+  <LoveReading.stages.I_really_love_reading.label>Jeg elsker virkelig at læse</LoveReading.stages.I_really_love_reading.label>
+  <!-- EN: Reading excites my burning intellectual passions! I just love learning this way. -->
+  <LoveReading.stages.I_really_love_reading.description>Lesen beflügelt meine intellektuellen Leidenschaften! Ich liebe es einfach, auf diese Weise zu lernen.</LoveReading.stages.I_really_love_reading.description>
+ 
+  <!-- EN: interesting textbook -->
+  <SkillBookPassion.stages.interesting_textbook.label>interessant lærebog</SkillBookPassion.stages.interesting_textbook.label>
+  <!-- EN: This book covers a topic I'm passionate about. It's interesting. -->
+  <SkillBookPassion.stages.interesting_textbook.description>Denne bog behandler et emne som jeg er passioneret omkring. Den er spændende.</SkillBookPassion.stages.interesting_textbook.description>
+  <!-- EN: amazing textbook -->
+  <SkillBookPassion.stages.amazing_textbook.label>fantastisk lærebog</SkillBookPassion.stages.amazing_textbook.label>
+  <!-- EN: This book covers a topic I'm very passionate about. It's captivating. -->
+  <SkillBookPassion.stages.amazing_textbook.description>Denne bog behandler et emne som jeg er meget passioneret omkring. Den er fængende.</SkillBookPassion.stages.amazing_textbook.description>
 
-
+  <!-- EN: wearing {0} apparel -->
+  <WrongApparelGender.stages.wearing_apparel.label>har {0} på</WrongApparelGender.stages.wearing_apparel.label>
+  <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
+  <WrongApparelGender.stages.wearing_apparel.description>Jeg har tøj på som tydeligvis var lavet til {0}! Det er pinligt.</WrongApparelGender.stages.wearing_apparel.description>
+  
 </LanguageData>

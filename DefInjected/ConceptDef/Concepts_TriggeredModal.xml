@@ -1,17 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
      <!-- Concepts taught in modal dialogs -->
-     
+
+    <!-- EN: Trade goods and trade beacons -->
     <TradeGoodsMustBeNearBeacon.label>Handelsvarer og handelsfyr</TradeGoodsMustBeNearBeacon.label>
-    <TradeGoodsMustBeNearBeacon.helpText>For at sende genstande og sølv til forhandlere i kredsløb, skal du bygge et KREDSLØBSHANDELSFYR og placere en lagerplads med genstande i nærheden af det.</TradeGoodsMustBeNearBeacon.helpText>
+    <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+    <TradeGoodsMustBeNearBeacon.helpText>For at sende genstande og sølv til forhandlere i rummet, skal du bygge et RUMHANDELSFYR og placere en lagerplads med genstande i nærheden af det.</TradeGoodsMustBeNearBeacon.helpText>
 
-    <ArrestingCreatesEnemies.label>At arrestere forværrer relationer til andre faktioner</ArrestingCreatesEnemies.label>
-    <ArrestingCreatesEnemies.helpText>Advarsel: Personen som du er ved at forsøge at arrestere, kommer muligvis ikke med frivilligt.\n\nHvis du arresterer en ikke-kolonist, vil hele deres faktion blive din fjende.</ArrestingCreatesEnemies.helpText>
+    <!-- EN: Arresting worsens faction relations -->
+    <ArrestingCreatesEnemies.label>Arrestation forværrer relationer til andre fraktioner</ArrestingCreatesEnemies.label>
+    <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+    <ArrestingCreatesEnemies.helpText>Advarsel: Personen som du er ved at forsøge at arrestere, kommer muligvis ikke med frivilligt.\n\nHvis du arresterer en ikke-kolonist eller en kolonist fra en anden fraktion, vil hele deres fraktion måske blive din fjende.\n\nDenne arrestation har {0} chance for at lykkes, baseret på den sociale færdighed hos den person, som udfører arrestationen.</ArrestingCreatesEnemies.helpText>
 
-    <SwitchFlickingDesignation.label>Tryk betegnelse</SwitchFlickingDesignation.label>
-    <SwitchFlickingDesignation.helpText>Note: Dette udpeger kun at kolonister bør trykke på knappen.\n\nIntet vil faktisk ske indtil en kolonist (med Tryk jobtypen) kommer og trykker på knappen manuelt.</SwitchFlickingDesignation.helpText>
-     
+    <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>'Schalter umlegen' wird nicht sofort ausgeführt</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Hinweis: Mit diesem Befehl wird lediglich festgelegt, dass ein Kolonist den Schalter umlegen soll.\n\nBevor etwas passiert, muss ein Kolonist kommen und den Schalter von Hand umlegen.</SwitchFlickingDesignation.helpText>
+  
     <MaxNumberOfPlayerHomes.label>Maksimum antal af kolonier for spilleren</MaxNumberOfPlayerHomes.label>
     <MaxNumberOfPlayerHomes.helpText>Advarsel: RimWorld er designet til at blive spillet med én koloni af gangen. Selvom det er muligt at have flere kolonier som spiller, vil dette muligvis resultere i en nedsat ydeevne og ubalance i spillet. Vi forslår at du i første omgang spiller med én koloni maksimalt.</MaxNumberOfPlayerHomes.helpText>
 
+</LanguageData>
+
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>Maximale Anzahl von Spielerkolonien</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>Warnung: RimWorld ist darauf ausgelegt, nur mit einer Spielerkolonie gespielt zu werden. Die gleichzeitige Nutzung mehrerer Spielerkolonien sollte nur als experimentelles Feature betrachtet werden.\n\nDas Spielen mit mehreren Kolonien verschlechtert die Spielbalance, erfordert mehr Aufmerksamkeit und kann zu Leistungseinbußen führen.\n\nWir empfehlen dir, zumindest für die ersten paar Spiele nur mit maximal einer Kolonie zu spielen.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>Steam-Deck-Steuerung</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>Drücke X, um das Architekt-Menü zu öffnen, und {Key:TogglePause}, um das Spiel zu pausieren oder fortzusetzen. Benutze die Trigger für primäre und sekundäre Klicks. Mit {Key:MapZoom_In} und {Key:MapZoom_Out} kannst du rein- bzw. rauszoomen und durch Listen scrollen. Halte die Schultertaste L5 gedrückt, um die Kamera mit dem Touchscreen zu verschieben und sekundäre Klicks zu simulieren.</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>Steam-Deck-Steuerung</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>Benutze das Trackpad zum Bewegen des Mauszeigers und die rechte Trigger-Taste zum Klicken. Drücke {Key:Accept} für Akzeptieren und {Key:Cancel} für Zurück.</SteamDeckControlsMainMenu.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>Handelsvoraussetzungen</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>Der Handel hier erfordert jemanden, der {0} ist.\n\nVergewissere dich, dass jede Handelskarawane, die du hier hinschickst, jemanden dabeihat, der mindestens {0} ist.</TradingRequiresPermit.helpText>
+  
 </LanguageData>

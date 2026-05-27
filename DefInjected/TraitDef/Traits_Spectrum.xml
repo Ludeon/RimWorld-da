@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SpeedOffset.degreeDatas.0.label>slowpoke</SpeedOffset.degreeDatas.0.label>
-  <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.</SpeedOffset.degreeDatas.0.description>
+  <SpeedOffset.degreeDatas.0.label>snegl</SpeedOffset.degreeDatas.0.label>
+  <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] sakker altid bagud i gruppen, når [PAWN_pronoun] gå nogen steder.</SpeedOffset.degreeDatas.0.description>
   <SpeedOffset.degreeDatas.1.label>fast walker</SpeedOffset.degreeDatas.1.label>
-  <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people.</SpeedOffset.degreeDatas.1.description>
+  <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] går hurtigere end de fleste.</SpeedOffset.degreeDatas.1.description>
   <SpeedOffset.degreeDatas.2.label>jogger</SpeedOffset.degreeDatas.2.label>
-  <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up.</SpeedOffset.degreeDatas.2.description>
+  <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] always moves with a sense of urgency - så meget at andre har svært ved at følge med.</SpeedOffset.degreeDatas.2.description>
 
-  <DrugDesire.degreeDatas.0.label>chemical fascination</DrugDesire.degreeDatas.0.label>
+  <DrugDesire.degreeDatas.0.label>kemisk fascination</DrugDesire.degreeDatas.0.label>
   <DrugDesire.degreeDatas.0.description>[PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them, and will sometimes go on hard drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs.</DrugDesire.degreeDatas.0.description>
-  <DrugDesire.degreeDatas.1.label>chemical interest</DrugDesire.degreeDatas.1.label>
-  <DrugDesire.degreeDatas.1.description>[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them, and will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs.</DrugDesire.degreeDatas.1.description>
-  <DrugDesire.degreeDatas.2.label>teetotaler</DrugDesire.degreeDatas.2.label>
-  <DrugDesire.degreeDatas.2.description>[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs.</DrugDesire.degreeDatas.2.description>
+  <DrugDesire.degreeDatas.1.label>kemisk interesse</DrugDesire.degreeDatas.1.label>
+  <DrugDesire.degreeDatas.1.description>[PAWN_nameDef] har en usædvanlig interesse i  in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them, and will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs.</DrugDesire.degreeDatas.1.description>
+  <DrugDesire.degreeDatas.2.label>afholdsmand</DrugDesire.degreeDatas.2.label>
+  <DrugDesire.degreeDatas.2.description>[PAWN_nameDef] afskyr tanken om at få nydelse fra kemikalier, og undgår alkohol og andre fornøjelige rusmidler.</DrugDesire.degreeDatas.2.description>
 
-  <NaturalMood.degreeDatas.0.label>sanguine</NaturalMood.degreeDatas.0.label>
+  <NaturalMood.degreeDatas.0.label>håbefuld</NaturalMood.degreeDatas.0.label>
   <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.</NaturalMood.degreeDatas.0.description>
   <NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
-  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] er naturligt optimistisk omkring livet. It's hard to get [PAWN_objective] down.</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] er naturligt optimistisk omkring livet. Det er svært at slå [PAWN_objective] ud.</NaturalMood.degreeDatas.1.description>
   <NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
-  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] har tendens til at fokusere på de negative ting i livet.</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] har en tendens til at fokusere på de negative ting i livet.</NaturalMood.degreeDatas.2.description>
   <NaturalMood.degreeDatas.3.label>depressiv</NaturalMood.degreeDatas.3.label>
-  <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.</NaturalMood.degreeDatas.3.description>
+  <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] er evigt ulykkelig. [PAWN_pronoun] har svært ved at holde humøret oppe, også selvom alting er godt.</NaturalMood.degreeDatas.3.description>
 
   <Nerves.degreeDatas.0.label>jernvilje</Nerves.degreeDatas.0.label>
-  <Nerves.degreeDatas.0.description>[PAWN_nameDef]s vilje er et jernskjold. [PAWN_pronoun] fortsætter igennem tykt og tyndt, når andre ville bryde ned for længe siden.</Nerves.degreeDatas.0.description>
-  <Nerves.degreeDatas.1.label>standhaftige</Nerves.degreeDatas.1.label>
+  <Nerves.degreeDatas.0.description>[PAWN_nameDef]s vilje er et jernskjold. [PAWN_pronoun] fortsætter igennem tykt og tyndt, når andre ville bryde sammen længe inden.</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.1.label>standhaftig</Nerves.degreeDatas.1.label>
   <Nerves.degreeDatas.1.description>[PAWN_nameDef] er mentalt hårdnakket og bryder ikke sammen under stress som ville knække de fleste andre mennesker.</Nerves.degreeDatas.1.description>
-  <Nerves.degreeDatas.2.label>nervous</Nerves.degreeDatas.2.label>
+  <Nerves.degreeDatas.2.label>nervøs</Nerves.degreeDatas.2.label>
   <Nerves.degreeDatas.2.description>[PAWN_nameDef] har en tendens til at bryde sammen under pres.</Nerves.degreeDatas.2.description>
   <Nerves.degreeDatas.3.label>flygtig</Nerves.degreeDatas.3.label>
   <Nerves.degreeDatas.3.description>[PAWN_nameDef] har en meget kort lunte. [PAWN_pronoun] er den første til at bryde sammen i enhver hård situation.</Nerves.degreeDatas.3.description>
@@ -38,31 +38,31 @@
   <Neurotic.degreeDatas.1.label>meget neurotisk</Neurotic.degreeDatas.1.label>
   <Neurotic.degreeDatas.1.description>[PAWN_nameDef] føler sig konstant nervøs om alt der skal gøres. [PAWN_pronoun] vil arbejde ekstremt hårdt for at opnå dette stadie, men [PAWN_possessive] nerver kan nemt få bugt med [PAWN_objective].</Neurotic.degreeDatas.1.description>
 
-  <Industriousness.degreeDatas.0.label>arbejdsomlig</Industriousness.degreeDatas.0.label>
-  <Industriousness.degreeDatas.0.description>[PAWN_nameDef] har det nemt ved at blive på opgaven og fokuse, og får tingene gjort meget hurtigere end den gennemsnitlige person.</Industriousness.degreeDatas.0.description>
+  <Industriousness.degreeDatas.0.label>arbejdsom</Industriousness.degreeDatas.0.label>
+  <Industriousness.degreeDatas.0.description>[PAWN_nameDef] har nemt ved at blive på opgaven og fokusere, og får tingene gjort meget hurtigere end den gennemsnitlige person.</Industriousness.degreeDatas.0.description>
   <Industriousness.degreeDatas.1.label>hårdtarbejdende</Industriousness.degreeDatas.1.label>
-  <Industriousness.degreeDatas.1.description>[PAWN_nameDef] er en naturlig hårdtarbejdende person og vil afslutte opgaver hurtigere end de fleste.</Industriousness.degreeDatas.1.description>
+  <Industriousness.degreeDatas.1.description>[PAWN_nameDef] er en naturlig hårdtarbejdende person og vil færdiggøre opgaver hurtigere end de fleste.</Industriousness.degreeDatas.1.description>
   <Industriousness.degreeDatas.2.label>doven</Industriousness.degreeDatas.2.label>
   <Industriousness.degreeDatas.2.description>[PAWN_nameDef] er en smule doven.</Industriousness.degreeDatas.2.description>
-  <Industriousness.degreeDatas.3.label>dvasket</Industriousness.degreeDatas.3.label>
-  <Industriousness.degreeDatas.3.description>[PAWN_nameDef] elsker lediggang og hader alt der er produktivt. [PAWN_pronoun] bevæger sig langsomt og forbliver sjældent fokuseret på en opgave.</Industriousness.degreeDatas.3.description>
+  <Industriousness.degreeDatas.3.label>dvask</Industriousness.degreeDatas.3.label>
+  <Industriousness.degreeDatas.3.description>[PAWN_nameDef] elsker lediggang og hader alt der er produktivt. [PAWN_pronoun] bevæger sig langsomt og kan sjældent holde fokus på en opgave i længere tid.</Industriousness.degreeDatas.3.description>
 
   <PsychicSensitivity.degreeDatas.0.label>psykisk overfølsom</PsychicSensitivity.degreeDatas.0.label>
-  <PsychicSensitivity.degreeDatas.0.description>[PAWN_nameDef]'s sind er som en psykisk stemmegaffel. [PAWN_pronoun] er ekstremt følsom over for psykiske fænomener.</PsychicSensitivity.degreeDatas.0.description>
+  <PsychicSensitivity.degreeDatas.0.description>[PAWN_nameDef]s sind er som en psykisk stemmegaffel. [PAWN_pronoun] er ekstremt følsom over for psykiske fænomener.</PsychicSensitivity.degreeDatas.0.description>
   <PsychicSensitivity.degreeDatas.1.label>psykisk følsom</PsychicSensitivity.degreeDatas.1.label>
-  <PsychicSensitivity.degreeDatas.1.description>[PAWN_nameDef]'s sind er usædvanlig følsom over for psykiske fænomener.</PsychicSensitivity.degreeDatas.1.description>
-  <PsychicSensitivity.degreeDatas.2.label>psykisk mat</PsychicSensitivity.degreeDatas.2.label>
-  <PsychicSensitivity.degreeDatas.2.description>[PAWN_nameDef]'s sind er psykisk ude af trit med andre. [PAWN_pronoun] er ikke så påvirket af psykiske fænomener.</PsychicSensitivity.degreeDatas.2.description>
+  <PsychicSensitivity.degreeDatas.1.description>[PAWN_nameDef]s sind er usædvanlig følsom over for psykiske fænomener.</PsychicSensitivity.degreeDatas.1.description>
+  <PsychicSensitivity.degreeDatas.2.label>psykisk sløv</PsychicSensitivity.degreeDatas.2.label>
+  <PsychicSensitivity.degreeDatas.2.description>[PAWN_nameDef]s sind er psykisk ude af trit med andre. [PAWN_pronoun] er ikke så påvirket af psykiske fænomener.</PsychicSensitivity.degreeDatas.2.description>
   <PsychicSensitivity.degreeDatas.3.label>psykisk døv</PsychicSensitivity.degreeDatas.3.label>
-  <PsychicSensitivity.degreeDatas.3.description>[PAWN_nameDef]'s sind fungerer på en psykisk frekvens forskellig fra alle andre. [PAWN_pronoun] er bare ikke påvirket af psykiske fænomener.</PsychicSensitivity.degreeDatas.3.description>
+  <PsychicSensitivity.degreeDatas.3.description>[PAWN_nameDef]s sind fungerer på en psykisk frekvens forskellig fra alle andre. [PAWN_pronoun] er bare ikke påvirket af psykiske fænomener.</PsychicSensitivity.degreeDatas.3.description>
 
   <ShootingAccuracy.degreeDatas.0.label>omhyggelig skytte</ShootingAccuracy.degreeDatas.0.label>
-  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] er en temmelig god skytte, men [PAWN_pronoun] har brug for mere tid til at fokusere på sit mål.</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef] er en temmelig god skytte, men [PAWN_pronoun] har brug for mere tid til at tage sigte på sit mål.</ShootingAccuracy.degreeDatas.0.description>
   <ShootingAccuracy.degreeDatas.1.label>skydegal</ShootingAccuracy.degreeDatas.1.label>
   <ShootingAccuracy.degreeDatas.1.description>Bang! Bang! Bang! [PAWN_nameDef] er en forfærdelig skytte, men [PAWN_pronoun] er ligeglad, fordi skydevåben er fede!</ShootingAccuracy.degreeDatas.1.description>
 
   <Beauty.degreeDatas.0.label>smuk</Beauty.degreeDatas.0.label>
-  <Beauty.degreeDatas.0.description>[PAWN_nameDef] er usædvanlig smuk, med en eksotisk, en stadig velkendte, ansigtsstruktur og et fængslende blik. Folk er tiltrukket af [PAWN_objective], selv før [PAWN_pronoun] selv åbner munden.</Beauty.degreeDatas.0.description>
+  <Beauty.degreeDatas.0.description>[PAWN_nameDef] er usædvanlig smuk, med en eksotisk, en stadig velkendte, ansigtsstruktur og et fængslende blik. Folk er tiltrukket af [PAWN_objective], selv før [PAWN_pronoun] har åbnet munden.</Beauty.degreeDatas.0.description>
   <Beauty.degreeDatas.1.label>flot</Beauty.degreeDatas.1.label>
   <Beauty.degreeDatas.1.description>[PAWN_nameDef] har et smukt ansigt, som gør at folk kan lide [PAWN_objective].</Beauty.degreeDatas.1.description>
   <Beauty.degreeDatas.2.label>grim</Beauty.degreeDatas.2.label>

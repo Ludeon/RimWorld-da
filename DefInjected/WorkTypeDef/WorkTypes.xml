@@ -9,7 +9,7 @@
   <Firefighter.verb>Sluk branden</Firefighter.verb>
 
   <Patient.label>Patient</Patient.label>
-  <Patient.description>Hvis du har livstruende sundhedforhold, gå til en hospitalsseng.</Patient.description>
+  <Patient.description>Hvis du har livstruende sundhedsforhold, gå til en hospitalsseng.</Patient.description>
   <Patient.labelShort>Patient</Patient.labelShort>
   <Patient.pawnLabel>Patient</Patient.pawnLabel>
   <Patient.gerundLabel>behandle</Patient.gerundLabel>
@@ -64,7 +64,7 @@
   <Hunting.gerundLabel>at jage</Hunting.gerundLabel>
   <Hunting.verb>Jag</Hunting.verb>
 
-  <Construction.label>Byg</Construction.label>
+  <Construction.label>Konstruktion</Construction.label>
   <Construction.description>Byg ting som du har udpeget og reparer beskadigede eller nedbrudte bygninger.</Construction.description>
   <Construction.labelShort>Byg</Construction.labelShort>
   <Construction.pawnLabel>Konstruktør</Construction.pawnLabel>

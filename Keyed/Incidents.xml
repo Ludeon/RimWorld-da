@@ -2,7 +2,7 @@
 <LanguageData>
 
   <LetterLabelAnimalInsanitySingle>Galt dyr</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>En lokal {0} er blevet sindssyg. Det vil angribe alle, den ser.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>En lokal {0} er blevet sindssyg. Den vil angribe alle, den ser.</AnimalInsanitySingle>
   <LetterLabelAnimalInsanityMultiple>Gale dyr!</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>Eller anden form for psykisk bølge har fejet over landskabet. Dine kolonister er okay, men ...\n\nDet ser ud til mange {0}er i området er blevet drevet sindssyge.</AnimalInsanityMultiple>
 
@@ -54,11 +54,11 @@
   <WandererJoin>En {0} kaldet [PAWN_nameDef] er ankommet og slutter sig til kolonien. [PAWN_pronoun] er en {1}.</WandererJoin>
 
   <LetterLabelManhunterPackArrived>Flok af menneskejægere</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke passere døre, så hvis du bliver bag mure, vil du være i sikkerhed. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
+  <ManhunterPackArrived>En flok af menneskejagende {0}er er ankommet til området. De vil strejfe rundt i regionen, på jagt efter menneskelignende kød.\n\nDe kan ikke gå gennem døre, så hvis du bliver bag mure, vil du være i sikkerhed. De vil ikke angribe inaktive tårne, så slå din tårne fra, hvis du vil redde dem.\n\nDe vil forlade området om et par dage.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>Den ældgamle struktur har udsendt en psykisk puls, der har drevet nærliggende dyr fra forstanden.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>Den nedstyrtede skibsdel har udsendt en psykisk puls, der har drevet kolonister {0} sindssyge.</LetterShipPartDroveColonistInsane>
+  <MessageAnimalInsanityPulse>Den ældgamle struktur har udsendt en psykisk puls, der har drevet dyrene i nærheden fra forstanden.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Den nedstyrtede skibsdel har udsendt en psykisk puls, der har drevet kolonister {0} fra forstanden.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>Vågnede for {0} dage siden</AwokeDaysAgo>
   <PsychicDroneLevel>Den psykiske puls' styrke: {0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>Lav</PsychicDroneLevelLow>
@@ -74,19 +74,19 @@
 
   <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>Psykisk puls</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>Hver kolonist af det {0} køn ømmer sig i smerte!\n\nEn fjern motor af had rør på sig. Det projekter en stærk psykisk puls i hele denne region, på en frekvens der kun lader til at påvirke det {0} køn. I et par dage vil nogle folks humør være ganske lidt værre.</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>Hver kolonist af det {0} køn ømmer sig i smerte!\n\nEn fjern drone af had rør på sig. Den udsender en stærk psykisk puls i hele denne region på en frekvens, der kun lader til at påvirke det {0} køn. I et par dage vil nogle personers humør være lidt værre.</LetterIncidentPsychicDrone>
 
   <LetterLabelPsychicSoothe>Psykisk lindring</LetterLabelPsychicSoothe>
-  <LetterIncidentPsychicSoothe>Hver kolonist fra det {0} køn smiler med tilfredshed!\n\nEn fjern motor af lykke er i omrøring. Det projektere en stærk psykisk puls i hele regionen, på en frekvens, der kun virker til at påvirke det {0} køn. For et par dage, vil nogle folks humør være lidt bedre.</LetterIncidentPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Hver kolonist fra det {0} køn smiler med tilfredshed!\n\nEn fjern drone af lykke rør på sig. Den udsender stærk psykisk puls i hele regionen på en frekvens, der kun virker til at påvirke det {0} køn. For et par dage, vil nogle personers humør være lidt bedre.</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>Bævere!</LetterLabelBeaversArrived>
-  <BeaversArrived>En gruppe af sultne alfabæere er netop ankommet.\n\ nPrøv at eliminere dem før de decimerer hvert eneste træ i regionen.</BeaversArrived>
+  <BeaversArrived>En gruppe af sultne alfabævere er netop ankommet.\n\ nPrøv at eliminere dem før de decimerer hvert eneste træ i regionen.</BeaversArrived>
 
   <!-- Refugee chased -->
-  <RefugeeChasedInitial>En {1} der hedder {0} kalder dig fra nærliggende. [PAWN_pronoun] bliver jagtet af {2} fra {3}!\n\n[PAWN_pronoun] tigger om sikkerhed og tilbyder at slutte sig til din koloni. Biologisk, [PAWN_pronoun] er {4} år gammel.\n\NVær advarede - hvis du accepterer, er du nødt til at bekæmp  {2} som er i hælen på ham.</RefugeeChasedInitial>
+  <RefugeeChasedInitial>En {1} der hedder {0} kalder på dig fra et sted i nærheden. [PAWN_pronoun] bliver jagtet af {2} fra {3}!\n\n[PAWN_pronoun] tigger om sikkerhed og tilbyder at slutte sig til din koloni. Biologisk er [PAWN_pronoun] {4} år gammel.\n\NVær advaret - hvis du accepterer, er du nødt til at bekæmpe {2}, som er i hælene på vedkommende.</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Tilbyd sikkerhed</RefugeeChasedInitial_Accept>
-  <RefugeeChasedInitial_Reject>Ignorer beskeden</RefugeeChasedInitial_Reject>
+  <RefugeeChasedInitial_Reject>Ignorér beskeden</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} skriger i panik igennem den lille højttaler inden du afbryder transmissionen.</RefugeeChasedRejected>
 
   <!-- Self-tame -->
@@ -96,28 +96,28 @@
   <LetterAnimalSelfTameAndName>{0} er blevet tam. Kolonisterne har besluttet sig at navngive den {1}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
-  <LetterLabelFarmAnimalsWanderIn>{0}s tilslutter sig</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0}er tilslutter sig</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>En gruppe af {0}er, efterladt eller faret vild, er vandret ind i området.\n\nDe ser ud til at være vant til menneskekontakt og slutter sig til kolonien.</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
-  <LetterLabelThrumboPasses>Sjælnde thrumboer</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>En lille flok thrumboer har vandrede ind i området.\n\nFredelig af natur, disse sjældne skabninger er ekstremt farlige, når de konfronteres. Nogle handlende er villige til at betale en masse penge for deres dyrebare læder og horn.\n\nThrumboer vil forlade området om et par dage.</LetterThrumboPasses>
+  <LetterLabelThrumboPasses>Sjældne thrumboer</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>En lille flok thrumboer er vandret ind i området.\n\nSelvom de er fredelige af natur, er disse sjældne skabninger ekstremt farlige, når de konfronteres. Nogle handlende er villige til at betale en stor sum penge for deres dyrebare læder og horn.\n\nThrumboerne vil forlade området om et par dage.</LetterThrumboPasses>
 
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>{1} fra {0}</LetterLabelTraderCaravanArrival>
   <LetterTraderCaravanArrival>En karavane fra {0} nærmer sig. De er en {1}.\n\nDe vil hænge ud omkring kolonien i et par dage, inden de forlader den. Du kan angribe dem - men det vil gøre resten af deres fraktion vrede!</LetterTraderCaravanArrival>
 
   <!-- Building breaks down -->
-  <LetterLabelBuildingBrokenDown>Brudt ned: {0}</LetterLabelBuildingBrokenDown>
-  <LetterBuildingBrokenDown>En af dine maskiner ({0}) er brudt sammen. Den virker ikke før en kolonist med Reparation arbejdstypen går og ordner den..</LetterBuildingBrokenDown>
+  <LetterLabelBuildingBrokenDown>Brudt sammen: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>En af dine maskiner ({0}) er brudt sammen. Den virker ikke før en kolonist med Reparation-arbejdstypen fikser den.</LetterBuildingBrokenDown>
 
   <!-- Ransom demand -->
-  <RansomDemand>{1} kontakter dig i radioen. De holder tidligere kolonist {0} for løsepenge.\n\nDe er villige til at frigive ham tilbage til dig i bytte for {2} sølv.</RansomDemand>
-  <RansomDemand_Accept>Acceptere</RansomDemand_Accept>
-  <RansomDemand_Reject>Afvise</RansomDemand_Reject>
+  <RansomDemand>{1} kontakter dig over radioen. De holder tidligere kolonist {0} fanget for løsepenge.\n\nDe er villige til at frigive ham tilbage til dig i bytte for {2} sølv.</RansomDemand>
+  <RansomDemand_Accept>Acceptér</RansomDemand_Accept>
+  <RansomDemand_Reject>Afvis</RansomDemand_Reject>
 
   <!-- Journey -->
-  <JourneyOffer>En venlig AI fra din fortid opkaldt Charlon Whitestone har sendt dig en besked!\n\NHE afslører, at han har et rumskib skjult på denne planet, og sender dig dens verdens koordinater.\n\nHvis du rejser til skibet, vil Charlon tage dig væk fra denne udkants verden, til stjernerne.</JourneyOffer>
+  <JourneyOffer>En venlig AI fra din fortid ved navn Charlon Whitestone, har sendt dig en besked!\n\HE afslører, at han har et rumskib skjult på denne planet, og sender dig koordinaterne til det.\n\nHvis du rejser til skibet, vil Charlon tage dig væk fra denne udkantsverden og videre til stjernerne.</JourneyOffer>
 
   <!-- Caravan meeting -->
   <CaravanMeeting>Din karavane har mødt fredeligt med en karavane fra {0}. Den anden karavane er sammensat af:\n\n{1}</CaravanMeeting>

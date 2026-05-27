@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <OnSkin.label>huden</OnSkin.label>
+  <EyeCover.label>øjne</EyeCover.label>
+  <OnSkin.label>hud</OnSkin.label>
   <Middle.label>midte</Middle.label>
   <Shell.label>ydre</Shell.label>
-  <Belt.label>belte</Belt.label>
+  <Belt.label>hjælpemiddel</Belt.label>
   <Overhead.label>hovedbeklædning</Overhead.label>
 
 

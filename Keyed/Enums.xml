@@ -85,7 +85,8 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Anvender ændringer</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>lokal mappe</ContentSource_LocalFolder>
+  <ContentSource_OfficialModsFolder>Officielt indhold</ContentSource_OfficialModsFolder>
+  <ContentSource_LocalFolder>Lokal mappe</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
   <!-- Medical care category -->
@@ -123,10 +124,54 @@
   <PawnGenerationContext_PlayerStarter>spillerens startkarakterer</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>ikke-spiller karakterer</PawnGenerationContext_NonPlayer>
 
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>Intensitet af skærmrysten</ScreenShakeIntensity>
+
   <!-- Animal name display mode -->
   <ShowAnimalNames>Vis dyrenavne</ShowAnimalNames>
   <AnimalNameDisplayMode_TameNamed>Tamme (kun navngivede)</AnimalNameDisplayMode_TameNamed>
   <AnimalNameDisplayMode_TameAll>Tamme (alle)</AnimalNameDisplayMode_TameAll>
+
+  <!-- Highlight display mode -->
+  <!-- EN: Character highlighting -->
+  <DotHighlightDisplayMode>Fremhæv karakterer</DotHighlightDisplayMode>
+  <!-- EN: Highlight hostiles -->
+  <DotHighlightDisplayMode_HighlightHostiles>Fremhæv fjender</DotHighlightDisplayMode_HighlightHostiles>
+  <!-- EN: Highlight all -->
+  <DotHighlightDisplayMode_HighlightAll>Fremhæv alle</DotHighlightDisplayMode_HighlightAll> 
+  
+  <!-- Highlight style -->
+  <!-- EN: Highlight mode -->
+  <HighlightStyleMode>Hervorhebungsmodus</HighlightStyleMode>
+  <!-- EN: Dots -->
+  <HighlightStyleMode_Dots>Pletter</HighlightStyleMode_Dots>
+  <!-- EN: Silhouettes -->
+  <HighlightStyleMode_Silhouettes>Silhuetter</HighlightStyleMode_Silhouettes> 
+
+  <!-- Mood gradient display strength-->
+  <!-- EN: Visible mood -->
+  <VisibleMood>Stimmungsindikator</VisibleMood>
+  <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
+  <VisibleMoodDesc>Wenn aktiviert, wird ein visueller Indikator auf dem Porträt eines Charakters angezeigt, wenn ein Nervenzusammenbruch droht.</VisibleMoodDesc>
+  
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>Mech-Namen anzeigen</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>Nur im Kampfmodus</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>altid</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>Waffen unter Porträts anzeigen</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>Waffen unter dem Porträt jeder Person in der Kolonistenleiste am oberen Bildschirmrand anzeigen.</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>altid</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>nur im Kampfmodus</ShowWeapons_WhileDrafted>
 
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
@@ -144,23 +189,23 @@
   <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
 
     <!-- Diet category -->
-  <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
-  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
-  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
-  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
-  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
-  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_NeverEats>Spiser aldrig</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Planteædende</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Træædende</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Ægædende</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Altædende</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Kødædende</DietCategory_Carnivorous>
   <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
-  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
-  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
-  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
-  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
-  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+  <DietCategory_Herbivorous_Short>P</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>T</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>Æ</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>A</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>K</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
-  <FoodPoisonCause_IncompetentCook>incompetent cook</FoodPoisonCause_IncompetentCook>
-  <FoodPoisonCause_FilthyKitchen>dirty cooking area</FoodPoisonCause_FilthyKitchen>
-  <FoodPoisonCause_Rotten>rotten food</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_IncompetentCook>inkompetent kok</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>snavset madlavningsområde</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>rådden mad</FoodPoisonCause_Rotten>
   <FoodPoisonCause_DangerousFoodType>dangerous food type</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
@@ -170,5 +215,45 @@
   <PsychicDroneLevel_BadMedium>mellem</PsychicDroneLevel_BadMedium>
   <PsychicDroneLevel_BadHigh>høj</PsychicDroneLevel_BadHigh>
   <PsychicDroneLevel_BadExtreme>ekstrem</PsychicDroneLevel_BadExtreme>
+
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>Aldrig</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>Große Bedrohungen</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>Jede Bedrohung</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>Jeder Brief</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>kløende</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>pirrende</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>smertefuld</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>Hjemmefraktion</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>Gehört der Fraktion</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>Gruppe</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>Rusmiddelkategori</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>ingen</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>medicinsk</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>social</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>hård</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>alle</DrugCategory_Any>
 
 </LanguageData>

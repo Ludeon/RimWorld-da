@@ -1,21 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <WorkTagNone>Ingen</WorkTagNone>
-  <WorkTagIntellectual>Intellektuel</WorkTagIntellectual>
-  <WorkTagManualDumb>Manuelt arbejde</WorkTagManualDumb>
-  <WorkTagManualSkilled>Faglært arbejde</WorkTagManualSkilled>
-  <WorkTagViolent>Voldelig</WorkTagViolent>
-  <WorkTagCaring>Omsorgsfuld</WorkTagCaring>
-  <WorkTagSocial>Social</WorkTagSocial>
-  <WorkTagAnimals>Dyrepasning</WorkTagAnimals>
-  <WorkTagArtistic>Artistisk</WorkTagArtistic>
-  <WorkTagCrafting>Håndværksarbejde</WorkTagCrafting>
-  <WorkTagCooking>Madlavning</WorkTagCooking>
-  <WorkTagFirefighting>Brandslukning</WorkTagFirefighting>
-  <WorkTagCleaning>Rengøring</WorkTagCleaning>
-  <WorkTagHauling>Transportering</WorkTagHauling>
-  <WorkTagPlantWork>Plantearbejde</WorkTagPlantWork>
-  <WorkTagMining>Minearbejde</WorkTagMining>
+  <!-- EN: none -->
+  <WorkTagNone>ingen</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>intellekt</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>ufaglært arbejde</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>faglært arbejde</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>voldelig</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>skydning</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>omsorg</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>social</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>dyrepasning</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>kunst</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>håndværk</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>madlavning</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>brandslukning</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>rengøring</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>slæbe</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>plantearbejde</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>minearbejde</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>jagt</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>bygge</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>allemandsarbejde</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>alt arbejde</WorkTagAllWork>
 
 </LanguageData>

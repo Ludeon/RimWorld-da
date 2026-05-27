@@ -3,9 +3,9 @@
 
   <!--================ General ================-->
 
-  <Basics.label>Basics</Basics.label>
-  <BasicsPawn.label>Basics</BasicsPawn.label>
-  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
+  <Basics.label>Grundlæggende</Basics.label>
+  <BasicsPawn.label>Grundlæggende</BasicsPawn.label>
+  <BasicsNonPawn.label>Grundlæggende</BasicsNonPawn.label>
 
 
   <!--================ Non-pawn ================-->

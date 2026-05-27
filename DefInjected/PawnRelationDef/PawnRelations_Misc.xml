@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-  <Bond.label>bond</Bond.label>
-  <Bond.labelFemale>bond</Bond.labelFemale>
-
+    <Bond.label>bånd</Bond.label>
+    <Bond.labelFemale>bånd</Bond.labelFemale>
 
 </LanguageData>

@@ -8,7 +8,7 @@
   <Disfigured.stages.0.label>vansiret</Disfigured.stages.0.label>
   <HardWorkerVsLazy.stages.0.label>hårdtarbejdende vs doven</HardWorkerVsLazy.stages.0.label>
   <TeetotalerVsChemicalInterest.stages.0.label>afholdsmand vs kemisk interesse</TeetotalerVsChemicalInterest.stages.0.label>
-  <TeetotalerVsAddict.stages.0.label>afholdsmand vs narkoman</TeetotalerVsAddict.stages.0.label>
+  <TeetotalerVsAddict.stages.0.label>afholdsmand vs misbruger</TeetotalerVsAddict.stages.0.label>
   <ChemicalInterestVsTeetotaler.stages.0.label>kemisk interesse vs afholdsmand</ChemicalInterestVsTeetotaler.stages.0.label>
   <Drunk.stages.0.label>beruset</Drunk.stages.0.label>
 
@@ -25,10 +25,10 @@
   <ButcheredHumanlikeCorpseOpinion.stages.0.label>slagtede menneskelignende lig</ButcheredHumanlikeCorpseOpinion.stages.0.label>
   <AteRawHumanlikeMeat.stages.0.label>spiste råt menneskelignende kød</AteRawHumanlikeMeat.stages.0.label>
   <SoldPrisoner.stages.0.label>solgte fange til slaveri</SoldPrisoner.stages.0.label>
-  <ExecutedPrisoner.stages.0.label>henrettet fange</ExecutedPrisoner.stages.0.label>
-  <KilledColonist.stages.0.label>dræbt kolonist</KilledColonist.stages.0.label>
-  <KilledColonyAnimal.stages.0.label>dræbt kolonidyr</KilledColonyAnimal.stages.0.label>
-  <KilledMajorColonyEnemy.stages.0.label>dræbt vigtig fjende</KilledMajorColonyEnemy.stages.0.label>
+  <ExecutedPrisoner.stages.0.label>henrettede fange</ExecutedPrisoner.stages.0.label>
+  <KilledColonist.stages.0.label>dræbte kolonist</KilledColonist.stages.0.label>
+  <KilledColonyAnimal.stages.0.label>dræbte kolonidyr</KilledColonyAnimal.stages.0.label>
+  <KilledMajorColonyEnemy.stages.0.label>dræbte vigtig fjende</KilledMajorColonyEnemy.stages.0.label>
 
 
   <!-- affecting mood -->
@@ -47,3 +47,4 @@
 
 
 </LanguageData>
+

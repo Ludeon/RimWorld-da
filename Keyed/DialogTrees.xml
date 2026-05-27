@@ -16,7 +16,7 @@
   <SilverGiftSent>Den {0} repræsentant takker dig.\n\n(Goodwill forbedret med {1}).</SilverGiftSent>
 
 
-  <RequestMilitaryAid>Forespørg øjeblikkelig militær assistance ({0} goodwill)</RequestMilitaryAid>
+  <RequestMilitaryAid>Anmod om militær assistance ({0} goodwill)</RequestMilitaryAid>
   <MilitaryAidConfirmMutualEnemy>{0} vil ikke hjælpe dig med at kæmpe mod andre fraktioner, der ikke er deres fjender. Det inkluderer nogle af dem, der truer dig på nuværende tidspunkt, {1}. Vil du stadig ringe efter assistance?</MilitaryAidConfirmMutualEnemy>
   <CallConfirm>Ja, ring til dem alligevel.</CallConfirm>
   <CallCancel>Nej, glem det.</CallCancel>

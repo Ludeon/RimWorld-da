@@ -4,7 +4,7 @@
 	<RawPotatoes.label>kartofler</RawPotatoes.label>
 	<RawPotatoes.description>Rå kartofler.</RawPotatoes.description>
 
-  <RawFungus.label>rå svmap</RawFungus.label>
+  <RawFungus.label>rå svamp</RawFungus.label>
   <RawFungus.description>Rå svamp.</RawFungus.description>
 
     	<RawRice.label>ris</RawRice.label>
@@ -22,7 +22,7 @@
 	<!-- Plant matter (inedible by people) -->
 	
     	<Hay.label>hø</Hay.label>
-    	<Hay.description>Næringsrige græsser og skud, der er høstet og komprimeret til opbevaring. Hø er god som dyrefoder, men uspiselige for mennesker.</Hay.description>
+    	<Hay.description>Næringsrige græsser og skud, der er høstet og komprimeret til opbevaring. Hø er godt som dyrefoder, men uspiseligt for mennesker.</Hay.description>
 
     	<RawHops.label>humle</RawHops.label>
     	<RawHops.description>Rå humle. Et aroma- og konserveringsmiddel der er nødvendig for fremstillingen af øl.</RawHops.description>
